@@ -1,8 +1,0 @@
-#/d/damned/virtual/robe.armour
-#/d/damned/virtual/robe.armour.c
-encumbrance 3
-props (["runes":({"aldara zet","malsa bonnes","malsa sen zora","cutta",}),"new desc":"slim robe {robe}","progress inscribe_malsa_sen_zora_trent":0,"progress inscribe_cutta_trent":0,"material_name":"Watchman","true armour":1,"progress master_fortification_baarich":0,"pow enchanter_mark_baarich":0,"pow master_fortification_baarich":0,"value":10,"pow true_armour_baarich":0,"extra long":({"Crafted by: Trent with A Level [16] Watchman leather","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BOLD%^Cutta%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress inscribe_aldara_zet_trent":0,"progress true_armour_baarich":0,"progress inscribe_malsa_bonnes_trent":0,"enchantment":70,"progress enchanter_mark_baarich":0,])
-true_name "robe"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Watchman"
-armour_save (["enhance critical":-4,"short desc":"slim robe {robe}","ac":(["infernal":255,"disruption":258,"stress":263,"crushing":287,"unholy":256,"cutting":425,"vacuum":262,"plasma":259,"impaling":290,"holy":260,"cold":267,"fire":275,"strike":280,"impact":282,"electricity":264,"aether":259,]),])

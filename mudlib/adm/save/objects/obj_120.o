@@ -1,7 +1,0 @@
-#/d/1tlny/loot/hooded_robe.c
-encumbrance 100
-props (["pow true_armour_rihcter":0,"progress engrave_dalton":0,"value":400,"progress engrave_tursnik":0,"material_type":"none","extra long":({"level[47] Rare Robe of cold and impaling protection",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress extreme_fortification_rihcter":0,"progress true_armour_rihcter":0,"new desc":"%^B_BLUE%^Angelic%^RESET%^ {robe}","pow extreme_fortification_rihcter":0,"material_name":"cloth","true armour":1,"enchantment":100,])
-true_name "hooded robe"
-creator "/d/areas/dragon/mon/buff_dragon#125993"
-material "/cloth"
-armour_save (["enhance critical":-7,"short desc":"%^B_BLUE%^Angelic%^RESET%^ {robe}","ac":(["infernal":75,"disruption":75,"stress":75,"unholy":75,"crushing":75,"cutting":75,"vacuum":75,"plasma":75,"impaling":181,"holy":75,"fire":75,"cold":161,"strike":75,"impact":75,"aether":75,"electricity":75,]),])

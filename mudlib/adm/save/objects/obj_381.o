@@ -1,7 +1,0 @@
-#/d/damned/virtual/halberd_6.weapon.c
-encumbrance 275
-props (["material_name":"mithril","value":950,"extra long":"level[80] mithril Halberd of fire and cold","material_type":"metal","new desc":"level[80] mithril Halberd of fire and cold",])
-true_name "halberd"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/mithril"
-__Weapon (["original wc":(["cold":172,"fire":236,"impaling":8,"crushing":160,"cutting":15,]),"quality":6,"type":"two handed polearm","ac":(["infernal":3,"disruption":3,"stress":3,"unholy":3,"crushing":3,"cutting":3,"vacuum":3,"plasma":3,"impaling":3,"holy":3,"fire":3,"cold":3,"strike":3,"impact":3,"aether":3,"electricity":3,]),"verb":"chop","wc":(["cold":172,"fire":236,"impaling":8,"crushing":160,"cutting":15,]),"short desc":"level[80] mithril Halberd of fire and cold","decay rate":200,"parry bonus":-5,])

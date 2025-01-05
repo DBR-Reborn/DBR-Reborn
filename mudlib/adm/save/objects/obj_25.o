@@ -1,7 +1,0 @@
-#/d/damned/virtual/buckler-shield.armour.c
-encumbrance 60
-props (["material_name":"raysorite","true armour":1,"pow true_armour_okkita":0,"value":30,"progress true_armour_okkita":0,"extra long":({"level[24] raysorite Buckler Shield of cold protection",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"metal","new desc":"level[24] raysorite Buckler Shield of cold protection",])
-true_name "buckler shield"
-creator "/d/damned/virtual/armour_server"
-material "/metal/raysorite"
-armour_save (["enhance critical":-6,"short desc":"level[24] raysorite Buckler Shield of cold protection","ac":(["infernal":10,"disruption":1,"stress":1,"unholy":10,"crushing":10,"cutting":10,"vacuum":1,"plasma":1,"impaling":10,"holy":1,"fire":1,"cold":64,"strike":20,"impact":10,"aether":1,"electricity":1,]),])

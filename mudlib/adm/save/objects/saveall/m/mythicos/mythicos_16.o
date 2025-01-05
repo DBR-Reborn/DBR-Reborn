@@ -1,8 +1,0 @@
-#/d/damned/virtual/wooden-armour.armour
-#/d/damned/virtual/wooden-armour.armour.c
-encumbrance 1
-props (["runes":({"malsa bonnes","malsa sen zora","aldara zet","vacumma",}),"new desc":"%^COLOR57%^+SHROUDED+%^RESET%^ wooden armour {wooden armour}","material_name":"abachi","true armour":1,"progress engrave_mythicos":0,"progress extreme_fortification_azazel":0,"progress inscribe_malsa_sen_zora_azazel":0,"value":150,"material_type":"wood","extra long":({"Crafted by: Tursnik with A wooden board of abachi [180]",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^WHITE%^Vacumma%^RESET%^ rune is inscribed on the armour.",}),"progress engrave_azazel":0,"progress inscribe_malsa_bonnes_azazel":0,"pow extreme_fortification_azazel":0,"progress inscribe_vacumma_azazel":0,"pow true_armour_azazel":0,"progress true_armour_azazel":0,"progress inscribe_aldara_zet_azazel":0,"enchantment":100,])
-true_name "wooden armour"
-creator "/d/damned/virtual/armour_server"
-material "/wood/abachi"
-armour_save (["enhance critical":-5,"short desc":"%^COLOR57%^+SHROUDED+%^RESET%^ wooden armour {wooden armour}","ac":(["infernal":903,"disruption":855,"stress":836,"unholy":851,"crushing":898,"cutting":883,"vacuum":1011,"plasma":935,"impaling":942,"holy":866,"fire":883,"cold":849,"strike":977,"impact":912,"aether":864,"electricity":940,]),])

@@ -1,8 +1,0 @@
-#/d/damned/virtual/iron-bracer.armour
-#/d/damned/virtual/iron-bracer.armour.c
-encumbrance 1
-props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"%^COLOR81%^Enchanted%^RESET%^ {bracer}","material_name":"laen","true armour":1,"pow enchanter_mark_rihcter":0,"pow true_armour_rihcter":0,"progress inscribe_malsa_bonnes_rihcter":0,"value":2355,"material_type":"metal","extra long":({"Smithed by: Rihcter with laen [200] armour blank",({"Fortification: %^CYAN%^+100%","detect magic",}),"A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress extreme_fortification_rihcter":0,"progress inscribe_aldara_zet_rihcter":0,"progress true_armour_rihcter":0,"pow extreme_fortification_rihcter":0,"progress enchanter_mark_rihcter":0,"progress inscribe_malsa_sen_zora_rihcter":0,"enchantment":100,])
-true_name "iron bracer"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-6,"short desc":"%^COLOR81%^Enchanted%^RESET%^ {bracer}","ac":(["infernal":964,"disruption":1036,"stress":1060,"unholy":1010,"crushing":904,"cutting":951,"vacuum":1022,"plasma":1013,"impaling":960,"holy":953,"fire":1078,"cold":1053,"strike":914,"impact":882,"aether":1039,"electricity":1036,]),])

@@ -1,7 +1,0 @@
-#/d/nocte/kuril/armour/hound_collar.c
-encumbrance 5
-props (["value":0,"material_type":"none","new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Foreboding%^RESET%^ {collar}","progress engrave_lilund":0,"material_name":"chyrite","progress engrave_lore":0,])
-true_name "collar"
-creator "/d/nocte/kuril/mon/chound#846744"
-material "/chyrite"
-armour_save (["short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Foreboding%^RESET%^ {collar}","ac":(["infernal":5,"disruption":5,"stress":5,"unholy":5,"crushing":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"fire":5,"cold":5,"strike":5,"impact":5,"aether":5,"electricity":5,]),])

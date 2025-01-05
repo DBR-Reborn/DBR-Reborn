@@ -1,8 +1,0 @@
-#/d/damned/virtual/robe.armour
-#/d/damned/virtual/robe.armour.c
-encumbrance 1
-props (["runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Absorption%^RESET%^ {robe}","progress engrave_lilund":0,"material_name":"Shadowflame Templar","true armour":1,"progress extreme_fortification_azazel":0,"progress inscribe_malsa_sen_zora_azazel":0,"value":10,"extra long":({"Crafted by: Azazel with A Level [150] Shadowflame Templar leather","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress engrave_azazel":0,"progress inscribe_malsa_bonnes_azazel":0,"pow extreme_fortification_azazel":0,"pow true_armour_azazel":0,"progress inscribe_aldara_zet_azazel":0,"progress true_armour_azazel":0,"enchantment":100,])
-true_name "robe"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Shadowflame Templar"
-armour_save (["enhance critical":-4,"short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Absorption%^RESET%^ {robe}","ac":(["infernal":2327,"disruption":2332,"stress":2364,"crushing":2401,"unholy":2323,"cutting":2382,"vacuum":2393,"plasma":2417,"impaling":2424,"holy":2333,"cold":2500,"fire":2471,"strike":2352,"impact":2396,"electricity":2373,"aether":2324,]),])

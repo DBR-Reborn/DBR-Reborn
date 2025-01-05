@@ -1,8 +1,0 @@
-#/d/damned/virtual/plate-bracer.armour
-#/d/damned/virtual/plate-bracer.armour.c
-encumbrance 1
-props (["runes":({"malsa bonnes","malsa sen zora","lifta",}),"progress inscribe_malsa_sen_zora_lilund":0,"pow master_fortification_lilund":0,"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Protection%^RESET%^ {bracer}","progress inscribe_malsa_bonnes_lilund":0,"progress engrave_lilund":0,"material_name":"laen","true armour":1,"progress master_fortification_lilund":0,"pow true_armour_lilund":0,"progress true_armour_lilund":0,"value":2827,"extra long":({"Smithed by: Lilund with laen [200] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Lifta%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"metal","progress inscribe_lifta_lilund":0,"enchantment":70,])
-true_name "plate bracer"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-4,"short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Protection%^RESET%^ {bracer}","ac":(["infernal":904,"disruption":842,"stress":815,"crushing":878,"unholy":808,"cutting":838,"vacuum":835,"plasma":832,"impaling":878,"holy":884,"cold":908,"fire":882,"strike":897,"impact":830,"electricity":860,"aether":893,]),])

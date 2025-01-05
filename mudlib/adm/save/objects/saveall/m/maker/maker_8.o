@@ -1,8 +1,0 @@
-#/d/damned/virtual/broad-sword_5.weapon
-#/d/damned/virtual/broad-sword_5.weapon.c
-encumbrance 100
-props (["brittle":62,"value":1,"material_type":"metal","extra long":({"This weapon was forged by: Maker with An iron weapon blank",({"This weapon has %^YELLOW%^Electric%^RESET%^ Blade.","detect magic",}),({"This weapon has %^COLOR255%^Vacuum%^RESET%^ Weapon.","detect magic",}),({"Puissance: %^CYAN%^++40","detect magic",}),}),"pow major_puissance_math":0,"pow vacuum_weapon_math":0,"pow electric_blade_math":0,"progress vacuum_weapon_math":0,"material_name":"iron","electric blade":4,"progress electric_blade_math":0,"vacuum weapon":4,"progress major_puissance_math":0,"enchantment":40,])
-true_name "broad sword"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/iron"
-__Weapon (["original wc":(["impaling":4,"cutting":12,"electricity":71,"vacuum":72,]),"wielded":0,"quality":6,"limb string":" (wielded in right hand)","type":"blade","ac":(["infernal":3,"disruption":3,"stress":3,"unholy":3,"crushing":3,"cutting":3,"vacuum":3,"plasma":3,"impaling":3,"holy":3,"fire":3,"cold":3,"strike":3,"impact":3,"aether":3,"electricity":3,]),"verb":"slice","wc":(["impaling":110,"cutting":102,"electricity":172,"vacuum":174,]),"decay status":0,"short desc":"broad sword","decay rate":4000,"parry bonus":5,])

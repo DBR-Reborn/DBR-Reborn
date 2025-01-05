@@ -1,8 +1,0 @@
-#/d/damned/virtual/chain-mail.armour
-#/d/damned/virtual/chain-mail.armour.c
-encumbrance 180
-props (["material_name":"laen","value":150,"material_type":"metal","extra long":"level[48] laen mail of disruption and stress protection","new desc":"level[48] laen mail of disruption and stress protection",])
-true_name "chain mail"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"level[48] laen mail of disruption and stress protection","ac":(["infernal":79,"disruption":154,"stress":181,"crushing":79,"unholy":79,"cutting":79,"vacuum":79,"plasma":79,"impaling":79,"holy":79,"cold":79,"fire":79,"strike":79,"impact":79,"electricity":79,"aether":79,]),])

@@ -1,7 +1,0 @@
-#/d/damned/virtual/breast-plate.armour.c
-encumbrance 500
-props (["material_name":"laen","value":16490,"extra long":"Smithed by: Azazel with laen [812] armour blank","material_type":"metal",])
-true_name "breast plate"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"A breast plate","ac":(["infernal":1608,"disruption":1249,"stress":1459,"unholy":1595,"crushing":1659,"cutting":1240,"vacuum":1274,"plasma":1486,"impaling":1361,"holy":1298,"fire":1794,"cold":1348,"strike":1746,"impact":1507,"aether":1465,"electricity":1780,]),])

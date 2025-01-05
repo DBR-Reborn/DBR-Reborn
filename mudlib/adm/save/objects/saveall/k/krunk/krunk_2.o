@@ -1,8 +1,0 @@
-#/d/damned/virtual/great-helm.armour
-#/d/damned/virtual/great-helm.armour.c
-encumbrance 100
-props (["material_name":"neorolite","value":45,"material_type":"metal","extra long":"level[50] neorolite helm of fire and fire protection","new desc":"level[50] neorolite helm of fire and fire protection",])
-true_name "great helm"
-creator "/d/damned/virtual/armour_server"
-material "/metal/neorolite"
-armour_save (["short desc":"level[50] neorolite helm of fire and fire protection","ac":(["infernal":70,"disruption":70,"stress":70,"crushing":70,"unholy":70,"cutting":70,"vacuum":70,"plasma":70,"impaling":70,"holy":70,"cold":70,"fire":192,"strike":70,"impact":70,"electricity":70,"aether":70,]),])

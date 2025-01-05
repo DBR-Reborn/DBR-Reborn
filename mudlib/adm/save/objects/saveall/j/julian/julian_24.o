@@ -1,8 +1,0 @@
-#/d/damned/virtual/taces.armour
-#/d/damned/virtual/taces.armour.c
-encumbrance 8
-props (["progress inscribe_crusha_mort":0,"runes":({"malsa sen zora","malsa bonnes","crusha","cutta","aldara zet",}),"progress true_armour_zurr":0,"new desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Taces%^RESET%^ {taces}","progress major_fortification_zurr":0,"progress engrave_julian":0,"material_name":"laen","true armour":1,"pow extreme_fortification_zurr":0,"progress inscribe_malsa_sen_zora_mort":0,"progress extreme_fortification_zurr":0,"progress inscribe_aldara_zet_mort":0,"progress inscribe_malsa_bonnes_mort":0,"value":2355,"material_type":"metal","extra long":({"Smithed by: Mort","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^ORANGE%^Crusha%^RESET%^ rune is inscribed on the armour.","A %^BOLD%^Cutta%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),}),"pow true_armour_zurr":0,"progress inscribe_cutta_mort":0,"enchantment":100,"pow major_fortification_zurr":0,])
-true_name "taces"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-4,"short desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Taces%^RESET%^ {taces}","ac":(["infernal":99,"disruption":99,"stress":99,"unholy":99,"crushing":103,"cutting":96,"vacuum":99,"plasma":102,"impaling":83,"holy":99,"fire":102,"cold":102,"strike":108,"impact":108,"aether":99,"electricity":102,]),])

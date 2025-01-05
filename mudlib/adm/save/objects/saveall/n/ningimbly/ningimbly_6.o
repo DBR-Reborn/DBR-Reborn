@@ -1,8 +1,0 @@
-#/d/damned/virtual/great-helm.armour
-#/d/damned/virtual/great-helm.armour.c
-encumbrance 100
-props (["material_name":"boernerine","value":45,"extra long":"level[135] boernerine helm of electricity and electricity protection","material_type":"metal","new desc":"level[135] boernerine helm of electricity and electricity protection",])
-true_name "great helm"
-creator "/d/damned/virtual/armour_server"
-material "/metal/boernerine"
-armour_save (["short desc":"level[135] boernerine helm of electricity and electricity protection","ac":(["infernal":601,"disruption":601,"stress":601,"unholy":601,"crushing":601,"cutting":601,"vacuum":601,"plasma":601,"impaling":601,"holy":601,"fire":601,"cold":601,"strike":601,"impact":601,"aether":601,"electricity":3272,]),])

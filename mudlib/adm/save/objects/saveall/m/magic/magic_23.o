@@ -1,8 +1,0 @@
-#/d/damned/virtual/tabard.armour
-#/d/damned/virtual/tabard.armour.c
-encumbrance 20
-props (["runes":({"malsa bonnes","malsa sen zora",}),"value":10,"progress inscribe_malsa_sen_zora_maker":0,"extra long":({"Crafted by: Maker with A Level [27] Hulking orc leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),}),"material_type":"leather","progress master_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"material_name":"Hulking orc","pow master_fortification_math":0,"enchantment":70,])
-true_name "tabard"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Hulking orc"
-armour_save (["short desc":"A tabard","ac":(["infernal":349,"disruption":341,"stress":353,"crushing":363,"unholy":345,"cutting":371,"vacuum":347,"plasma":347,"impaling":369,"holy":349,"cold":359,"fire":355,"strike":355,"impact":362,"electricity":353,"aether":346,]),])

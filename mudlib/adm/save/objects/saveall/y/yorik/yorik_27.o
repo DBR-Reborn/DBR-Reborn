@@ -1,8 +1,0 @@
-#/d/damned/virtual/breast-plate.armour
-#/d/damned/virtual/breast-plate.armour.c
-encumbrance 1
-props (["progress inscribe_malsa_bonnes_singe":0,"progress engrave_singe":0,"runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"new desc":"%^B_BLUE%^Divinium%^RESET%^ {plate}","progress engrave_inikhida":0,"material_name":"laen","true armour":1,"progress inscribe_malsa_sen_zora_singe":0,"progress engrave_aartos":0,"value":16490,"pow true_armour_upstart":0,"material_type":"metal","extra long":({"Smithed by: Singe with laen [104] armour blank","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress extreme_fortification_upstart":0,"progress enchanter_mark_okkita":0,"progress true_armour_upstart":0,"progress engrave_yorik":0,"pow extreme_fortification_upstart":0,"pow enchanter_mark_okkita":0,"progress inscribe_aldara_zet_singe":0,"enchantment":100,])
-true_name "breast plate"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-4,"short desc":"%^B_BLUE%^Divinium%^RESET%^ {plate}","ac":(["infernal":632,"disruption":626,"stress":643,"unholy":649,"crushing":678,"cutting":658,"vacuum":622,"plasma":617,"impaling":676,"holy":647,"fire":652,"cold":697,"strike":646,"impact":653,"aether":688,"electricity":615,]),])

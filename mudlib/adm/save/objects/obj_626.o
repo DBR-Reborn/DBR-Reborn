@@ -1,7 +1,0 @@
-#/d/damned/virtual/metal-boots.armour.c
-encumbrance 70
-props (["material_name":"elrodnite","value":90,"extra long":"level[47] elrodnite boots of plasma and crushing protection","material_type":"metal","new desc":"level[47] elrodnite boots of plasma and crushing protection",])
-true_name "metal boots"
-creator "/d/damned/virtual/armour_server"
-material "/metal/elrodnite"
-armour_save (["short desc":"level[47] elrodnite boots of plasma and crushing protection","ac":(["infernal":49,"disruption":49,"stress":49,"unholy":49,"crushing":184,"cutting":49,"vacuum":49,"plasma":187,"impaling":49,"holy":49,"fire":49,"cold":49,"strike":49,"impact":49,"aether":49,"electricity":49,]),])

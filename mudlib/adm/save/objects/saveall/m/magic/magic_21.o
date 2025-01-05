@@ -1,8 +1,0 @@
-#/d/damned/virtual/great-helm.armour
-#/d/damned/virtual/great-helm.armour.c
-encumbrance 100
-props (["progress true_armour_math":0,"runes":({"malsa bonnes","malsa sen zora",}),"value":45,"progress inscribe_malsa_sen_zora_maker":0,"extra long":({"%^BOLD%^Power%^RESET%^ helm","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"metal","progress major_fortification_math":0,"new desc":"%^BOLD%^Power%^RESET%^ helm","pow true_armour_math":0,"progress inscribe_malsa_bonnes_maker":0,"material_name":"laen","true armour":1,"pow major_fortification_math":0,"enchantment":40,])
-true_name "great helm"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-4,"short desc":"%^BOLD%^Power%^RESET%^ helm","ac":(["infernal":398,"disruption":398,"stress":398,"crushing":420,"unholy":398,"cutting":420,"vacuum":398,"plasma":402,"impaling":420,"holy":398,"cold":404,"fire":404,"strike":414,"impact":414,"electricity":404,"aether":398,]),])

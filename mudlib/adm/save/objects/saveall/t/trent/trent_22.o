@@ -1,8 +1,0 @@
-#/d/damned/virtual/plate-bracer.armour
-#/d/damned/virtual/plate-bracer.armour.c
-encumbrance 7
-props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"slim bracer {bracer}","progress inscribe_malsa_sen_zora_trent":0,"material_name":"laen","true armour":1,"progress master_fortification_baarich":0,"pow enchanter_mark_baarich":0,"pow master_fortification_baarich":0,"value":2827,"pow true_armour_baarich":0,"material_type":"metal","extra long":({"Smithed by: Trent with laen [72] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_aldara_zet_trent":0,"progress true_armour_baarich":0,"progress inscribe_malsa_bonnes_trent":0,"enchantment":70,"progress enchanter_mark_baarich":0,])
-true_name "plate bracer"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-5,"short desc":"slim bracer {bracer}","ac":(["infernal":356,"disruption":351,"stress":356,"unholy":355,"crushing":375,"cutting":377,"vacuum":359,"plasma":390,"impaling":372,"holy":357,"fire":351,"cold":371,"strike":365,"impact":379,"aether":386,"electricity":368,]),])

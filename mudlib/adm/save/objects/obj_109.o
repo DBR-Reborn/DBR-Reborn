@@ -1,7 +1,0 @@
-#/d/1tlny/loot/hooded_robe.c
-encumbrance 100
-props (["material_name":"cloth","value":400,"extra long":"level[41] Rare Robe of impaling and impaling protection","material_type":"none","new desc":"level[41] Rare Robe of impaling and impaling protection",])
-true_name "hooded robe"
-creator "/d/areas/dragon/mon/skinny_dragon#158339"
-material "/cloth"
-armour_save (["short desc":"level[41] Rare Robe of impaling and impaling protection","ac":(["infernal":68,"disruption":68,"stress":68,"unholy":68,"crushing":68,"cutting":68,"vacuum":68,"plasma":68,"impaling":156,"holy":68,"fire":68,"cold":68,"strike":68,"impact":68,"aether":68,"electricity":68,]),])

@@ -1,7 +1,0 @@
-#/d/damned/virtual/plate-bracer.armour.c
-encumbrance 45
-props (["material_name":"boernerine","value":60,"material_type":"metal",])
-true_name "plate bracer"
-creator "/d/damned/virtual/armour_server"
-material "/metal/boernerine"
-armour_save (["short desc":"A plate bracer","ac":(["infernal":18,"disruption":18,"stress":18,"crushing":18,"unholy":18,"cutting":18,"vacuum":36,"plasma":18,"impaling":18,"holy":18,"cold":18,"fire":18,"strike":18,"impact":18,"electricity":18,"aether":18,]),])

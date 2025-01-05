@@ -1,6 +1,0 @@
-#/wizards/diewarzau/obj/misc/leather2.c
-encumbrance 42
-props (["material_name":"Hulking orc","value":21,"extra long":"Level [21] Hulking orc","material_type":"leather","new desc":"Level [21] Hulking orc",])
-true_name "leather"
-creator "/std/skills/skin_corpse#103266"
-material "/leather/Hulking orc"

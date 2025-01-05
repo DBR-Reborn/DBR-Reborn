@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-jacket.armour
-#/d/damned/virtual/leather-jacket.armour.c
-encumbrance 60
-props (["runes":({"malsa bonnes","malsa sen zora",}),"new desc":"%^B_BLUE%^%^RESET%^ {jacket}","progress engrave_inikhida":0,"progress engrave_lilund":0,"material_name":"Dragon","progress engrave_boric":0,"true armour":1,"progress engrave_nawara":0,"progress enchanter_mark_nawara":0,"pow enchanter_mark_nawara":0,"progress extreme_fortification_azazel":0,"progress engrave_angelica":0,"progress inscribe_malsa_sen_zora_azazel":0,"value":45,"material_type":"leather","extra long":({"Crafted by: Azazel with A Level [50] Dragon leather",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress engrave_skye":0,"progress inscribe_malsa_bonnes_azazel":0,"progress engrave_azazel":0,"pow extreme_fortification_azazel":0,"pow true_armour_azazel":0,"progress true_armour_azazel":0,"enchantment":100,])
-true_name "leather jacket"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Dragon"
-armour_save (["enhance critical":-5,"short desc":"%^B_BLUE%^%^RESET%^ {jacket}","ac":(["infernal":656,"disruption":657,"stress":659,"unholy":657,"crushing":696,"cutting":705,"vacuum":341,"plasma":662,"impaling":694,"holy":660,"fire":675,"cold":674,"strike":685,"impact":684,"aether":659,"electricity":675,]),])

@@ -1,8 +1,0 @@
-#/d/damned/virtual/studded-leather-jacket.armour
-#/d/damned/virtual/studded-leather-jacket.armour.c
-encumbrance 90
-props (["material_name":"Elemental overlord","value":75,"runes":({"malsa bonnes","malsa sen zora",}),"progress inscribe_malsa_sen_zora_kharne":0,"material_type":"leather","extra long":({"Crafted by: Kharne with A Level [75] Elemental overlord leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_malsa_bonnes_kharne":0,])
-true_name "studded leather jacket"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Elemental overlord"
-armour_save (["short desc":"A studded leather jacket","ac":(["infernal":525,"disruption":532,"stress":529,"crushing":553,"unholy":520,"cutting":582,"vacuum":526,"plasma":524,"impaling":561,"holy":522,"cold":531,"fire":540,"strike":548,"impact":544,"electricity":537,"aether":516,]),])

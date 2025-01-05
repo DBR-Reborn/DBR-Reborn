@@ -1,8 +1,0 @@
-#/d/damned/virtual/tabard.armour
-#/d/damned/virtual/tabard.armour.c
-encumbrance 20
-props (["material_name":"Shadowflame Templar","value":10,"extra long":"Crafted by: Singe with A Level [122] Shadowflame Templar leather","material_type":"leather",])
-true_name "tabard"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Shadowflame Templar"
-armour_save (["short desc":"A tabard","ac":(["infernal":468,"disruption":456,"stress":460,"unholy":467,"crushing":458,"cutting":499,"vacuum":454,"plasma":456,"impaling":468,"holy":455,"fire":464,"cold":462,"strike":467,"impact":471,"aether":467,"electricity":452,]),])

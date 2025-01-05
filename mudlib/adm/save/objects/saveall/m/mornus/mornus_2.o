@@ -1,7 +1,0 @@
-#/d/khojem/new/armor/leather_belt.c
-encumbrance 20
-props (["material_name":"leather","value":3,"material_type":"misc",])
-true_name "leather belt"
-creator "/d/khojem/new/mon/champion#5446"
-material "/misc/leather"
-armour_save (["ac":(["infernal":1,"disruption":1,"stress":1,"crushing":3,"unholy":5,"cutting":5,"vacuum":1,"plasma":1,"impaling":5,"holy":0,"cold":2,"fire":2,"strike":1,"impact":2,"electricity":1,"aether":0,]),])

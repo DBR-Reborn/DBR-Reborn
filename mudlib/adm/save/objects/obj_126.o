@@ -1,7 +1,0 @@
-#/d/damned/virtual/shod-staff_6.weapon.c
-encumbrance 30
-props (["material_name":"elrodnite","value":425,"material_type":"metal","extra long":"level[40] elrodnite shod-staff of fire and impact","new desc":"level[40] elrodnite shod-staff of fire and impact",])
-true_name "shod staff"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/elrodnite"
-__Weapon (["original wc":(["fire":76,"impact":63,"crushing":15,]),"quality":6,"type":"two handed staff","ac":(["infernal":6,"disruption":6,"stress":6,"crushing":6,"unholy":6,"cutting":6,"vacuum":6,"plasma":6,"impaling":6,"holy":6,"cold":6,"fire":6,"strike":6,"impact":6,"electricity":6,"aether":6,]),"verb":"bash","wc":(["fire":76,"impact":63,"crushing":51,]),"short desc":"level[40] elrodnite shod-staff of fire and impact","decay rate":200,"parry bonus":10,])

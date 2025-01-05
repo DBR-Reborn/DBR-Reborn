@@ -1,8 +1,0 @@
-#/d/damned/virtual/studded-leather-glove.armour
-#/d/damned/virtual/studded-leather-glove.armour.c
-encumbrance 3
-props (["value":6,"runes":({"malsa bonnes","malsa sen zora",}),"extra long":({"Crafted by: Torm with A Level [15] Ghost leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"leather","new desc":"A {studded glove}","material_name":"Ghost","progress inscribe_malsa_sen_zora_torm":0,"progress inscribe_malsa_bonnes_torm":0,"progress engrave_torm":0,])
-true_name "studded leather glove"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Ghost"
-armour_save (["short desc":"A {studded glove}","ac":(["infernal":301,"disruption":286,"stress":313,"crushing":353,"unholy":331,"cutting":308,"vacuum":335,"plasma":337,"impaling":362,"holy":365,"cold":269,"fire":274,"strike":389,"impact":326,"electricity":288,"aether":351,]),])

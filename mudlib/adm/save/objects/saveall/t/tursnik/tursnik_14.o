@@ -1,7 +1,0 @@
-#/d/areas/keep/armour/black_hood.c
-encumbrance 50
-props (["value":2000,"progress engrave_tursnik":0,"material_type":"none","new desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {hood}","progress bless_armour_thromax":0,"material_name":"leather","progress engrave_thromax":0,"pow bless_armour_thromax":0,"enchantment":12,])
-true_name "black hood"
-creator "/d/areas/keep/mon/warlock#43995"
-material "/leather"
-armour_save (["short desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {hood}","ac":(["infernal":100,"disruption":100,"stress":100,"crushing":100,"unholy":100,"cutting":100,"vacuum":100,"plasma":100,"impaling":100,"holy":100,"cold":100,"fire":100,"strike":100,"impact":100,"electricity":100,"aether":100,]),])

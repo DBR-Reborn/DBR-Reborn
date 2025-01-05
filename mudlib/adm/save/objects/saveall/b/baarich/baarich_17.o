@@ -1,8 +1,0 @@
-#/d/damned/virtual/chain-coif.armour
-#/d/damned/virtual/chain-coif.armour.c
-encumbrance 1
-props (["value":1649,"runes":({"aldara zet","malsa bonnes","malsa sen zora","cutta",}),"material_type":"metal","extra long":({"Smithed by: Trent with laen [96] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BOLD%^Cutta%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,"progress inscribe_cutta_trent":0,"material_name":"laen","progress inscribe_malsa_bonnes_trent":0,])
-true_name "chain coif"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"A chain coif","ac":(["infernal":456,"disruption":490,"stress":462,"unholy":455,"crushing":474,"cutting":665,"vacuum":441,"plasma":480,"impaling":492,"holy":462,"fire":450,"cold":456,"strike":461,"impact":493,"aether":440,"electricity":459,]),])

@@ -1,7 +1,0 @@
-#/d/damned/virtual/plate-greaves.armour.c
-encumbrance 450
-props (["material_name":"boernerine","value":430,"extra long":"level[16] boernerine Plate Greaves","material_type":"metal","new desc":"level[16] boernerine Plate Greaves",])
-true_name "plate greaves"
-creator "/d/damned/virtual/armour_server"
-material "/metal/boernerine"
-armour_save (["short desc":"level[16] boernerine Plate Greaves","ac":(["infernal":37,"disruption":37,"stress":37,"unholy":37,"crushing":37,"cutting":37,"vacuum":37,"plasma":37,"impaling":37,"holy":37,"fire":37,"cold":37,"strike":37,"impact":37,"aether":37,"electricity":37,]),])

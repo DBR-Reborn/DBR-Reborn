@@ -1,14 +1,0 @@
-#/std/diewarzau/obj/misc/safe.c
-encumbrance 700
-props (["storage room":1,"value":10000,])
-true_name "safe"
-creator "/d/daybreak/room/shop/chest_store"
-possible_to_close 1
-is_closed 1
-max_internal_encumbrance 50000
-open_long_desc "This is an open safe which may be used for storing money"
-closed_long_desc "This is a strong-looking safe."
-money (["mithril":1000000,])
-register_idx 174
-max_items 10
-closed_weight 110

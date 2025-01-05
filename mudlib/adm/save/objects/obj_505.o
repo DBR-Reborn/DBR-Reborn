@@ -1,7 +1,0 @@
-#/d/1tlny/loot/hooded_robe.c
-encumbrance 100
-props (["material_name":"cloth","value":400,"extra long":"level[86] Rare Robe of impact and stress protection","material_type":"none","new desc":"level[86] Rare Robe of impact and stress protection",])
-true_name "hooded robe"
-creator "/d/areas/ork/mon/1wildboyz#60718"
-material "/cloth"
-armour_save (["short desc":"level[86] Rare Robe of impact and stress protection","ac":(["infernal":280,"disruption":280,"stress":480,"unholy":280,"crushing":280,"cutting":280,"vacuum":280,"plasma":280,"impaling":280,"holy":280,"fire":280,"cold":280,"strike":280,"impact":540,"aether":280,"electricity":280,]),])

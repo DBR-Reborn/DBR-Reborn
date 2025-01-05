@@ -1,8 +1,0 @@
-#/d/damned/virtual/studded-leather-pants.armour
-#/d/damned/virtual/studded-leather-pants.armour.c
-encumbrance 130
-props (["value":120,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"leather","extra long":({"Crafted by: Maker with A Level [23] Hulking orc leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress major_fortification_math":0,"progress master_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"Hulking orc","pow major_fortification_math":0,"enchantment":70,])
-true_name "studded leather pants"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Hulking orc"
-armour_save (["short desc":"A pair of studded leather pants","ac":(["infernal":341,"fire":357,"cold":351,"disruption":343,"stress":349,"unholy":343,"crushing":358,"cutting":365,"strike":348,"vacuum":344,"plasma":351,"impact":354,"impaling":357,"holy":342,"aether":347,"electricity":353,]),])

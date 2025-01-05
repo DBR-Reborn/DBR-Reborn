@@ -1,8 +1,0 @@
-#/d/damned/virtual/studded-leather-glove.armour
-#/d/damned/virtual/studded-leather-glove.armour.c
-encumbrance 3
-props (["material_name":"Elemental overlord","progress inscribe_malsa_sen_zora_kharne":0,"runes":({"malsa bonnes","malsa sen zora",}),"value":6,"material_type":"leather","extra long":({"Crafted by: Kharne with A Level [75] Elemental overlord leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_malsa_bonnes_kharne":0,])
-true_name "studded leather glove"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Elemental overlord"
-armour_save (["short desc":"A studded leather glove","ac":(["infernal":485,"disruption":491,"stress":503,"crushing":478,"unholy":486,"cutting":465,"vacuum":491,"plasma":491,"impaling":466,"holy":496,"cold":503,"fire":499,"strike":467,"impact":478,"electricity":503,"aether":487,]),])

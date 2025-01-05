@@ -1,7 +1,0 @@
-#/d/damned/virtual/war-hammer_6.weapon.c
-encumbrance 310
-props (["material_name":"catoetine","value":786,"material_type":"metal",])
-true_name "war hammer"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/catoetine"
-__Weapon (["original wc":(["stress":19,"crushing":20,]),"quality":6,"type":"two handed blunt","ac":(["infernal":4,"disruption":4,"stress":4,"crushing":4,"unholy":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"cold":4,"fire":4,"strike":4,"impact":4,"electricity":4,"aether":4,]),"verb":"pound","wc":(["stress":19,"crushing":19,]),"short desc":"war hammer","decay rate":200,"parry bonus":-25,])

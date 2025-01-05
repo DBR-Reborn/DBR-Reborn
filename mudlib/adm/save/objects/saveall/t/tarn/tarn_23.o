@@ -1,8 +1,0 @@
-#/d/damned/virtual/wood-helm.armour
-#/d/damned/virtual/wood-helm.armour.c
-encumbrance 100
-props (["material_name":"abachi","value":45,"material_type":"wood","extra long":"Crafted by: Alpha with A wooden board of abachi [68]",])
-true_name "wood helm"
-creator "/d/damned/virtual/armour_server"
-material "/wood/abachi"
-armour_save (["short desc":"A wood helm","ac":(["infernal":193,"disruption":204,"stress":186,"crushing":177,"unholy":204,"cutting":204,"vacuum":199,"plasma":185,"impaling":205,"holy":175,"cold":164,"fire":191,"strike":194,"impact":168,"electricity":204,"aether":230,]),])

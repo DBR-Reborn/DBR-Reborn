@@ -1,7 +1,0 @@
-#/d/nocte/kuril/armour/commoners_clothes.c
-encumbrance 150
-props (["value":50,"material_type":"none","extra long":({({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress true_armour_creg":0,"material_name":"cloth","true armour":1,"pow true_armour_creg":0,])
-true_name "commoners clothes"
-creator "/d/nocte/kuril/mon/kuril_cit_lw#63609"
-material "/cloth"
-armour_save (["enhance critical":-4,"ac":(["infernal":5,"disruption":5,"stress":5,"crushing":5,"unholy":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"cold":5,"fire":5,"strike":5,"impact":5,"electricity":5,"aether":5,]),])

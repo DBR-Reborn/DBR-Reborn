@@ -1,7 +1,0 @@
-#/d/damned/virtual/two-handed-sword_6.weapon.c
-encumbrance 425
-props (["material_name":"laen","value":1966,"extra long":"level[44] laen two-handed-sword of stress and vacuum","material_type":"metal","new desc":"level[44] laen two-handed-sword of stress and vacuum",])
-true_name "two handed sword"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/laen"
-__Weapon (["original wc":(["impaling":9,"stress":56,"crushing":61,"cutting":18,"vacuum":86,]),"quality":6,"type":"two handed blade","ac":(["infernal":4,"disruption":4,"stress":4,"unholy":4,"crushing":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"fire":4,"cold":4,"strike":4,"impact":4,"aether":4,"electricity":4,]),"verb":"slice","wc":(["impaling":9,"stress":56,"crushing":61,"cutting":18,"vacuum":86,]),"short desc":"level[44] laen two-handed-sword of stress and vacuum","decay rate":200,"parry bonus":-5,])

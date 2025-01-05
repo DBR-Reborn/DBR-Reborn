@@ -1,8 +1,0 @@
-#/d/damned/virtual/taces.armour
-#/d/damned/virtual/taces.armour.c
-encumbrance 30
-props (["progress true_armour_math":0,"progress bless_armour_magic":0,"value":2355,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"metal","extra long":({"Smithed by: Maker with laen [52] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress master_fortification_math":0,"new desc":"O {taces}","pow true_armour_math":0,"progress engrave_maker":0,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"laen","true armour":1,"enchantment":70,"pow bless_armour_magic":0,])
-true_name "taces"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-5,"short desc":"O {taces}","ac":(["infernal":606,"fire":645,"cold":632,"disruption":652,"stress":569,"unholy":576,"crushing":588,"cutting":650,"strike":659,"vacuum":544,"plasma":544,"impact":652,"impaling":625,"holy":571,"aether":534,"electricity":603,]),])

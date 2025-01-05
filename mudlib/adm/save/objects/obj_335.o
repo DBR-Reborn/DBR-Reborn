@@ -1,6 +1,0 @@
-#/wizards/diewarzau/obj/misc/emb_corpse.c
-encumbrance 40
-props (["value":2,"level":51,])
-true_name "corpse"
-creator "/std/skills/prepare_corpse#304261"
-level 51

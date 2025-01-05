@@ -1,8 +1,0 @@
-#/d/damned/virtual/studded-leather-glove.armour
-#/d/damned/virtual/studded-leather-glove.armour.c
-encumbrance 3
-props (["material_name":"Ghost","value":6,"material_type":"leather","extra long":"Crafted by: Torm with A Level [15] Ghost leather","progress inscribe_malsa_bonnes_torm":0,"progress engrave_torm":0,"new desc":"A {studded glove}",])
-true_name "studded leather glove"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Ghost"
-armour_save (["short desc":"A {studded glove}","ac":(["infernal":130,"disruption":155,"stress":95,"crushing":181,"unholy":133,"cutting":152,"vacuum":179,"plasma":183,"impaling":145,"holy":178,"cold":171,"fire":165,"strike":134,"impact":149,"electricity":163,"aether":99,]),])

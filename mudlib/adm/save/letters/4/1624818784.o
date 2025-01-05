@@ -1,3 +1,0 @@
-#/daemon/letter.c
-__Letter "Hello,thanks, hopefully I fixed the issue. (I switched off restoration now and we pull a fresh mudlist instead, because something messed up the mud mapping) I hope the bug will be gone.Thanks again,E."
-__Undeleted ({"tlny",})

@@ -1,8 +1,0 @@
-#/d/damned/virtual/metal-boots.armour
-#/d/damned/virtual/metal-boots.armour.c
-encumbrance 1
-props (["runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"new desc":"%^B_BLUE%^%^RESET%^ {boots}","progress engrave_lilund":0,"material_name":"laen","true armour":1,"progress engrave_nawara":0,"progress enchanter_mark_nawara":0,"pow enchanter_mark_nawara":0,"progress extreme_fortification_azazel":0,"progress engrave_angelica":0,"progress inscribe_malsa_sen_zora_azazel":0,"value":90,"material_type":"metal","extra long":({"level[42] laen boots of vacuum and crushing protection",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",}),"progress engrave_skye":0,"progress engrave_azazel":0,"progress inscribe_malsa_bonnes_azazel":0,"pow extreme_fortification_azazel":0,"pow true_armour_azazel":0,"progress inscribe_aldara_zet_azazel":0,"progress true_armour_azazel":0,"enchantment":100,])
-true_name "metal boots"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-5,"short desc":"%^B_BLUE%^%^RESET%^ {boots}","ac":(["infernal":564,"disruption":564,"stress":564,"unholy":564,"crushing":562,"cutting":485,"vacuum":306,"plasma":572,"impaling":485,"holy":564,"fire":578,"cold":578,"strike":474,"impact":474,"aether":564,"electricity":578,]),])

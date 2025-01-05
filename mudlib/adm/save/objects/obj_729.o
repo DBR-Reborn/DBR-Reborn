@@ -1,7 +1,0 @@
-#/d/damned/virtual/breast-plate.armour.c
-encumbrance 180
-props (["value":350,"progress inscribe_aldara_zet_maker":0,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"extra long":({"Smithed by: Maker with An iron armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"material_type":"metal","progress inscribe_malsa_sen_zora_maker":0,"progress major_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"material_name":"iron","progress minor_fortification_math":0,"pow major_fortification_math":0,"enchantment":40,"pow minor_fortification_math":0,])
-true_name "breast plate"
-creator "/d/damned/virtual/armour_server"
-material "/metal/iron"
-armour_save (["short desc":"A breast plate","ac":(["infernal":286,"disruption":286,"stress":286,"unholy":286,"crushing":310,"cutting":310,"vacuum":286,"plasma":289,"impaling":310,"holy":286,"fire":290,"cold":290,"strike":305,"impact":305,"aether":286,"electricity":290,]),])

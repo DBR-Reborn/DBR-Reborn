@@ -1,8 +1,0 @@
-#/d/damned/virtual/wood-leg-guards.armour
-#/d/damned/virtual/wood-leg-guards.armour.c
-encumbrance 1
-props (["material_name":"abachi","runes":({"aldara zet",}),"value":430,"progress engrave_tursnik":0,"extra long":({"Crafted by: Tursnik with A wooden board of abachi [312]","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",}),"material_type":"wood","progress inscribe_aldara_zet_tursnik":0,"new desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {wood leg guards}",])
-true_name "wood leg guards"
-creator "/d/damned/virtual/armour_server"
-material "/wood/abachi"
-armour_save (["short desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {wood leg guards}","ac":(["infernal":705,"disruption":579,"stress":586,"unholy":635,"crushing":701,"cutting":560,"vacuum":550,"plasma":637,"impaling":553,"holy":563,"fire":598,"cold":627,"strike":649,"impact":577,"aether":712,"electricity":690,]),])

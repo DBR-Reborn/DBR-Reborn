@@ -1,7 +1,0 @@
-#/wizards/excelsior/tinker/board.c
-encumbrance 1200
-props (["material_name":"dogwood","value":1000,"material_type":"wood",])
-true_name "board"
-creator "/std/skills/lumberjack#168592"
-material "/wood/dogwood"
-wood 100

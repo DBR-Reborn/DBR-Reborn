@@ -1,7 +1,0 @@
-#/d/damned/virtual/plate-bracer.armour.c
-encumbrance 45
-props (["material_name":"catoetine","value":60,"extra long":"level[40] catoetine bracer of electricity and vacuum protection","material_type":"metal","new desc":"level[40] catoetine bracer of electricity and vacuum protection",])
-true_name "plate bracer"
-creator "/d/damned/virtual/armour_server"
-material "/metal/catoetine"
-armour_save (["short desc":"level[40] catoetine bracer of electricity and vacuum protection","ac":(["infernal":77,"disruption":77,"stress":77,"unholy":77,"crushing":77,"cutting":77,"vacuum":130,"plasma":77,"impaling":77,"holy":77,"fire":77,"cold":77,"strike":77,"impact":77,"aether":77,"electricity":150,]),])

@@ -1,7 +1,0 @@
-#/d/1tlny/loot/hooded_robe.c
-encumbrance 100
-props (["material_name":"cloth","value":400,"material_type":"none","extra long":"level[88] Rare Robe of crushing and cutting protection","new desc":"level[88] Rare Robe of crushing and cutting protection",])
-true_name "hooded robe"
-creator "/d/areas/ork/mon/1wildboyz#226385"
-material "/cloth"
-armour_save (["short desc":"level[88] Rare Robe of crushing and cutting protection","ac":(["infernal":206,"disruption":206,"stress":206,"crushing":604,"unholy":206,"cutting":473,"vacuum":206,"plasma":206,"impaling":206,"holy":206,"cold":206,"fire":206,"strike":206,"impact":206,"electricity":206,"aether":206,]),])

@@ -1,8 +1,0 @@
-#/d/damned/virtual/tonfa_6.weapon
-#/d/damned/virtual/tonfa_6.weapon.c
-encumbrance 25
-props (["brittle":31,"value":622,"runes":({"xen mora","malsa xen","harah lit","malsa koren",}),"material_type":"wood","extra long":({"Crafted by: Alpha with A wooden board of abachi [68]","A %^CYAN%^Xen Mora%^RESET%^ rune is inscribed on the weapon.","A %^BLUE%^%^BOLD%^Malsa Xen%^RESET%^ rune is inscribed on the weapon.","A %^MAGENTA%^%^BOLD%^Harah Lit%^RESET%^ rune is inscribed on the weapon.","A %^GREEN%^%^BOLD%^Malsa Koren%^RESET%^ rune is inscribed on the weapon.",}),"progress inscribe_malsa_xen_alpha":0,"auto critical":(["speed B":19,]),"progress inscribe_harah_lit_alpha":0,"material_name":"abachi","progress inscribe_xen_mora_alpha":0,"progress inscribe_malsa_koren_alpha":0,"hit bonus":43,])
-true_name "tonfa"
-creator "/d/damned/virtual/weapon_server"
-material "/wood/abachi"
-__Weapon (["original wc":(["impact":146,"impaling":12,"stress":154,"crushing":10,"aether":103,"electricity":154,]),"wielded":,"quality":6,"limb string":" (wielded in right hand)","type":"melee","ac":(["infernal":5,"disruption":5,"stress":5,"crushing":5,"unholy":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"cold":5,"fire":5,"strike":5,"impact":5,"electricity":5,"aether":5,]),"verb":"whop","wc":(["impact":146,"impaling":109,"stress":154,"crushing":253,"aether":103,"electricity":154,]),"decay status":86,"short desc":"tonfa","decay rate":37000,])

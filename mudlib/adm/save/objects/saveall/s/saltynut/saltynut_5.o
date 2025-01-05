@@ -1,8 +1,0 @@
-#/d/damned/virtual/metal-boots.armour
-#/d/damned/virtual/metal-boots.armour.c
-encumbrance 70
-props (["value":4240,"runes":({"malsa bonnes","malsa sen zora",}),"extra long":({"Smithed by: Lore","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Protection%^RESET%^ {boots}","material_name":"laen","progress inscribe_malsa_sen_zora_lore":0,"progress inscribe_malsa_bonnes_lore":0,"progress engrave_lore":0,])
-true_name "metal boots"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Protection%^RESET%^ {boots}","ac":(["infernal":226,"disruption":237,"stress":223,"crushing":240,"unholy":221,"cutting":241,"vacuum":230,"plasma":229,"impaling":256,"holy":225,"cold":228,"fire":226,"strike":270,"impact":251,"electricity":224,"aether":222,]),])

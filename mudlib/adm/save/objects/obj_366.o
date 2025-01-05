@@ -1,7 +1,0 @@
-#/d/1tlny/loot/hooded_robe.c
-encumbrance 100
-props (["value":400,"extra long":"level[40] Rare Robe of electricity and fire protection","material_type":"none","progress enchanter_mark_okkita":0,"new desc":"%^B_BLUE%^RESET%^ {robe}","progress engrave_lilund":0,"material_name":"cloth","progress engrave_boric":0,"pow enchanter_mark_okkita":0,])
-true_name "hooded robe"
-creator "/d/areas/dragon/mon/skinny_dragon#379103"
-material "/cloth"
-armour_save (["short desc":"%^B_BLUE%^RESET%^ {robe}","ac":(["infernal":66,"disruption":66,"stress":66,"crushing":66,"unholy":66,"cutting":66,"vacuum":66,"plasma":66,"impaling":66,"holy":66,"cold":66,"fire":120,"strike":66,"impact":66,"electricity":152,"aether":66,]),])

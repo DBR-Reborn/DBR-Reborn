@@ -1,7 +1,0 @@
-#/d/damned/virtual/gauntlet.armour.c
-encumbrance 6
-props (["material_name":"laen","value":10,"material_type":"metal","extra long":"level[88] laen Gauntlet of impact and cold protection","new desc":"level[88] laen Gauntlet of impact and cold protection",])
-true_name "gauntlet"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"level[88] laen Gauntlet of impact and cold protection","ac":(["infernal":254,"disruption":254,"stress":254,"crushing":254,"unholy":254,"cutting":254,"vacuum":254,"plasma":254,"impaling":254,"holy":254,"cold":539,"fire":254,"strike":254,"impact":536,"electricity":254,"aether":254,]),])

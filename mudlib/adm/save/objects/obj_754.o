@@ -1,6 +1,0 @@
-#/std/diewarzau/obj/misc/ingot.c
-encumbrance 52
-props (["material_name":"iysaughton","value":50,"material_type":"metal",])
-true_name "ingot"
-creator "/d/damned/guilds/paladin/proom/p_mithskel#33910"
-material "/metal/iysaughton"

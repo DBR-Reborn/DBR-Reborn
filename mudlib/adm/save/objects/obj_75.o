@@ -1,7 +1,0 @@
-#/d/damned/virtual/great-axe_6.weapon.c
-encumbrance 320
-props (["material_name":"elrodnite","value":786,"material_type":"metal","extra long":"level[41] elrodnite great-axe of plasma and disruption","new desc":"level[41] elrodnite great-axe of plasma and disruption",])
-true_name "great axe"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/elrodnite"
-__Weapon (["original wc":(["plasma":58,"disruption":71,"crushing":47,"cutting":20,]),"quality":6,"type":"two handed polearm","ac":(["infernal":4,"disruption":4,"stress":4,"crushing":4,"unholy":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"cold":4,"fire":4,"strike":4,"impact":4,"electricity":4,"aether":4,]),"verb":"chop","wc":(["plasma":58,"disruption":71,"crushing":47,"cutting":20,]),"short desc":"level[41] elrodnite great-axe of plasma and disruption","decay rate":200,"parry bonus":-30,])

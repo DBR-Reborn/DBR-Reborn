@@ -1,8 +1,0 @@
-#/d/damned/virtual/chain-glove.armour
-#/d/damned/virtual/chain-glove.armour.c
-encumbrance 15
-props (["material_name":"laen","progress inscribe_malsa_bonnes_trent":0,"value":706,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"material_type":"metal","extra long":({"Smithed by: Trent with laen [92] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,])
-true_name "chain glove"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"A chain glove","ac":(["infernal":407,"disruption":447,"stress":428,"crushing":432,"unholy":436,"cutting":440,"vacuum":446,"plasma":424,"impaling":442,"holy":413,"cold":420,"fire":422,"strike":468,"impact":428,"electricity":443,"aether":435,]),])

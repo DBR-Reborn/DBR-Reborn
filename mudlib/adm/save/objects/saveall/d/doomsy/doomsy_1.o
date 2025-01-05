@@ -1,7 +1,0 @@
-#/d/nocte/kuril/armour/commoners_clothes.c
-encumbrance 150
-props (["material_name":"cloth","value":50,"material_type":"none",])
-true_name "commoners clothes"
-creator "/d/nocte/kuril/mon/kuril_cit_lw#193612"
-material "/cloth"
-armour_save (["ac":(["infernal":5,"fire":5,"cold":5,"disruption":5,"stress":5,"unholy":5,"crushing":5,"cutting":5,"strike":5,"vacuum":5,"plasma":5,"impact":5,"impaling":5,"holy":5,"aether":5,"electricity":5,]),])

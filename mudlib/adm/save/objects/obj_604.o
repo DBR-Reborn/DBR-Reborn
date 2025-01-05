@@ -1,7 +1,0 @@
-#/d/damned/virtual/metal-boots.armour.c
-encumbrance 70
-props (["material_name":"elrodnite","value":90,"material_type":"metal","extra long":"level[41] elrodnite boots of impaling and stress protection","new desc":"level[41] elrodnite boots of impaling and stress protection",])
-true_name "metal boots"
-creator "/d/damned/virtual/armour_server"
-material "/metal/elrodnite"
-armour_save (["short desc":"level[41] elrodnite boots of impaling and stress protection","ac":(["infernal":65,"disruption":65,"stress":124,"crushing":65,"unholy":65,"cutting":65,"vacuum":65,"plasma":65,"impaling":149,"holy":65,"cold":65,"fire":65,"strike":65,"impact":65,"electricity":65,"aether":65,]),])

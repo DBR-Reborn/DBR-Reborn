@@ -1,7 +1,0 @@
-#/d/mines/objects/weapons/pick.c
-encumbrance 15
-props (["material_name":"iron","value":110,"material_type":"metal",])
-true_name "pick"
-creator "/cmds/system/_clone"
-material "/metal/iron"
-__Weapon (["original wc":(["impaling":12,]),"quality":3,"type":"blunt","wield":"You can feel the balanced pick in your hands.","ac":(["infernal":2,"disruption":2,"stress":2,"crushing":2,"unholy":2,"cutting":2,"vacuum":2,"plasma":2,"impaling":2,"holy":2,"cold":2,"fire":2,"strike":2,"impact":2,"electricity":2,"aether":2,]),"verb":"stab","wc":(["impaling":12,]),"decay status":12,"short desc":"steel pick","decay rate":200,"parry bonus":-15,])

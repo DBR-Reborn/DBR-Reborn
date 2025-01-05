@@ -1,7 +1,0 @@
-#/d/damned/virtual/gauntlet.armour.c
-encumbrance 2
-props (["material_name":"davistone","progress inscribe_malsa_bonnes_trent":0,"value":346,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"material_type":"metal","extra long":({"Smithed by: Trent with davistone [28] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,])
-true_name "gauntlet"
-creator "/d/damned/virtual/armour_server"
-material "/metal/davistone"
-armour_save (["short desc":"A gauntlet","ac":(["infernal":212,"disruption":212,"stress":212,"crushing":223,"unholy":212,"cutting":223,"vacuum":212,"plasma":214,"impaling":223,"holy":212,"cold":215,"fire":215,"strike":219,"impact":219,"electricity":215,"aether":212,]),])

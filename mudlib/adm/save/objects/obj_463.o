@@ -1,7 +1,0 @@
-#/d/damned/virtual/chain-mail.armour.c
-encumbrance 1
-props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"progress engrave_kigus":0,"new desc":"%^B_BROWN%^metal%^RESET%^ {mail}","material_name":"laen","progress engrave_boric":0,"true armour":1,"progress inscribe_malsa_sen_zora_azazel":0,"pow bless_armour_azazel":0,"value":150,"material_type":"metal","extra long":({"level[49] laen mail of cold and cutting protection","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress engrave_azazel":0,"progress inscribe_malsa_bonnes_azazel":0,"progress bless_armour_azazel":0,"pow true_armour_azazel":0,"progress inscribe_aldara_zet_azazel":0,"progress true_armour_azazel":0,"enchantment":20,])
-true_name "chain mail"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-4,"short desc":"%^B_BROWN%^metal%^RESET%^ {mail}","ac":(["infernal":231,"disruption":231,"stress":231,"unholy":231,"crushing":210,"cutting":286,"vacuum":231,"plasma":224,"impaling":210,"holy":231,"fire":224,"cold":325,"strike":257,"impact":257,"aether":231,"electricity":224,]),])

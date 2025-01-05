@@ -1,8 +1,0 @@
-#/d/damned/virtual/chain-mail.armour
-#/d/damned/virtual/chain-mail.armour.c
-encumbrance 180
-props (["progress true_armour_math":0,"progress bless_armour_magic":0,"value":7067,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"metal","extra long":({"Smithed by: Maker with laen [60] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress master_fortification_math":0,"new desc":"O {mail}","pow true_armour_math":0,"progress engrave_maker":0,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"laen","true armour":1,"enchantment":70,"pow bless_armour_magic":0,])
-true_name "chain mail"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-6,"short desc":"O {mail}","ac":(["infernal":644,"fire":682,"cold":682,"disruption":628,"stress":682,"unholy":681,"crushing":664,"cutting":667,"strike":662,"vacuum":581,"plasma":643,"impact":571,"impaling":591,"holy":570,"aether":645,"electricity":630,]),])

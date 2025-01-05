@@ -1,7 +1,0 @@
-#/d/khojem/new/armor/leather_mittens.c
-encumbrance 25
-props (["value":20,"material_type":"misc","extra long":({({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress true_armour_creg":0,"material_name":"cloth","true armour":1,"pow true_armour_creg":0,])
-true_name "mitten"
-creator "/cmds/adm/_cref"
-material "/misc/cloth"
-armour_save (["enhance critical":-5,"ac":(["infernal":5,"disruption":5,"stress":5,"crushing":5,"unholy":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"cold":5,"fire":5,"strike":5,"impact":5,"electricity":5,"aether":5,]),])

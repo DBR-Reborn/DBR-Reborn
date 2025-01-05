@@ -1,7 +1,0 @@
-#/d/1tlny/loot/newbie_robe.c
-encumbrance 100
-props (["material_name":"cloth","value":400,"material_type":"none",])
-true_name "newbie robe"
-creator "/d/newbieville/mon/newbie#57269"
-material "/cloth"
-armour_save (["ac":(["infernal":40,"disruption":40,"stress":40,"unholy":40,"crushing":40,"cutting":40,"vacuum":40,"plasma":40,"impaling":40,"holy":40,"fire":40,"cold":40,"strike":40,"impact":40,"aether":40,"electricity":40,]),])

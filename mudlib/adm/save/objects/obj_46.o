@@ -1,6 +1,0 @@
-#/wizards/diewarzau/obj/misc/weapon_blank.c
-encumbrance 120
-props (["material_name":"mithril","material_type":"metal",])
-true_name "blank"
-creator "/d/damned/guilds/tinker/furnace"
-material "/metal/mithril"

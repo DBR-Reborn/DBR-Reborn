@@ -1,6 +1,0 @@
-#/std/obj/lantern.c
-encumbrance 200
-props (["float value":1,])
-true_name "lantern"
-creator "/d/daybreak/room/shop/general_store_store"
-fuel 3600000000000

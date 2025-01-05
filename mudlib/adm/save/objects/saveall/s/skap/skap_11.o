@@ -1,8 +1,0 @@
-#/d/damned/virtual/war-hammer_6.weapon
-#/d/damned/virtual/war-hammer_6.weapon.c
-encumbrance 310
-props (["material_name":"mithril","progress engrave_nawara":0,"value":4401,"extra long":"This weapon was forged by: Lilund with mithril [226] weapon blank","material_type":"metal","new desc":"%^B_BLUE%^angelic%^RESET%^ {hammer}",])
-true_name "war hammer"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/mithril"
-__Weapon (["original wc":(["fire":297,"crushing":20,]),"quality":6,"type":"two handed blunt","ac":(["infernal":4,"disruption":4,"stress":4,"unholy":4,"crushing":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"fire":4,"cold":4,"strike":4,"impact":4,"aether":4,"electricity":4,]),"verb":"pound","decay status":382,"wc":(["fire":297,"crushing":312,]),"short desc":"%^B_BLUE%^angelic%^RESET%^ {hammer}","decay rate":22200,"parry bonus":-25,])

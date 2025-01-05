@@ -1,7 +1,0 @@
-#/d/damned/virtual/metal-boots.armour.c
-encumbrance 70
-props (["material_name":"mithril","value":90,"extra long":"level[49] mithril boots of cutting and crushing protection","material_type":"metal","new desc":"level[49] mithril boots of cutting and crushing protection",])
-true_name "metal boots"
-creator "/d/damned/virtual/armour_server"
-material "/metal/mithril"
-armour_save (["short desc":"level[49] mithril boots of cutting and crushing protection","ac":(["infernal":75,"disruption":75,"stress":75,"unholy":75,"crushing":194,"cutting":147,"vacuum":75,"plasma":75,"impaling":75,"holy":75,"fire":75,"cold":75,"strike":75,"impact":75,"aether":75,"electricity":75,]),])

@@ -1,7 +1,0 @@
-#/d/damned/virtual/plate-bracer.armour.c
-encumbrance 12
-props (["pow master_fortification_baarich":0,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"value":2078,"extra long":({"Smithed by: Trent with davistone [64] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"metal","pow true_armour_baarich":0,"progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,"material_name":"davistone","progress true_armour_baarich":0,"progress master_fortification_baarich":0,"true armour":1,"progress inscribe_malsa_bonnes_trent":0,"enchantment":70,])
-true_name "plate bracer"
-creator "/d/damned/virtual/armour_server"
-material "/metal/davistone"
-armour_save (["enhance critical":-4,"short desc":"A plate bracer","ac":(["infernal":240,"disruption":240,"stress":240,"crushing":277,"unholy":240,"cutting":277,"vacuum":240,"plasma":242,"impaling":277,"holy":240,"cold":243,"fire":243,"strike":273,"impact":273,"electricity":243,"aether":240,]),])

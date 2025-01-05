@@ -1,8 +1,0 @@
-#/d/damned/virtual/plate-bracer.armour
-#/d/damned/virtual/plate-bracer.armour.c
-encumbrance 45
-props (["material_name":"mcgrail","value":60,"material_type":"metal","extra long":"level[19] mcgrail Plate Bracer","new desc":"level[19] mcgrail Plate Bracer",])
-true_name "plate bracer"
-creator "/d/damned/virtual/armour_server"
-material "/metal/mcgrail"
-armour_save (["short desc":"level[19] mcgrail Plate Bracer","ac":(["infernal":42,"disruption":42,"stress":42,"crushing":42,"unholy":42,"cutting":42,"vacuum":42,"plasma":42,"impaling":42,"holy":42,"cold":42,"fire":42,"strike":42,"impact":42,"electricity":42,"aether":42,]),])

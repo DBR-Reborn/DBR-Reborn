@@ -1,8 +1,0 @@
-#/d/damned/virtual/studded-leather-pants.armour
-#/d/damned/virtual/studded-leather-pants.armour.c
-encumbrance 1
-props (["runes":({"malsa sen zora","aldara zet","malsa bonnes",}),"pow major_fortification_rihcter":0,"new desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {pants}","material_name":"leather","progress major_fortification_rihcter":0,"progress engrave_thromax":0,"value":120,"progress inscribe_malsa_bonnes_tursnik":0,"extra long":({"A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"material_type":"misc","progress engrave_tursnik":0,"progress inscribe_aldara_zet_tursnik":0,"progress bless_armour_thromax":0,"pow bless_armour_thromax":0,"enchantment":40,"progress inscribe_malsa_sen_zora_tursnik":0,])
-true_name "studded leather pants"
-creator "/d/damned/virtual/armour_server"
-material "/misc/leather"
-armour_save (["short desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {pants}","ac":(["infernal":84,"disruption":64,"stress":64,"crushing":56,"unholy":84,"cutting":69,"vacuum":64,"plasma":67,"impaling":69,"holy":64,"cold":69,"fire":69,"strike":97,"impact":115,"electricity":67,"aether":64,]),])

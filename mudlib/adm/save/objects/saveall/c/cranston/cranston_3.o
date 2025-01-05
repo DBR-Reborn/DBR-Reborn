@@ -1,8 +1,0 @@
-#/d/damned/virtual/chain-greaves.armour
-#/d/damned/virtual/chain-greaves.armour.c
-encumbrance 150
-props (["progress major_fortification_cranston":0,"progress inscribe_malsa_sen_zora_kharne":0,"runes":({"malsa bonnes","malsa sen zora",}),"value":5654,"extra long":({"Smithed by: Kharne with laen [136] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"material_type":"metal","progress inscribe_malsa_bonnes_kharne":0,"material_name":"laen","pow major_fortification_cranston":0,"enchantment":40,])
-true_name "chain greaves"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"A pair of chain greaves","ac":(["infernal":525,"disruption":497,"stress":482,"unholy":505,"crushing":575,"cutting":576,"vacuum":484,"plasma":549,"impaling":540,"holy":500,"fire":493,"cold":504,"strike":532,"impact":545,"aether":516,"electricity":528,]),])

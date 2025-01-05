@@ -1,7 +1,0 @@
-#/d/damned/virtual/leather-boots.armour.c
-encumbrance 30
-props (["material_name":"iron","value":30,"material_type":"metal",])
-true_name "leather boots"
-creator "/d/damned/virtual/armour_server"
-material "/metal/iron"
-armour_save (["short desc":"A pair of leather boots","ac":(["infernal":14,"disruption":1,"stress":1,"unholy":14,"crushing":10,"cutting":14,"vacuum":1,"plasma":1,"impaling":14,"holy":1,"fire":3,"cold":3,"strike":2,"impact":10,"aether":1,"electricity":1,]),])

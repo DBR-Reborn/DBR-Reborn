@@ -1,7 +1,0 @@
-#/std/diewarzau/obj/misc/small_vial.c
-encumbrance 3
-props (["value":3,"drink func":"alabaster_potion","drink obj":"/wizards/diewarzau/obj/misc/heal_func",])
-true_name "vial"
-creator "/d/damned/guilds/cleric/shop_store"
-extra_desc "an alabaster potion"
-arg 1

@@ -1,7 +1,0 @@
-#/d/damned/virtual/large-shield.armour.c
-encumbrance 150
-props (["material_name":"laen","value":75,"extra long":"level[87] laen Shield of stress and cold protection","material_type":"metal","new desc":"level[87] laen Shield of stress and cold protection",])
-true_name "large shield"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"level[87] laen Shield of stress and cold protection","ac":(["infernal":421,"disruption":421,"stress":858,"unholy":421,"crushing":421,"cutting":421,"vacuum":421,"plasma":421,"impaling":421,"holy":421,"fire":421,"cold":713,"strike":421,"impact":421,"aether":421,"electricity":421,]),])

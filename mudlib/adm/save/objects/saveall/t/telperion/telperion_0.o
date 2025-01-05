@@ -1,6 +1,0 @@
-#/d/damned/guilds/nethermancer/misc/soul_orb.c
-encumbrance 50
-props (["total souls":2,"black essence souls":0,"pow soul_duplication_telperion":0,"progress soul_duplication_telperion":0,"progress soul_union_telperion":0,"dark knight souls":0,"progress chaos_shadow_infusion_telperion":0,"chaos shadow souls":5,"pow major_soul_union_telperion":6,"progress major_soul_union_telperion":1005,"pow soul_union_telperion":0,"progress dark_knight_infusion_telperion":0,"essence warrior souls":5,"fumbled":0,"value":1,"pow chaos_shadow_infusion_telperion":0,"extra long":({"This orb contains %^MAGENTA%^5%^RESET%^ essence warrior souls.","This orb contains %^MAGENTA%^5%^RESET%^ chaos shadow souls.",}),"pow ghost_infusion_telperion":0,"deathmage souls":0,"pow orb_stabilization_telperion":0,"pow dark_knight_infusion_telperion":0,"ghost souls":0,"progress orb_stabilization_telperion":0,"progress ghost_infusion_telperion":0,])
-true_name "soul orb"
-creator "/d/damned/guilds/nethermancer/magic_store"
-armour_save (["short desc":"A soul orb",])

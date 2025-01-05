@@ -1,7 +1,0 @@
-#/d/damned/virtual/stumps.armour.c
-encumbrance 38
-props (["runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"pow true_armour_trent":0,"material_name":"dogwood","progress master_fortification_baarich":0,"true armour":1,"progress major_fortification_trent":0,"pow master_fortification_baarich":0,"value":90,"material_type":"wood","extra long":({"Crafted by: Hssr","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+70%","detect magic",}),}),"progress true_armour_trent":0,"progress inscribe_malsa_sen_zora_hssr":0,"progress inscribe_aldara_zet_hssr":0,"progress inscribe_malsa_bonnes_hssr":0,"pow major_fortification_trent":0,"enchantment":70,])
-true_name "stumps"
-creator "/d/damned/virtual/armour_server"
-material "/wood/dogwood"
-armour_save (["enhance critical":-5,"short desc":"A pair of stumps","ac":(["infernal":49,"disruption":49,"stress":49,"unholy":49,"crushing":44,"cutting":44,"vacuum":49,"plasma":52,"impaling":44,"holy":49,"fire":52,"cold":52,"strike":59,"impact":59,"aether":49,"electricity":52,]),])

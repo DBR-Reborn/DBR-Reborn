@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-helmet.armour
-#/d/damned/virtual/leather-helmet.armour.c
-encumbrance 1
-props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"slim leather helmet {leather helmet}","progress inscribe_malsa_sen_zora_trent":0,"material_name":"Ghost","true armour":1,"progress master_fortification_baarich":0,"pow enchanter_mark_baarich":0,"pow master_fortification_baarich":0,"value":45,"pow true_armour_baarich":0,"material_type":"leather","extra long":({"Crafted by: Trent with A Level [15] Ghost leather","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_aldara_zet_trent":0,"progress true_armour_baarich":0,"progress inscribe_malsa_bonnes_trent":0,"enchantment":70,"progress enchanter_mark_baarich":0,])
-true_name "leather helmet"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Ghost"
-armour_save (["enhance critical":-6,"short desc":"slim leather helmet {leather helmet}","ac":(["infernal":251,"disruption":256,"stress":258,"unholy":260,"crushing":284,"cutting":277,"vacuum":251,"plasma":262,"impaling":290,"holy":258,"fire":260,"cold":269,"strike":282,"impact":276,"aether":252,"electricity":257,]),])

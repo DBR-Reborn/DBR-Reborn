@@ -1,6 +1,0 @@
-#/std/diewarzau/obj/misc/ingot.c
-encumbrance 20
-props (["material_name":"mcgrail","value":50,"material_type":"metal",])
-true_name "ingot"
-creator "/d/areas/dragon/mon/skinny_dragon#145605"
-material "/metal/mcgrail"

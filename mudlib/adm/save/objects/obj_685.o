@@ -1,7 +1,0 @@
-#/d/damned/virtual/gauntlet.armour.c
-encumbrance 6
-props (["material_name":"mithril","value":10,"extra long":"level[31] mithril Gauntlet of impaling protection","material_type":"metal","new desc":"level[31] mithril Gauntlet of impaling protection",])
-true_name "gauntlet"
-creator "/d/damned/virtual/armour_server"
-material "/metal/mithril"
-armour_save (["short desc":"level[31] mithril Gauntlet of impaling protection","ac":(["infernal":55,"disruption":1,"stress":1,"unholy":55,"crushing":55,"cutting":55,"vacuum":1,"plasma":3,"impaling":68,"holy":1,"fire":5,"cold":5,"strike":25,"impact":55,"aether":1,"electricity":1,]),])

@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-jacket.armour
-#/d/damned/virtual/leather-jacket.armour.c
-encumbrance 1
-props (["progress inscribe_malsa_bonnes_singe":0,"progress engrave_singe":0,"runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"new desc":"%^COLOR137%^MasterCrafted%^RESET%^ {jacket}","material_name":"Silver dragon","true armour":1,"progress inscribe_malsa_sen_zora_singe":0,"pow true_armour_upstart":0,"value":45,"material_type":"leather","extra long":({"Crafted by: Singe with A Level [100] Silver dragon leather","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress extreme_fortification_upstart":0,"progress true_armour_upstart":0,"pow extreme_fortification_upstart":0,"progress inscribe_aldara_zet_singe":0,"enchantment":100,])
-true_name "leather jacket"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Silver dragon"
-armour_save (["enhance critical":-4,"short desc":"%^COLOR137%^MasterCrafted%^RESET%^ {jacket}","ac":(["infernal":723,"disruption":726,"stress":731,"unholy":733,"crushing":754,"cutting":793,"vacuum":736,"plasma":724,"impaling":761,"holy":727,"fire":743,"cold":744,"strike":749,"impact":756,"aether":727,"electricity":741,]),])

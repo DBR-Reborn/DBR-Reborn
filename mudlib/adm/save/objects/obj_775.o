@@ -1,7 +1,0 @@
-#/d/damned/virtual/taces.armour.c
-encumbrance 30
-props (["value":50,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"metal","extra long":({"Smithed by: Maker with An iron armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress master_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"iron","enchantment":70,])
-true_name "taces"
-creator "/d/damned/virtual/armour_server"
-material "/metal/iron"
-armour_save (["short desc":"A pair of taces","ac":(["infernal":490,"disruption":490,"stress":490,"unholy":490,"crushing":540,"cutting":540,"vacuum":490,"plasma":494,"impaling":540,"holy":490,"fire":498,"cold":498,"strike":530,"impact":530,"aether":490,"electricity":498,]),])

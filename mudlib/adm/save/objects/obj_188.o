@@ -1,8 +1,0 @@
-#/std/diewarzau/obj/misc/power_stone.c
-encumbrance 5
-props (["progress activate_powerstone_rihcter":0,"value":5000000,"pow activate_powerstone_rihcter":0,"total casting":960,])
-true_name "powerstone"
-creator "/d/daybreak/room/shop/magic_store"
-max_points 1000
-mp_left 1000
-activated 1

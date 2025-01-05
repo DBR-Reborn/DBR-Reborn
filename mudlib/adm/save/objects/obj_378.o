@@ -1,7 +1,0 @@
-#/d/damned/virtual/studded-leather-pants.armour.c
-encumbrance 130
-props (["value":120,"material_type":"leather","extra long":"Crafted by: Kigus with A Level [100] Gold dragon leather","progress engrave_kigus":0,"progress enchanter_mark_okkita":0,"new desc":"%^B_BLUE%^RESET%^ {pants}","progress engrave_inikhida":0,"material_name":"Gold dragon","pow enchanter_mark_okkita":0,"progress engrave_arcadia":0,])
-true_name "studded leather pants"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Gold dragon"
-armour_save (["short desc":"%^B_BLUE%^RESET%^ {pants}","ac":(["infernal":280,"disruption":279,"stress":277,"unholy":276,"crushing":282,"cutting":279,"vacuum":284,"plasma":285,"impaling":280,"holy":284,"fire":277,"cold":274,"strike":276,"impact":276,"aether":273,"electricity":284,]),])

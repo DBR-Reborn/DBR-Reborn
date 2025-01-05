@@ -1,7 +1,0 @@
-#/d/nocte/kuril/armour/commoners_clothes.c
-encumbrance 150
-props (["progress engrave_ceinna":0,"value":50,"extra long":({({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"none","new desc":"%^B_BLUE%^Divine silk%^RESET%^ {clothes}","progress enchanter_mark_okkita":0,"material_name":"cloth","progress engrave_yorik":0,"true armour":1,"pow enchanter_mark_okkita":0,"pow true_armour_okkita":0,"progress true_armour_okkita":0,"progress engrave_aartos":0,])
-true_name "commoners clothes"
-creator "/d/nocte/kuril/mon/kuril_cit_lw#423"
-material "/cloth"
-armour_save (["enhance critical":-4,"short desc":"%^B_BLUE%^Divine silk%^RESET%^ {clothes}","ac":(["infernal":5,"disruption":5,"stress":5,"unholy":5,"crushing":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"fire":5,"cold":5,"strike":5,"impact":5,"aether":5,"electricity":5,]),])

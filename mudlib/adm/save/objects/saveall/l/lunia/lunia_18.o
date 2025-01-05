@@ -1,8 +1,0 @@
-#/d/damned/virtual/gauntlet.armour
-#/d/damned/virtual/gauntlet.armour.c
-encumbrance 6
-props (["material_name":"raysorite","value":10,"extra long":"level[20] raysorite Gauntlet","material_type":"metal","new desc":"level[20] raysorite Gauntlet",])
-true_name "gauntlet"
-creator "/d/damned/virtual/armour_server"
-material "/metal/raysorite"
-armour_save (["short desc":"level[20] raysorite Gauntlet","ac":(["infernal":47,"disruption":47,"stress":47,"unholy":47,"crushing":47,"cutting":47,"vacuum":47,"plasma":47,"impaling":47,"holy":47,"fire":47,"cold":47,"strike":47,"impact":47,"aether":47,"electricity":47,]),])

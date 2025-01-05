@@ -1,8 +1,0 @@
-#/d/damned/virtual/wood-hand-guard.armour
-#/d/damned/virtual/wood-hand-guard.armour.c
-encumbrance 1
-props (["runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"new desc":"%^COLOR81%^Enchanted%^RESET%^ {wood hand guard}","material_name":"abachi","true armour":1,"pow enchanter_mark_rihcter":0,"pow true_armour_rihcter":0,"progress inscribe_malsa_bonnes_rihcter":0,"value":10,"extra long":({"Crafted by: Tursnik with A wooden board of abachi [360]",({"Fortification: %^CYAN%^+100%","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"wood","progress extreme_fortification_rihcter":0,"progress inscribe_aldara_zet_rihcter":0,"progress true_armour_rihcter":0,"pow extreme_fortification_rihcter":0,"progress enchanter_mark_rihcter":0,"progress inscribe_malsa_sen_zora_rihcter":0,"enchantment":100,])
-true_name "wood hand guard"
-creator "/d/damned/virtual/armour_server"
-material "/wood/abachi"
-armour_save (["enhance critical":-4,"short desc":"%^COLOR81%^Enchanted%^RESET%^ {wood hand guard}","ac":(["infernal":1028,"disruption":1157,"stress":969,"crushing":1179,"unholy":1031,"cutting":1200,"vacuum":942,"plasma":1013,"impaling":1222,"holy":945,"cold":984,"fire":1122,"strike":1206,"impact":1207,"electricity":967,"aether":1055,]),])

@@ -1,8 +1,0 @@
-#/d/damned/virtual/long-sword_5.weapon
-#/d/damned/virtual/long-sword_5.weapon.c
-encumbrance 90
-props (["material_name":"iron","value":409,"material_type":"metal",])
-true_name "long sword"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/iron"
-__Weapon (["original wc":(["impaling":6,"cutting":10,]),"wielded":,"quality":5,"limb string":" (wielded in right hand)","type":"blade","ac":(["infernal":4,"disruption":4,"stress":4,"crushing":4,"unholy":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"cold":4,"fire":4,"strike":4,"impact":4,"electricity":4,"aether":4,]),"verb":"slice","wc":(["impaling":6,"cutting":10,]),"short desc":"longsword","decay rate":200,"parry bonus":5,])

@@ -1,8 +1,0 @@
-#/d/damned/virtual/metal-boots.armour
-#/d/damned/virtual/metal-boots.armour.c
-encumbrance 70
-props (["progress true_armour_math":0,"progress bless_armour_magic":0,"value":4240,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"metal","extra long":({"Smithed by: Maker with laen [56] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress master_fortification_math":0,"new desc":"O {boots}","pow true_armour_math":0,"progress engrave_maker":0,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"laen","true armour":1,"enchantment":70,"pow bless_armour_magic":0,])
-true_name "metal boots"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-4,"short desc":"O {boots}","ac":(["infernal":649,"fire":637,"cold":596,"disruption":618,"stress":586,"unholy":619,"crushing":670,"cutting":595,"strike":581,"vacuum":650,"plasma":709,"impact":667,"impaling":594,"holy":676,"aether":673,"electricity":581,]),])

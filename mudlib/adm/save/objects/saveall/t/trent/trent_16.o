@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-jacket.armour
-#/d/damned/virtual/leather-jacket.armour.c
-encumbrance 1
-props (["runes":({"aldara zet","malsa bonnes","malsa sen zora","impacta",}),"value":45,"extra long":({"Crafted by: Trent with A Level [25] Young miner leather","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^B_CYAN%^%^BOLD%^Impacta%^RESET%^ rune is inscribed on the armour.",}),"material_type":"leather","progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,"material_name":"Young miner","progress inscribe_malsa_bonnes_trent":0,"progress inscribe_impacta_trent":0,])
-true_name "leather jacket"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Young miner"
-armour_save (["short desc":"A leather jacket","ac":(["infernal":325,"disruption":336,"stress":331,"unholy":333,"crushing":355,"cutting":346,"vacuum":332,"plasma":339,"impaling":346,"holy":333,"fire":347,"cold":338,"strike":337,"impact":509,"aether":324,"electricity":340,]),])

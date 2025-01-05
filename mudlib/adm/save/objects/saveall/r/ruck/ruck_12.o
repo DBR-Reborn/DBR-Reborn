@@ -1,8 +1,0 @@
-#/d/damned/virtual/gauntlet.armour
-#/d/damned/virtual/gauntlet.armour.c
-encumbrance 1
-props (["progress inscribe_malsa_sen_zora_azazel":0,"progress engrave_singe":0,"runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"value":471,"extra long":({"Smithed by: Azazel with laen [512] armour blank","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"metal","progress inscribe_malsa_bonnes_azazel":0,"progress engrave_azazel":0,"new desc":"Gauntlet {gauntlet}","material_name":"laen","true armour":1,"pow true_armour_azazel":0,"progress true_armour_azazel":0,"progress inscribe_aldara_zet_azazel":0,])
-true_name "gauntlet"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-5,"short desc":"Gauntlet {gauntlet}","ac":(["infernal":2688,"disruption":2647,"stress":2709,"unholy":2735,"crushing":2754,"cutting":3090,"vacuum":3006,"plasma":2763,"impaling":2781,"holy":2910,"fire":3127,"cold":2891,"strike":2689,"impact":2958,"aether":2993,"electricity":2831,]),])

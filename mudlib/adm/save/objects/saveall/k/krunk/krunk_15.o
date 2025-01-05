@@ -1,8 +1,0 @@
-#/d/damned/virtual/gauntlet.armour
-#/d/damned/virtual/gauntlet.armour.c
-encumbrance 6
-props (["material_name":"neorolite","value":10,"material_type":"metal","extra long":"level[48] neorolite gauntlet of impact and plasma protection","new desc":"level[48] neorolite gauntlet of impact and plasma protection",])
-true_name "gauntlet"
-creator "/d/damned/virtual/armour_server"
-material "/metal/neorolite"
-armour_save (["short desc":"level[48] neorolite gauntlet of impact and plasma protection","ac":(["infernal":76,"disruption":76,"stress":76,"crushing":76,"unholy":76,"cutting":76,"vacuum":76,"plasma":157,"impaling":76,"holy":76,"cold":76,"fire":76,"strike":76,"impact":170,"electricity":76,"aether":76,]),])

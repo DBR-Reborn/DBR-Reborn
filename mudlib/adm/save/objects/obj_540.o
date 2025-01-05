@@ -1,7 +1,0 @@
-#/d/damned/virtual/wood-leg-guards.armour.c
-encumbrance 450
-props (["material_name":"abachi","progress engrave_boric":0,"value":430,"material_type":"wood","extra long":"Crafted by: Tursnik with A wooden board of abachi [200]","progress engrave_tursnik":0,"progress engrave_kigus":0,"new desc":"%^B_BROWN%^%^RESET%^ {wood leg guards}",])
-true_name "wood leg guards"
-creator "/d/damned/virtual/armour_server"
-material "/wood/abachi"
-armour_save (["short desc":"%^B_BROWN%^%^RESET%^ {wood leg guards}","ac":(["infernal":473,"disruption":401,"stress":369,"crushing":399,"unholy":418,"cutting":407,"vacuum":416,"plasma":417,"impaling":454,"holy":481,"cold":472,"fire":482,"strike":399,"impact":468,"electricity":444,"aether":495,]),])

@@ -1,8 +1,0 @@
-#/d/damned/virtual/tabard.armour
-#/d/damned/virtual/tabard.armour.c
-encumbrance 20
-props (["material_name":"Elemental overlord","value":10,"runes":({"malsa bonnes","malsa sen zora",}),"progress inscribe_malsa_sen_zora_kharne":0,"material_type":"leather","extra long":({"Crafted by: Kharne with A Level [75] Elemental overlord leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_malsa_bonnes_kharne":0,])
-true_name "tabard"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Elemental overlord"
-armour_save (["short desc":"A tabard","ac":(["infernal":525,"disruption":517,"stress":516,"crushing":529,"unholy":522,"cutting":543,"vacuum":525,"plasma":527,"impaling":533,"holy":520,"cold":546,"fire":530,"strike":532,"impact":524,"electricity":524,"aether":524,]),])

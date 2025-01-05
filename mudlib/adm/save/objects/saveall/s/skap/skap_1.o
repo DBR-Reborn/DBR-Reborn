@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-glove.armour
-#/d/damned/virtual/leather-glove.armour.c
-encumbrance 2
-props (["progress true_armour_nawara":0,"progress engrave_dalton":0,"value":3,"material_type":"leather","extra long":({"Crafted by: Nawara with A Level [100] Silver dragon leather",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"new desc":"%^B_BLUE%^Angelic%^RESET%^ {leather glove}","material_name":"Silver dragon","true armour":1,"pow true_armour_nawara":0,])
-true_name "leather glove"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Silver dragon"
-armour_save (["enhance critical":-6,"short desc":"%^B_BLUE%^Angelic%^RESET%^ {leather glove}","ac":(["infernal":301,"disruption":302,"stress":306,"unholy":302,"crushing":310,"cutting":341,"vacuum":313,"plasma":316,"impaling":299,"holy":302,"fire":299,"cold":325,"strike":314,"impact":298,"aether":302,"electricity":297,]),])

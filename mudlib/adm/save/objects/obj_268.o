@@ -1,7 +1,0 @@
-#/d/damned/virtual/plate-greaves.armour.c
-encumbrance 1
-props (["pow true_armour_honspron":0,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"progress minor_fortification_honspron":0,"pow extreme_fortification_honspron":0,"pow major_fortification_honspron":0,"progress inscribe_malsa_sen_zora_honspron":0,"material_name":"laen","true armour":1,"pow minor_fortification_honspron":0,"progress inscribe_malsa_bonnes_honspron":0,"progress master_fortification_honspron":0,"value":20260,"extra long":({"Smithed by: Someone with laen [20] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),}),"material_type":"metal","pow master_fortification_honspron":0,"progress extreme_fortification_honspron":0,"progress inscribe_aldara_zet_honspron":0,"progress true_armour_honspron":0,"enchantment":100,"progress major_fortification_honspron":0,])
-true_name "plate greaves"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-5,"short desc":"A pair of plate greaves","ac":(["infernal":1011,"disruption":913,"stress":1037,"crushing":1024,"unholy":971,"cutting":908,"vacuum":1049,"plasma":982,"impaling":934,"holy":985,"cold":1027,"fire":939,"strike":933,"impact":964,"electricity":1097,"aether":924,]),])

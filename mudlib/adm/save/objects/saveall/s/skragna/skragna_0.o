@@ -1,8 +1,0 @@
-#/d/damned/virtual/small-shield.armour
-#/d/damned/virtual/small-shield.armour.c
-encumbrance 100
-props (["material_name":"pine","value":50,"extra long":"Crafted by: Tursnik with A wooden board of pine [104]","material_type":"wood",])
-true_name "small shield"
-creator "/d/damned/virtual/armour_server"
-material "/wood/pine"
-armour_save (["short desc":"A small shield","ac":(["infernal":357,"disruption":357,"stress":357,"unholy":357,"crushing":357,"cutting":357,"vacuum":357,"plasma":357,"impaling":357,"holy":357,"fire":357,"cold":357,"strike":357,"impact":357,"aether":357,"electricity":357,]),])

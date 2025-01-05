@@ -1,8 +1,0 @@
-#/d/damned/virtual/stumps.armour
-#/d/damned/virtual/stumps.armour.c
-encumbrance 70
-props (["material_name":"abachi","value":90,"extra long":"Crafted by: Alpha with A wooden board of abachi [56]","material_type":"wood",])
-true_name "stumps"
-creator "/d/damned/virtual/armour_server"
-material "/wood/abachi"
-armour_save (["short desc":"A pair of stumps","ac":(["infernal":157,"disruption":178,"stress":183,"unholy":151,"crushing":183,"cutting":159,"vacuum":162,"plasma":185,"impaling":154,"holy":154,"fire":185,"cold":168,"strike":171,"impact":183,"aether":191,"electricity":159,]),])

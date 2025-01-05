@@ -1,7 +1,0 @@
-#/d/damned/virtual/chain-mail.armour.c
-encumbrance 180
-props (["material_name":"laen","value":150,"extra long":"level[88] laen Mail of fire and vacuum protection","material_type":"metal","new desc":"level[88] laen Mail of fire and vacuum protection",])
-true_name "chain mail"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"level[88] laen Mail of fire and vacuum protection","ac":(["infernal":251,"disruption":251,"stress":251,"unholy":251,"crushing":251,"cutting":251,"vacuum":516,"plasma":251,"impaling":251,"holy":251,"fire":562,"cold":251,"strike":251,"impact":251,"aether":251,"electricity":251,]),])

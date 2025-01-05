@@ -1,8 +1,0 @@
-#/d/damned/virtual/gauntlet.armour
-#/d/damned/virtual/gauntlet.armour.c
-encumbrance 6
-props (["material_name":"laen","value":471,"runes":({"malsa bonnes","malsa sen zora",}),"progress inscribe_malsa_sen_zora_kharne":0,"material_type":"metal","extra long":({"Smithed by: Kharne with laen [148] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_malsa_bonnes_kharne":0,])
-true_name "gauntlet"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"A gauntlet","ac":(["infernal":567,"disruption":615,"stress":581,"crushing":591,"unholy":585,"cutting":559,"vacuum":618,"plasma":591,"impaling":628,"holy":573,"cold":624,"fire":622,"strike":588,"impact":567,"electricity":555,"aether":608,]),])

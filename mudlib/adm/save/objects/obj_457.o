@@ -1,7 +1,0 @@
-#/d/damned/virtual/short-sword_6.weapon.c
-encumbrance 45
-props (["material_name":"javednite","brittle":8,"value":2185,"runes":({"zalm lit",}),"material_type":"metal","extra long":({"This weapon was forged by: Singe with javednite [114] weapon blank","A %^MAGENTA%^%^BOLD%^Zalm Lit%^RESET%^ rune is inscribed on the weapon.",}),"progress inscribe_zalm_lit_singe":0,])
-true_name "short sword"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/javednite"
-__Weapon (["original wc":(["impaling":4,"cutting":7,]),"quality":6,"type":"blade","ac":(["infernal":3,"disruption":3,"stress":3,"crushing":3,"unholy":3,"cutting":3,"vacuum":3,"plasma":3,"impaling":3,"holy":3,"cold":3,"fire":3,"strike":3,"impact":3,"electricity":3,"aether":3,]),"verb":"slice","wc":(["impaling":168,"cutting":171,]),"short desc":"short sword","decay rate":16300,"parry bonus":138,])

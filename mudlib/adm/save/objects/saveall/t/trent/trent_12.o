@@ -1,8 +1,0 @@
-#/d/damned/virtual/chain-greaves.armour
-#/d/damned/virtual/chain-greaves.armour.c
-encumbrance 1
-props (["material_name":"laen","value":5654,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"progress inscribe_malsa_bonnes_trent":0,"extra long":({"Smithed by: Trent with laen [92] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,])
-true_name "chain greaves"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"A pair of chain greaves","ac":(["infernal":420,"disruption":413,"stress":418,"unholy":426,"crushing":423,"cutting":439,"vacuum":415,"plasma":415,"impaling":460,"holy":410,"fire":454,"cold":410,"strike":437,"impact":416,"aether":447,"electricity":410,]),])

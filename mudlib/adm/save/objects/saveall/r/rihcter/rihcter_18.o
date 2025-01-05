@@ -1,8 +1,0 @@
-#/d/damned/virtual/power-armour.armour
-#/d/damned/virtual/power-armour.armour.c
-encumbrance 1
-props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"%^COLOR81%^Enchanted%^RESET%^ {power}","material_name":"laen","true armour":1,"pow enchanter_mark_rihcter":0,"pow true_armour_rihcter":0,"value":150,"progress inscribe_malsa_bonnes_rihcter":0,"material_type":"metal","extra long":({"%^BOLD%^Power%^RESET%^ armour","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress extreme_fortification_rihcter":0,"progress true_armour_rihcter":0,"progress inscribe_aldara_zet_rihcter":0,"pow extreme_fortification_rihcter":0,"progress enchanter_mark_rihcter":0,"enchantment":100,"progress inscribe_malsa_sen_zora_rihcter":0,])
-true_name "power armour"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-5,"short desc":"%^COLOR81%^Enchanted%^RESET%^ {power}","ac":(["infernal":220,"disruption":220,"stress":220,"unholy":220,"crushing":178,"cutting":178,"vacuum":220,"plasma":223,"impaling":178,"holy":220,"fire":223,"cold":223,"strike":280,"impact":280,"aether":220,"electricity":223,]),])

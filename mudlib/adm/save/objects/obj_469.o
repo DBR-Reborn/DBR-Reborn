@@ -1,7 +1,0 @@
-#/d/damned/virtual/brass-knuckles_6.weapon.c
-encumbrance 25
-props (["material_name":"mithril","value":622,"material_type":"metal","extra long":"level[88] mithril Brass Knuckles of plasma and cold","new desc":"level[88] mithril Brass Knuckles of plasma and cold",])
-true_name "brass knuckles"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/mithril"
-__Weapon (["original wc":(["plasma":136,"cold":314,"crushing":10,]),"quality":6,"type":"melee","ac":(["infernal":5,"disruption":5,"stress":5,"crushing":5,"unholy":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"cold":5,"fire":5,"strike":5,"impact":5,"electricity":5,"aether":5,]),"verb":"punch","wc":(["plasma":136,"cold":314,"crushing":266,]),"short desc":"level[88] mithril Brass Knuckles of plasma and cold","decay rate":200,])

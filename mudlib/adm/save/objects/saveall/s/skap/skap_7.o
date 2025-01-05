@@ -1,7 +1,0 @@
-#/d/1tlny/loot/hooded_robe.c
-encumbrance 100
-props (["material_name":"cloth","progress engrave_dalton":0,"value":400,"extra long":"level[85] Rare Robe of stress and electricity protection","material_type":"none","new desc":"%^B_BLUE%^Angelic%^RESET%^ {robe}",])
-true_name "hooded robe"
-creator "/d/areas/ork/mon/1wildboyz#85471"
-material "/cloth"
-armour_save (["short desc":"%^B_BLUE%^Angelic%^RESET%^ {robe}","ac":(["infernal":304,"disruption":304,"stress":512,"unholy":304,"crushing":304,"cutting":304,"vacuum":304,"plasma":304,"impaling":304,"holy":304,"fire":304,"cold":304,"strike":304,"impact":304,"aether":304,"electricity":517,]),])

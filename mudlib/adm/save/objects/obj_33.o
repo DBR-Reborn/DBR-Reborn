@@ -1,7 +1,0 @@
-#/d/damned/virtual/tower-shield.armour.c
-encumbrance 1
-props (["progress inscribe_malsa_sen_zora_azazel":0,"runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"value":16490,"material_type":"metal","extra long":({"Smithed by: Azazel with laen [556] armour blank","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_malsa_bonnes_azazel":0,"progress engrave_azazel":0,"new desc":"%^COLOR220%^+CHAOS+%^RESET%^ {tower shield}","material_name":"laen","progress inscribe_aldara_zet_azazel":0,])
-true_name "tower shield"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"%^COLOR220%^+CHAOS+%^RESET%^ {tower shield}","ac":(["infernal":2555,"disruption":2680,"stress":2620,"crushing":2631,"unholy":2578,"cutting":2702,"vacuum":2740,"plasma":2660,"impaling":2739,"holy":2828,"cold":2707,"fire":2904,"strike":2837,"impact":2775,"electricity":2802,"aether":2944,]),])

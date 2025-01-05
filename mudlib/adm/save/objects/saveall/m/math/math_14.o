@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-belt.armour
-#/d/damned/virtual/leather-belt.armour.c
-encumbrance 2
-props (["value":4,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"leather","extra long":({"Crafted by: Maker with A Level [25] Hulking orc leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress master_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"Hulking orc","enchantment":70,])
-true_name "leather belt"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Hulking orc"
-armour_save (["short desc":"A nice leather belt","ac":(["infernal":348,"fire":349,"cold":362,"disruption":346,"stress":345,"unholy":343,"crushing":360,"cutting":357,"strike":356,"vacuum":343,"plasma":346,"impact":355,"impaling":359,"holy":348,"aether":349,"electricity":354,]),])

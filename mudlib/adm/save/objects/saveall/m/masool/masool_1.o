@@ -1,7 +1,0 @@
-#/d/areas/kobold/armor/shield.c
-encumbrance 300
-props (["material_name":"iron","value":75,"material_type":"metal",])
-true_name "kobold shield"
-creator "/d/areas/kobold/mon/warrior#159408"
-material "/metal/iron"
-armour_save (["ac":(["infernal":2,"fire":5,"cold":5,"disruption":0,"stress":3,"crushing":2,"strike":3,"cutting":8,"vacuum":1,"plasma":3,"impact":5,"impaling":8,"holy":4,"electricity":2,"aether":2,]),])

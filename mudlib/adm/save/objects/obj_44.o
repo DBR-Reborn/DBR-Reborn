@@ -1,7 +1,0 @@
-#/wizards/excelsior/tinker/board.c
-encumbrance 172
-props (["material_name":"abachi","value":430,"material_type":"wood",])
-true_name "board"
-creator "/std/skills/lumberjack#10723"
-material "/wood/abachi"
-wood 43

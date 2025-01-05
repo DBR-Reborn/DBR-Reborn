@@ -1,7 +1,0 @@
-#/d/damned/virtual/power-armour.armour.c
-encumbrance 1
-props (["material_name":"laen","runes":({"aldara zet",}),"value":150,"progress inscribe_aldara_zet_azazel":0,"extra long":({"%^BOLD%^Power%^RESET%^ armour","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","new desc":"%^BOLD%^Power%^RESET%^ armour",])
-true_name "power armour"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"%^BOLD%^Power%^RESET%^ armour","ac":(["infernal":210,"disruption":210,"stress":210,"unholy":210,"crushing":210,"cutting":210,"vacuum":210,"plasma":210,"impaling":210,"holy":210,"fire":210,"cold":210,"strike":210,"impact":210,"aether":210,"electricity":210,]),])

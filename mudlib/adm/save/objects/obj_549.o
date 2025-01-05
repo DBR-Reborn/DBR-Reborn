@@ -1,7 +1,0 @@
-#/d/damned/virtual/great-helm.armour.c
-encumbrance 100
-props (["material_name":"laen","value":45,"extra long":"%^BOLD%^Power%^RESET%^ helm","material_type":"metal","new desc":"%^BOLD%^Power%^RESET%^ helm",])
-true_name "great helm"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"%^BOLD%^Power%^RESET%^ helm","ac":(["infernal":202,"disruption":202,"stress":202,"unholy":202,"crushing":202,"cutting":202,"vacuum":202,"plasma":202,"impaling":202,"holy":202,"fire":202,"cold":202,"strike":202,"impact":202,"aether":202,"electricity":202,]),])

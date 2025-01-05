@@ -1,6 +1,0 @@
-#/wizards/diewarzau/obj/misc/leather2.c
-encumbrance 34
-props (["material_name":"Constable","value":17,"material_type":"leather","extra long":"Level [17] Constable","new desc":"Level [17] Constable",])
-true_name "leather"
-creator "/std/skills/skin_corpse#204538"
-material "/leather/Constable"

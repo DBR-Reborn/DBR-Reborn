@@ -1,5 +1,0 @@
-#/d/areas/goblin/items/knife.c
-encumbrance 15
-props (["material_name":"iron","decay":200,"value":30,"material_type":"metal",])
-material "/metal/iron"
-__Weapon (["original wc":(["impaling":7,]),"quality":2,"type":"knife","ac":(["infernal":0,"fire":0,"cold":0,"disruption":0,"stress":0,"unholy":0,"crushing":0,"cutting":0,"strike":0,"vacuum":0,"plasma":0,"impact":0,"impaling":0,"holy":0,"aether":0,"electricity":0,]),"verb":"poke","decay status":5,"wc":(["impaling":7,]),"short desc":"rusted knife","decay rate":200,"hit bonus":10,])

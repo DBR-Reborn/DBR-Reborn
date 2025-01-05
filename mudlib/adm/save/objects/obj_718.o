@@ -1,7 +1,0 @@
-#/d/damned/virtual/plate-greaves.armour.c
-encumbrance 153
-props (["material_name":"davistone","value":14895,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"progress inscribe_malsa_bonnes_trent":0,"material_type":"metal","extra long":({"Smithed by: Trent with davistone [36] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,])
-true_name "plate greaves"
-creator "/d/damned/virtual/armour_server"
-material "/metal/davistone"
-armour_save (["short desc":"A pair of plate greaves","ac":(["infernal":218,"disruption":218,"stress":218,"crushing":216,"unholy":218,"cutting":216,"vacuum":218,"plasma":220,"impaling":216,"holy":218,"cold":221,"fire":221,"strike":213,"impact":213,"electricity":221,"aether":218,]),])

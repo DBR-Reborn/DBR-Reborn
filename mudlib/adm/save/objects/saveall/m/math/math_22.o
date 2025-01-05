@@ -1,8 +1,0 @@
-#/d/damned/virtual/gauntlet.armour
-#/d/damned/virtual/gauntlet.armour.c
-encumbrance 6
-props (["runes":({"malsa bonnes","malsa sen zora",}),"value":10,"progress inscribe_malsa_sen_zora_maker":0,"extra long":({"Smithed by: Maker with An iron armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"material_type":"metal","progress major_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"progress minor_fortification_math":0,"material_name":"iron","pow major_fortification_math":0,"enchantment":40,"pow minor_fortification_math":0,])
-true_name "gauntlet"
-creator "/d/damned/virtual/armour_server"
-material "/metal/iron"
-armour_save (["short desc":"A gauntlet","ac":(["infernal":312,"disruption":312,"stress":312,"unholy":312,"crushing":337,"cutting":337,"vacuum":312,"plasma":315,"impaling":337,"holy":312,"fire":317,"cold":317,"strike":331,"impact":331,"aether":312,"electricity":317,]),])

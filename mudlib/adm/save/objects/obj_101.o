@@ -1,7 +1,0 @@
-#/d/damned/virtual/two-handed-sword_6.weapon.c
-encumbrance 425
-props (["material_name":"elrodnite","value":1966,"material_type":"metal","extra long":"level[56] elrodnite two-handed-sword of cutting and crushing","new desc":"level[56] elrodnite two-handed-sword of cutting and crushing",])
-true_name "two handed sword"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/elrodnite"
-__Weapon (["original wc":(["impaling":9,"crushing":109,"cutting":18,]),"quality":6,"type":"two handed blade","ac":(["infernal":4,"disruption":4,"stress":4,"crushing":4,"unholy":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"cold":4,"fire":4,"strike":4,"impact":4,"electricity":4,"aether":4,]),"verb":"slice","wc":(["impaling":9,"crushing":66,"cutting":63,]),"short desc":"level[56] elrodnite two-handed-sword of cutting and crushing","decay rate":200,"parry bonus":-5,])

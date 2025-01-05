@@ -1,7 +1,0 @@
-#/d/damned/virtual/battle-axe_6.weapon.c
-encumbrance 210
-props (["material_name":"mcgrail","value":327,"extra long":"level[49] mcgrail battle-axe of cold and vacuum","material_type":"metal","new desc":"level[49] mcgrail battle-axe of cold and vacuum",])
-true_name "battle axe"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/mcgrail"
-__Weapon (["original wc":(["cold":75,"crushing":61,"cutting":10,"vacuum":96,]),"quality":6,"type":"axe","ac":(["infernal":4,"disruption":4,"stress":4,"unholy":4,"crushing":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"fire":4,"cold":4,"strike":4,"impact":4,"aether":4,"electricity":4,]),"verb":"chop","wc":(["cold":75,"crushing":61,"cutting":10,"vacuum":96,]),"short desc":"level[49] mcgrail battle-axe of cold and vacuum","decay rate":200,"parry bonus":-20,])

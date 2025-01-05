@@ -1,7 +1,0 @@
-#/d/damned/virtual/plate-bracer.armour.c
-encumbrance 45
-props (["material_name":"inniculmoid","value":60,"material_type":"metal","extra long":"level[44] inniculmoid bracer of cutting and cutting protection","new desc":"level[44] inniculmoid bracer of cutting and cutting protection",])
-true_name "plate bracer"
-creator "/d/damned/virtual/armour_server"
-material "/metal/inniculmoid"
-armour_save (["short desc":"level[44] inniculmoid bracer of cutting and cutting protection","ac":(["infernal":86,"disruption":86,"stress":86,"crushing":86,"unholy":86,"cutting":133,"vacuum":86,"plasma":86,"impaling":86,"holy":86,"cold":86,"fire":86,"strike":86,"impact":86,"electricity":86,"aether":86,]),])

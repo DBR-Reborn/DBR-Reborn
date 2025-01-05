@@ -1,7 +1,0 @@
-#/d/damned/virtual/great-helm.armour.c
-encumbrance 100
-props (["value":45,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"metal","extra long":({"Smithed by: Maker with An iron armour blank",({"Fortification: %^CYAN%^+40","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_malsa_sen_zora_maker":0,"progress major_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"material_name":"iron","progress minor_fortification_math":0,"pow major_fortification_math":0,"enchantment":40,"pow minor_fortification_math":0,])
-true_name "great helm"
-creator "/d/damned/virtual/armour_server"
-material "/metal/iron"
-armour_save (["short desc":"A great helm","ac":(["infernal":284,"disruption":284,"stress":284,"unholy":284,"crushing":309,"cutting":309,"vacuum":284,"plasma":287,"impaling":309,"holy":284,"fire":288,"cold":288,"strike":304,"impact":304,"aether":284,"electricity":288,]),])

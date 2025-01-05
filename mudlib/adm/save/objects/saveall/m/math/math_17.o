@@ -1,8 +1,0 @@
-#/d/damned/virtual/studded-leather-glove.armour
-#/d/damned/virtual/studded-leather-glove.armour.c
-encumbrance 3
-props (["value":6,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"leather","extra long":({"Crafted by: Maker with A Level [27] Hulking orc leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress master_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"Hulking orc","enchantment":70,])
-true_name "studded leather glove"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Hulking orc"
-armour_save (["short desc":"A studded leather glove","ac":(["infernal":347,"fire":359,"cold":368,"disruption":350,"stress":348,"unholy":353,"crushing":362,"cutting":359,"strike":362,"vacuum":351,"plasma":352,"impact":366,"impaling":358,"holy":348,"aether":347,"electricity":352,]),])

@@ -1,8 +1,0 @@
-#/d/damned/virtual/stumps.armour
-#/d/damned/virtual/stumps.armour.c
-encumbrance 70
-props (["progress engrave_kigus":0,"new desc":"%^B_BLUE%^Divine%^RESET%^ {stumps}","progress engrave_inikhida":0,"material_name":"pine","true armour":1,"progress engrave_nawara":0,"progress engrave_arcadia":0,"progress enchanter_mark_nawara":0,"progress engrave_aartos":0,"pow enchanter_mark_nawara":0,"progress engrave_angelica":0,"value":90,"progress engrave_skye":0,"material_type":"wood","extra long":({"Crafted by: Tursnik with A wooden board of pine [212]",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress enchanter_mark_okkita":0,"progress engrave_yorik":0,"pow enchanter_mark_okkita":0,"pow true_armour_okkita":0,"progress true_armour_okkita":0,])
-true_name "stumps"
-creator "/d/damned/virtual/armour_server"
-material "/wood/pine"
-armour_save (["enhance critical":-4,"short desc":"%^B_BLUE%^Divine%^RESET%^ {stumps}","ac":(["infernal":599,"disruption":599,"stress":599,"crushing":599,"unholy":599,"cutting":599,"vacuum":599,"plasma":599,"impaling":599,"holy":599,"cold":599,"fire":599,"strike":599,"impact":599,"electricity":599,"aether":599,]),])

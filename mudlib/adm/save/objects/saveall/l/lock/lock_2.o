@@ -1,7 +1,0 @@
-#/d/1tlny/loot/hooded_robe.c
-encumbrance 100
-props (["material_name":"cloth","value":400,"material_type":"none","extra long":"level[41] Rare Robe of fire and vacuum protection","new desc":"level[41] Rare Robe of fire and vacuum protection",])
-true_name "hooded robe"
-creator "/d/areas/dragon/mon/skinny_dragon#390461"
-material "/cloth"
-armour_save (["short desc":"level[41] Rare Robe of fire and vacuum protection","ac":(["infernal":59,"disruption":59,"stress":59,"crushing":59,"unholy":59,"cutting":59,"vacuum":131,"plasma":59,"impaling":59,"holy":59,"cold":59,"fire":156,"strike":59,"impact":59,"electricity":59,"aether":59,]),])

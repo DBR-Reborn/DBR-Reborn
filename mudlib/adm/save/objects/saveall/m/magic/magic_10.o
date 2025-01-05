@@ -1,8 +1,0 @@
-#/d/damned/virtual/metal-visor.armour
-#/d/damned/virtual/metal-visor.armour.c
-encumbrance 30
-props (["progress true_armour_math":0,"progress bless_armour_magic":0,"value":2355,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"metal","extra long":({"Smithed by: Maker with laen [52] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress master_fortification_math":0,"new desc":"O {visor}","pow true_armour_math":0,"progress engrave_maker":0,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"laen","true armour":1,"enchantment":70,"pow bless_armour_magic":0,])
-true_name "metal visor"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-4,"short desc":"O {visor}","ac":(["infernal":641,"fire":580,"cold":596,"disruption":631,"stress":548,"unholy":589,"crushing":629,"cutting":689,"strike":626,"vacuum":591,"plasma":605,"impact":580,"impaling":602,"holy":667,"aether":645,"electricity":662,]),])

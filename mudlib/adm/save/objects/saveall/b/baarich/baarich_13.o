@@ -1,8 +1,0 @@
-#/d/damned/virtual/robe.armour
-#/d/damned/virtual/robe.armour.c
-encumbrance 3
-props (["runes":({"aldara zet","malsa bonnes","malsa sen zora","cutta",}),"value":10,"extra long":({"Crafted by: Trent with A Level [15] Watchman leather","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BOLD%^Cutta%^RESET%^ rune is inscribed on the armour.",}),"material_type":"leather","progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,"progress inscribe_cutta_trent":0,"material_name":"Watchman","progress inscribe_malsa_bonnes_trent":0,])
-true_name "robe"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Watchman"
-armour_save (["short desc":"A Robe","ac":(["infernal":244,"disruption":251,"stress":253,"crushing":275,"unholy":250,"cutting":403,"vacuum":248,"plasma":252,"impaling":279,"holy":250,"cold":258,"fire":267,"strike":266,"impact":268,"electricity":258,"aether":248,]),])

@@ -1,7 +1,0 @@
-#/std/diewarzau/obj/misc/rations_pack.c
-encumbrance 50
-props (["value":28,])
-true_name "pack"
-creator "/d/newbieville/rooms/upperfloor2"
-picks_left 4
-ration_type 1

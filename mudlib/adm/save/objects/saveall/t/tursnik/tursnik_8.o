@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-boots.armour
-#/d/damned/virtual/leather-boots.armour.c
-encumbrance 30
-props (["material_name":"Silver dragon","value":30,"progress engrave_tursnik":0,"extra long":"Crafted by: Azazel with A Level [100] Silver dragon leather","material_type":"leather","new desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {leather boots}",])
-true_name "leather boots"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Silver dragon"
-armour_save (["short desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {leather boots}","ac":(["infernal":339,"disruption":345,"stress":334,"unholy":347,"crushing":344,"cutting":341,"vacuum":346,"plasma":334,"impaling":359,"holy":347,"fire":360,"cold":353,"strike":340,"impact":351,"aether":347,"electricity":335,]),])

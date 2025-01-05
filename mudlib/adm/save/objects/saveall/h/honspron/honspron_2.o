@@ -1,7 +1,0 @@
-#/wizards/honspron/obj/sword_of_honspron.c
-encumbrance 10
-props (["brittle":416,"value":10000,"progress bless_weapon_honspron":0,"auto critical":(["vacuum D":300,]),"material_type":"metal","extra long":({({"This weapon has %^BOLD%^Bless Weapon%^RESET%^.","detect magic",}),({"This weapon has %^YELLOW%^%^BOLD%^Lightning%^RESET%^ Blade.","detect magic",}),}),"progress lightning_blade_honspron":0,"pow bless_weapon_honspron":0,"material_name":"eog","bless weapon":7,"pow lightning_blade_honspron":0,"lightning blade":9,"hit bonus":200,])
-true_name "sword of honspron"
-creator "/cmds/system/_clone"
-material "/metal/eog"
-__Weapon (["original wc":(["fire":550,"cold":550,"disruption":550,"stress":378,"unholy":550,"crushing":550,"cutting":550,"vacuum":550,"plasma":550,"impaling":550,"holy":550,"electricity":378,"aether":550,]),"wielded":,"enhance critical":200,"quality":6,"limb string":" (wielded in right hand and left hand)","type":"two handed blade","ac":(["infernal":200,"disruption":550,"stress":200,"crushing":550,"unholy":550,"cutting":550,"vacuum":550,"plasma":550,"impaling":550,"holy":550,"cold":550,"fire":550,"strike":200,"impact":200,"electricity":200,"aether":550,]),"verb":"destroy","wc":(["fire":550,"cold":550,"disruption":550,"stress":378,"unholy":550,"crushing":550,"cutting":550,"vacuum":550,"plasma":550,"impaling":550,"holy":828,"electricity":378,"aether":550,]),"decay status":283,"short desc":"%^ORANGE%^A rusty old sword%^RESET%^","decay rate":100000,])

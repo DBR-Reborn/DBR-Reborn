@@ -1,7 +1,0 @@
-#/d/damned/virtual/club_6.weapon.c
-encumbrance 150
-props (["material_name":"abachi","value":524,"progress engrave_tursnik":0,"extra long":"Crafted by: Tursnik with A wooden board of abachi [136]","material_type":"wood","new desc":"I SMASH {club}",])
-true_name "club"
-creator "/d/damned/virtual/weapon_server"
-material "/wood/abachi"
-__Weapon (["original wc":(["crushing":10,"aether":201,]),"quality":6,"type":"blunt","ac":(["infernal":5,"disruption":5,"stress":5,"unholy":5,"crushing":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"fire":5,"cold":5,"strike":5,"impact":5,"aether":5,"electricity":5,]),"verb":"bash","decay status":3780,"wc":(["crushing":205,"aether":201,]),"short desc":"I SMASH {club}","decay rate":37000,"parry bonus":-15,])

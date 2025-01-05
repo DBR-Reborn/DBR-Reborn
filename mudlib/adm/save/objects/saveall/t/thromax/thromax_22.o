@@ -1,5 +1,0 @@
-#/std/diewarzau/obj/misc/sextant.c
-encumbrance 25
-props (["value":80,"progress engrave_thromax":0,"new desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {sextant}",])
-true_name "sextant"
-creator "/d/daybreak/room/shop/general_store_store"

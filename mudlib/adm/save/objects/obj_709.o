@@ -1,7 +1,0 @@
-#/d/damned/virtual/broad-sword_4.weapon.c
-encumbrance 100
-props (["material_name":"boernerine","value":256,"material_type":"metal","extra long":"level[15] boernerine Broad Sword","new desc":"level[15] boernerine Broad Sword",])
-true_name "broad sword"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/boernerine"
-__Weapon (["original wc":(["impaling":4,"crushing":31,"cutting":12,]),"quality":4,"type":"blade","ac":(["infernal":3,"disruption":3,"stress":3,"crushing":3,"unholy":3,"cutting":3,"vacuum":3,"plasma":3,"impaling":3,"holy":3,"cold":3,"fire":3,"strike":3,"impact":3,"electricity":3,"aether":3,]),"verb":"slice","wc":(["impaling":4,"crushing":31,"cutting":12,]),"short desc":"level[15] boernerine Broad Sword","decay rate":200,"parry bonus":5,])

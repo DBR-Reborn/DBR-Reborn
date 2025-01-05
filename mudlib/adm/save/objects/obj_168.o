@@ -1,6 +1,0 @@
-#/wizards/diewarzau/obj/misc/armour_blank.c
-encumbrance 32
-props (["material_name":"davistone","material_type":"metal",])
-true_name "blank"
-creator "/d/damned/guilds/tinker/furnace"
-material "/metal/davistone"

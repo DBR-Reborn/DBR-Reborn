@@ -1,8 +1,0 @@
-#/d/damned/virtual/footman's-mace_2.weapon
-#/d/damned/virtual/footman's-mace_2.weapon.c
-encumbrance 150
-props (["material_name":"platnite","value":80,"material_type":"metal",])
-true_name "footman's mace"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/platnite"
-__Weapon (["wielded":,"quality":2,"limb string":" (wielded in right hand)","verb":"pound","decay status":911,"wc":(["crushing":10,]),"original wc":(["crushing":10,]),"auto critical":({"electricity A",}),"type":"blunt","ac":(["infernal":5,"disruption":5,"stress":5,"crushing":5,"unholy":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"cold":5,"fire":5,"strike":5,"impact":5,"electricity":5,"aether":5,]),"short desc":"footman's mace","decay rate":1000,"parry bonus":50,"hit bonus":50,])

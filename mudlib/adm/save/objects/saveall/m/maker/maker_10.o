@@ -1,8 +1,0 @@
-#/d/damned/virtual/broad-sword_6.weapon
-#/d/damned/virtual/broad-sword_6.weapon.c
-encumbrance 100
-props (["brittle":46,"progress enchanter_mark_math":0,"new desc":"%^BOLD%^%^GREEN%^Kate%^RESET%^ {broad sword}","material_name":"laen","pow true_weapon_math":0,"lock pow:math":6,"lock ele:math":"nexus","float value":1499155.000000,"value":1985155,"material_type":"metal","extra long":({"%^BOLD%^Power%^RESET%^ Sword",({"This weapon has %^BLUE%^%^BOLD%^True Weapon%^RESET%^.","detect magic",}),}),"progress true_weapon_math":0,"lock spell:math":"greater essential blade","progress lock_enchantment_math":0,"pow lock_enchantment_math":0,"locked enchant":(["two":({"greater elemental blade",6,193,1730926675,0,"nexus",}),"three":({"greater elemental blade",6,174,1730928215,0,"fire",}),"one":({"greater elemental blade",6,193,1730926670,0,"nexus",}),"four":({"greater essential blade",6,174,0,0,"nexus",}),]),"true weapon":1,"pow enchanter_mark_math":0,"lock verb:math":"four",])
-true_name "broad sword"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/laen"
-__Weapon (["original wc":(["impact":202,"cold":202,"plasma":202,"impaling":4,"stress":202,"cutting":12,]),"enhance critical":4,"quality":6,"type":"blade","ac":(["infernal":3,"disruption":3,"stress":3,"unholy":3,"crushing":3,"cutting":3,"vacuum":3,"plasma":3,"impaling":3,"holy":3,"fire":3,"cold":3,"strike":3,"impact":3,"aether":3,"electricity":3,]),"verb":"slice","wc":(["impact":202,"cold":202,"plasma":202,"impaling":4,"stress":202,"cutting":12,]),"short desc":"%^BOLD%^%^GREEN%^Kate%^RESET%^ {broad sword}","decay rate":200,"parry bonus":5,])

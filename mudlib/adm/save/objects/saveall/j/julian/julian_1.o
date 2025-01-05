@@ -1,7 +1,0 @@
-#/d/damned/guilds/tinker/t_dragon_scale.c
-encumbrance 120
-props (["pow bless_armour_dalau":0,"progress bless_armour_dalau":0,"progress true_armour_zurr":0,"new desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Honour Insigna%^RESET%^ {scale}","progress major_fortification_zurr":0,"progress master_fortification_zurr":0,"material_name":"iron","progress engrave_dalau":0,"progress engrave_julian":0,"true armour":1,"pow extreme_fortification_zurr":0,"progress extreme_fortification_zurr":0,"pow enchanter_mark_zurr":0,"value":5000,"extra long":({({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),}),"material_type":"metal","progress enchanter_mark_zurr":0,"pow true_armour_zurr":0,"pow master_fortification_zurr":0,"pow major_fortification_zurr":0,"enchantment":100,])
-true_name "rare dragon scale"
-creator "/d/damned/guilds/tinker/t_dragon#239877"
-material "/metal/iron"
-armour_save (["enhance critical":-5,"short desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Honour Insigna%^RESET%^ {scale}","ac":(["infernal":12,"disruption":12,"stress":12,"crushing":12,"unholy":12,"cutting":12,"vacuum":12,"plasma":12,"impaling":12,"holy":12,"cold":12,"fire":12,"strike":12,"impact":12,"electricity":12,"aether":12,]),])

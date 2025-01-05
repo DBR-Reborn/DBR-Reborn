@@ -1,9 +1,0 @@
-#/std/obj/misc/h_rune.c
-props (["pow preserve_rune_rihcter":0,"non-combat":1,"progress preserve_rune_rihcter":0,"can resist":1,"preserved":1,])
-true_name "rune"
-creator "/std/spells/healing_rune#95275"
-register_idx 16
-caster "rihcter"
-my_file "rune_0"
-non_active ({})
-level 6

@@ -1,7 +1,0 @@
-#/d/damned/virtual/breast-plate.armour.c
-encumbrance 500
-props (["material_name":"raysorite","value":350,"material_type":"metal","extra long":"level[19] raysorite Breast Plate","new desc":"level[19] raysorite Breast Plate",])
-true_name "breast plate"
-creator "/d/damned/virtual/armour_server"
-material "/metal/raysorite"
-armour_save (["short desc":"level[19] raysorite Breast Plate","ac":(["infernal":50,"disruption":50,"stress":50,"crushing":50,"unholy":50,"cutting":50,"vacuum":50,"plasma":50,"impaling":50,"holy":50,"cold":50,"fire":50,"strike":50,"impact":50,"electricity":50,"aether":50,]),])

@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-helmet.armour
-#/d/damned/virtual/leather-helmet.armour.c
-encumbrance 60
-props (["runes":({"malsa bonnes","malsa sen zora",}),"value":45,"progress inscribe_malsa_sen_zora_maker":0,"extra long":({"Crafted by: Maker with A Level [26] Huge troll leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),}),"material_type":"leather","progress major_fortification_math":0,"progress master_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"Huge troll","pow major_fortification_math":0,"enchantment":70,])
-true_name "leather helmet"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Huge troll"
-armour_save (["short desc":"A leather helmet","ac":(["infernal":344,"disruption":345,"stress":342,"crushing":361,"unholy":349,"cutting":355,"vacuum":346,"plasma":352,"impaling":359,"holy":347,"cold":353,"fire":356,"strike":353,"impact":349,"electricity":356,"aether":346,]),])

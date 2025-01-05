@@ -1,7 +1,0 @@
-#/d/damned/virtual/large-shield.armour.c
-encumbrance 150
-props (["value":75,"extra long":"level[118] raysorite shield of electricity and fire protection","material_type":"metal","new desc":"%^B_BLUE%^Divinium%^RESET%^ {shield}","progress enchanter_mark_okkita":0,"material_name":"raysorite","progress engrave_yorik":0,"pow enchanter_mark_okkita":0,"progress engrave_aartos":0,])
-true_name "large shield"
-creator "/d/damned/virtual/armour_server"
-material "/metal/raysorite"
-armour_save (["short desc":"%^B_BLUE%^Divinium%^RESET%^ {shield}","ac":(["infernal":623,"disruption":623,"stress":623,"unholy":623,"crushing":623,"cutting":623,"vacuum":623,"plasma":623,"impaling":623,"holy":623,"fire":3054,"cold":623,"strike":623,"impact":623,"aether":623,"electricity":3217,]),])

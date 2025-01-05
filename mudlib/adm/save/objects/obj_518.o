@@ -1,7 +1,0 @@
-#/d/damned/virtual/plate-bracer.armour.c
-encumbrance 45
-props (["material_name":"laen","value":60,"material_type":"metal","extra long":"level[93] laen Bracer of fire and stress protection","new desc":"level[93] laen Bracer of fire and stress protection",])
-true_name "plate bracer"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"level[93] laen Bracer of fire and stress protection","ac":(["infernal":669,"disruption":669,"stress":999,"crushing":669,"unholy":669,"cutting":669,"vacuum":669,"plasma":669,"impaling":669,"holy":669,"cold":669,"fire":1011,"strike":669,"impact":669,"electricity":669,"aether":669,]),])

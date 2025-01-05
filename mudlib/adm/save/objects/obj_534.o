@@ -1,6 +1,0 @@
-#/wizards/diewarzau/obj/misc/leather2.c
-encumbrance 52
-props (["material_name":"Huge troll","value":26,"material_type":"leather","extra long":"Level [26] Huge troll","new desc":"Level [26] Huge troll",])
-true_name "leather"
-creator "/std/skills/skin_corpse#107601"
-material "/leather/Huge troll"

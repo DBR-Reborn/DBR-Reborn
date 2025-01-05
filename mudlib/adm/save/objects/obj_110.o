@@ -1,7 +1,0 @@
-#/d/damned/virtual/large-shield.armour.c
-encumbrance 150
-props (["material_name":"inniculmoid","value":75,"extra long":"level[41] inniculmoid shield of plasma and fire protection","material_type":"metal","new desc":"level[41] inniculmoid shield of plasma and fire protection",])
-true_name "large shield"
-creator "/d/damned/virtual/armour_server"
-material "/metal/inniculmoid"
-armour_save (["short desc":"level[41] inniculmoid shield of plasma and fire protection","ac":(["infernal":64,"disruption":64,"stress":64,"unholy":64,"crushing":64,"cutting":64,"vacuum":64,"plasma":125,"impaling":64,"holy":64,"fire":153,"cold":64,"strike":64,"impact":64,"aether":64,"electricity":64,]),])

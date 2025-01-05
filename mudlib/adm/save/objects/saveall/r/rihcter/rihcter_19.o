@@ -1,7 +1,0 @@
-#/d/khojem/new/armor/rag_pants.c
-encumbrance 140
-props (["new desc":"%^COLOR81%^Enchanted%^RESET%^ {pants}","material_name":"leather","true armour":1,"pow enchanter_mark_rihcter":0,"pow true_armour_rihcter":0,"value":1,"material_type":"misc","extra long":({({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress extreme_fortification_rihcter":0,"progress true_armour_rihcter":0,"pow extreme_fortification_rihcter":0,"progress enchanter_mark_rihcter":0,"enchantment":100,])
-true_name "rag pants"
-creator "/d/khojem/new/mon/orc_warrior#9587"
-material "/misc/leather"
-armour_save (["enhance critical":-6,"short desc":"%^COLOR81%^Enchanted%^RESET%^ {pants}","ac":(["infernal":1,"disruption":2,"stress":1,"crushing":4,"unholy":4,"cutting":4,"vacuum":1,"plasma":1,"impaling":4,"holy":0,"cold":4,"fire":3,"strike":1,"impact":4,"electricity":1,"aether":0,]),])

@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-glove.armour
-#/d/damned/virtual/leather-glove.armour.c
-encumbrance 1
-props (["progress inscribe_malsa_bonnes_dalton":0,"progress engrave_dalton":0,"runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"value":3,"extra long":({"Crafted by: Dalton with A Level [100] Silver dragon leather","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",}),"material_type":"leather","new desc":"%^B_BLUE%^Angelic%^RESET%^ {leather glove}","material_name":"Silver dragon","progress inscribe_aldara_zet_dalton":0,"progress inscribe_malsa_sen_zora_dalton":0,])
-true_name "leather glove"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Silver dragon"
-armour_save (["short desc":"%^B_BLUE%^Angelic%^RESET%^ {leather glove}","ac":(["infernal":445,"disruption":445,"stress":445,"crushing":457,"unholy":448,"cutting":467,"vacuum":448,"plasma":446,"impaling":455,"holy":446,"cold":453,"fire":461,"strike":456,"impact":451,"electricity":448,"aether":447,]),])

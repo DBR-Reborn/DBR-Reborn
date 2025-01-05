@@ -1,5 +1,0 @@
-#/std/diewarzau/obj/misc/sextant.c
-encumbrance 25
-props (["value":80,"pow enchanter_mark_rihcter":0,"progress enchanter_mark_rihcter":0,"new desc":"%^COLOR81%^Enchanted%^RESET%^ {sextant}",])
-true_name "sextant"
-creator "/d/daybreak/room/shop/general_store_store"

@@ -1,8 +1,0 @@
-#/d/damned/virtual/plate-greaves.armour
-#/d/damned/virtual/plate-greaves.armour.c
-encumbrance 1
-props (["progress engrave_singe":0,"progress inscribe_malsa_bonnes_singe":0,"runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"new desc":"%^B_BLUE%^Divinium%^RESET%^ {greaves}","material_name":"laen","true armour":1,"progress inscribe_malsa_sen_zora_singe":0,"progress engrave_aartos":0,"pow true_armour_upstart":0,"value":20260,"material_type":"metal","extra long":({"Smithed by: Singe with laen [228] armour blank","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress extreme_fortification_upstart":0,"progress enchanter_mark_okkita":0,"progress true_armour_upstart":0,"progress engrave_yorik":0,"pow extreme_fortification_upstart":0,"pow enchanter_mark_okkita":0,"progress inscribe_aldara_zet_singe":0,"enchantment":100,])
-true_name "plate greaves"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-4,"short desc":"%^B_BLUE%^Divinium%^RESET%^ {greaves}","ac":(["infernal":868,"disruption":869,"stress":788,"unholy":826,"crushing":852,"cutting":828,"vacuum":872,"plasma":859,"impaling":774,"holy":833,"fire":867,"cold":872,"strike":816,"impact":788,"aether":817,"electricity":831,]),])

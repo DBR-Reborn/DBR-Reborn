@@ -1,8 +1,0 @@
-#/d/damned/virtual/metal-boots.armour
-#/d/damned/virtual/metal-boots.armour.c
-encumbrance 1
-props (["progress inscribe_malsa_sen_zora_creg":0,"runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"value":4240,"extra long":({"Smithed by: Creg with laen [272] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"metal","progress inscribe_aldara_zet_creg":0,"progress true_armour_creg":0,"progress inscribe_malsa_bonnes_creg":0,"material_name":"laen","true armour":1,"pow true_armour_creg":0,])
-true_name "metal boots"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-4,"short desc":"A pair of metal boots","ac":(["infernal":1159,"disruption":1154,"stress":1195,"crushing":1250,"unholy":1189,"cutting":1157,"vacuum":1151,"plasma":1264,"impaling":1237,"holy":1214,"cold":1199,"fire":1289,"strike":1165,"impact":1249,"electricity":1200,"aether":1231,]),])

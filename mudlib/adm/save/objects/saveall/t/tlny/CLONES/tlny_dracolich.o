@@ -1,6 +1,0 @@
-#/wizards/diewarzau/obj/misc/emb_corpse.c
-encumbrance 40
-props (["progress animate_dracolich_test":1500000,"value":2,"pow animate_dracolich_test":8,"level":30,])
-true_name "corpse"
-creator "/std/skills/prepare_corpse#3552"
-level 30

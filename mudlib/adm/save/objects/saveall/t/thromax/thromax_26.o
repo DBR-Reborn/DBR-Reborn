@@ -1,8 +1,0 @@
-#/d/damned/virtual/tabard.armour
-#/d/damned/virtual/tabard.armour.c
-encumbrance 20
-props (["runes":({"malsa bonnes","malsa sen zora",}),"progress inscribe_malsa_bonnes_rihcter":0,"value":10,"extra long":({"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),}),"material_type":"misc","progress extreme_fortification_rihcter":0,"new desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {tabard}","pow extreme_fortification_rihcter":0,"material_name":"leather","progress engrave_thromax":0,"progress inscribe_malsa_sen_zora_rihcter":0,"enchantment":100,])
-true_name "tabard"
-creator "/d/damned/virtual/armour_server"
-material "/misc/leather"
-armour_save (["short desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {tabard}","ac":(["infernal":158,"disruption":151,"stress":151,"crushing":116,"unholy":158,"cutting":116,"vacuum":158,"plasma":154,"impaling":116,"holy":147,"cold":161,"fire":161,"strike":211,"impact":218,"electricity":154,"aether":147,]),])

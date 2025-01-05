@@ -1,7 +1,0 @@
-#/d/damned/virtual/plate-greaves.armour.c
-encumbrance 450
-props (["material_name":"iysaughton","value":430,"extra long":"level[48] iysaughton greaves of fire and fire protection","material_type":"metal","new desc":"level[48] iysaughton greaves of fire and fire protection",])
-true_name "plate greaves"
-creator "/d/damned/virtual/armour_server"
-material "/metal/iysaughton"
-armour_save (["short desc":"level[48] iysaughton greaves of fire and fire protection","ac":(["infernal":64,"disruption":64,"stress":64,"unholy":64,"crushing":64,"cutting":64,"vacuum":64,"plasma":64,"impaling":64,"holy":64,"fire":157,"cold":64,"strike":64,"impact":64,"aether":64,"electricity":64,]),])

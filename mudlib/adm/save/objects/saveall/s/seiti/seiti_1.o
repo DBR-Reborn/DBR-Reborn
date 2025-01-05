@@ -1,6 +1,0 @@
-#/wizards/diewarzau/obj/misc/dagger_belt.c
-encumbrance 50
-props (["float value":1.800000,])
-true_name "daggers"
-creator "/d/damned/guilds/thief/shop_store"
-picks_left 4

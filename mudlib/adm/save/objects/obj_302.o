@@ -1,7 +1,0 @@
-#/d/damned/virtual/leather-helmet.armour.c
-encumbrance 60
-props (["runes":({"malsa bonnes","malsa sen zora",}),"new desc":"%^B_BLUE%^RESET%^ {leather helmet}","progress engrave_lilund":0,"material_name":"Dragon","progress engrave_boric":0,"true armour":1,"progress extreme_fortification_azazel":0,"value":45,"material_type":"leather","extra long":({"Crafted by: Azazel with A Level [50] Dragon leather",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress engrave_azazel":0,"pow extreme_fortification_azazel":0,"progress enchanter_mark_okkita":0,"pow enchanter_mark_okkita":0,"progress inscribe_malsa_sen_zora_lore":0,"pow true_armour_azazel":0,"progress true_armour_azazel":0,"progress inscribe_malsa_bonnes_lore":0,"enchantment":100,])
-true_name "leather helmet"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Dragon"
-armour_save (["enhance critical":-4,"short desc":"%^B_BLUE%^RESET%^ {leather helmet}","ac":(["infernal":391,"disruption":389,"stress":398,"unholy":392,"crushing":409,"cutting":417,"vacuum":394,"plasma":396,"impaling":411,"holy":390,"fire":408,"cold":402,"strike":404,"impact":409,"aether":395,"electricity":400,]),])

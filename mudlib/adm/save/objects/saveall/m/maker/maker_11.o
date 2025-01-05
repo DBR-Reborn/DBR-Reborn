@@ -1,7 +1,0 @@
-#/d/areas/catacombs/weapon/boneswrd.c
-encumbrance 250
-props (["brittle":57,"progress enchanter_mark_math":0,"pow flame_blade_math":0,"new desc":"%^BOLD%^%^YELLOW%^Electric%^BOLD%^%^RED%^FIRE %^RESET%^ {bone sword}","pow electric_blade_math":0,"flame blade":25,"material_name":"mithril","progress electric_blade_math":0,"no add quality":1,"progress flame_blade_math":0,"value":10000,"extra long":({({"This weapon has %^ORANGE%^Flame Blade%^RESET%^.","detect magic",}),({"This weapon has %^YELLOW%^Electric%^RESET%^ Blade.","detect magic",}),}),"material_type":"metal","electric blade":3,"KEEP":1,"pow enchanter_mark_math":0,])
-true_name "bone sword"
-creator "/d/areas/catacombs/mon/rufus#54890"
-material "/metal/mithril"
-__Weapon (["quality":6,"verb":"hit","decay status":0,"wc":(["fire":304,"impaling":20,"cutting":35,"electricity":202,]),"original wc":(["fire":98,"impaling":20,"cutting":35,"electricity":75,]),"unwield":"Your body shivers as you place the sword back in its sheath.","type":"blade","wield":"Your bones ache for a brief moment as you wield the sword.","poison":5000,"ac":(["infernal":7,"disruption":7,"stress":7,"unholy":7,"crushing":7,"cutting":7,"vacuum":7,"plasma":7,"impaling":7,"holy":7,"fire":7,"cold":7,"strike":7,"impact":7,"aether":7,"electricity":7,]),"short desc":"%^BOLD%^%^YELLOW%^Electric%^BOLD%^%^RED%^FIRE %^RESET%^ {bone sword}","decay rate":1000,])

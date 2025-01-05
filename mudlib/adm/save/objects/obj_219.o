@@ -1,7 +1,0 @@
-#/d/damned/virtual/wooden-axe_1.weapon.c
-encumbrance 210
-props (["material_name":"aspen","value":31,"material_type":"wood","extra long":"Crafted by: Trent with A wooden board of aspen [40]","progress inscribe_malsa_koren_trent":1206,])
-true_name "wooden axe"
-creator "/d/damned/virtual/weapon_server"
-material "/wood/aspen"
-__Weapon (["original wc":(["infernal":57,"crushing":15,"cutting":10,]),"quality":1,"type":"axe","ac":(["infernal":4,"disruption":4,"stress":4,"crushing":4,"unholy":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"cold":4,"fire":4,"strike":4,"impact":4,"electricity":4,"aether":4,]),"verb":"whop","wc":(["infernal":57,"crushing":67,"cutting":61,]),"short desc":"wooden axe","decay rate":31000,"parry bonus":-20,])

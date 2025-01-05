@@ -1,5 +1,0 @@
-#/d/1tlny/loot/crystal/scroll_tp.c
-encumbrance 30
-props (["value":100,"no steal":1,])
-true_name "scroll"
-creator "/d/newbieville/rooms/newbie2"

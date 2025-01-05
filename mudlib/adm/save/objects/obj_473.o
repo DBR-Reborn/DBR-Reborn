@@ -1,7 +1,0 @@
-#/d/1tlny/loot/hooded_robe.c
-encumbrance 100
-props (["material_name":"cloth","value":400,"material_type":"none","extra long":"level[100] Rare Robe of fire and plasma protection","new desc":"level[100] Rare Robe of fire and plasma protection",])
-true_name "hooded robe"
-creator "/d/areas/ork/mon/6sluggaboyz#113110"
-material "/cloth"
-armour_save (["short desc":"level[100] Rare Robe of fire and plasma protection","ac":(["infernal":636,"disruption":636,"stress":636,"crushing":636,"unholy":636,"cutting":636,"vacuum":636,"plasma":1227,"impaling":636,"holy":636,"cold":636,"fire":1207,"strike":636,"impact":636,"electricity":636,"aether":636,]),])

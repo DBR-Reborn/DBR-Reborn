@@ -1,7 +1,0 @@
-#/d/damned/guilds/nethermancer/misc/shimmering_halberd.c
-encumbrance 100
-props (["material_name":"mithril","brittle":50,"value":10000,"material_type":"metal","no add quality":1,])
-true_name "halberd"
-creator "/d/areas/zoo/mon/sflame#324897"
-material "/metal/mithril"
-__Weapon (["original wc":(["fire":111,"impaling":125,"unholy":111,]),"enhance critical":6,"quality":6,"type":"two handed polearm","ac":(["infernal":0,"disruption":0,"stress":0,"crushing":0,"unholy":0,"cutting":0,"vacuum":0,"plasma":0,"impaling":0,"holy":0,"cold":0,"fire":0,"strike":0,"impact":0,"electricity":0,"aether":0,]),"verb":"impale","wc":(["fire":111,"impaling":125,"unholy":111,]),"short desc":"A dark purple halberd, %^BOLD%^%^WHITE%^it shimmers faintly%^RESET%^","decay rate":200,])

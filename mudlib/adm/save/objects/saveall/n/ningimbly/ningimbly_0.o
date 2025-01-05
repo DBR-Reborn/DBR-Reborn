@@ -1,8 +1,0 @@
-#/d/damned/virtual/plate-greaves.armour
-#/d/damned/virtual/plate-greaves.armour.c
-encumbrance 450
-props (["material_name":"iysaughton","value":430,"extra long":"level[100] iysaughton greaves of infernal and impaling protection","material_type":"metal","new desc":"level[100] iysaughton greaves of infernal and impaling protection",])
-true_name "plate greaves"
-creator "/d/damned/virtual/armour_server"
-material "/metal/iysaughton"
-armour_save (["short desc":"level[100] iysaughton greaves of infernal and impaling protection","ac":(["infernal":2506,"disruption":455,"stress":455,"unholy":455,"crushing":455,"cutting":455,"vacuum":455,"plasma":455,"impaling":2472,"holy":455,"fire":455,"cold":455,"strike":455,"impact":455,"aether":455,"electricity":455,]),])

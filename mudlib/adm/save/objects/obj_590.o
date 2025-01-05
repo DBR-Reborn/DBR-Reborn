@@ -1,7 +1,0 @@
-#/d/damned/virtual/gauntlet.armour.c
-encumbrance 6
-props (["material_name":"boernerine","value":10,"material_type":"metal","extra long":"level[43] boernerine gauntlet of cutting and vacuum protection","new desc":"level[43] boernerine gauntlet of cutting and vacuum protection",])
-true_name "gauntlet"
-creator "/d/damned/virtual/armour_server"
-material "/metal/boernerine"
-armour_save (["short desc":"level[43] boernerine gauntlet of cutting and vacuum protection","ac":(["infernal":81,"disruption":81,"stress":81,"crushing":81,"unholy":81,"cutting":147,"vacuum":134,"plasma":81,"impaling":81,"holy":81,"cold":81,"fire":81,"strike":81,"impact":81,"electricity":81,"aether":81,]),])

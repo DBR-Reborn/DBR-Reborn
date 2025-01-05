@@ -1,7 +1,0 @@
-#/d/areas/kobold/weapon/dagger.c
-encumbrance 100
-props (["material_name":"iron","value":25,"material_type":"metal",])
-true_name "kobold dagger"
-creator "/d/areas/kobold/mon/boy#93787"
-material "/metal/iron"
-__Weapon (["original wc":(["impaling":7,]),"quality":3,"type":"knife","ac":(["infernal":1,"fire":1,"cold":1,"disruption":1,"stress":1,"unholy":1,"crushing":1,"cutting":1,"strike":1,"vacuum":1,"plasma":1,"impact":1,"impaling":1,"holy":1,"aether":1,"electricity":1,]),"verb":"hit","wc":(["impaling":7,]),"decay rate":200,"parry bonus":-15,"throwable":1,])

@@ -1,5 +1,0 @@
-#/std/diewarzau/obj/misc/herb_press.c
-encumbrance 15
-props (["value":15,])
-true_name "herb press"
-creator "/d/damned/guilds/cleric/shop_store"

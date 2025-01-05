@@ -1,8 +1,0 @@
-#/d/damned/virtual/hooded-cloak.armour
-#/d/damned/virtual/hooded-cloak.armour.c
-encumbrance 3
-props (["material_name":"Constable","value":10,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"progress inscribe_malsa_bonnes_trent":0,"material_type":"leather","extra long":({"Crafted by: Trent with A Level [16] Constable leather","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,])
-true_name "hooded cloak"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Constable"
-armour_save (["short desc":"A cloak","ac":(["infernal":260,"disruption":265,"stress":268,"crushing":285,"unholy":264,"cutting":300,"vacuum":258,"plasma":260,"impaling":280,"holy":264,"cold":278,"fire":265,"strike":285,"impact":280,"electricity":268,"aether":261,]),])

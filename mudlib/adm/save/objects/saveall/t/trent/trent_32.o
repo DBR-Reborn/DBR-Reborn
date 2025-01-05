@@ -1,6 +1,0 @@
-#/wizards/diewarzau/obj/misc/leather2.c
-encumbrance 50
-props (["material_name":"Grey wolf","value":25,"material_type":"leather","extra long":"Level [25] Grey wolf","new desc":"Level [25] Grey wolf",])
-true_name "leather"
-creator "/std/skills/skin_corpse#14881"
-material "/leather/Grey wolf"

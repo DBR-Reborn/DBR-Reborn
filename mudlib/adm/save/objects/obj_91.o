@@ -1,6 +1,0 @@
-#/wizards/diewarzau/obj/misc/leather2.c
-encumbrance 206
-props (["material_name":"Shadowflame Templar","value":103,"extra long":"Level [103] Shadowflame Templar","material_type":"leather","new desc":"Level [103] Shadowflame Templar",])
-true_name "leather"
-creator "/std/skills/skin_corpse#403720"
-material "/leather/Shadowflame Templar"

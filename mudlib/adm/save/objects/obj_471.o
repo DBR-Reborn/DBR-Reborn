@@ -1,7 +1,0 @@
-#/d/damned/virtual/plate-bracer.armour.c
-encumbrance 45
-props (["material_name":"laen","value":60,"material_type":"metal","extra long":"level[81] laen Bracer of vacuum and disruption protection","new desc":"level[81] laen Bracer of vacuum and disruption protection",])
-true_name "plate bracer"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"level[81] laen Bracer of vacuum and disruption protection","ac":(["infernal":241,"disruption":411,"stress":241,"crushing":241,"unholy":241,"cutting":241,"vacuum":495,"plasma":241,"impaling":241,"holy":241,"cold":241,"fire":241,"strike":241,"impact":241,"electricity":241,"aether":241,]),])

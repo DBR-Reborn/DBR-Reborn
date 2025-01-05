@@ -1,8 +1,0 @@
-#/d/damned/virtual/studded-leather-pants.armour
-#/d/damned/virtual/studded-leather-pants.armour.c
-encumbrance 1
-props (["progress engrave_singe":0,"progress inscribe_malsa_bonnes_singe":0,"runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"new desc":"%^COLOR137%^MasterCrafted%^RESET%^ {pants}","material_name":"Shadowflame Templar","true armour":1,"progress inscribe_malsa_sen_zora_singe":0,"pow true_armour_upstart":0,"value":120,"material_type":"leather","extra long":({"Crafted by: Singe with A Level [107] Shadowflame Templar leather","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress extreme_fortification_upstart":0,"progress true_armour_upstart":0,"pow extreme_fortification_upstart":0,"progress inscribe_aldara_zet_singe":0,"enchantment":100,])
-true_name "studded leather pants"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Shadowflame Templar"
-armour_save (["enhance critical":-4,"short desc":"%^COLOR137%^MasterCrafted%^RESET%^ {pants}","ac":(["infernal":732,"disruption":713,"stress":729,"unholy":720,"crushing":746,"cutting":789,"vacuum":719,"plasma":726,"impaling":750,"holy":728,"fire":738,"cold":754,"strike":758,"impact":750,"aether":715,"electricity":733,]),])

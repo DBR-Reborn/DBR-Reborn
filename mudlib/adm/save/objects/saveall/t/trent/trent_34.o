@@ -1,8 +1,0 @@
-#/d/damned/virtual/chain-glove.armour
-#/d/damned/virtual/chain-glove.armour.c
-encumbrance 15
-props (["runes":({"malsa bonnes","malsa sen zora","aldara zet","cutta",}),"progress inscribe_malsa_sen_zora_trent":0,"new desc":"fat chain glove {glove}","progress inscribe_cutta_trent":0,"material_name":"laen","progress master_fortification_baarich":0,"true armour":1,"pow enchanter_mark_baarich":0,"pow master_fortification_baarich":0,"value":706,"material_type":"metal","extra long":({"Smithed by: Trent with laen [100] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BOLD%^Cutta%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"pow true_armour_baarich":0,"progress inscribe_aldara_zet_trent":0,"progress true_armour_baarich":0,"progress inscribe_malsa_bonnes_trent":0,"enchantment":70,"progress enchanter_mark_baarich":0,])
-true_name "chain glove"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-6,"short desc":"fat chain glove {glove}","ac":(["infernal":472,"disruption":443,"stress":431,"unholy":454,"crushing":502,"cutting":624,"vacuum":431,"plasma":445,"impaling":474,"holy":429,"fire":486,"cold":469,"strike":486,"impact":498,"aether":441,"electricity":466,]),])

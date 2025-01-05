@@ -1,8 +1,0 @@
-#/d/damned/virtual/studded-leather-jacket.armour
-#/d/damned/virtual/studded-leather-jacket.armour.c
-encumbrance 1
-props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"%^COLOR81%^Enchanted%^RESET%^ {jacket}","material_name":"Silver dragon","true armour":1,"pow enchanter_mark_rihcter":0,"pow true_armour_rihcter":0,"progress inscribe_malsa_bonnes_rihcter":0,"value":75,"extra long":({"Crafted by: Rihcter with A Level [100] Silver dragon leather",({"Fortification: %^CYAN%^+100%","detect magic",}),"A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress extreme_fortification_rihcter":0,"progress inscribe_aldara_zet_rihcter":0,"progress true_armour_rihcter":0,"pow extreme_fortification_rihcter":0,"progress enchanter_mark_rihcter":0,"progress inscribe_malsa_sen_zora_rihcter":0,"enchantment":100,])
-true_name "studded leather jacket"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Silver dragon"
-armour_save (["enhance critical":-5,"short desc":"%^COLOR81%^Enchanted%^RESET%^ {jacket}","ac":(["infernal":1015,"disruption":1013,"stress":993,"crushing":1075,"unholy":997,"cutting":1082,"vacuum":987,"plasma":1016,"impaling":1059,"holy":994,"cold":1076,"fire":991,"strike":1005,"impact":1003,"electricity":1008,"aether":1004,]),])

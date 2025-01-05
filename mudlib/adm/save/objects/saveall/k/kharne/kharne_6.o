@@ -1,8 +1,0 @@
-#/d/damned/virtual/chain-mail.armour
-#/d/damned/virtual/chain-mail.armour.c
-encumbrance 180
-props (["material_name":"laen","progress inscribe_malsa_sen_zora_kharne":0,"runes":({"malsa bonnes","malsa sen zora",}),"value":7067,"extra long":({"Smithed by: Kharne with laen [140] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","progress inscribe_malsa_bonnes_kharne":0,])
-true_name "chain mail"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"A chain mail","ac":(["infernal":476,"disruption":483,"stress":503,"unholy":499,"crushing":502,"cutting":491,"vacuum":514,"plasma":483,"impaling":515,"holy":502,"fire":494,"cold":498,"strike":495,"impact":522,"aether":505,"electricity":516,]),])

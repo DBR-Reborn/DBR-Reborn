@@ -1,7 +1,0 @@
-#/d/damned/virtual/metal-boots.armour.c
-encumbrance 70
-props (["material_name":"laen","value":90,"material_type":"metal","extra long":"level[83] laen Boots of electricity and cold protection","new desc":"level[83] laen Boots of electricity and cold protection",])
-true_name "metal boots"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"level[83] laen Boots of electricity and cold protection","ac":(["infernal":312,"disruption":312,"stress":312,"crushing":312,"unholy":312,"cutting":312,"vacuum":312,"plasma":312,"impaling":312,"holy":312,"cold":660,"fire":312,"strike":312,"impact":312,"electricity":722,"aether":312,]),])

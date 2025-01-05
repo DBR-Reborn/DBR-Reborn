@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-helmet.armour
-#/d/damned/virtual/leather-helmet.armour.c
-encumbrance 60
-props (["material_name":"Silver dragon","value":45,"progress engrave_tursnik":0,"extra long":"Crafted by: Azazel with A Level [100] Silver dragon leather","material_type":"leather","new desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {leather helmet}",])
-true_name "leather helmet"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Silver dragon"
-armour_save (["short desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {leather helmet}","ac":(["infernal":371,"disruption":380,"stress":376,"unholy":367,"crushing":378,"cutting":396,"vacuum":381,"plasma":377,"impaling":369,"holy":367,"fire":381,"cold":396,"strike":373,"impact":386,"aether":382,"electricity":373,]),])

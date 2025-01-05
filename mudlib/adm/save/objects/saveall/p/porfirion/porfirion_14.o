@@ -1,8 +1,0 @@
-#/d/damned/virtual/two-handed-sword_2.weapon
-#/d/damned/virtual/two-handed-sword_2.weapon.c
-encumbrance 425
-props (["material_name":"platnite","value":300,"material_type":"metal",])
-true_name "two handed sword"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/platnite"
-__Weapon (["original wc":(["impaling":9,"cutting":18,]),"quality":2,"auto critical":({"electricity A",}),"type":"two handed blade","ac":(["infernal":4,"fire":4,"cold":4,"disruption":4,"stress":4,"unholy":4,"crushing":4,"cutting":4,"strike":4,"vacuum":4,"plasma":4,"impact":4,"impaling":4,"holy":4,"aether":4,"electricity":4,]),"verb":"slice","wc":(["impaling":9,"cutting":18,]),"short desc":"two-handed sword","decay rate":1000,"parry bonus":50,"hit bonus":50,])

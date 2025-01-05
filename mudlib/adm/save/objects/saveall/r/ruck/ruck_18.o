@@ -1,8 +1,0 @@
-#/d/damned/virtual/plate-greaves.armour
-#/d/damned/virtual/plate-greaves.armour.c
-encumbrance 1
-props (["progress engrave_singe":0,"runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"new desc":"Greaves {greaves}","material_name":"laen","true armour":1,"progress extreme_fortification_azazel":0,"progress inscribe_malsa_sen_zora_azazel":0,"value":20260,"material_type":"metal","extra long":({"Smithed by: Azazel with laen [344] armour blank","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_malsa_bonnes_azazel":0,"progress engrave_azazel":0,"pow extreme_fortification_azazel":0,"pow true_armour_azazel":0,"progress inscribe_aldara_zet_azazel":0,"progress true_armour_azazel":0,"enchantment":100,])
-true_name "plate greaves"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-8,"short desc":"Greaves {greaves}","ac":(["infernal":1607,"disruption":1440,"stress":1482,"unholy":1441,"crushing":1525,"cutting":1527,"vacuum":1621,"plasma":1641,"impaling":1555,"holy":1643,"fire":1509,"cold":1678,"strike":1513,"impact":1498,"aether":1488,"electricity":1505,]),])

@@ -1,8 +1,0 @@
-#/d/damned/virtual/hooded-cloak.armour
-#/d/damned/virtual/hooded-cloak.armour.c
-encumbrance 1
-props (["runes":({"aldara zet","malsa sen zora","malsa bonnes",}),"new desc":"%^COLOR81%^Enchanted%^RESET%^ {cloak}","material_name":"Gold dragon","true armour":1,"pow enchanter_mark_rihcter":0,"pow true_armour_rihcter":0,"progress inscribe_malsa_bonnes_rihcter":0,"value":10,"material_type":"leather","extra long":({"Crafted by: Rihcter with A Level [100] Gold dragon leather",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),"A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.",}),"progress extreme_fortification_rihcter":0,"progress inscribe_aldara_zet_rihcter":0,"progress true_armour_rihcter":0,"pow extreme_fortification_rihcter":0,"progress enchanter_mark_rihcter":0,"progress inscribe_malsa_sen_zora_rihcter":0,"enchantment":100,])
-true_name "hooded cloak"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Gold dragon"
-armour_save (["enhance critical":-9,"short desc":"%^COLOR81%^Enchanted%^RESET%^ {cloak}","ac":(["infernal":1022,"disruption":1068,"stress":1062,"unholy":1062,"crushing":1008,"cutting":1070,"vacuum":1067,"plasma":1066,"impaling":1060,"holy":1063,"fire":1111,"cold":1098,"strike":997,"impact":1041,"aether":1021,"electricity":1052,]),])

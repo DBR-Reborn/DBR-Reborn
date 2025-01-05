@@ -1,8 +1,0 @@
-#/d/damned/virtual/metal-boots.armour
-#/d/damned/virtual/metal-boots.armour.c
-encumbrance 70
-props (["material_name":"laen","progress engrave_dalton":0,"value":90,"extra long":"level[82] laen Boots of cold and cutting protection","material_type":"metal","new desc":"%^B_BLUE%^Angelic%^RESET%^ {boots}",])
-true_name "metal boots"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"%^B_BLUE%^Angelic%^RESET%^ {boots}","ac":(["infernal":316,"disruption":316,"stress":316,"unholy":316,"crushing":316,"cutting":418,"vacuum":316,"plasma":316,"impaling":316,"holy":316,"fire":316,"cold":470,"strike":316,"impact":316,"aether":316,"electricity":316,]),])

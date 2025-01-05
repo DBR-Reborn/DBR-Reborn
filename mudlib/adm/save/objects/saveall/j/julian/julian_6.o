@@ -1,8 +1,0 @@
-#/d/damned/virtual/tabard.armour
-#/d/damned/virtual/tabard.armour.c
-encumbrance 6
-props (["runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"progress true_armour_zurr":0,"new desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Jinhaori%^RESET%^ {tabard}","progress major_fortification_zurr":0,"material_name":"leather","progress engrave_julian":0,"true armour":1,"pow extreme_fortification_zurr":0,"progress inscribe_malsa_sen_zora_mort":0,"progress extreme_fortification_zurr":0,"progress inscribe_aldara_zet_mort":0,"progress inscribe_malsa_bonnes_mort":0,"value":10,"material_type":"misc","extra long":({"A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),}),"pow true_armour_zurr":0,"pow major_fortification_zurr":0,"enchantment":100,])
-true_name "tabard"
-creator "/d/damned/virtual/armour_server"
-material "/misc/leather"
-armour_save (["enhance critical":-6,"short desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Jinhaori%^RESET%^ {tabard}","ac":(["infernal":48,"disruption":41,"stress":41,"crushing":38,"unholy":48,"cutting":38,"vacuum":48,"plasma":44,"impaling":38,"holy":37,"cold":51,"fire":51,"strike":55,"impact":62,"electricity":44,"aether":37,]),])

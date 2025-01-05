@@ -1,7 +1,0 @@
-#/d/damned/virtual/shod-staff_6.weapon.c
-encumbrance 30
-props (["material_name":"iysaughton","value":425,"material_type":"metal","extra long":"level[63] iysaughton shod-staff of crushing and stress","new desc":"level[63] iysaughton shod-staff of crushing and stress",])
-true_name "shod staff"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/iysaughton"
-__Weapon (["original wc":(["stress":76,"crushing":15,]),"quality":6,"type":"two handed staff","ac":(["infernal":6,"disruption":6,"stress":6,"crushing":6,"unholy":6,"cutting":6,"vacuum":6,"plasma":6,"impaling":6,"holy":6,"cold":6,"fire":6,"strike":6,"impact":6,"electricity":6,"aether":6,]),"verb":"bash","decay status":147,"wc":(["stress":76,"crushing":70,]),"short desc":"level[63] iysaughton shod-staff of crushing and stress","decay rate":200,"parry bonus":10,])

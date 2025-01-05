@@ -1,7 +1,0 @@
-#/d/damned/virtual/metal-boots.armour.c
-encumbrance 70
-props (["material_name":"mithril","value":90,"material_type":"metal",])
-true_name "metal boots"
-creator "/d/damned/virtual/armour_server"
-material "/metal/mithril"
-armour_save (["short desc":"A pair of metal boots","ac":(["infernal":16,"disruption":16,"stress":16,"crushing":16,"unholy":16,"cutting":16,"vacuum":16,"plasma":16,"impaling":16,"holy":16,"cold":16,"fire":16,"strike":16,"impact":16,"electricity":16,"aether":16,]),])

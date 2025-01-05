@@ -1,9 +1,0 @@
-#/std/diewarzau/obj/misc/skill_ring.c
-encumbrance 2
-props (["progress true_armour_zurr":0,"new desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Marquis' Signet%^RESET%^ {ring}","progress major_fortification_zurr":0,"progress master_fortification_zurr":0,"material_name":"iron","true armour":1,"pow extreme_fortification_zurr":0,"progress extreme_fortification_zurr":0,"pow enchanter_mark_zurr":0,"value":96000,"extra long":({({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),}),"material_type":"metal","progress enchanter_mark_zurr":0,"pow true_armour_zurr":0,"pow master_fortification_zurr":0,"pow major_fortification_zurr":0,"enchantment":100,])
-true_name "ring"
-creator "/d/daybreak/room/shop/magic_store"
-material "/metal/iron"
-armour_save (["enhance critical":-6,"short desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Marquis' Signet%^RESET%^ {ring}","ac":(["infernal":1,"disruption":1,"stress":1,"unholy":1,"crushing":1,"cutting":1,"vacuum":1,"plasma":1,"impaling":1,"holy":1,"fire":1,"cold":1,"strike":1,"impact":1,"aether":1,"electricity":1,]),])
-skills ([])
-spells ([])

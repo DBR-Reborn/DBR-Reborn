@@ -1,7 +1,0 @@
-#/d/damned/virtual/leather-boots.armour.c
-encumbrance 1
-props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"%^COLOR57%^+SHROUDED+%^RESET%^ leather boots {leather boots}","material_name":"Silver dragon","true armour":1,"progress engrave_mythicos":0,"progress extreme_fortification_azazel":0,"progress inscribe_malsa_sen_zora_azazel":0,"value":30,"extra long":({"Crafted by: Azazel with A Level [100] Silver dragon leather","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress inscribe_malsa_bonnes_azazel":0,"progress engrave_azazel":0,"pow extreme_fortification_azazel":0,"pow true_armour_azazel":0,"progress inscribe_aldara_zet_azazel":0,"progress true_armour_azazel":0,"enchantment":100,])
-true_name "leather boots"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Silver dragon"
-armour_save (["enhance critical":-8,"short desc":"%^COLOR57%^+SHROUDED+%^RESET%^ leather boots {leather boots}","ac":(["infernal":913,"disruption":911,"stress":915,"unholy":904,"crushing":925,"cutting":949,"vacuum":902,"plasma":918,"impaling":937,"holy":911,"fire":917,"cold":940,"strike":912,"impact":913,"aether":899,"electricity":922,]),])

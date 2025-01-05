@@ -1,8 +1,0 @@
-#/d/damned/virtual/broad-sword_6.weapon
-#/d/damned/virtual/broad-sword_6.weapon.c
-encumbrance 100
-props (["brittle":163,"progress firestorm_blade_lilund":0,"new desc":"level[86] mithril Broad Sword of cold and crushing","material_name":"mithril","progress lightning_blade_lilund":0,"progress cyclone_weapon_lilund":0,"firestorm blade":52,"pow cyclone_weapon_lilund":0,"lightning blade":40,"pow firestorm_blade_lilund":0,"value":655,"material_type":"metal","extra long":({"level[86] mithril Broad Sword of cold and crushing",({"This weapon has %^RED%^%^RED%^Firestorm%^RESET%^ Blade.","detect magic",}),({"This weapon has %^YELLOW%^%^BOLD%^Lightning%^RESET%^ Blade.","detect magic",}),({"This weapon has %^COLOR120%^%^BOLD%^Cyclone%^RESET%^ Weapon.","detect magic",}),({"This weapon has %^BOLD%^%^CYAN%^Vacid%^RESET%^ Weapon.","detect magic",}),}),"pow vacid_weapon_lilund":0,"pow lightning_blade_lilund":0,"progress vacid_weapon_lilund":0,"cyclone weapon":31,"vacid weapon":31,])
-true_name "broad sword"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/mithril"
-__Weapon (["original wc":(["cold":97,"fire":196,"stress":159,"crushing":180,"cutting":12,"vacuum":147,"impact":171,"impaling":4,"electricity":159,]),"wielded":,"quality":6,"limb string":" (wielded in right hand)","type":"blade","ac":(["infernal":3,"disruption":3,"stress":3,"unholy":3,"crushing":3,"cutting":3,"vacuum":3,"plasma":3,"impaling":3,"holy":3,"fire":3,"cold":3,"strike":3,"impact":3,"aether":3,"electricity":3,]),"verb":"slice","decay status":0,"wc":(["cold":5104,"fire":24960,"stress":6430,"crushing":7847,"cutting":3543,"vacuum":3343,"impact":21568,"impaling":4,"electricity":6430,]),"short desc":"level[86] mithril Broad Sword of cold and crushing","decay rate":200,"parry bonus":5,])

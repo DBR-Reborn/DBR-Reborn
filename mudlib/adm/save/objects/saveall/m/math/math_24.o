@@ -1,8 +1,0 @@
-#/d/damned/virtual/stiletto_6.weapon
-#/d/damned/virtual/stiletto_6.weapon.c
-encumbrance 30
-props (["brittle":48,"progress enchanter_mark_math":0,"pow flame_blade_math":0,"pow vacuum_weapon_math":0,"new desc":"2 {stiletto}","flame blade":30,"progress vacuum_weapon_math":0,"material_name":"iron","progress flame_blade_math":0,"progress major_puissance_math":0,"float value":1.507328,"value":0,"extra long":({"This weapon was forged by: Maker with An iron weapon blank",({"This weapon has %^ORANGE%^Flame Blade%^RESET%^.","detect magic",}),({"Puissance: %^CYAN%^++40","detect magic",}),({"This weapon has %^COLOR255%^Vacuum%^RESET%^ Weapon.","detect magic",}),}),"material_type":"metal","pow major_puissance_math":0,"vacuum weapon":1,"pow enchanter_mark_math":0,"enchantment":40,])
-true_name "stiletto"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/iron"
-__Weapon (["quality":6,"verb":"stab","wc":(["fire":292,"impaling":109,"vacuum":92,]),"decay status":3502,"throwable":1,"original wc":(["fire":72,"impaling":4,"vacuum":92,]),"type":"knife","ac":(["infernal":1,"disruption":1,"stress":1,"crushing":1,"unholy":1,"cutting":1,"vacuum":1,"plasma":1,"impaling":1,"holy":1,"cold":1,"fire":1,"strike":1,"impact":1,"electricity":1,"aether":1,]),"short desc":"2 {stiletto}","decay rate":4000,"parry bonus":35,])

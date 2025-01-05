@@ -1,7 +1,0 @@
-#/std/obj/post.c
-props ([])
-true_name "post box"
-creator "/d/standard/post"
-__Forward ""
-__MyGroups ([])
-__BoxInfo ({})

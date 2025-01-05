@@ -1,7 +1,0 @@
-#/d/1tlny/loot/hooded_robe.c
-encumbrance 100
-props (["value":400,"material_type":"none","extra long":({"level[94] Rare Robe of disruption and cold protection",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"pow extreme_fortification_azazel":0,"new desc":"%^COLOR57%^+SHROUDED+%^RESET%^ robe {robe}","material_name":"cloth","true armour":1,"pow true_armour_azazel":0,"progress true_armour_azazel":0,"progress engrave_mythicos":0,"progress extreme_fortification_azazel":0,"enchantment":100,])
-true_name "hooded robe"
-creator "/d/areas/ork/mon/6sluggaboyz#69985"
-material "/cloth"
-armour_save (["enhance critical":-5,"short desc":"%^COLOR57%^+SHROUDED+%^RESET%^ robe {robe}","ac":(["infernal":430,"disruption":1017,"stress":430,"unholy":430,"crushing":430,"cutting":430,"vacuum":430,"plasma":430,"impaling":430,"holy":430,"fire":430,"cold":853,"strike":430,"impact":430,"aether":430,"electricity":430,]),])

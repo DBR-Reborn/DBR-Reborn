@@ -1,8 +1,0 @@
-#/d/damned/virtual/studded-leather-pants.armour
-#/d/damned/virtual/studded-leather-pants.armour.c
-encumbrance 130
-props (["value":120,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"leather","extra long":({"Crafted by: Maker with A Level [20] Sinister goblin leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress major_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"material_name":"Sinister goblin","pow major_fortification_math":0,"enchantment":40,])
-true_name "studded leather pants"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Sinister goblin"
-armour_save (["short desc":"A pair of studded leather pants","ac":(["infernal":323,"disruption":326,"stress":319,"unholy":326,"crushing":337,"cutting":349,"vacuum":325,"plasma":327,"impaling":341,"holy":326,"fire":325,"cold":335,"strike":328,"impact":326,"aether":321,"electricity":329,]),])

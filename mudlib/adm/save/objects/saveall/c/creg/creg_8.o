@@ -1,8 +1,0 @@
-#/d/damned/virtual/large-shield.armour
-#/d/damned/virtual/large-shield.armour.c
-encumbrance 1
-props (["progress inscribe_malsa_sen_zora_creg":0,"runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"value":75,"extra long":({"Crafted by: Creg with A wooden board of abachi [284]","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"wood","progress inscribe_aldara_zet_creg":0,"progress true_armour_creg":0,"progress inscribe_malsa_bonnes_creg":0,"material_name":"abachi","true armour":1,"pow true_armour_creg":0,])
-true_name "large shield"
-creator "/d/damned/virtual/armour_server"
-material "/wood/abachi"
-armour_save (["enhance critical":-4,"short desc":"A large shield","ac":(["infernal":1267,"disruption":1352,"stress":1227,"crushing":1231,"unholy":1329,"cutting":1342,"vacuum":1310,"plasma":1240,"impaling":1233,"holy":1208,"cold":1300,"fire":1319,"strike":1304,"impact":1280,"electricity":1249,"aether":1278,]),])

@@ -1,7 +1,0 @@
-#/d/damned/virtual/great-helm.armour.c
-encumbrance 100
-props (["material_name":"laen","value":45,"material_type":"metal","extra long":"level[80] laen Helm of stress and cold protection","new desc":"level[80] laen Helm of stress and cold protection",])
-true_name "great helm"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"level[80] laen Helm of stress and cold protection","ac":(["infernal":226,"disruption":226,"stress":491,"crushing":226,"unholy":226,"cutting":226,"vacuum":226,"plasma":226,"impaling":226,"holy":226,"cold":513,"fire":226,"strike":226,"impact":226,"electricity":226,"aether":226,]),])

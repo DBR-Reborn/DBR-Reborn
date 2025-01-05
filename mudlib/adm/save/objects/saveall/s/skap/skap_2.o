@@ -1,8 +1,0 @@
-#/d/damned/virtual/plate-greaves.armour
-#/d/damned/virtual/plate-greaves.armour.c
-encumbrance 450
-props (["material_name":"laen","progress engrave_dalton":0,"value":430,"material_type":"metal","extra long":"level[49] laen greaves of cold and impaling protection","new desc":"%^B_BLUE%^Angelic%^RESET%^ {greaves}",])
-true_name "plate greaves"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"%^B_BLUE%^Angelic%^RESET%^ {greaves}","ac":(["infernal":62,"disruption":62,"stress":62,"crushing":62,"unholy":62,"cutting":62,"vacuum":62,"plasma":62,"impaling":167,"holy":62,"cold":177,"fire":62,"strike":62,"impact":62,"electricity":62,"aether":62,]),])

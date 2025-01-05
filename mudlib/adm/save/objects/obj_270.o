@@ -1,7 +1,0 @@
-#/d/damned/virtual/footman's-mace_6.weapon.c
-encumbrance 150
-props (["material_name":"iysaughton","value":524,"material_type":"metal","extra long":"level[85] iysaughton Footman's Mace of stress and crushing","new desc":"level[85] iysaughton Footman's Mace of stress and crushing",])
-true_name "footman's mace"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/iysaughton"
-__Weapon (["original wc":(["stress":90,"crushing":10,]),"quality":6,"type":"blunt","ac":(["infernal":5,"disruption":5,"stress":5,"crushing":5,"unholy":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"cold":5,"fire":5,"strike":5,"impact":5,"electricity":5,"aether":5,]),"verb":"pound","wc":(["stress":90,"crushing":141,]),"short desc":"level[85] iysaughton Footman's Mace of stress and crushing","decay rate":200,"parry bonus":-15,])

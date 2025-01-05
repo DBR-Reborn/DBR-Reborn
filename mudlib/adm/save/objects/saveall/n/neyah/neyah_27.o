@@ -1,6 +1,0 @@
-#/d/damned/guilds/nethermancer/misc/soul_orb.c
-encumbrance 50
-props (["total souls":2,"extra long":({"%^YELLOW%^This orb is finalized and prepared for sacrifice or undead raising.%^RESET%^","This orb contains %^MAGENTA%^1%^RESET%^ ghast dog soul.",}),"ghast dog souls":1,"soul orb finalize":1,])
-true_name "soul orb"
-creator "/d/damned/guilds/nethermancer/magic_store"
-armour_save (["short desc":"A soul orb (%^CYAN%^finalized%^RESET%^)",])

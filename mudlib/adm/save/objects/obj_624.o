@@ -1,7 +1,0 @@
-#/d/damned/virtual/large-shield.armour.c
-encumbrance 150
-props (["material_name":"raysorite","value":75,"extra long":"level[44] raysorite shield of electricity and cutting protection","material_type":"metal","new desc":"level[44] raysorite shield of electricity and cutting protection",])
-true_name "large shield"
-creator "/d/damned/virtual/armour_server"
-material "/metal/raysorite"
-armour_save (["short desc":"level[44] raysorite shield of electricity and cutting protection","ac":(["infernal":64,"disruption":64,"stress":64,"unholy":64,"crushing":64,"cutting":156,"vacuum":64,"plasma":64,"impaling":64,"holy":64,"fire":64,"cold":64,"strike":64,"impact":64,"aether":64,"electricity":153,]),])

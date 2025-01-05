@@ -1,7 +1,0 @@
-#/d/damned/virtual/leather-pants.armour.c
-encumbrance 110
-props (["runes":({"malsa bonnes","malsa sen zora",}),"value":95,"progress inscribe_malsa_sen_zora_maker":0,"material_type":"metal","extra long":({"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"progress major_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"material_name":"iron","progress minor_fortification_math":0,"pow major_fortification_math":0,"enchantment":40,"pow minor_fortification_math":0,])
-true_name "leather pants"
-creator "/d/damned/virtual/armour_server"
-material "/metal/iron"
-armour_save (["short desc":"A pair of leather pants","ac":(["infernal":155,"disruption":142,"stress":142,"crushing":170,"unholy":155,"cutting":179,"vacuum":142,"plasma":145,"impaling":179,"holy":142,"cold":148,"fire":148,"strike":162,"impact":162,"electricity":146,"aether":142,]),])

@@ -1,8 +1,0 @@
-#/d/damned/virtual/iron-greaves.armour
-#/d/damned/virtual/iron-greaves.armour.c
-encumbrance 1
-props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"%^COLOR81%^Enchanted%^RESET%^ {greaves}","material_name":"laen","true armour":1,"pow enchanter_mark_rihcter":0,"pow true_armour_rihcter":0,"value":10836,"progress inscribe_malsa_bonnes_rihcter":0,"material_type":"metal","extra long":({"Smithed by: Rihcter with laen [188] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress extreme_fortification_rihcter":0,"progress inscribe_aldara_zet_rihcter":0,"progress true_armour_rihcter":0,"pow extreme_fortification_rihcter":0,"progress enchanter_mark_rihcter":0,"enchantment":100,"progress inscribe_malsa_sen_zora_rihcter":0,])
-true_name "iron greaves"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-6,"short desc":"%^COLOR81%^Enchanted%^RESET%^ {greaves}","ac":(["infernal":1047,"disruption":859,"stress":839,"unholy":824,"crushing":627,"cutting":584,"vacuum":813,"plasma":869,"impaling":605,"holy":1031,"fire":1005,"cold":951,"strike":845,"impact":776,"aether":1016,"electricity":889,]),])

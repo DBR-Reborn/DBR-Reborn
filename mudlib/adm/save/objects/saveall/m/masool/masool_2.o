@@ -1,7 +1,0 @@
-#/d/areas/kobold/armor/chainmal.c
-encumbrance 400
-props (["material_name":"iron","value":200,"material_type":"metal",])
-true_name "kobold chainmail"
-creator "/d/areas/kobold/mon/warrior#159408"
-material "/metal/iron"
-armour_save (["ac":(["infernal":5,"fire":5,"cold":5,"disruption":5,"stress":14,"crushing":13,"strike":10,"cutting":16,"vacuum":5,"plasma":5,"impact":14,"impaling":16,"holy":5,"electricity":0,"aether":5,]),])

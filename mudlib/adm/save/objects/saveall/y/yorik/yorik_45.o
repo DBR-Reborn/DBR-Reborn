@@ -1,8 +1,0 @@
-#/d/damned/virtual/metal-visor.armour
-#/d/damned/virtual/metal-visor.armour.c
-encumbrance 1
-props (["progress engrave_singe":0,"progress inscribe_malsa_bonnes_singe":0,"runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"new desc":"%^B_BLUE%^Divinium%^RESET%^ {visor}","material_name":"laen","true armour":1,"progress inscribe_malsa_sen_zora_singe":0,"progress engrave_aartos":0,"pow true_armour_upstart":0,"value":2355,"extra long":({"Smithed by: Singe with laen [152] armour blank","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"metal","progress enchanter_mark_okkita":0,"progress extreme_fortification_upstart":0,"progress true_armour_upstart":0,"progress engrave_yorik":0,"pow enchanter_mark_okkita":0,"pow extreme_fortification_upstart":0,"progress inscribe_aldara_zet_singe":0,"enchantment":100,])
-true_name "metal visor"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-5,"short desc":"%^B_BLUE%^Divinium%^RESET%^ {visor}","ac":(["infernal":645,"disruption":653,"stress":701,"crushing":692,"unholy":703,"cutting":687,"vacuum":650,"plasma":690,"impaling":743,"holy":645,"cold":693,"fire":688,"strike":697,"impact":684,"electricity":690,"aether":638,]),])

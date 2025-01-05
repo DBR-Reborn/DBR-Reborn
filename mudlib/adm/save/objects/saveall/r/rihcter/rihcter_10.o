@@ -1,6 +1,0 @@
-#/std/diewarzau/obj/misc/bag_of_holding_l.c
-encumbrance 100
-props (["value":560000,"pow enchanter_mark_rihcter":0,"progress enchanter_mark_rihcter":0,"no steal":1,"new desc":"%^COLOR81%^Enchanted%^RESET%^ {bag}",])
-true_name "bag"
-creator "/d/daybreak/room/shop/magic_store"
-max_internal_encumbrance 3000

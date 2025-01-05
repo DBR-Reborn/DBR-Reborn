@@ -1,8 +1,0 @@
-#/d/damned/virtual/wood-bracer.armour
-#/d/damned/virtual/wood-bracer.armour.c
-encumbrance 45
-props (["new desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {wood bracer}","material_name":"abachi","true armour":1,"pow enchanter_mark_rihcter":0,"progress engrave_thromax":0,"pow true_armour_rihcter":0,"value":60,"progress engrave_tursnik":0,"extra long":({"Crafted by: Tursnik with A wooden board of abachi [152]",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"wood","progress extreme_fortification_rihcter":0,"progress true_armour_rihcter":0,"pow extreme_fortification_rihcter":0,"progress enchanter_mark_rihcter":0,"enchantment":100,])
-true_name "wood bracer"
-creator "/d/damned/virtual/armour_server"
-material "/wood/abachi"
-armour_save (["enhance critical":-4,"short desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {wood bracer}","ac":(["infernal":315,"disruption":393,"stress":300,"unholy":338,"crushing":323,"cutting":360,"vacuum":308,"plasma":296,"impaling":383,"holy":342,"fire":353,"cold":354,"strike":368,"impact":402,"aether":406,"electricity":323,]),])

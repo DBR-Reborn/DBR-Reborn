@@ -1,8 +1,0 @@
-#/d/damned/virtual/studded-leather-pants.armour
-#/d/damned/virtual/studded-leather-pants.armour.c
-encumbrance 1
-props (["progress inscribe_malsa_sen_zora_creg":0,"runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"value":120,"extra long":({"Crafted by: Creg with A Level [115] Gene stealer leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress inscribe_aldara_zet_creg":0,"progress true_armour_creg":0,"progress inscribe_malsa_bonnes_creg":0,"material_name":"Gene stealer","true armour":1,"pow true_armour_creg":0,])
-true_name "studded leather pants"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Gene stealer"
-armour_save (["enhance critical":-4,"short desc":"A pair of studded leather pants","ac":(["infernal":1104,"disruption":1126,"stress":1141,"crushing":1156,"unholy":1101,"cutting":1160,"vacuum":1125,"plasma":1114,"impaling":1165,"holy":1125,"cold":1142,"fire":1141,"strike":1136,"impact":1142,"electricity":1136,"aether":1124,]),])

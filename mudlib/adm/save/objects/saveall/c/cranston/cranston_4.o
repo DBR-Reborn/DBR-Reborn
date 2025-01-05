@@ -1,8 +1,0 @@
-#/d/damned/virtual/studded-leather-glove.armour
-#/d/damned/virtual/studded-leather-glove.armour.c
-encumbrance 3
-props (["material_name":"Troll","progress inscribe_malsa_sen_zora_kharne":0,"runes":({"malsa bonnes","malsa sen zora",}),"value":6,"material_type":"leather","extra long":({"Crafted by: Kharne with A Level [14] Troll leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_malsa_bonnes_kharne":0,])
-true_name "studded leather glove"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Troll"
-armour_save (["short desc":"A studded leather glove","ac":(["infernal":290,"disruption":292,"stress":293,"crushing":310,"unholy":293,"cutting":319,"vacuum":299,"plasma":297,"impaling":302,"holy":292,"cold":312,"fire":300,"strike":303,"impact":307,"electricity":304,"aether":293,]),])

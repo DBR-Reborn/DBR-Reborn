@@ -1,8 +1,0 @@
-#/d/damned/virtual/metal-boots.armour
-#/d/damned/virtual/metal-boots.armour.c
-encumbrance 1
-props (["progress inscribe_malsa_sen_zora_azazel":0,"progress engrave_singe":0,"runes":({"aldara zet","malsa bonnes","malsa sen zora","vacumma",}),"value":90,"extra long":({"level[245] laen boots of vacuum and impact protection","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^WHITE%^Vacumma%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","progress inscribe_malsa_bonnes_azazel":0,"progress engrave_azazel":0,"new desc":"Boots {boots}","material_name":"laen","progress inscribe_vacumma_azazel":0,"progress inscribe_aldara_zet_azazel":0,])
-true_name "metal boots"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"Boots {boots}","ac":(["infernal":2546,"disruption":2546,"stress":2546,"unholy":2546,"crushing":2599,"cutting":2599,"vacuum":9025,"plasma":2578,"impaling":2599,"holy":2546,"fire":2601,"cold":2601,"strike":2544,"impact":7397,"aether":2546,"electricity":2601,]),])

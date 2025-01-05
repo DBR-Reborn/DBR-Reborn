@@ -1,7 +1,0 @@
-#/d/damned/virtual/cloak.armour.c
-encumbrance 50
-props (["value":10,"extra long":({({"Fortification: %^CYAN%^+40","detect magic",}),}),"material_type":"metal","progress major_fortification_math":0,"material_name":"iron","progress minor_fortification_math":0,"pow major_fortification_math":0,"enchantment":40,"pow minor_fortification_math":0,])
-true_name "cloak"
-creator "/d/damned/virtual/armour_server"
-material "/metal/iron"
-armour_save (["short desc":"A cloak","ac":(["infernal":2,"disruption":2,"stress":2,"unholy":2,"crushing":2,"cutting":2,"vacuum":2,"plasma":2,"impaling":2,"holy":2,"fire":2,"cold":2,"strike":2,"impact":2,"aether":2,"electricity":2,]),])

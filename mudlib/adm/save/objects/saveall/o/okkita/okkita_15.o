@@ -1,8 +1,0 @@
-#/d/damned/virtual/breast-plate.armour
-#/d/damned/virtual/breast-plate.armour.c
-encumbrance 500
-props (["progress true_armour_nawara":0,"value":16490,"extra long":({"Smithed by: Nawara with laen [176] armour blank",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"metal","new desc":"%^B_BLUE%^%^RESET%^ {plate}","material_name":"laen","true armour":1,"progress engrave_nawara":0,"pow true_armour_nawara":0,])
-true_name "breast plate"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-5,"short desc":"%^B_BLUE%^%^RESET%^ {plate}","ac":(["infernal":394,"disruption":385,"stress":403,"crushing":340,"unholy":411,"cutting":349,"vacuum":412,"plasma":356,"impaling":371,"holy":427,"cold":403,"fire":425,"strike":418,"impact":408,"electricity":417,"aether":362,]),])

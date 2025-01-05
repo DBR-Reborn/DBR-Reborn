@@ -1,7 +1,0 @@
-#/d/damned/virtual/great-helm.armour.c
-encumbrance 100
-props (["progress inscribe_malsa_sen_zora_azazel":0,"material_name":"laen","runes":({"malsa sen zora",}),"value":2120,"material_type":"metal","extra long":({"Smithed by: Azazel with laen [336] armour blank","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),])
-true_name "great helm"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"A great helm","ac":(["infernal":1558,"disruption":1528,"stress":1543,"crushing":550,"unholy":1704,"cutting":688,"vacuum":1684,"plasma":1544,"impaling":703,"holy":1650,"cold":1729,"fire":1547,"strike":612,"impact":671,"electricity":1606,"aether":1621,]),])

@@ -1,7 +1,0 @@
-#/d/damned/guilds/tinker/t_dragon_scale2.c
-encumbrance 120
-props (["value":5000,"progress engrave_skye":0,"material_type":"metal","progress engrave_kigus":0,"new desc":"%^B_BLUE%^%^RESET%^ {shard}","material_name":"iron","progress engrave_nawara":0,"progress engrave_arcadia":0,"progress enchanter_mark_nawara":0,"pow enchanter_mark_nawara":0,"progress engrave_angelica":0,])
-true_name "rare dragon shard"
-creator "/d/damned/guilds/tinker/t_dragon#251564"
-material "/metal/iron"
-armour_save (["short desc":"%^B_BLUE%^%^RESET%^ {shard}","ac":(["infernal":12,"disruption":12,"stress":12,"crushing":12,"unholy":12,"cutting":12,"vacuum":12,"plasma":12,"impaling":12,"holy":12,"cold":12,"fire":12,"strike":12,"impact":12,"electricity":12,"aether":12,]),])

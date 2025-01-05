@@ -1,7 +1,0 @@
-#/d/damned/virtual/metal-boots.armour.c
-encumbrance 70
-props (["material_name":"boernerine","value":90,"extra long":"level[18] boernerine Metal Boots","material_type":"metal","new desc":"level[18] boernerine Metal Boots",])
-true_name "metal boots"
-creator "/d/damned/virtual/armour_server"
-material "/metal/boernerine"
-armour_save (["short desc":"level[18] boernerine Metal Boots","ac":(["infernal":53,"disruption":53,"stress":53,"unholy":53,"crushing":53,"cutting":53,"vacuum":53,"plasma":53,"impaling":53,"holy":53,"fire":53,"cold":53,"strike":53,"impact":53,"aether":53,"electricity":53,]),])

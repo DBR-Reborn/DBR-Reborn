@@ -1,8 +1,0 @@
-#/d/damned/virtual/studded-leather-glove.armour
-#/d/damned/virtual/studded-leather-glove.armour.c
-encumbrance 3
-props (["pow true_armour_rihcter":7,"value":6,"extra long":({"Crafted by: Singe with A Level [106] Shadowflame Templar leather",({"Fortification: %^CYAN%^+100%","detect magic",}),}),"material_type":"leather","progress extreme_fortification_rihcter":0,"progress true_armour_rihcter":804,"new desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {studded glove}","pow extreme_fortification_rihcter":0,"material_name":"Shadowflame Templar","progress engrave_thromax":0,"enchantment":100,])
-true_name "studded leather glove"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Shadowflame Templar"
-armour_save (["short desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {studded glove}","ac":(["infernal":369,"disruption":360,"stress":372,"crushing":363,"unholy":366,"cutting":400,"vacuum":371,"plasma":371,"impaling":368,"holy":368,"cold":376,"fire":383,"strike":369,"impact":378,"electricity":362,"aether":364,]),])

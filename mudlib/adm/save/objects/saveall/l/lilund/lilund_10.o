@@ -1,7 +1,0 @@
-#/wizards/maxwell/objects/armour/lgloves.c
-encumbrance 20
-props (["material_name":"iron","value":50,"material_type":"metal","new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Imposition%^RESET%^ {gloves}","progress engrave_lilund":0,])
-true_name "gloves"
-creator "/d/mines/objects/mon/miner2#504864"
-material "/metal/iron"
-armour_save (["short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Imposition%^RESET%^ {gloves}","ac":(["infernal":15,"disruption":15,"stress":15,"crushing":15,"unholy":15,"cutting":15,"vacuum":15,"plasma":15,"impaling":15,"holy":15,"cold":15,"fire":15,"strike":15,"impact":15,"electricity":15,"aether":15,]),])

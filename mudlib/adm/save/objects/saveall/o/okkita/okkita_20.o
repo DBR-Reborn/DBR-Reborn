@@ -1,8 +1,0 @@
-#/d/damned/virtual/gauntlet.armour
-#/d/damned/virtual/gauntlet.armour.c
-encumbrance 1
-props (["runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"new desc":"%^B_BLUE%^%^RESET%^ {gauntlet}","progress engrave_lilund":0,"material_name":"laen","true armour":1,"progress engrave_nawara":0,"progress enchanter_mark_nawara":0,"pow enchanter_mark_nawara":0,"progress extreme_fortification_azazel":0,"progress engrave_angelica":0,"progress inscribe_malsa_sen_zora_azazel":0,"value":10,"extra long":({"level[41] laen gauntlet of cutting and crushing protection",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","progress engrave_skye":0,"progress engrave_azazel":0,"progress inscribe_malsa_bonnes_azazel":0,"pow extreme_fortification_azazel":0,"pow true_armour_azazel":0,"progress inscribe_aldara_zet_azazel":0,"progress true_armour_azazel":0,"enchantment":100,])
-true_name "gauntlet"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-6,"short desc":"%^B_BLUE%^%^RESET%^ {gauntlet}","ac":(["infernal":529,"disruption":529,"stress":529,"crushing":624,"unholy":529,"cutting":642,"vacuum":215,"plasma":536,"impaling":565,"holy":529,"cold":542,"fire":542,"strike":552,"impact":552,"electricity":542,"aether":529,]),])

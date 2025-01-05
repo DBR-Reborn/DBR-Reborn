@@ -1,4 +1,0 @@
-#/daemon/localpost.c
-__Forward ""
-__MyGroups ([])
-__BoxInfo ({(["date":1593694257,"to":({"hawpun",}),"cc":({"honspron",}),"id":"1593694316","subject":"DL binds work but..","from":"julian","read":1,]),(["date":1595652170,"to":({"hawpun",}),"cc":({"honspron",}),"id":"1595652184","read":1,"from":"julian","subject":"do it",]),(["date":1595667285,"to":({"hawpun",}),"cc":({"honspron",}),"id":"1595667334","read":1,"from":"julian","subject":"pets not saving again",]),(["date":1595667496,"to":({"hawpun",}),"cc":({"honspron",}),"id":"1595667514","subject":"pets wont save","from":"julian","read":1,]),})

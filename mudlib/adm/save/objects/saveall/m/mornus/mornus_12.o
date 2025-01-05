@@ -1,8 +1,0 @@
-#/d/damned/virtual/breast-plate.armour
-#/d/damned/virtual/breast-plate.armour.c
-encumbrance 500
-props (["material_name":"iron","value":350,"material_type":"metal",])
-true_name "breast plate"
-creator "/d/damned/virtual/armour_server"
-material "/metal/iron"
-armour_save (["short desc":"A breast plate","ac":(["infernal":55,"fire":15,"cold":15,"disruption":1,"stress":1,"unholy":55,"crushing":55,"cutting":55,"strike":35,"vacuum":1,"plasma":8,"impact":55,"impaling":55,"holy":1,"aether":1,"electricity":1,]),])

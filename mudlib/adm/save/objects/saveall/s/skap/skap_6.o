@@ -1,8 +1,0 @@
-#/d/damned/virtual/gauntlet.armour
-#/d/damned/virtual/gauntlet.armour.c
-encumbrance 6
-props (["material_name":"laen","progress engrave_dalton":0,"value":10,"extra long":"level[43] laen gauntlet of disruption and cold protection","material_type":"metal","new desc":"%^B_BLUE%^Angelic%^RESET%^ {gauntlet}",])
-true_name "gauntlet"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"%^B_BLUE%^Angelic%^RESET%^ {gauntlet}","ac":(["infernal":63,"disruption":152,"stress":63,"unholy":63,"crushing":63,"cutting":63,"vacuum":63,"plasma":63,"impaling":63,"holy":63,"fire":63,"cold":163,"strike":63,"impact":63,"aether":63,"electricity":63,]),])

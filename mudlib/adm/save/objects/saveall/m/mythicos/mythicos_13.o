@@ -1,8 +1,0 @@
-#/d/damned/virtual/gauntlet.armour
-#/d/damned/virtual/gauntlet.armour.c
-encumbrance 1
-props (["runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"new desc":"%^COLOR220%^+CHAOS+%^RESET%^ {gauntlet}","material_name":"laen","true armour":1,"progress extreme_fortification_azazel":0,"progress inscribe_malsa_sen_zora_azazel":0,"value":471,"extra long":({"Smithed by: Azazel with laen [420] armour blank","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"metal","progress engrave_azazel":0,"progress inscribe_malsa_bonnes_azazel":0,"pow extreme_fortification_azazel":0,"pow true_armour_azazel":0,"progress inscribe_aldara_zet_azazel":0,"progress true_armour_azazel":0,"enchantment":100,])
-true_name "gauntlet"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-8,"short desc":"%^COLOR220%^+CHAOS+%^RESET%^ {gauntlet}","ac":(["infernal":1869,"disruption":1799,"stress":1746,"crushing":1843,"unholy":1899,"cutting":1852,"vacuum":1839,"plasma":1945,"impaling":1843,"holy":1900,"cold":1894,"fire":1756,"strike":1741,"impact":1800,"electricity":1800,"aether":1864,]),])

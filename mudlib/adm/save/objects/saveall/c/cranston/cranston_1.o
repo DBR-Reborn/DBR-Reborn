@@ -1,8 +1,0 @@
-#/d/damned/virtual/chain-glove.armour
-#/d/damned/virtual/chain-glove.armour.c
-encumbrance 15
-props (["material_name":"laen","pow major_fortification_cranston":0,"value":706,"progress major_fortification_cranston":0,"extra long":({"Smithed by: Kharne with laen [132] armour blank",({"Fortification: %^CYAN%^+40","detect magic",}),}),"material_type":"metal","enchantment":40,])
-true_name "chain glove"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"A chain glove","ac":(["infernal":298,"disruption":307,"stress":307,"unholy":270,"crushing":266,"cutting":275,"vacuum":302,"plasma":256,"impaling":269,"holy":264,"fire":308,"cold":288,"strike":270,"impact":270,"aether":256,"electricity":302,]),])

@@ -1,7 +1,0 @@
-#/d/1tlny/loot/hooded_robe.c
-encumbrance 100
-props (["material_name":"cloth","value":400,"material_type":"none","extra long":"level[42] Rare Robe of cutting and disruption protection","new desc":"level[42] Rare Robe of cutting and disruption protection",])
-true_name "hooded robe"
-creator "/d/areas/dragon/mon/skinny_dragon#187984"
-material "/cloth"
-armour_save (["short desc":"level[42] Rare Robe of cutting and disruption protection","ac":(["infernal":80,"disruption":135,"stress":80,"crushing":80,"unholy":80,"cutting":164,"vacuum":80,"plasma":80,"impaling":80,"holy":80,"cold":80,"fire":80,"strike":80,"impact":80,"electricity":80,"aether":80,]),])

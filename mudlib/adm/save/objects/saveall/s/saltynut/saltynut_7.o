@@ -1,8 +1,0 @@
-#/d/damned/virtual/tabard.armour
-#/d/damned/virtual/tabard.armour.c
-encumbrance 20
-props (["value":10,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"leather","extra long":({"Crafted by: Lore with A Level [29] Worker leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Absorption%^RESET%^ {tabard}","material_name":"Worker","progress inscribe_malsa_sen_zora_lore":0,"progress inscribe_malsa_bonnes_lore":0,"progress engrave_lore":0,])
-true_name "tabard"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Worker"
-armour_save (["short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Absorption%^RESET%^ {tabard}","ac":(["infernal":146,"disruption":150,"stress":152,"unholy":149,"crushing":153,"cutting":163,"vacuum":151,"plasma":146,"impaling":157,"holy":149,"fire":161,"cold":149,"strike":169,"impact":179,"aether":149,"electricity":152,]),])

@@ -1,8 +1,0 @@
-#/d/damned/virtual/chain-mail.armour
-#/d/damned/virtual/chain-mail.armour.c
-encumbrance 1
-props (["runes":({"malsa bonnes","malsa sen zora","lifta",}),"progress inscribe_malsa_sen_zora_lilund":0,"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Protection%^RESET%^ {mail}","pow master_fortification_lilund":0,"progress engrave_lilund":0,"progress inscribe_malsa_bonnes_lilund":0,"material_name":"laen","true armour":1,"progress master_fortification_lilund":0,"pow true_armour_lilund":0,"progress true_armour_lilund":0,"value":7067,"extra long":({"Smithed by: Lilund with laen [196] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Lifta%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"metal","progress inscribe_lifta_lilund":0,"enchantment":70,])
-true_name "chain mail"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-4,"short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Protection%^RESET%^ {mail}","ac":(["infernal":796,"disruption":783,"stress":787,"crushing":861,"unholy":852,"cutting":814,"vacuum":846,"plasma":803,"impaling":873,"holy":793,"cold":838,"fire":834,"strike":854,"impact":854,"electricity":861,"aether":854,]),])

@@ -1,7 +1,0 @@
-#/d/khojem/new/armor/leather_mittens.c
-encumbrance 25
-props (["new desc":"%^COLOR81%^Enchanted%^RESET%^ {mitten}","material_name":"cloth","true armour":1,"pow enchanter_mark_rihcter":0,"pow true_armour_rihcter":0,"value":20,"material_type":"misc","extra long":({({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress extreme_fortification_rihcter":0,"progress true_armour_rihcter":0,"pow extreme_fortification_rihcter":0,"progress enchanter_mark_rihcter":0,"enchantment":100,])
-true_name "mitten"
-creator "/d/khojem/new/mon/orc_guard#9679"
-material "/misc/cloth"
-armour_save (["enhance critical":-5,"short desc":"%^COLOR81%^Enchanted%^RESET%^ {mitten}","ac":(["infernal":5,"disruption":5,"stress":5,"crushing":5,"unholy":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"cold":5,"fire":5,"strike":5,"impact":5,"electricity":5,"aether":5,]),])

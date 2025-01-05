@@ -1,7 +1,0 @@
-#/d/damned/virtual/plate-greaves.armour.c
-encumbrance 450
-props (["material_name":"neorolite","value":430,"material_type":"metal","extra long":"level[19] neorolite Plate Greaves","new desc":"level[19] neorolite Plate Greaves",])
-true_name "plate greaves"
-creator "/d/damned/virtual/armour_server"
-material "/metal/neorolite"
-armour_save (["short desc":"level[19] neorolite Plate Greaves","ac":(["infernal":52,"disruption":52,"stress":52,"crushing":52,"unholy":52,"cutting":52,"vacuum":52,"plasma":52,"impaling":52,"holy":52,"cold":52,"fire":52,"strike":52,"impact":52,"electricity":52,"aether":52,]),])

@@ -1,7 +1,0 @@
-#/d/areas/keep/armour/necklace.c
-encumbrance 50
-props (["pow bless_armour_yorik":0,"value":2000,"progress bless_armour_yorik":0,"extra long":({({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"none","new desc":"%^B_BLUE%^Divinium%^RESET%^ {necklace}","progress enchanter_mark_okkita":0,"material_name":"dark steel","progress engrave_yorik":0,"true armour":1,"pow enchanter_mark_okkita":0,"pow true_armour_okkita":0,"progress true_armour_okkita":0,"progress engrave_aartos":0,"enchantment":20,])
-true_name "skull necklace"
-creator "/d/areas/keep/mon/warlock#3627"
-material "/dark steel"
-armour_save (["enhance critical":-4,"short desc":"%^B_BLUE%^Divinium%^RESET%^ {necklace}","ac":(["infernal":5,"disruption":5,"stress":5,"crushing":5,"unholy":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"cold":5,"fire":5,"strike":5,"impact":5,"electricity":5,"aether":5,]),])

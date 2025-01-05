@@ -1,6 +1,0 @@
-#/d/areas/dwarf_mine/obj/platnite_ingot.c
-encumbrance 70
-props (["material_name":"platnite","value":100,"material_type":"metal",])
-true_name "ingot"
-creator "/d/areas/dwarf_mine/obj/metal#389122"
-material "/metal/platnite"

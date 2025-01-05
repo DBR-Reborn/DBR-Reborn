@@ -1,6 +1,0 @@
-#/wizards/diewarzau/obj/misc/leather2.c
-encumbrance 200
-props (["material_name":"Silver dragon","value":100,"material_type":"leather","extra long":"Level [100] Silver dragon","progress leather_craft_kigus":67,"progress hooded-cloak":"hooded-cloak","new desc":"Level [100] Silver dragon",])
-true_name "leather"
-creator "/std/skills/skin_corpse#574807"
-material "/leather/Silver dragon"

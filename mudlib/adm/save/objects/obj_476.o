@@ -1,7 +1,0 @@
-#/d/damned/virtual/large-shield.armour.c
-encumbrance 150
-props (["material_name":"laen","value":75,"material_type":"metal","extra long":"level[94] laen Shield of electricity and crushing protection","new desc":"level[94] laen Shield of electricity and crushing protection",])
-true_name "large shield"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"level[94] laen Shield of electricity and crushing protection","ac":(["infernal":609,"disruption":609,"stress":609,"crushing":1134,"unholy":609,"cutting":609,"vacuum":609,"plasma":609,"impaling":609,"holy":609,"cold":609,"fire":609,"strike":609,"impact":609,"electricity":846,"aether":609,]),])

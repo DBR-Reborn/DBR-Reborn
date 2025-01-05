@@ -1,8 +1,0 @@
-#/d/damned/virtual/chain-coif.armour
-#/d/damned/virtual/chain-coif.armour.c
-encumbrance 80
-props (["material_name":"iron","pow bless_armour_mazer":0,"value":35,"progress bless_armour_mazer":0,"material_type":"metal","enchantment":20,])
-true_name "chain coif"
-creator "/d/damned/virtual/armour_server"
-material "/metal/iron"
-armour_save (["short desc":"A chain coif","ac":(["infernal":30,"disruption":1,"stress":1,"crushing":10,"unholy":30,"cutting":30,"vacuum":1,"plasma":1,"impaling":3,"holy":1,"cold":3,"fire":3,"strike":3,"impact":30,"electricity":1,"aether":1,]),])

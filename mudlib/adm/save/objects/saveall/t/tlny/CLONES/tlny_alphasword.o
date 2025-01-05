@@ -1,8 +1,0 @@
-#/d/damned/virtual/broad-sword_6.weapon
-#/d/damned/virtual/broad-sword_6.weapon.c
-encumbrance 100
-props (["material_name":"alpha","value":6737,"material_type":"metal","extra long":"This weapon was forged by: Test",])
-true_name "broad sword"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/alpha"
-__Weapon (["original wc":(["impaling":4,"cutting":12,]),"wielded":,"quality":6,"limb string":" (wielded in left hand)","type":"blade","ac":(["infernal":3,"disruption":3,"stress":3,"crushing":3,"cutting":3,"acid":3,"vacuum":3,"depression":3,"plasma":3,"impaling":3,"holy":3,"cold":3,"fire":3,"time":3,"strike":3,"impact":3,"electricity":3,"aether":3,]),"verb":"slice","decay status":70,"wc":(["impaling":4,"cutting":12,]),"short desc":"broad sword","decay rate":3000,"parry bonus":5,])

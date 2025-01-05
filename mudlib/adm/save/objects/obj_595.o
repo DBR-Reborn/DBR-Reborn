@@ -1,7 +1,0 @@
-#/d/damned/virtual/chain-mail.armour.c
-encumbrance 180
-props (["material_name":"iysaughton","value":150,"extra long":"level[64] iysaughton mail of impact and cold protection","material_type":"metal","new desc":"level[64] iysaughton mail of impact and cold protection",])
-true_name "chain mail"
-creator "/d/damned/virtual/armour_server"
-material "/metal/iysaughton"
-armour_save (["short desc":"level[64] iysaughton mail of impact and cold protection","ac":(["infernal":82,"disruption":82,"stress":82,"unholy":82,"crushing":82,"cutting":82,"vacuum":82,"plasma":82,"impaling":82,"holy":82,"fire":82,"cold":227,"strike":82,"impact":212,"aether":82,"electricity":82,]),])

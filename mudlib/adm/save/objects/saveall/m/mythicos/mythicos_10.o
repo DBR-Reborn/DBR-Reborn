@@ -1,8 +1,0 @@
-#/d/damned/virtual/studded-leather-glove.armour
-#/d/damned/virtual/studded-leather-glove.armour.c
-encumbrance 1
-props (["runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"new desc":"%^COLOR220%^+CHAOS+%^RESET%^ {studded glove}","material_name":"Slugga Boyz","true armour":1,"progress extreme_fortification_azazel":0,"progress inscribe_malsa_sen_zora_azazel":0,"value":6,"extra long":({"Crafted by: Azazel with A Level [97] Slugga Boyz leather","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress engrave_azazel":0,"progress inscribe_malsa_bonnes_azazel":0,"pow extreme_fortification_azazel":0,"pow true_armour_azazel":0,"progress inscribe_aldara_zet_azazel":0,"progress true_armour_azazel":0,"enchantment":100,])
-true_name "studded leather glove"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Slugga Boyz"
-armour_save (["enhance critical":-5,"short desc":"%^COLOR220%^+CHAOS+%^RESET%^ {studded glove}","ac":(["infernal":1507,"disruption":1484,"stress":1520,"crushing":1516,"unholy":1508,"cutting":1502,"vacuum":1501,"plasma":1502,"impaling":1492,"holy":1503,"cold":1511,"fire":1570,"strike":1459,"impact":1468,"electricity":1522,"aether":1490,]),])

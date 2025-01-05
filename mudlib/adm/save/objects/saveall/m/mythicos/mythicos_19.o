@@ -1,8 +1,0 @@
-#/d/damned/virtual/wood-leg-guards.armour
-#/d/damned/virtual/wood-leg-guards.armour.c
-encumbrance 1
-props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"%^COLOR57%^+SHROUDED+%^RESET%^ wood leg guards {wood leg guards}","material_name":"abachi","true armour":1,"progress engrave_mythicos":0,"progress extreme_fortification_azazel":0,"progress inscribe_malsa_sen_zora_azazel":0,"value":430,"extra long":({"Crafted by: Tursnik with A wooden board of abachi [180]","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"wood","progress engrave_azazel":0,"progress inscribe_malsa_bonnes_azazel":0,"pow extreme_fortification_azazel":0,"pow true_armour_azazel":0,"progress inscribe_aldara_zet_azazel":0,"progress true_armour_azazel":0,"enchantment":100,])
-true_name "wood leg guards"
-creator "/d/damned/virtual/armour_server"
-material "/wood/abachi"
-armour_save (["enhance critical":-5,"short desc":"%^COLOR57%^+SHROUDED+%^RESET%^ wood leg guards {wood leg guards}","ac":(["infernal":982,"disruption":1061,"stress":1052,"unholy":1075,"crushing":915,"cutting":930,"vacuum":963,"plasma":975,"impaling":918,"holy":953,"fire":979,"cold":1061,"strike":864,"impact":930,"aether":1074,"electricity":960,]),])

@@ -1,7 +1,0 @@
-#/d/damned/virtual/wood-plate.armour.c
-encumbrance 260
-props (["runes":({"malsa bonnes","malsa sen zora","aldara zet","crusha","impala",}),"material_name":"dogwood","pow true_armour_trent":0,"progress major_fortification_trent":0,"true armour":1,"progress inscribe_crusha_hssr":0,"value":350,"extra long":({"Crafted by: Hssr",({"Fortification: %^CYAN%^+40","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^ORANGE%^Crusha%^RESET%^ rune is inscribed on the armour.","A %^B_GREEN%^%^BOLD%^Impala%^RESET%^ rune is inscribed on the armour.",}),"material_type":"wood","progress true_armour_trent":0,"progress inscribe_malsa_sen_zora_hssr":0,"progress inscribe_impala_hssr":0,"progress inscribe_aldara_zet_hssr":0,"progress inscribe_malsa_bonnes_hssr":0,"pow major_fortification_trent":0,"enchantment":40,])
-true_name "wood plate"
-creator "/d/damned/virtual/armour_server"
-material "/wood/dogwood"
-armour_save (["enhance critical":-4,"short desc":"Wood armour","ac":(["infernal":56,"disruption":56,"stress":56,"crushing":64,"unholy":56,"cutting":51,"vacuum":56,"plasma":59,"impaling":58,"holy":56,"cold":59,"fire":59,"strike":67,"impact":67,"electricity":59,"aether":56,]),])

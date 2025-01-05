@@ -1,7 +1,0 @@
-#/d/damned/virtual/gauntlet.armour.c
-encumbrance 6
-props (["material_name":"mcgrail","value":10,"extra long":"level[48] mcgrail gauntlet of fire and stress protection","material_type":"metal","new desc":"level[48] mcgrail gauntlet of fire and stress protection",])
-true_name "gauntlet"
-creator "/d/damned/virtual/armour_server"
-material "/metal/mcgrail"
-armour_save (["short desc":"level[48] mcgrail gauntlet of fire and stress protection","ac":(["infernal":68,"disruption":68,"stress":169,"unholy":68,"crushing":68,"cutting":68,"vacuum":68,"plasma":68,"impaling":68,"holy":68,"fire":155,"cold":68,"strike":68,"impact":68,"aether":68,"electricity":68,]),])

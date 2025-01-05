@@ -1,7 +1,0 @@
-#/d/damned/virtual/chain-mail.armour.c
-encumbrance 180
-props (["material_name":"laen","value":150,"material_type":"metal","extra long":"level[80] laen Mail of plasma and disruption protection","new desc":"level[80] laen Mail of plasma and disruption protection",])
-true_name "chain mail"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"level[80] laen Mail of plasma and disruption protection","ac":(["infernal":238,"disruption":437,"stress":238,"crushing":238,"unholy":238,"cutting":238,"vacuum":238,"plasma":504,"impaling":238,"holy":238,"cold":238,"fire":238,"strike":238,"impact":238,"electricity":238,"aether":238,]),])

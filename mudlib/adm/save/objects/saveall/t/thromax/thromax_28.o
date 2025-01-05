@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-boots.armour
-#/d/damned/virtual/leather-boots.armour.c
-encumbrance 30
-props (["progress engrave_singe":0,"runes":({"malsa sen zora","malsa bonnes",}),"pow major_fortification_rihcter":0,"new desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {leather boots}","material_name":"leather","true armour":1,"progress major_fortification_rihcter":0,"pow enchanter_mark_rihcter":0,"progress engrave_thromax":0,"pow true_armour_rihcter":0,"value":30,"progress inscribe_malsa_bonnes_tursnik":0,"extra long":({"A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"misc","progress extreme_fortification_rihcter":0,"progress true_armour_rihcter":0,"pow extreme_fortification_rihcter":0,"progress enchanter_mark_rihcter":0,"enchantment":100,"progress inscribe_malsa_sen_zora_tursnik":0,])
-true_name "leather boots"
-creator "/d/damned/virtual/armour_server"
-material "/misc/leather"
-armour_save (["enhance critical":-10,"short desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {leather boots}","ac":(["infernal":79,"disruption":66,"stress":66,"crushing":56,"unholy":79,"cutting":60,"vacuum":66,"plasma":69,"impaling":60,"holy":66,"cold":71,"fire":71,"strike":92,"impact":100,"electricity":69,"aether":66,]),])

@@ -1,8 +1,0 @@
-#/d/damned/virtual/dagger_1.weapon
-#/d/damned/virtual/dagger_1.weapon.c
-encumbrance 30
-props (["material_name":"platnite","float value":0.143750,"material_type":"metal","new desc":"Skinning dagger {dagger}","progress engrave_yoshi":0,])
-true_name "dagger"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/platnite"
-__Weapon (["original wc":(["impaling":4,]),"quality":1,"type":"knife","ac":(["infernal":1,"disruption":1,"stress":1,"crushing":1,"unholy":1,"cutting":1,"vacuum":1,"plasma":1,"impaling":1,"holy":1,"cold":1,"fire":1,"strike":1,"impact":1,"electricity":1,"aether":1,]),"verb":"stab","wc":(["impaling":4,]),"short desc":"Skinning dagger {dagger}","decay rate":1000,"parry bonus":50,"throwable":1,"hit bonus":50,])

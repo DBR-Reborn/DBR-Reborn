@@ -1,8 +1,0 @@
-#/d/damned/virtual/plate-greaves.armour
-#/d/damned/virtual/plate-greaves.armour.c
-encumbrance 450
-props (["value":20260,"runes":({"malsa bonnes","malsa sen zora",}),"progress inscribe_malsa_sen_zora_kharne":0,"progress major_fortification_cranston":0,"extra long":({"Smithed by: Kharne with laen [136] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"material_type":"metal","progress inscribe_malsa_bonnes_kharne":0,"material_name":"laen","pow major_fortification_cranston":0,"enchantment":40,])
-true_name "plate greaves"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"A pair of plate greaves","ac":(["infernal":466,"disruption":494,"stress":477,"unholy":505,"crushing":495,"cutting":486,"vacuum":468,"plasma":467,"impaling":467,"holy":488,"fire":480,"cold":503,"strike":507,"impact":511,"aether":467,"electricity":469,]),])

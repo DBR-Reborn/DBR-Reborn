@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-boots.armour
-#/d/damned/virtual/leather-boots.armour.c
-encumbrance 1
-props (["progress engrave_singe":0,"progress inscribe_malsa_bonnes_singe":0,"runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"new desc":"%^COLOR137%^MasterCrafted%^RESET%^ {leather boots}","material_name":"Shadowflame Templar","true armour":1,"progress inscribe_malsa_sen_zora_singe":0,"pow true_armour_upstart":0,"value":30,"material_type":"leather","extra long":({"Crafted by: Singe with A Level [123] Shadowflame Templar leather","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress extreme_fortification_upstart":0,"progress true_armour_upstart":0,"pow extreme_fortification_upstart":0,"progress inscribe_aldara_zet_singe":0,"enchantment":100,])
-true_name "leather boots"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Shadowflame Templar"
-armour_save (["enhance critical":-4,"short desc":"%^COLOR137%^MasterCrafted%^RESET%^ {leather boots}","ac":(["infernal":802,"disruption":809,"stress":807,"unholy":797,"crushing":833,"cutting":832,"vacuum":808,"plasma":816,"impaling":820,"holy":804,"fire":811,"cold":831,"strike":811,"impact":830,"aether":812,"electricity":814,]),])

@@ -1,7 +1,0 @@
-#/d/1tlny/loot/hooded_robe.c
-encumbrance 100
-props (["material_name":"cloth","value":400,"extra long":"level[48] Rare Robe of electricity and plasma protection","material_type":"none","new desc":"level[48] Rare Robe of electricity and plasma protection",])
-true_name "hooded robe"
-creator "/d/areas/dragon/mon/cursed_dragon#159876"
-material "/cloth"
-armour_save (["short desc":"level[48] Rare Robe of electricity and plasma protection","ac":(["infernal":91,"disruption":91,"stress":91,"unholy":91,"crushing":91,"cutting":91,"vacuum":91,"plasma":144,"impaling":91,"holy":91,"fire":91,"cold":91,"strike":91,"impact":91,"aether":91,"electricity":164,]),])

@@ -1,7 +1,0 @@
-#/d/damned/guilds/nethermancer/misc/black_sword.c
-encumbrance 75
-props (["material_name":"darkened steel","value":3000,"progress master_puissance_okkita":1608,"material_type":"none","no add quality":1,"pow master_puissance_okkita":7,])
-true_name "black sword"
-creator "/d/areas/zoo/mon/darkknight#190259"
-material "/darkened steel"
-__Weapon (["original wc":(["impaling":50,"cutting":50,]),"quality":6,"type":"blade","ac":(["infernal":0,"disruption":0,"stress":0,"crushing":0,"unholy":0,"cutting":0,"vacuum":0,"plasma":0,"impaling":0,"holy":0,"cold":0,"fire":0,"strike":0,"impact":0,"electricity":0,"aether":0,]),"verb":"slash","decay status":23,"wc":(["impaling":50,"cutting":50,]),"short desc":"A long black sword","decay rate":200,])

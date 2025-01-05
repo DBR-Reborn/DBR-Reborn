@@ -1,8 +1,0 @@
-#/d/damned/virtual/padded-glove.armour
-#/d/damned/virtual/padded-glove.armour.c
-encumbrance 2
-props (["runes":({"malsa bonnes","malsa sen zora",}),"value":2,"progress inscribe_malsa_sen_zora_maker":0,"material_type":"metal","extra long":({"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),}),"progress major_fortification_math":0,"progress master_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"iron","progress minor_fortification_math":0,"pow major_fortification_math":0,"enchantment":70,"pow minor_fortification_math":0,])
-true_name "padded glove"
-creator "/d/damned/virtual/armour_server"
-material "/metal/iron"
-armour_save (["short desc":"A padded glove","ac":(["infernal":142,"disruption":142,"stress":142,"unholy":142,"crushing":166,"cutting":166,"vacuum":142,"plasma":145,"impaling":166,"holy":142,"fire":146,"cold":146,"strike":161,"impact":161,"aether":142,"electricity":146,]),])

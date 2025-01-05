@@ -1,8 +1,0 @@
-#/d/damned/virtual/studded-leather-jacket.armour
-#/d/damned/virtual/studded-leather-jacket.armour.c
-encumbrance 1
-props (["value":75,"runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"material_type":"misc","extra long":({"A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"progress inscribe_malsa_bonnes_tursnik":0,"progress engrave_tursnik":0,"pow major_fortification_rihcter":0,"new desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {jacket}","progress inscribe_aldara_zet_tursnik":0,"material_name":"leather","progress major_fortification_rihcter":0,"progress engrave_thromax":0,"enchantment":40,"progress inscribe_malsa_sen_zora_tursnik":0,])
-true_name "studded leather jacket"
-creator "/d/damned/virtual/armour_server"
-material "/misc/leather"
-armour_save (["short desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {jacket}","ac":(["infernal":81,"disruption":61,"stress":61,"unholy":81,"crushing":54,"cutting":67,"vacuum":61,"plasma":64,"impaling":67,"holy":61,"fire":66,"cold":66,"strike":92,"impact":110,"aether":61,"electricity":64,]),])

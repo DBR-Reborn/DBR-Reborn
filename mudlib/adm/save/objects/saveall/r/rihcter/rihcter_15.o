@@ -1,8 +1,0 @@
-#/d/damned/virtual/wood-helm.armour
-#/d/damned/virtual/wood-helm.armour.c
-encumbrance 1
-props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"%^COLOR81%^Enchanted%^RESET%^ {wood helm}","material_name":"abachi","true armour":1,"pow enchanter_mark_rihcter":0,"pow true_armour_rihcter":0,"progress inscribe_malsa_bonnes_rihcter":0,"value":45,"extra long":({"Crafted by: Tursnik with A wooden board of abachi [360]",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),"A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"wood","progress extreme_fortification_rihcter":0,"progress inscribe_aldara_zet_rihcter":0,"progress true_armour_rihcter":0,"pow extreme_fortification_rihcter":0,"progress enchanter_mark_rihcter":0,"progress inscribe_malsa_sen_zora_rihcter":0,"enchantment":100,])
-true_name "wood helm"
-creator "/d/damned/virtual/armour_server"
-material "/wood/abachi"
-armour_save (["enhance critical":-5,"short desc":"%^COLOR81%^Enchanted%^RESET%^ {wood helm}","ac":(["infernal":1230,"disruption":1261,"stress":1174,"crushing":1338,"unholy":1150,"cutting":1235,"vacuum":1165,"plasma":1082,"impaling":1258,"holy":1239,"cold":1218,"fire":1117,"strike":1165,"impact":1280,"electricity":1081,"aether":1284,]),])

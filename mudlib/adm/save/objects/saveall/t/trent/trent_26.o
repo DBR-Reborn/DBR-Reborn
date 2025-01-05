@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-pants.armour
-#/d/damned/virtual/leather-pants.armour.c
-encumbrance 14
-props (["value":95,"runes":({"aldara zet","malsa bonnes","malsa sen zora","cutta",}),"material_type":"leather","extra long":({"Crafted by: Trent with A Level [15] Ghost leather","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BOLD%^Cutta%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,"progress inscribe_cutta_trent":0,"material_name":"Ghost","progress inscribe_malsa_bonnes_trent":0,])
-true_name "leather pants"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Ghost"
-armour_save (["short desc":"A pair of leather pants","ac":(["infernal":218,"disruption":218,"stress":221,"unholy":213,"crushing":241,"cutting":373,"vacuum":220,"plasma":215,"impaling":248,"holy":213,"fire":228,"cold":225,"strike":240,"impact":239,"aether":219,"electricity":224,]),])

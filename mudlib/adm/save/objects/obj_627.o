@@ -1,7 +1,0 @@
-#/d/damned/virtual/great-helm.armour.c
-encumbrance 100
-props (["material_name":"iysaughton","value":45,"extra long":"level[49] iysaughton helm of stress and impact protection","material_type":"metal","new desc":"level[49] iysaughton helm of stress and impact protection",])
-true_name "great helm"
-creator "/d/damned/virtual/armour_server"
-material "/metal/iysaughton"
-armour_save (["short desc":"level[49] iysaughton helm of stress and impact protection","ac":(["infernal":78,"disruption":78,"stress":184,"unholy":78,"crushing":78,"cutting":78,"vacuum":78,"plasma":78,"impaling":78,"holy":78,"fire":78,"cold":78,"strike":78,"impact":170,"aether":78,"electricity":78,]),])

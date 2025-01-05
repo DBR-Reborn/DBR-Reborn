@@ -1,8 +1,0 @@
-#/d/damned/virtual/wood-hand-guard.armour
-#/d/damned/virtual/wood-hand-guard.armour.c
-encumbrance 6
-props (["material_name":"abachi","value":10,"material_type":"wood","extra long":"Crafted by: Alpha with A wooden board of abachi [60]",])
-true_name "wood hand guard"
-creator "/d/damned/virtual/armour_server"
-material "/wood/abachi"
-armour_save (["short desc":"wood hand guard","ac":(["infernal":180,"disruption":203,"stress":195,"crushing":188,"unholy":171,"cutting":172,"vacuum":182,"plasma":185,"impaling":192,"holy":192,"cold":196,"fire":174,"strike":190,"impact":190,"electricity":185,"aether":207,]),])

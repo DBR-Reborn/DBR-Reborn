@@ -1,8 +1,0 @@
-#/d/damned/virtual/metal-boots.armour
-#/d/damned/virtual/metal-boots.armour.c
-encumbrance 70
-props (["material_name":"laen","value":4240,"runes":({"malsa bonnes","malsa sen zora",}),"progress inscribe_malsa_sen_zora_kharne":0,"material_type":"metal","extra long":({"Smithed by: Kharne with laen [156] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_malsa_bonnes_kharne":0,])
-true_name "metal boots"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"A pair of metal boots","ac":(["infernal":558,"disruption":595,"stress":623,"crushing":650,"unholy":597,"cutting":588,"vacuum":587,"plasma":576,"impaling":589,"holy":625,"cold":575,"fire":587,"strike":639,"impact":625,"electricity":579,"aether":609,]),])

@@ -1,8 +1,0 @@
-#/d/damned/virtual/short-sword_1.weapon
-#/d/damned/virtual/short-sword_1.weapon.c
-encumbrance 45
-props (["material_name":"elrodnite","value":50,"material_type":"metal",])
-true_name "short sword"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/elrodnite"
-__Weapon (["wielded":,"quality":1,"limb string":" (wielded in left hand)","verb":"slice","decay status":10,"wc":(["impaling":4,"cutting":7,]),"original wc":(["impaling":4,"cutting":7,]),"type":"blade","ac":(["infernal":3,"disruption":3,"stress":3,"crushing":3,"unholy":3,"cutting":3,"vacuum":3,"plasma":3,"impaling":3,"holy":3,"cold":3,"fire":3,"strike":3,"impact":3,"electricity":3,"aether":3,]),"short desc":"short sword","decay rate":1000,"parry bonus":50,"hit bonus":50,])

@@ -1,6 +1,0 @@
-#/d/damned/guilds/cleric/w_bottle.c
-encumbrance 45
-props (["value":200,])
-true_name "blessed wine bottle"
-creator "/d/damned/guilds/cleric/shop_store"
-strength -1

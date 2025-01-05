@@ -1,7 +1,0 @@
-#/d/khojem/new/armor/apron.c
-encumbrance 200
-props (["material_name":"leather","value":3,"material_type":"misc","new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Imposition%^RESET%^ {apron}","progress engrave_lilund":0,])
-true_name "leather apron"
-creator "/d/khojem/new/mon/cook#508032"
-material "/misc/leather"
-armour_save (["short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Imposition%^RESET%^ {apron}","ac":(["infernal":1,"disruption":2,"stress":1,"unholy":4,"crushing":4,"cutting":4,"vacuum":1,"plasma":1,"impaling":4,"holy":0,"fire":3,"cold":4,"strike":1,"impact":4,"aether":0,"electricity":1,]),])

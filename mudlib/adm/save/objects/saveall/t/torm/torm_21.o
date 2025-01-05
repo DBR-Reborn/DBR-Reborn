@@ -1,6 +1,0 @@
-#/std/diewarzau/obj/misc/bag_of_holding_l.c
-encumbrance 100
-props (["value":46400,"no steal":1,"progress engrave_torm":0,"new desc":"A {bag}",])
-true_name "bag"
-creator "/d/daybreak/room/shop/magic_store"
-max_internal_encumbrance 3000

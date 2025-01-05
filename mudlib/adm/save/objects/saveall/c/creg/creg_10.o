@@ -1,8 +1,0 @@
-#/d/damned/virtual/wood-hand-guard.armour
-#/d/damned/virtual/wood-hand-guard.armour.c
-encumbrance 1
-props (["value":10,"runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"progress inscribe_malsa_sen_zora_creg":0,"material_type":"wood","extra long":({"Crafted by: Creg with A wooden board of abachi [272]","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),"A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",}),"progress true_armour_creg":0,"progress inscribe_aldara_zet_creg":0,"progress inscribe_malsa_bonnes_creg":0,"material_name":"abachi","true armour":1,"pow true_armour_creg":0,])
-true_name "wood hand guard"
-creator "/d/damned/virtual/armour_server"
-material "/wood/abachi"
-armour_save (["enhance critical":-4,"short desc":"wood hand guard","ac":(["infernal":1229,"disruption":1235,"stress":1307,"unholy":1303,"crushing":1263,"cutting":1164,"vacuum":1279,"plasma":1233,"impaling":1288,"holy":1311,"fire":1244,"cold":1332,"strike":1168,"impact":1174,"aether":1368,"electricity":1284,]),])

@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-helmet.armour
-#/d/damned/virtual/leather-helmet.armour.c
-encumbrance 8
-props (["runes":({"aldara zet","malsa bonnes","malsa sen zora","cutta",}),"value":45,"extra long":({"Crafted by: Trent with A Level [17] Constable leather","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BOLD%^Cutta%^RESET%^ rune is inscribed on the armour.",}),"material_type":"leather","progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,"progress inscribe_cutta_trent":0,"material_name":"Constable","progress inscribe_malsa_bonnes_trent":0,])
-true_name "leather helmet"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Constable"
-armour_save (["short desc":"A leather helmet","ac":(["infernal":216,"disruption":222,"stress":219,"crushing":250,"unholy":216,"cutting":387,"vacuum":220,"plasma":225,"impaling":248,"holy":219,"cold":229,"fire":221,"strike":243,"impact":244,"electricity":221,"aether":219,]),])

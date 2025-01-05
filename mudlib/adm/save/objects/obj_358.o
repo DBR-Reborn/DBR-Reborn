@@ -1,7 +1,0 @@
-#/d/damned/virtual/stumps.armour.c
-encumbrance 70
-props (["value":90,"material_type":"metal","extra long":({"Crafted by: Celthric with A wooden board of pine [20]",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"new desc":"%^COLOR232%^RESET%^ {stumps}","progress enchanter_mark_okkita":0,"material_name":"pine","true armour":1,"pow enchanter_mark_okkita":0,"pow true_armour_okkita":0,"progress true_armour_okkita":0,])
-true_name "stumps"
-creator "/d/damned/virtual/armour_server"
-material "/metal/pine"
-armour_save (["enhance critical":-4,"short desc":"%^COLOR232%^RESET%^ {stumps}","ac":(["infernal":50,"disruption":43,"stress":53,"crushing":52,"unholy":45,"cutting":52,"vacuum":43,"plasma":45,"impaling":52,"holy":52,"cold":45,"fire":46,"strike":51,"impact":51,"electricity":44,"aether":51,]),])

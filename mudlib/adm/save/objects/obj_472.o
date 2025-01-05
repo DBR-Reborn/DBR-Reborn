@@ -1,7 +1,0 @@
-#/d/1tlny/loot/hooded_robe.c
-encumbrance 100
-props (["material_name":"cloth","value":400,"extra long":"level[87] Rare Robe of cold and fire protection","material_type":"none","new desc":"level[87] Rare Robe of cold and fire protection",])
-true_name "hooded robe"
-creator "/d/areas/ork/mon/1wildboyz#148317"
-material "/cloth"
-armour_save (["short desc":"level[87] Rare Robe of cold and fire protection","ac":(["infernal":202,"disruption":202,"stress":202,"unholy":202,"crushing":202,"cutting":202,"vacuum":202,"plasma":202,"impaling":202,"holy":202,"fire":470,"cold":530,"strike":202,"impact":202,"aether":202,"electricity":202,]),])

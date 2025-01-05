@@ -1,7 +1,0 @@
-#/d/damned/virtual/leather-jacket.armour.c
-encumbrance 60
-props (["material_name":"iron","value":45,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"metal","extra long":({"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_malsa_sen_zora_maker":0,"progress inscribe_malsa_bonnes_maker":0,])
-true_name "leather jacket"
-creator "/d/damned/virtual/armour_server"
-material "/metal/iron"
-armour_save (["short desc":"A leather jacket","ac":(["infernal":168,"disruption":155,"stress":155,"crushing":183,"unholy":168,"cutting":192,"vacuum":155,"plasma":158,"impaling":192,"holy":155,"cold":161,"fire":161,"strike":175,"impact":175,"electricity":159,"aether":155,]),])

@@ -1,7 +1,0 @@
-#/d/damned/virtual/metal-boots.armour.c
-encumbrance 70
-props (["value":90,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"metal","extra long":({"Smithed by: Maker with An iron armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress major_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"material_name":"iron","pow major_fortification_math":0,"enchantment":40,])
-true_name "metal boots"
-creator "/d/damned/virtual/armour_server"
-material "/metal/iron"
-armour_save (["short desc":"A pair of metal boots","ac":(["infernal":291,"disruption":291,"stress":291,"unholy":291,"crushing":315,"cutting":315,"vacuum":291,"plasma":294,"impaling":315,"holy":291,"fire":295,"cold":295,"strike":310,"impact":310,"aether":291,"electricity":295,]),])

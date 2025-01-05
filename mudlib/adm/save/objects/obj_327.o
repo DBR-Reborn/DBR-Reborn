@@ -1,7 +1,0 @@
-#/d/damned/virtual/breast-plate.armour.c
-encumbrance 95
-props (["value":350,"runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"progress inscribe_aldara_zet_maker":0,"extra long":({"level[19] neorolite Breast Plate","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"material_type":"metal","progress inscribe_malsa_sen_zora_maker":0,"progress major_fortification_math":0,"new desc":"1 {plate}","progress inscribe_malsa_bonnes_maker":0,"progress engrave_maker":0,"material_name":"neorolite","pow major_fortification_math":0,"enchantment":40,])
-true_name "breast plate"
-creator "/d/damned/virtual/armour_server"
-material "/metal/neorolite"
-armour_save (["short desc":"1 {plate}","ac":(["infernal":209,"disruption":209,"stress":209,"unholy":209,"crushing":234,"cutting":234,"vacuum":209,"plasma":212,"impaling":234,"holy":209,"fire":214,"cold":214,"strike":228,"impact":228,"aether":209,"electricity":214,]),])

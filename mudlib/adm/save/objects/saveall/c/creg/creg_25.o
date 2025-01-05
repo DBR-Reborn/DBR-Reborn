@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-boots.armour
-#/d/damned/virtual/leather-boots.armour.c
-encumbrance 1
-props (["progress inscribe_malsa_sen_zora_creg":0,"runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"value":30,"extra long":({"Crafted by: Creg with A Level [115] Lictor leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress inscribe_aldara_zet_creg":0,"progress true_armour_creg":0,"progress inscribe_malsa_bonnes_creg":0,"material_name":"Lictor","true armour":1,"pow true_armour_creg":0,])
-true_name "leather boots"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Lictor"
-armour_save (["enhance critical":-5,"short desc":"A pair of leather boots","ac":(["infernal":1089,"disruption":1088,"stress":1090,"crushing":1121,"unholy":1082,"cutting":1109,"vacuum":1102,"plasma":1108,"impaling":1128,"holy":1088,"cold":1105,"fire":1149,"strike":1083,"impact":1113,"electricity":1133,"aether":1108,]),])

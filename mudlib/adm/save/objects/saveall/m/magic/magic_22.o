@@ -1,8 +1,0 @@
-#/d/damned/virtual/studded-leather-jacket.armour
-#/d/damned/virtual/studded-leather-jacket.armour.c
-encumbrance 90
-props (["progress true_armour_math":0,"value":75,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"leather","extra long":({"Crafted by: Maker with A Level [26] Hulking orc leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress master_fortification_math":0,"pow true_armour_math":0,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"Hulking orc","true armour":1,"enchantment":70,])
-true_name "studded leather jacket"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Hulking orc"
-armour_save (["enhance critical":-4,"short desc":"A studded leather jacket","ac":(["infernal":346,"disruption":353,"stress":358,"unholy":347,"crushing":361,"cutting":385,"vacuum":351,"plasma":353,"impaling":375,"holy":351,"fire":358,"cold":371,"strike":361,"impact":365,"aether":353,"electricity":363,]),])

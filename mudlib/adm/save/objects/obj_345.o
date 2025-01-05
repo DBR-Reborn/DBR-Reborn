@@ -1,7 +1,0 @@
-#/d/damned/virtual/plate-bracer.armour.c
-encumbrance 45
-props (["material_name":"neorolite","value":60,"material_type":"metal","extra long":"level[18] neorolite Plate Bracer","new desc":"level[18] neorolite Plate Bracer",])
-true_name "plate bracer"
-creator "/d/damned/virtual/armour_server"
-material "/metal/neorolite"
-armour_save (["short desc":"level[18] neorolite Plate Bracer","ac":(["infernal":37,"disruption":37,"stress":37,"crushing":37,"unholy":37,"cutting":37,"vacuum":37,"plasma":37,"impaling":37,"holy":37,"cold":37,"fire":37,"strike":37,"impact":37,"electricity":37,"aether":37,]),])

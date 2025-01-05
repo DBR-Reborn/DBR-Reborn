@@ -1,8 +1,0 @@
-#/d/damned/virtual/plate-greaves.armour
-#/d/damned/virtual/plate-greaves.armour.c
-encumbrance 1
-props (["runes":({"malsa bonnes","malsa sen zora","lifta",}),"progress inscribe_malsa_sen_zora_lilund":0,"pow master_fortification_lilund":0,"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Protection%^RESET%^ {greaves}","progress inscribe_malsa_bonnes_lilund":0,"progress engrave_lilund":0,"material_name":"laen","true armour":1,"progress master_fortification_lilund":0,"pow true_armour_lilund":0,"progress true_armour_lilund":0,"value":20260,"material_type":"metal","extra long":({"Smithed by: Lilund with laen [196] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Lifta%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_lifta_lilund":0,"enchantment":70,])
-true_name "plate greaves"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["enhance critical":-6,"short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Protection%^RESET%^ {greaves}","ac":(["infernal":842,"disruption":807,"stress":777,"crushing":844,"unholy":791,"cutting":900,"vacuum":847,"plasma":841,"impaling":886,"holy":860,"cold":880,"fire":856,"strike":844,"impact":825,"electricity":856,"aether":767,]),])

@@ -1,8 +1,0 @@
-#/d/damned/virtual/stumps.armour
-#/d/damned/virtual/stumps.armour.c
-encumbrance 70
-props (["value":90,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"wood","extra long":({"Crafted by: Maker with A wooden board of dogwood [40]","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress master_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"dogwood","enchantment":70,])
-true_name "stumps"
-creator "/d/damned/virtual/armour_server"
-material "/wood/dogwood"
-armour_save (["short desc":"A pair of stumps","ac":(["infernal":371,"disruption":392,"stress":372,"unholy":354,"crushing":353,"cutting":371,"vacuum":369,"plasma":372,"impaling":386,"holy":362,"fire":375,"cold":351,"strike":366,"impact":370,"aether":355,"electricity":373,]),])

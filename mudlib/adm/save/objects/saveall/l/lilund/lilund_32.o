@@ -1,7 +1,0 @@
-#/d/khojem/new/armor/shaman_hood.c
-encumbrance 20
-props (["value":50,"extra long":({({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"misc","new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Imposition%^RESET%^ {hood}","progress engrave_lilund":0,"material_name":"wool","true armour":1,"pow true_armour_lilund":0,"progress true_armour_lilund":0,])
-true_name "shaman hood"
-creator "/d/khojem/new/mon/orc_shaman#507303"
-material "/misc/wool"
-armour_save (["enhance critical":-4,"short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Imposition%^RESET%^ {hood}","ac":(["infernal":8,"disruption":12,"stress":12,"crushing":6,"unholy":10,"cutting":10,"vacuum":2,"plasma":8,"impaling":10,"holy":8,"cold":16,"fire":16,"strike":12,"impact":6,"electricity":4,"aether":11,]),])

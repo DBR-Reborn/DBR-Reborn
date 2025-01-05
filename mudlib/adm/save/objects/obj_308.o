@@ -1,7 +1,0 @@
-#/d/damned/virtual/metal-boots.armour.c
-encumbrance 70
-props (["material_name":"neorolite","value":90,"material_type":"metal","extra long":"level[15] neorolite Metal Boots","new desc":"level[15] neorolite Metal Boots",])
-true_name "metal boots"
-creator "/d/damned/virtual/armour_server"
-material "/metal/neorolite"
-armour_save (["short desc":"level[15] neorolite Metal Boots","ac":(["infernal":38,"disruption":38,"stress":38,"crushing":38,"unholy":38,"cutting":38,"vacuum":38,"plasma":38,"impaling":38,"holy":38,"cold":38,"fire":38,"strike":38,"impact":38,"electricity":38,"aether":38,]),])

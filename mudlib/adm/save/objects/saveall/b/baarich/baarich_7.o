@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-glove.armour
-#/d/damned/virtual/leather-glove.armour.c
-encumbrance 1
-props (["runes":({"aldara zet","malsa bonnes","malsa sen zora","cutta","impacta",}),"value":3,"extra long":({"Crafted by: Trent with A Level [18] Constable leather","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BOLD%^Cutta%^RESET%^ rune is inscribed on the armour.","A %^B_CYAN%^%^BOLD%^Impacta%^RESET%^ rune is inscribed on the armour.",}),"material_type":"leather","progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,"progress inscribe_cutta_trent":0,"material_name":"Constable","progress inscribe_malsa_bonnes_trent":0,"progress inscribe_impacta_trent":0,])
-true_name "leather glove"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Constable"
-armour_save (["short desc":"A leather glove","ac":(["infernal":255,"disruption":255,"stress":249,"crushing":274,"unholy":254,"cutting":402,"vacuum":255,"plasma":251,"impaling":276,"holy":248,"cold":264,"fire":265,"strike":278,"impact":379,"electricity":255,"aether":249,]),])

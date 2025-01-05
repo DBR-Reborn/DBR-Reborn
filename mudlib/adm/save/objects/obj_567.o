@@ -1,7 +1,0 @@
-#/d/damned/virtual/leather-wing-guards.armour.c
-encumbrance 90
-props (["runes":({"malsa sen zora","malsa bonnes",}),"value":75,"material_type":"leather","extra long":({"Crafted by: Kigus with A Level [100] Silver dragon leather","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),}),"progress inscribe_malsa_bonnes_skye":0,"new desc":"%^B_BLUE%^%^RESET%^ {leather wing guards}","material_name":"Silver dragon","pow master_fortification_nawara":0,"progress engrave_nawara":0,"progress enchanter_mark_nawara":0,"progress master_fortification_nawara":0,"pow enchanter_mark_nawara":0,"enchantment":70,"progress engrave_angelica":0,"progress inscribe_malsa_sen_zora_skye":0,])
-true_name "leather wing guards"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Silver dragon"
-armour_save (["short desc":"%^B_BLUE%^%^RESET%^ {leather wing guards}","ac":(["infernal":551,"disruption":548,"stress":561,"unholy":549,"crushing":560,"cutting":564,"vacuum":548,"plasma":563,"impaling":555,"holy":556,"fire":576,"cold":577,"strike":563,"impact":550,"aether":549,"electricity":557,]),])

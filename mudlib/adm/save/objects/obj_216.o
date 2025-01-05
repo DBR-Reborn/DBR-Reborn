@@ -1,7 +1,0 @@
-#/d/damned/virtual/shod-staff_6.weapon.c
-encumbrance 30
-props (["material_name":"inniculmoid","value":425,"extra long":"level[42] inniculmoid shod-staff of stress and fire","material_type":"metal","new desc":"level[42] inniculmoid shod-staff of stress and fire",])
-true_name "shod staff"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/inniculmoid"
-__Weapon (["original wc":(["fire":58,"stress":56,"crushing":15,]),"quality":6,"type":"two handed staff","ac":(["infernal":6,"disruption":6,"stress":6,"unholy":6,"crushing":6,"cutting":6,"vacuum":6,"plasma":6,"impaling":6,"holy":6,"fire":6,"cold":6,"strike":6,"impact":6,"aether":6,"electricity":6,]),"verb":"bash","wc":(["fire":58,"stress":56,"crushing":47,]),"short desc":"level[42] inniculmoid shod-staff of stress and fire","decay rate":200,"parry bonus":10,])

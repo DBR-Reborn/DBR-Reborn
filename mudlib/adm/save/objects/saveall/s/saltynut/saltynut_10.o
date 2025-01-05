@@ -1,8 +1,0 @@
-#/d/damned/virtual/metal-visor.armour
-#/d/damned/virtual/metal-visor.armour.c
-encumbrance 30
-props (["value":2355,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"metal","extra long":({"Smithed by: Lore","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Protection%^RESET%^ {visor}","material_name":"laen","progress inscribe_malsa_sen_zora_lore":0,"progress inscribe_malsa_bonnes_lore":0,"progress engrave_lore":0,])
-true_name "metal visor"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Protection%^RESET%^ {visor}","ac":(["infernal":224,"disruption":216,"stress":223,"unholy":213,"crushing":239,"cutting":218,"vacuum":228,"plasma":249,"impaling":253,"holy":215,"fire":238,"cold":233,"strike":249,"impact":252,"aether":252,"electricity":220,]),])

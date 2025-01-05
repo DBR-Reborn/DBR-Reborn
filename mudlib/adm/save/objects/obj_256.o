@@ -1,7 +1,0 @@
-#/d/damned/virtual/halberd_6.weapon.c
-encumbrance 275
-props (["material_name":"iysaughton","value":950,"material_type":"metal","extra long":"level[85] iysaughton Halberd of cold and electricity","new desc":"level[85] iysaughton Halberd of cold and electricity",])
-true_name "halberd"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/iysaughton"
-__Weapon (["original wc":(["cold":240,"impaling":8,"crushing":128,"cutting":15,"electricity":194,]),"quality":6,"type":"two handed polearm","ac":(["infernal":3,"disruption":3,"stress":3,"crushing":3,"unholy":3,"cutting":3,"vacuum":3,"plasma":3,"impaling":3,"holy":3,"cold":3,"fire":3,"strike":3,"impact":3,"electricity":3,"aether":3,]),"verb":"chop","wc":(["cold":240,"impaling":8,"crushing":128,"cutting":15,"electricity":194,]),"short desc":"level[85] iysaughton Halberd of cold and electricity","decay rate":200,"parry bonus":-5,])

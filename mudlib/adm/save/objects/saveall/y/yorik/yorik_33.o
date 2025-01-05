@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-jacket.armour
-#/d/damned/virtual/leather-jacket.armour.c
-encumbrance 1
-props (["progress engrave_singe":0,"progress inscribe_malsa_bonnes_singe":0,"runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"new desc":"%^B_BLUE%^Divine leather%^RESET%^ {jacket}","material_name":"Dragon","true armour":1,"progress inscribe_malsa_sen_zora_singe":0,"progress engrave_aartos":0,"pow true_armour_upstart":0,"value":45,"material_type":"leather","extra long":({"Crafted by: Singe with A Level [62] Dragon leather","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress enchanter_mark_okkita":0,"progress extreme_fortification_upstart":0,"progress true_armour_upstart":0,"progress engrave_yorik":0,"pow enchanter_mark_okkita":0,"pow extreme_fortification_upstart":0,"progress inscribe_aldara_zet_singe":0,"enchantment":100,])
-true_name "leather jacket"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Dragon"
-armour_save (["enhance critical":-4,"short desc":"%^B_BLUE%^Divine leather%^RESET%^ {jacket}","ac":(["infernal":625,"disruption":626,"stress":614,"unholy":618,"crushing":653,"cutting":662,"vacuum":390,"plasma":615,"impaling":648,"holy":624,"fire":655,"cold":626,"strike":648,"impact":630,"aether":608,"electricity":624,]),])

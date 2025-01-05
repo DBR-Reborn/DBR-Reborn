@@ -1,8 +1,0 @@
-#/d/damned/virtual/stumps.armour
-#/d/damned/virtual/stumps.armour.c
-encumbrance 70
-props (["value":90,"progress engrave_tursnik":0,"extra long":({"Crafted by: Tursnik with A wooden board of abachi [268]",({"Fortification: %^CYAN%^+100%","detect magic",}),}),"material_type":"wood","progress extreme_fortification_rihcter":0,"new desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {stumps}","pow extreme_fortification_rihcter":0,"material_name":"abachi","progress engrave_thromax":0,"enchantment":100,])
-true_name "stumps"
-creator "/d/damned/virtual/armour_server"
-material "/wood/abachi"
-armour_save (["short desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {stumps}","ac":(["infernal":544,"disruption":511,"stress":527,"crushing":455,"unholy":520,"cutting":544,"vacuum":479,"plasma":553,"impaling":462,"holy":500,"cold":538,"fire":529,"strike":457,"impact":482,"electricity":561,"aether":544,]),])

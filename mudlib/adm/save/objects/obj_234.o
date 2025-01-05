@@ -1,7 +1,0 @@
-#/d/damned/virtual/short-sword_6.weapon.c
-encumbrance 45
-props (["brittle":21,"runes":({"malsa koren","harah lit","xen mora",}),"value":2425,"auto critical":(["speed B":26,]),"extra long":({"This weapon was forged by: Trent with catoetine [96] weapon blank","A %^GREEN%^%^BOLD%^Malsa Koren%^RESET%^ rune is inscribed on the weapon.","A %^MAGENTA%^%^BOLD%^Harah Lit%^RESET%^ rune is inscribed on the weapon.","A %^CYAN%^Xen Mora%^RESET%^ rune is inscribed on the weapon.",}),"material_type":"metal","progress inscribe_harah_lit_trent":0,"material_name":"catoetine","progress inscribe_xen_mora_trent":0,"progress inscribe_malsa_koren_trent":0,"hit bonus":62,])
-true_name "short sword"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/catoetine"
-__Weapon (["original wc":(["impaling":4,"stress":192,"cutting":7,"electricity":192,]),"wielded":0,"quality":6,"limb string":" (wielded in left hand)","type":"blade","ac":(["infernal":3,"disruption":3,"stress":3,"unholy":3,"crushing":3,"cutting":3,"vacuum":3,"plasma":3,"impaling":3,"holy":3,"fire":3,"cold":3,"strike":3,"impact":3,"aether":3,"electricity":3,]),"verb":"slice","wc":(["impaling":136,"stress":192,"cutting":139,"electricity":192,]),"short desc":"short sword","decay rate":11000,"parry bonus":8,])

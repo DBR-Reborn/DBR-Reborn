@@ -1,8 +1,0 @@
-#/d/damned/virtual/wood-helm.armour
-#/d/damned/virtual/wood-helm.armour.c
-encumbrance 100
-props (["material_name":"abachi","progress inscribe_malsa_sen_zora_torm":0,"value":45,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"wood","extra long":({"Crafted by: Torm with A wooden board of abachi [116]","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_malsa_bonnes_torm":0,])
-true_name "wood helm"
-creator "/d/damned/virtual/armour_server"
-material "/wood/abachi"
-armour_save (["short desc":"A wood helm","ac":(["infernal":420,"disruption":403,"stress":446,"crushing":440,"unholy":436,"cutting":417,"vacuum":432,"plasma":414,"impaling":431,"holy":417,"cold":445,"fire":410,"strike":413,"impact":432,"electricity":414,"aether":460,]),])

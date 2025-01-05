@@ -1,7 +1,0 @@
-#/d/damned/virtual/robe.armour.c
-encumbrance 1
-props (["runes":({"malsa bonnes","malsa sen zora","lifta",}),"progress inscribe_malsa_sen_zora_lilund":0,"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^ {robe}","pow master_fortification_lilund":0,"progress inscribe_malsa_bonnes_lilund":0,"progress engrave_lilund":0,"material_name":"Elemental overlord","true armour":1,"progress master_fortification_lilund":0,"pow true_armour_lilund":0,"progress true_armour_lilund":0,"value":10,"extra long":({"Crafted by: Lilund with A Level [75] Elemental overlord leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Lifta%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress inscribe_lifta_lilund":0,"enchantment":70,])
-true_name "robe"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Elemental overlord"
-armour_save (["enhance critical":-4,"short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^ {robe}","ac":(["infernal":695,"disruption":687,"stress":709,"crushing":718,"unholy":692,"cutting":767,"vacuum":710,"plasma":703,"impaling":748,"holy":704,"cold":742,"fire":726,"strike":706,"impact":720,"electricity":699,"aether":701,]),])

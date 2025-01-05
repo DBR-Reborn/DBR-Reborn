@@ -1,6 +1,0 @@
-#/wizards/diewarzau/obj/misc/leather2.c
-encumbrance 200
-props (["material_name":"Sasa","value":100,"material_type":"leather","extra long":"Level [100] Sasa","new desc":"Level [100] Sasa",])
-true_name "leather"
-creator "/std/skills/skin_corpse#337189"
-material "/leather/Sasa"

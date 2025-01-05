@@ -1,7 +1,0 @@
-#/d/damned/virtual/wood-bracer.armour.c
-encumbrance 45
-props (["material_name":"abachi","progress inscribe_malsa_sen_zora_torm":0,"runes":({"malsa bonnes","malsa sen zora",}),"value":60,"extra long":({"Crafted by: Torm with A wooden board of abachi [128]","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"wood","progress inscribe_malsa_bonnes_torm":0,])
-true_name "wood bracer"
-creator "/d/damned/virtual/armour_server"
-material "/wood/abachi"
-armour_save (["short desc":"wood bracer","ac":(["infernal":426,"fire":431,"cold":411,"disruption":407,"stress":428,"unholy":420,"crushing":441,"cutting":418,"strike":428,"vacuum":449,"plasma":440,"impact":430,"impaling":467,"holy":415,"aether":463,"electricity":398,]),])

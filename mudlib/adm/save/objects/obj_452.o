@@ -1,7 +1,0 @@
-#/d/damned/virtual/bokken_6.weapon.c
-encumbrance 90
-props (["material_name":"willow","value":655,"extra long":"Crafted by: Tursnik with A wooden board of willow [96]","material_type":"wood",])
-true_name "bokken"
-creator "/d/damned/virtual/weapon_server"
-material "/wood/willow"
-__Weapon (["original wc":(["impaling":6,"cutting":10,"electricity":160,]),"quality":6,"type":"blade","ac":(["infernal":4,"disruption":4,"stress":4,"unholy":4,"crushing":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"fire":4,"cold":4,"strike":4,"impact":4,"aether":4,"electricity":4,]),"verb":"bonk","wc":(["impaling":161,"cutting":165,"electricity":160,]),"short desc":"bokken","decay rate":11000,"parry bonus":5,])

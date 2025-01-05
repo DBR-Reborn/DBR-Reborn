@@ -1,7 +1,0 @@
-#/d/damned/virtual/large-shield.armour.c
-encumbrance 150
-props (["material_name":"mcgrail","value":75,"material_type":"metal","extra long":"level[43] mcgrail shield of impact and disruption protection","new desc":"level[43] mcgrail shield of impact and disruption protection",])
-true_name "large shield"
-creator "/d/damned/virtual/armour_server"
-material "/metal/mcgrail"
-armour_save (["short desc":"level[43] mcgrail shield of impact and disruption protection","ac":(["infernal":54,"disruption":148,"stress":54,"crushing":54,"unholy":54,"cutting":54,"vacuum":54,"plasma":54,"impaling":54,"holy":54,"cold":54,"fire":54,"strike":54,"impact":165,"electricity":54,"aether":54,]),])

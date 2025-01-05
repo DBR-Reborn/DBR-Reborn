@@ -1,8 +1,0 @@
-#/d/damned/virtual/plate-bracer.armour
-#/d/damned/virtual/plate-bracer.armour.c
-encumbrance 45
-props (["material_name":"catoetine","value":60,"extra long":"level[16] catoetine Plate Bracer","material_type":"metal","new desc":"level[16] catoetine Plate Bracer",])
-true_name "plate bracer"
-creator "/d/damned/virtual/armour_server"
-material "/metal/catoetine"
-armour_save (["short desc":"level[16] catoetine Plate Bracer","ac":(["infernal":46,"disruption":46,"stress":46,"unholy":46,"crushing":46,"cutting":46,"vacuum":46,"plasma":46,"impaling":46,"holy":46,"fire":46,"cold":46,"strike":46,"impact":46,"aether":46,"electricity":46,]),])

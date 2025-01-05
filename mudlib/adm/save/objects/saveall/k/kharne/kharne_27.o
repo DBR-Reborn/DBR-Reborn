@@ -1,8 +1,0 @@
-#/d/damned/virtual/taces.armour
-#/d/damned/virtual/taces.armour.c
-encumbrance 30
-props (["material_name":"laen","progress inscribe_malsa_sen_zora_kharne":0,"runes":({"malsa bonnes","malsa sen zora",}),"value":2355,"material_type":"metal","extra long":({"Smithed by: Kharne with laen [148] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_malsa_bonnes_kharne":0,])
-true_name "taces"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"A pair of taces","ac":(["infernal":573,"disruption":554,"stress":565,"crushing":558,"unholy":556,"cutting":612,"vacuum":576,"plasma":572,"impaling":600,"holy":588,"cold":592,"fire":598,"strike":597,"impact":546,"electricity":588,"aether":546,]),])

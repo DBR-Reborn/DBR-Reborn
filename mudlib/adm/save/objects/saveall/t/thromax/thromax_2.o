@@ -1,7 +1,0 @@
-#/d/nocte/kuril/armour/tattered_clothes.c
-encumbrance 100
-props (["value":0,"progress engrave_tursnik":0,"extra long":({({"Fortification: %^CYAN%^+100%","detect magic",}),}),"material_type":"none","pow major_fortification_rihcter":0,"progress extreme_fortification_rihcter":0,"new desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {clothes}","pow extreme_fortification_rihcter":0,"material_name":"leather","progress major_fortification_rihcter":0,"progress engrave_thromax":0,"enchantment":100,])
-true_name "tattered clothes"
-creator "/d/nocte/kuril/mon/ku_wight#842252"
-material "/leather"
-armour_save (["short desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {clothes}","ac":(["infernal":1,"disruption":1,"stress":1,"crushing":1,"unholy":1,"cutting":1,"vacuum":1,"plasma":1,"impaling":1,"holy":1,"cold":1,"fire":1,"strike":1,"impact":1,"electricity":1,"aether":1,]),])

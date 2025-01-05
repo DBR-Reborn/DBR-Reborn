@@ -1,9 +1,0 @@
-#/d/damned/guilds/nethermancer/misc/nether_staff.c
-encumbrance 20
-props (["material_name":"soulwood","nethermancer weapon":1,"value":1,"material_type":"none","no add quality":1,"no decay":1,])
-true_name "staff"
-creator "/std/spells/mold_nether_staff#80815"
-material "/soulwood"
-__Weapon (["wielded":0,"enhance critical":2,"quality":6,"unwield":,"limb string":" (wielded in right hand and left hand)","type":"two handed staff","wield":,"hit":0,"ac":(["infernal":0,"disruption":0,"stress":0,"crushing":0,"unholy":0,"cutting":0,"vacuum":0,"plasma":0,"impaling":0,"holy":0,"cold":0,"fire":0,"strike":0,"impact":0,"electricity":0,"aether":0,]),"verb":"purify","short desc":"%^BOLD%^%^CYAN%^A nether staff%^RESET%^","decay rate":200,])
-number 24
-selector 23

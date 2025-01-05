@@ -1,5 +1,0 @@
-#/wizards/diewarzau/obj/misc/lock_picks.c
-encumbrance 2
-props (["value":23,])
-true_name "lock pick"
-creator "/wizards/diewarzau/obj/misc/lock_pick_case#160"

@@ -1,7 +1,0 @@
-#/d/damned/virtual/tabard.armour.c
-encumbrance 1
-props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"%^COLOR57%^+SHROUDED+%^RESET%^ tabard {tabard}","material_name":"Silver dragon","true armour":1,"progress engrave_mythicos":0,"progress extreme_fortification_azazel":0,"progress inscribe_malsa_sen_zora_azazel":0,"value":10,"material_type":"leather","extra long":({"Crafted by: Azazel with A Level [100] Silver dragon leather","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress engrave_azazel":0,"progress inscribe_malsa_bonnes_azazel":0,"pow extreme_fortification_azazel":0,"pow true_armour_azazel":0,"progress inscribe_aldara_zet_azazel":0,"progress true_armour_azazel":0,"enchantment":100,])
-true_name "tabard"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Silver dragon"
-armour_save (["enhance critical":-4,"short desc":"%^COLOR57%^+SHROUDED+%^RESET%^ tabard {tabard}","ac":(["infernal":900,"disruption":898,"stress":894,"crushing":867,"unholy":895,"cutting":896,"vacuum":897,"plasma":908,"impaling":887,"holy":895,"cold":914,"fire":915,"strike":850,"impact":860,"electricity":911,"aether":895,]),])

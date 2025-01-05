@@ -1,7 +1,0 @@
-#/d/damned/virtual/plate-greaves.armour.c
-encumbrance 1
-props (["material_name":"mcgrail","value":430,"runes":({"aldara zet",}),"extra long":({"level[43] mcgrail greaves of electricity and fire protection","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","progress inscribe_aldara_zet_azazel":0,"new desc":"level[43] mcgrail greaves of electricity and fire protection",])
-true_name "plate greaves"
-creator "/d/damned/virtual/armour_server"
-material "/metal/mcgrail"
-armour_save (["short desc":"level[43] mcgrail greaves of electricity and fire protection","ac":(["infernal":46,"disruption":46,"stress":46,"unholy":46,"crushing":46,"cutting":46,"vacuum":46,"plasma":46,"impaling":46,"holy":46,"fire":151,"cold":46,"strike":46,"impact":46,"aether":46,"electricity":170,]),])

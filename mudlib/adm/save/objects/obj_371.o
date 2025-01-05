@@ -1,7 +1,0 @@
-#/d/damned/virtual/leather-glove.armour.c
-encumbrance 2
-props (["value":3,"progress engrave_tursnik":0,"extra long":"Crafted by: Azazel with A Level [99] Infernal skeleton leather","material_type":"leather","progress engrave_kigus":0,"progress enchanter_mark_okkita":0,"progress engrave_inikhida":0,"new desc":"%^B_BLUE%^RESET%^ {leather glove}","material_name":"Infernal skeleton","pow enchanter_mark_okkita":0,"progress engrave_arcadia":0,])
-true_name "leather glove"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Infernal skeleton"
-armour_save (["short desc":"%^B_BLUE%^RESET%^ {leather glove}","ac":(["infernal":310,"disruption":303,"stress":315,"unholy":310,"crushing":298,"cutting":314,"vacuum":312,"plasma":299,"impaling":316,"holy":304,"fire":304,"cold":299,"strike":298,"impact":320,"aether":303,"electricity":303,]),])

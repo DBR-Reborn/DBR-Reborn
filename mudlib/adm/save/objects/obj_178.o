@@ -1,7 +1,0 @@
-#/d/damned/virtual/metal-boots.armour.c
-encumbrance 21
-props (["material_name":"davistone","value":3117,"progress inscribe_malsa_bonnes_trent":0,"runes":({"malsa bonnes","aldara zet","malsa sen zora",}),"extra long":({"Smithed by: Trent with davistone [28] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,])
-true_name "metal boots"
-creator "/d/damned/virtual/armour_server"
-material "/metal/davistone"
-armour_save (["short desc":"A pair of metal boots","ac":(["infernal":218,"disruption":218,"stress":218,"unholy":218,"crushing":229,"cutting":229,"vacuum":218,"plasma":220,"impaling":229,"holy":218,"fire":221,"cold":221,"strike":225,"impact":225,"aether":218,"electricity":221,]),])

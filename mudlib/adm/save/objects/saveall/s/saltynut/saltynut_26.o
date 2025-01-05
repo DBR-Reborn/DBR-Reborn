@@ -1,7 +1,0 @@
-#/d/1tlny/loot/hooded_robe.c
-encumbrance 100
-props (["material_name":"cloth","value":400,"material_type":"none","extra long":"level[43] Rare Robe of fire and cutting protection","progress engrave_lore":0,"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Absorption%^RESET%^ {robe}",])
-true_name "hooded robe"
-creator "/d/areas/dragon/mon/skinny_dragon#188722"
-material "/cloth"
-armour_save (["short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Absorption%^RESET%^ {robe}","ac":(["infernal":74,"disruption":74,"stress":74,"crushing":74,"unholy":74,"cutting":170,"vacuum":74,"plasma":74,"impaling":74,"holy":74,"cold":74,"fire":153,"strike":74,"impact":74,"electricity":74,"aether":74,]),])

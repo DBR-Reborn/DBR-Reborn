@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-boots.armour
-#/d/damned/virtual/leather-boots.armour.c
-encumbrance 30
-props (["material_name":"Ghost","value":30,"material_type":"leather","extra long":"Crafted by: Torm with A Level [15] Ghost leather","progress engrave_torm":0,"new desc":"A {leather boots}",])
-true_name "leather boots"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Ghost"
-armour_save (["short desc":"A {leather boots}","ac":(["infernal":146,"disruption":166,"stress":138,"crushing":173,"unholy":184,"cutting":178,"vacuum":179,"plasma":116,"impaling":191,"holy":171,"cold":169,"fire":113,"strike":116,"impact":126,"electricity":103,"aether":169,]),])

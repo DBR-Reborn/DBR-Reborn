@@ -1,8 +1,0 @@
-#/d/damned/virtual/chain-mail.armour
-#/d/damned/virtual/chain-mail.armour.c
-encumbrance 1
-props (["progress inscribe_aldara_zet_maker":0,"value":150,"runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"material_type":"metal","extra long":({"Smithed by: Maker with An iron armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),"A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_malsa_sen_zora_maker":0,"progress master_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"iron","enchantment":70,])
-true_name "chain mail"
-creator "/d/damned/virtual/armour_server"
-material "/metal/iron"
-armour_save (["short desc":"A chain mail","ac":(["infernal":387,"disruption":387,"stress":387,"unholy":387,"crushing":402,"cutting":402,"vacuum":387,"plasma":391,"impaling":402,"holy":387,"fire":393,"cold":393,"strike":395,"impact":395,"aether":387,"electricity":393,]),])

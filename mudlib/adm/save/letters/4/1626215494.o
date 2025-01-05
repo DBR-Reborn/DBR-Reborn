@@ -1,3 +1,0 @@
-#/daemon/letter.c
-__Letter "Since I have changed my IP address if players stay idle for longer than 10 minutes they go net dead and get disconnected. I had it set before that players could go idle for forever without ever sending an action and stay logged in and I want it to be that way again any idea why users now get disconnected after 10 minutes of no action?"
-__Undeleted ({"exash",})

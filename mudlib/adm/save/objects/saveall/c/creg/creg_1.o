@@ -1,8 +1,0 @@
-#/d/damned/virtual/leather-helmet.armour
-#/d/damned/virtual/leather-helmet.armour.c
-encumbrance 1
-props (["progress inscribe_malsa_sen_zora_creg":0,"runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"value":45,"extra long":({"Crafted by: Creg with A Level [115] Zoanthrope leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress inscribe_aldara_zet_creg":0,"progress true_armour_creg":0,"progress inscribe_malsa_bonnes_creg":0,"material_name":"Zoanthrope","true armour":1,"pow true_armour_creg":0,])
-true_name "leather helmet"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Zoanthrope"
-armour_save (["enhance critical":-4,"short desc":"A leather helmet","ac":(["infernal":1214,"disruption":1201,"stress":1269,"crushing":1156,"unholy":1261,"cutting":1248,"vacuum":1223,"plasma":1312,"impaling":1303,"holy":1243,"cold":1283,"fire":1185,"strike":1261,"impact":1160,"electricity":1243,"aether":1267,]),])

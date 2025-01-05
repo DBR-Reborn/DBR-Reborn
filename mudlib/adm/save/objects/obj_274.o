@@ -1,6 +1,0 @@
-#/std/diewarzau/obj/misc/ingot.c
-encumbrance 64
-props (["material_name":"laen","value":160,"material_type":"metal",])
-true_name "ingot"
-creator "/std/skills/minning#265809"
-material "/metal/laen"

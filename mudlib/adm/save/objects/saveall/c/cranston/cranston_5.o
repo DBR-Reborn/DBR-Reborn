@@ -1,8 +1,0 @@
-#/d/damned/virtual/chain-glove.armour
-#/d/damned/virtual/chain-glove.armour.c
-encumbrance 15
-props (["value":706,"runes":({"malsa bonnes","malsa sen zora",}),"progress inscribe_malsa_sen_zora_kharne":0,"progress major_fortification_cranston":0,"material_type":"metal","extra long":({"Smithed by: Kharne with laen [140] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"progress inscribe_malsa_bonnes_kharne":0,"material_name":"laen","pow major_fortification_cranston":0,"enchantment":40,])
-true_name "chain glove"
-creator "/d/damned/virtual/armour_server"
-material "/metal/laen"
-armour_save (["short desc":"A chain glove","ac":(["infernal":583,"disruption":510,"stress":514,"crushing":538,"unholy":538,"cutting":565,"vacuum":516,"plasma":572,"impaling":589,"holy":541,"cold":535,"fire":527,"strike":566,"impact":574,"electricity":587,"aether":520,]),])

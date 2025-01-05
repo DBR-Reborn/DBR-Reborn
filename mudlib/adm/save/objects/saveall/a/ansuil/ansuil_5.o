@@ -1,5 +1,0 @@
-#/d/areas/goblin/items/l_axe.c
-encumbrance 120
-props (["material_name":"iron","value":200,"material_type":"metal",])
-material "/metal/iron"
-__Weapon (["original wc":(["cutting":12,]),"quality":3,"type":"two handed blade","ac":(["infernal":1,"disruption":1,"stress":1,"crushing":1,"unholy":1,"cutting":1,"vacuum":1,"plasma":1,"impaling":1,"holy":1,"cold":1,"fire":1,"strike":1,"impact":1,"electricity":1,"aether":1,]),"verb":"rip","wc":(["cutting":12,]),"short desc":"oversized two-handed axe","decay rate":200,"hit bonus":10,])

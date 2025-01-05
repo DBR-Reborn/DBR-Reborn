@@ -1,7 +1,0 @@
-#/d/damned/virtual/wood-bracer.armour.c
-encumbrance 24
-props (["runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"value":60,"extra long":({"Crafted by: Hssr","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"wood","progress true_armour_trent":0,"progress inscribe_malsa_sen_zora_hssr":0,"material_name":"dogwood","pow true_armour_trent":0,"progress major_fortification_trent":0,"true armour":1,"progress inscribe_aldara_zet_hssr":0,"progress inscribe_malsa_bonnes_hssr":0,"pow major_fortification_trent":0,"enchantment":40,])
-true_name "wood bracer"
-creator "/d/damned/virtual/armour_server"
-material "/wood/dogwood"
-armour_save (["enhance critical":-4,"short desc":"wood bracer","ac":(["infernal":67,"disruption":67,"stress":67,"crushing":62,"unholy":67,"cutting":62,"vacuum":67,"plasma":70,"impaling":62,"holy":67,"cold":70,"fire":70,"strike":78,"impact":78,"electricity":70,"aether":67,]),])

@@ -1,5 +1,0 @@
-#/d/areas/goblin/items/spear.c
-encumbrance 50
-props (["material_name":"iron","decay":500,"value":60,"material_type":"metal",])
-material "/metal/iron"
-__Weapon (["original wc":(["impaling":10,]),"quality":2,"type":"two handed polearm","poison":5,"verb":"thrust","wc":(["impaling":10,]),"decay rate":200,"parry bonus":-5,])

@@ -1,7 +1,0 @@
-#/d/damned/virtual/kanabou_6.weapon.c
-encumbrance 310
-props (["material_name":"abachi","value":786,"extra long":"Crafted by: Tursnik with A wooden board of abachi [132]","material_type":"wood",])
-true_name "kanabou"
-creator "/d/damned/virtual/weapon_server"
-material "/wood/abachi"
-__Weapon (["original wc":(["impact":10,"crushing":30,"aether":209,]),"quality":6,"type":"two handed blunt","ac":(["infernal":4,"disruption":4,"stress":4,"unholy":4,"crushing":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"fire":4,"cold":4,"strike":4,"impact":4,"aether":4,"electricity":4,]),"verb":"clobber","wc":(["impact":233,"crushing":233,"aether":209,]),"short desc":"kanabou","decay rate":37000,"parry bonus":-25,])

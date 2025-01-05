@@ -36,8 +36,8 @@ int cmd_peer(string str) {
       return notify_fail("You cannot see far in that direction.\n");
     if(!(dest = (string)environment(this_player())->query_exit(dirlist[i])))
       return notify_fail("You cannot see much in that direction.\n");
-    if(tmp = (string)environment(this_player())->query_door(dirlist[i]) &&
-      !environment(this_player())->query_open(tmp))
+    tmp = (string)environment(this_player())->query_door(dirlist[i]);
+    if(tmp && !environment(this_player())->query_open(tmp))
       return notify_fail("The "+tmp+" blocks your view.\n");
     dest = replace_string(dest, ".c", ""); //Kalinash 1-14-94
     test = find_object_or_load(dest);

@@ -1,8 +1,0 @@
-#/d/damned/virtual/studded-leather-jacket.armour
-#/d/damned/virtual/studded-leather-jacket.armour.c
-encumbrance 1
-props (["progress inscribe_malsa_sen_zora_creg":0,"runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"value":75,"extra long":({"Crafted by: Creg with A Level [115] Hive Tyrant leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress inscribe_aldara_zet_creg":0,"progress true_armour_creg":0,"progress inscribe_malsa_bonnes_creg":0,"material_name":"Hive Tyrant","true armour":1,"pow true_armour_creg":0,])
-true_name "studded leather jacket"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Hive Tyrant"
-armour_save (["enhance critical":-4,"short desc":"A studded leather jacket","ac":(["infernal":1275,"disruption":1226,"stress":1238,"crushing":1269,"unholy":1175,"cutting":1191,"vacuum":1255,"plasma":1257,"impaling":1208,"holy":1200,"cold":1288,"fire":1270,"strike":1189,"impact":1266,"electricity":1196,"aether":1288,]),])

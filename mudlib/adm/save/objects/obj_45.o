@@ -1,7 +1,0 @@
-#/d/damned/virtual/battle-axe_6.weapon.c
-encumbrance 210
-props (["material_name":"boernerine","value":327,"material_type":"metal","extra long":"level[42] boernerine battle-axe of cold and impact","new desc":"level[42] boernerine battle-axe of cold and impact",])
-true_name "battle axe"
-creator "/d/damned/virtual/weapon_server"
-material "/metal/boernerine"
-__Weapon (["original wc":(["cold":66,"impact":82,"crushing":75,"cutting":10,]),"quality":6,"type":"axe","ac":(["infernal":4,"disruption":4,"stress":4,"crushing":4,"unholy":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"cold":4,"fire":4,"strike":4,"impact":4,"electricity":4,"aether":4,]),"verb":"chop","wc":(["cold":66,"impact":82,"crushing":75,"cutting":10,]),"short desc":"level[42] boernerine battle-axe of cold and impact","decay rate":200,"parry bonus":-20,])

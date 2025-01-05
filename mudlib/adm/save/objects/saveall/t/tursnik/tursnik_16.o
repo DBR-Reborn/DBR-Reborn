@@ -1,8 +1,0 @@
-#/d/damned/virtual/studded-leather-glove.armour
-#/d/damned/virtual/studded-leather-glove.armour.c
-encumbrance 3
-props (["material_name":"Silver dragon","value":6,"material_type":"leather","extra long":"Crafted by: Azazel with A Level [100] Silver dragon leather","progress engrave_tursnik":0,"new desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {studded glove}",])
-true_name "studded leather glove"
-creator "/d/damned/virtual/armour_server"
-material "/leather/Silver dragon"
-armour_save (["short desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {studded glove}","ac":(["infernal":357,"disruption":367,"stress":356,"crushing":363,"unholy":351,"cutting":388,"vacuum":351,"plasma":364,"impaling":367,"holy":356,"cold":366,"fire":351,"strike":361,"impact":361,"electricity":365,"aether":351,]),])

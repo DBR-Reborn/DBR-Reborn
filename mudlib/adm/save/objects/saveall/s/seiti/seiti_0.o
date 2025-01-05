@@ -1,6 +1,0 @@
-#/wizards/diewarzau/obj/misc/lock_pick_case.c
-encumbrance 50
-props (["value":92,])
-true_name "lock picks"
-creator "/d/damned/guilds/thief/shop_store"
-picks_left 4
