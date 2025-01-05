@@ -48,6 +48,11 @@ void skill_func(object from, object at, string arg) {
     remove();
     return;
   }
+  if(from->query("stealing")) {
+    message("info", "You can only do that once at a time!", from);
+    remove();
+    return;
+  }
   if(!arg || !strlen(arg)) what = inv[random(sizeof(inv))];
   else {
     what = present(arg, at);
@@ -73,9 +78,10 @@ void skill_func(object from, object at, string arg) {
 		      1);
   at->set("per bonus:"+(string)from->query_name(),
 	  ({ bonus + 7+random(7), time() }));
-from->add_exp2(5 * props["skill level"]+(this_player()->query_level()*100));
+  from->add_exp2(5 * props["skill level"]+(this_player()->query_level()*100));
   message("my_action", "%^CYAN%^You carefully reach into "+
 	  (string)at->query_cap_name()+"'s pockets...", from);
+  from->set("stealing", 1);
   call_out("do_steal", 5, res, ({ from, at, what }) );
   return;
 }
@@ -83,6 +89,7 @@ from->add_exp2(5 * props["skill level"]+(this_player()->query_level()*100));
 void do_steal(int res, object *obs) {
   object from, at, what;
 
+  from->set("stealing", 0);
   if(sizeof(obs) != 3) {
     message("shout", "BUG IN STEAL SKILL....", users());
     remove();
