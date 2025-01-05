@@ -73,6 +73,11 @@ void skill_func(object from, object at, string arg) {
     }
   }
 
+  if(from->query("skinning corpse")) {
+    message("info", "You can only do that once at a time!", from);
+    remove();
+    return;
+  }
 
 
   i = sizeof(weap = (object *)from->query_wielded());
@@ -86,22 +91,22 @@ while(i--) if((string)weap[i]->query_type() == "knife") flag = 1;
   }
 */
   message("info", "%^CYAN%^%^BOLD%^You start skinning the corpse.", from);
-  message("info", "%^CYAN%^"+(string)from->query_cap_name() +
-      " starts skinning a corpse.", environment(from),
-      ({ from }));
-  call_out("chop_down", 10, from, at);
-    type=at->query_name();
-    lvl=(int)at->query_level();
+  message("info", "%^CYAN%^"+(string)from->query_cap_name() + " starts skinning a corpse.", environment(from), ({ from }));
+  from->set("skinning corpse", 1);
+  call_out("skin_corpse", 10, from, at);
+  type=at->query_name();
+  lvl=(int)at->query_level();
   return;
 }
 
-void chop_down(object from, object corpse) {
+void skin_corpse(object from, object corpse) {
   object ob, at;
 
+  from->set("skinning corpse", 0);
   if(!present(corpse, from) && !present(corpse, environment(from))) {
     message("info", "You have lost the corpse.  "+
           "Your skill fails.", from);
-    remove_call_out("chop_down");
+    remove_call_out("skin_corpse");
     remove();
     return;
   }
