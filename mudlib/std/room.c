@@ -53,7 +53,7 @@ void reset() {
 void init() {
     exits::initiate_exits();
     senses::initiate();
-    call_out("clean_up",10);
+    call_out("clean_up",900);
 }
 
 /*
