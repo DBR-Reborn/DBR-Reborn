@@ -1,0 +1,7 @@
+#/d/damned/virtual/footman's-mace_6.weapon.c
+encumbrance 150
+props (["material_name":"mithril","value":524,"extra long":"level[49] mithril footman's-mace of disruption and impaling","material_type":"metal","new desc":"level[49] mithril footman's-mace of disruption and impaling",])
+true_name "footman's mace"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/mithril"
+__Weapon (["original wc":(["impaling":61,"disruption":85,"crushing":10,]),"quality":6,"type":"blunt","ac":(["infernal":5,"disruption":5,"stress":5,"unholy":5,"crushing":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"fire":5,"cold":5,"strike":5,"impact":5,"aether":5,"electricity":5,]),"verb":"pound","wc":(["impaling":61,"disruption":85,"crushing":86,]),"short desc":"level[49] mithril footman's-mace of disruption and impaling","decay rate":200,"parry bonus":-15,])

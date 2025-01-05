@@ -1,0 +1,7 @@
+#/d/damned/virtual/gauntlet.armour.c
+encumbrance 6
+props (["material_name":"raysorite","value":10,"material_type":"metal","extra long":"level[60] raysorite gauntlet of stress and impaling protection","new desc":"level[60] raysorite gauntlet of stress and impaling protection",])
+true_name "gauntlet"
+creator "/d/damned/virtual/armour_server"
+material "/metal/raysorite"
+armour_save (["short desc":"level[60] raysorite gauntlet of stress and impaling protection","ac":(["infernal":61,"disruption":61,"stress":239,"crushing":61,"unholy":61,"cutting":61,"vacuum":61,"plasma":61,"impaling":199,"holy":61,"cold":61,"fire":61,"strike":61,"impact":61,"electricity":61,"aether":61,]),])

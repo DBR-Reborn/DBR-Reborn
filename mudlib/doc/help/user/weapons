@@ -1,0 +1,59 @@
+Weapon types:
+(M) - Metal (Blacksmith/Forge Weapon)
+(W) - Wood (Carpentry/Woodwork Weapon)
+************************************************     
+AXE
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+battle-axe (M/W)        hand-axe (M/W)
+wooden-axe (W)
+
+BLADE
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+bastard-sword (M)       bokken (W)
+broad-sword (M)         long-sword (M)
+rapier (M)              scimitar (M)
+short-sword (M)
+
+BLUNT
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+club (W)                footman's-mace(M)
+hammer (M/W)
+
+FLAIL
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+morning-star (M/W)   nunchucks (W)
+
+KNIFE
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+dagger (M)              knife (M)
+spiked-gauntlet (M)     stick (W)
+stiletto (M)
+
+MELEE
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+brass-knuckles (M)      tonfa (W)
+
+TWO HANDED BLADE
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+two-handed-sword (M)    wooden-two-handed-sword(W)
+
+TWO HANDED BLUNT     
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+kanabou (W)             war-hammer (M/W)
+
+TWO HANDED FLAIL
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+footman's-flail (M/W)      three-section-staff (W)
+
+TWO HANDED POLEARM
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+halberd (M/W)           glaive (M/W)
+military-pick (M/W)     spear (M/W)
+trident (M/W)           wooden-spear(W)
+
+TWO HANDED STAFF
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+quarter-staff (W)       shod-staff (M/W)
+
+**Other types may come up soon, so keep watching!
+

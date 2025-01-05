@@ -1,0 +1,7 @@
+#/d/damned/virtual/plate-bracer.armour.c
+encumbrance 45
+props (["material_name":"laen","value":60,"extra long":"level[92] laen Bracer of plasma and cutting protection","material_type":"metal","new desc":"level[92] laen Bracer of plasma and cutting protection",])
+true_name "plate bracer"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"level[92] laen Bracer of plasma and cutting protection","ac":(["infernal":477,"disruption":477,"stress":477,"unholy":477,"crushing":477,"cutting":1160,"vacuum":477,"plasma":960,"impaling":477,"holy":477,"fire":477,"cold":477,"strike":477,"impact":477,"aether":477,"electricity":477,]),])

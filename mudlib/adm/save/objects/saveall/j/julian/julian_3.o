@@ -1,0 +1,8 @@
+#/d/damned/virtual/chain-mail.armour
+#/d/damned/virtual/chain-mail.armour.c
+encumbrance 1
+props (["runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"progress true_armour_zurr":0,"new desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Kusari-Gusoku%^RESET%^ {mail}","material_name":"laen","true armour":1,"progress inscribe_malsa_sen_zora_mort":0,"pow extreme_fortification_zurr":0,"progress extreme_fortification_zurr":0,"progress inscribe_aldara_zet_mort":0,"progress inscribe_malsa_bonnes_mort":0,"pow enchanter_mark_zurr":0,"value":150,"extra long":({"A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"metal","progress enchanter_mark_zurr":0,"pow true_armour_zurr":0,"enchantment":100,])
+true_name "chain mail"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-4,"short desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Kusari-Gusoku%^RESET%^ {mail}","ac":(["infernal":293,"disruption":301,"stress":302,"unholy":300,"crushing":301,"cutting":302,"vacuum":308,"plasma":304,"impaling":304,"holy":300,"fire":325,"cold":307,"strike":343,"impact":337,"aether":304,"electricity":316,]),])

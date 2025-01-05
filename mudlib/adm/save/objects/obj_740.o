@@ -1,0 +1,7 @@
+#/d/nocte/kuril/armour/hard_boots.c
+encumbrance 100
+props (["material_name":"leather","value":45,"extra long":({({"Fortification: %^CYAN%^+40","detect magic",}),}),"pow major_fortification_math":0,"material_type":"none","progress major_fortification_math":0,"enchantment":40,])
+true_name "boots"
+creator "/d/nocte/kuril/mon/wm_fighter#148511"
+material "/leather"
+armour_save (["ac":(["infernal":2,"disruption":2,"stress":2,"crushing":2,"unholy":2,"cutting":2,"vacuum":2,"plasma":2,"impaling":2,"holy":2,"cold":2,"fire":2,"strike":2,"impact":2,"electricity":2,"aether":2,]),])

@@ -1,0 +1,57 @@
+#STRESS CRITICALS
+#Stress crits
+(A):
+0..70:$T $V $(TP) painfully.:stresses:DAMAGE 5
+71..75:$T $(VT) in severe agony!:are:DAMAGE 15
+#TLNY2020 removed:STAT_MOD dexterity -35 10
+76..80:$T $(VT) a ligament in $(TP) leg.:pull:DAMAGE 6
+#TLNY2020 removed:STAT_MOD dexterity -10 10
+81..85:$T $(VT) a muscle, and it is quite painful.:sprain:DAMAGE 8
+#TLNY2020 removed:STAT_MOD dexterity -5 100
+86..99:$T $(VT) empowered by $(AP) attack.:are:DAMAGE 10
+#TLNY2020 removed:STAT_MOD strength 30 10:STAT_MOD constitution 30 10
+100..100:$T $(VT) in the face of $(AP) attack!:laugh:DAMAGE 12
+#TLNY2020 removed:STAT_MOD strength 40 10:STAT_MOD constitution 40 10:STAT_MOD dexterity 40 10
+(B):
+0..50:$T $V $(TP) very painfully.:stresses:DAMAGE 10
+51..59:$T $(VT) in severe pain.:are:DAMAGE 27
+#TLNY2020 removed:STAT_MOD dexterity -50 10
+60..69:$T $(VT) throbbing pain from $(AP) attack.:experience:DAMAGE 15
+#TLNy2020 removed:STAT_MOD dexterity -40 10
+70..99:$T $(VT) a muscle from the pain of $(AP) attack.:pull:DAMAGE 20
+#TLNY2020 removed:STAT_MOD dexterity -5 10
+100..100:$(TP) morale is boosted by $(AP) attack.  $(TN) $(VT) even harder.:fight:DAMAGE 25
+#TLNY2020 removed:STAT_MOD dexterity 30 10
+(C):
+0..39:$T $V $(TP) extreamly painfully.:stresses:DAMAGE 15
+40..45:Pain racks $T!::DAMAGE 45
+#TLNY2020 removed:STAT_MOD dexterity -70 10
+46..50:$T $(VT) rendered immobile temporarily by the pain of $(AP) attack.:are:DAMAGE 37:STUN 4
+51..60:Terrible agony washes over $T as $(AP) attack hits $(TO).::DAMAGE 21
+#TLNY2020 removed:STAT_MOD dexterity -40 10:STAT_MOD constitution -40 10
+61..70:$T $(VT) in pain!:scream:DAMAGE 15
+#TLNY2020 removed:STAT_MOD dexterity -30 10
+71..80:Stinging pain from $(AP) attack overcomes $T.::DAMAGE 12
+#TLNY2020 removed:STAT_MOD dexterity -20 10
+81..90:$T $(VT) $(TPP) leg, wincing in pain.:grab:DAMAGE 7:
+#TLNY2020 removed STAT_MOD dexterity -10 10
+91..100:$T $(VT) with less vigor, due to all of the pain which racks $(TPP) body.:attack:DAMAGE 40
+#TLNY2020 removed:STAT_MOD dexterity -5 10
+(D):
+0..49:$T $V $(TP) ultra painfully.:stresses:DAMAGE 20
+50..55:$T $(VT) paralyzed by pain!:are:DAMAGE 105
+#TLNY2020 removed:STAT_MOD dexterity -90 10
+56..60:Torn muscle tissue puts $T in severe pain.::DAMAGE 25
+#TLNY2020 removed:STAT_MOD dexterity -80 10
+61..70:Pain torments $T.::DAMAGE 68
+#TLNy200 removed:STAT_MOD dexterity -60 10
+71..80:Spasms caused by the pain of $(AP) attack rend $(TP) muscles!::DAMAGE 54
+#TLNY2020 removed:STAT_MOD dexterity -60 10
+81..90:$T is racked by pain!::DAMAGE 45
+#TLNY2020 removed:STAT_MOD dexterity -50 10
+91..100:$T is in extreme pain!::DAMAGE 36
+#TLNY2020 removed:STAT_MOD dexterity -30 10
+(E):
+0..94:$T $V $(TP) beyound painfully.:stresses:DAMAGE 25
+95..100:$T $(VT) in extreme pain and agony!:collapse:DAMAGE 165
+#TLNY2020 removed:STAT_MOD dexterity -100 10

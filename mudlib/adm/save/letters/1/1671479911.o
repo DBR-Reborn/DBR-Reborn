@@ -1,0 +1,3 @@
+#/daemon/letter.c
+__Letter "Hello,After fixing the cause of the shadowbuff bug (spells not disappearing), the iron will spell duration was reported by players because they said it was very very low. I looked at it, and it showed 40 seconds, so I modified it to 300 seconds, because I think the spell power modifiers will apply after that and it'll be usable I think. Please let me know or change back if you don't like this change. And sorry for not fixing the divine transformation myself, suddenly I had to travel (it wasn't planned) and after the day I returned so much happened that I forgot it. But in general I'm trying to keep track.Let me know if there is something else.Thanks,Exash"
+__Undeleted ({"tlny",})

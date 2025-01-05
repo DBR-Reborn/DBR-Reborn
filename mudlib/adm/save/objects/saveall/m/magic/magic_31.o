@@ -1,0 +1,8 @@
+#/d/damned/virtual/chain-mail.armour
+#/d/damned/virtual/chain-mail.armour.c
+encumbrance 27
+props (["progress true_armour_math":0,"value":150,"progress inscribe_aldara_zet_maker":0,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"material_type":"metal","extra long":({"A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress major_fortification_math":0,"pow true_armour_math":0,"progress inscribe_malsa_bonnes_maker":0,"material_name":"laen","true armour":1,"pow major_fortification_math":0,"enchantment":40,])
+true_name "chain mail"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-3,"short desc":"A chain mail","ac":(["infernal":289,"disruption":289,"stress":289,"unholy":289,"crushing":307,"cutting":307,"vacuum":289,"plasma":292,"impaling":307,"holy":289,"fire":295,"cold":295,"strike":301,"impact":301,"aether":289,"electricity":295,]),])

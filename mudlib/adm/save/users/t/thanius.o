@@ -1,0 +1,42 @@
+#/std/user.c
+encumbrance 500
+props (["last reinc":1668727704,"light":0,"last read news":1668727704,])
+true_name "thanius"
+creator "/adm/obj/login#364541"
+player_data (["general":(["exp buffer":0,"sp":1,"max_hp":50,"max_sp":0,"hp":29,]),])
+magic (["points":0,])
+severed ([])
+healing ([])
+body ([])
+limbs ({})
+skills (["attack":(["max":0,"points":0,"level":0,]),"melee":(["max":0,"points":0,"level":0,]),])
+spells ([])
+wimpydir "out"
+env_var (["start":"/d/standard/setter","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 354
+player_age 344
+gender "male"
+state "stand"
+stats ([])
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+verbose_moves 1
+birth 1668727704
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "bclassof_2007@yahoo.com"
+ip "3.128.186.25"
+last_on "Thu Nov 17 23:28:24 2022"
+password "$6$cczGw1JQ9IjbNP9R$0jkYQfpRwoeFU.co.LFtm7nldDrgLkdBNmqbmtuFREO4TThFxUvKS8PLo671XBPMKuhgOTegq3Tu93A93XMsW/"
+original_site "3.128.186.25"
+position "player"
+quests ({})

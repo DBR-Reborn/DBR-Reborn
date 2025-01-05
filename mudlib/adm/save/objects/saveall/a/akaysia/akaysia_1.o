@@ -1,0 +1,8 @@
+#/d/damned/virtual/scimitar_1.weapon
+#/d/damned/virtual/scimitar_1.weapon.c
+encumbrance 70
+props (["material_name":"platnite","value":93,"material_type":"metal",])
+true_name "scimitar"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/platnite"
+__Weapon (["wielded":,"quality":1,"limb string":" (wielded in left hand)","verb":"slice","wc":(["impaling":3,"cutting":14,]),"original wc":(["impaling":3,"cutting":14,]),"type":"blade","ac":(["infernal":4,"fire":4,"cold":4,"disruption":4,"stress":4,"unholy":4,"crushing":4,"cutting":4,"strike":4,"vacuum":4,"plasma":4,"impact":4,"impaling":4,"holy":4,"aether":4,"electricity":4,]),"short desc":"scimitar","decay rate":1000,"parry bonus":50,"hit bonus":50,])

@@ -1,0 +1,65 @@
+#/std/user.c
+encumbrance 500
+props (["extra hp regen":300,"xp mod":-15,"light":0,"hp advance":40,"limb regen":1,"corpse eating":1,"natural ac":4,"melee damage":(["crushing":10,]),"last reinc":1700456444,"handedness":"right hand","enhance criticals":(["fire":1,]),"dev point base":71,"mp advance":18,"last read news":1700532403,"old exp":0,"sp points":0,"ambidextry":0,"base mp regen":4,"base hp regen":14,"combat color":"%^BOLD%^","dev points":733,])
+true_name "starcypher"
+creator "/adm/obj/login#191096"
+max_internal_encumbrance 3990
+player_data (["kills":({21,45,130,132,76,77,85,78,}),"general":(["sp":1,"exp buffer":0,"alignment":8,"max_hp":299,"hp":299,"max exp":19015,"experience":19016,"last adjust":1700539159,"max_sp":679,]),])
+magic (["max points":106,"points":106,])
+severed ([])
+healing (["stuffed":100,"quenched":980,])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":149,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"chain head",}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":99,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"leather legs",}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":74,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":99,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm",}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":74,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":99,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"leather legs",}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":299,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"leather torso",}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":74,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":99,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"metal arm",}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":74,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 200
+char_class "tinker"
+skills (["block":(["stat":"strength","last dev":({2,1,}),"level":10,]),"prospecting":(["stat":"intelligence","last dev":({2,2,}),"last use":1700486271,"level":15,]),"blacksmith":(["stat":"dexterity","last dev":({2,1,}),"level":5,]),"lumberjack":(["stat":"strength","last dev":({2,1,}),"level":10,]),"compare":(["stat":"intelligence","last dev":({2,1,}),"level":5,]),"repair weapon":(["stat":"dexterity","last dev":({2,1,}),"level":5,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"blunt":(["stat":"dexterity","last dev":({2,1,}),"level":10,]),"knife":(["stat":"dexterity","last dev":({2,1,}),"level":10,]),"minning":(["stat":"strength","last dev":({2,1,}),"level":10,]),"carpentry":(["stat":"dexterity","last dev":({2,2,}),"level":15,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"parry":(["stat":"dexterity","last dev":({2,1,}),"level":10,]),"repair wood weapon":(["stat":"dexterity","last dev":({2,1,}),"level":5,]),"attack":(["stat":"dexterity","last dev":({2,1,}),"max":0,"points":0,"level":15,]),])
+spells ([])
+wimpy 40
+wimpydir "out"
+i 1
+j 1
+k -1
+num_attacks 1
+x 1
+defendflag 1
+num_rounds 1
+skill 68
+env_var (["TITLE":"Thumb Striker $N the Troll","start":"/d/damned/guilds/join_rooms/nightblade_join","prompt":"HP:$h/$H MP:$m/$M EXP:$tnl\\\\n>","LINES":"70","TERM":"xterm-256","SCORE":"on",])
+money ([])
+ok_to_heal 85592
+player_age 85592
+sight_bonus -1
+gender "male"
+state "stand"
+stats (["wisdom":30,"dexterity":97,"intelligence":40,"constitution":121,"strength":133,"charisma":30,])
+languages (["zebber":10,"common":10,"orcish":2,"middle-english":2,])
+primary_language "common"
+language_exp (["orcish":({3,1,}),"middle-english":({19,0,}),])
+xp_to_next_dev 19254
+alias (["nw":"northwest","lic":"look in corpse","pl":"party leave","df":"drink fountain","pj":"party join trolls","gac":"get all from corpse","w":"west","sw":"southwest","exa":"look at $*","u":"up","promin":"use prospecting at mineral","s":"south","lt":"light torch","list":"say shopkeeper, list","ls":"look sign","n":"north","bio":"biography","l":"look $*","fn":"follow ningimbly","lp":"party leave","ne":"northeast","prowood":"use prospecting at wood","i":"inventory","dt":"drop torch","e":"east","d":"down","se":"southeast",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+zexp 15261
+znexp 24999
+zlexp 9738
+znlevel 4
+zlevel 3
+auto_load ({})
+level 3
+verbose_moves 1
+birth 1700456444
+blocked ([])
+exp_log ([1700498691:179,])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "polysmashface27@gmail.com"
+ip "174.244.18.87"
+last_on "Tue Nov 21 02:06:42 2023"
+password "$6$P5oZMM5zRaWQW6FG$wmwLPzJHCeSWInoM/sMQ7K2769aAfzCFO72t3GEZw9jw9ro4r6Tamx67fDGcAihCgamnGIJishKUsTc7sfTQO."
+race "troll"
+original_site "174.244.18.87"
+position "player"
+primary_start "/d/nocte/grounds/rooms/canyon3"
+quests ({})

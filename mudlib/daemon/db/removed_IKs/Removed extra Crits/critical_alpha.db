@@ -1,0 +1,74 @@
+# CRIT ALPHA
+#air lore, water lore, earth lore, fire lore, cold lore, wind lore, ice lore, electricity lore, inertia lore, plasma lore, 
+#vacid lore, chaos lore, aether lore, nexus lore
+(A):
+#air
+0..10:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_a1
+#water
+11..20:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_a2
+#earth
+21..30:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_a3
+#fire
+31..40:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_a4
+#cold
+41..50:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_a5
+#wind
+51..60:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_a6
+#ice
+61..70:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_a7
+#electricity
+71..80:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_a8
+#inertia
+81..90:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_a9
+#plasma
+91..99:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_a10
+#vacid
+100..100:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_a11
+(B):
+0..10:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_b1
+11..20:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_b2
+21..30:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_b3
+31..40:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_b4
+41..50:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_b5
+51..60:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_b6
+61..70:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_b7
+71..80:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_b8
+81..90:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_b9
+91..99:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_b10
+100..100:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_b11
+(C):
+0..10:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_c1
+11..20:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_c2
+21..30:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_c3
+31..40:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_c4
+41..50:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_c5
+51..60:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_c6
+61..70:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_c7
+71..80:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_c8
+81..90:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_c9
+91..99:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_c10
+100..100:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_c11
+(D):
+0..10:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_d1
+11..20:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_d2
+21..30:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_d3
+31..40:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_d4
+41..50:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_d5
+51..60:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_d6
+61..70:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_d7
+71..80:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_d8
+81..90:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_d9
+91..99:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_d10
+100..100:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_d11
+(E):
+0..10:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_e1
+11..20:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_e2
+21..30:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_e3
+31..40:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_e4
+41..50:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_e5
+51..60:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_e6
+61..70:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_e7
+71..80:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_e8
+81..90:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_e9
+91..99:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_e10
+100..100:::SPECIAL_RESULT /daemon/db/crit/crit_mon summon_e11

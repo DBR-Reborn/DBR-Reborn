@@ -1,0 +1,8 @@
+#/d/damned/virtual/gauntlet.armour
+#/d/damned/virtual/gauntlet.armour.c
+encumbrance 6
+props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"progress inscribe_malsa_sen_zora_trent":0,"new desc":"fat gauntlet {gauntlet}","material_name":"laen","progress master_fortification_baarich":0,"true armour":1,"pow enchanter_mark_baarich":0,"pow master_fortification_baarich":0,"value":471,"material_type":"metal","extra long":({"Smithed by: Trent with laen [92] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"pow true_armour_baarich":0,"progress inscribe_aldara_zet_trent":0,"progress true_armour_baarich":0,"progress inscribe_malsa_bonnes_trent":0,"enchantment":70,"progress enchanter_mark_baarich":0,])
+true_name "gauntlet"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-4,"short desc":"fat gauntlet {gauntlet}","ac":(["infernal":452,"disruption":469,"stress":431,"unholy":449,"crushing":459,"cutting":457,"vacuum":458,"plasma":461,"impaling":469,"holy":447,"fire":466,"cold":458,"strike":464,"impact":476,"aether":439,"electricity":442,]),])

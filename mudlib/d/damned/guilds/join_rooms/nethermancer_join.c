@@ -1,0 +1,85 @@
+//  	A join room for necromancers, well commented and intended fo use as
+//	an example room of this type.
+//
+//	DarkeLIB 0.1
+//	-Diewarzau 8/8/95
+
+//	NOTE:  Before coding any guild, Diewarzau must know the filename
+//	of the join_room so he can set the file privs accordingly.
+
+inherit "/std/guilds/join_room";
+
+/*
+void init(){
+	::init();
+	add_action("no_south", "south");
+}
+*/
+void create() {
+  //  IMPORTANT:  The following MUST appear before ::create();
+  set_class_name("nethermancer");
+
+  ::create();
+  set_property("light", 3);
+  set_property("indoors", 1);
+new("d/damned/guilds/join_rooms/tcan")->move(this_object());
+
+//TLNY2024 Change for dual training
+/*
+    set_related_guilds(({ "necromancer", "enchanter" }));
+    //Other:      "elementalist", "elemental-mage", "arch-mage"
+    set_odd_guilds(({ "chaotic-lord", "nightblade", "sword-mage" }));
+    set_hated_guilds(({ "thief" }));
+    set_no_guilds(({ "dark-paladin", "assassin", "cleric", "war-priest", "paladin", "tinker", "fighter"  }));
+*/	
+  set("short", "The Nethermancer's Guild Joining Room");
+  set("long", 
+"This is a the Nethermancer's Guild joining room.  It is a darkly forbidding "
+"place with the only light coming from black candles that line the wall. "
+"There are jars filled with embalming fluids and other things that cannot "
+"be named sitting on shelves on the far wall.  A large skull with jeweled "
+"eyes is carved into the wall.\n");
+  //  The "\n" is important at the end of the long desc.
+
+  set_exits( ([ "north" : "/d/damned/guilds/nethermancer/down3", "west" : "/d/damned/guilds/nethermancer/skill_room", ]));
+		
+
+
+
+  set("guildmaster", "/d/damned/guilds/nethermancer/nethermancer_gm");
+  //  The guildmaster is automatically cloned if no pc guildmaster is
+  //  found.
+
+  set_guild_obj("/d/damned/guilds/nethermancer/nethermancer_obj");
+  //  This is the filename for the guild's guildmaster object, carried
+  //  by the PC guildmaster if any.
+
+  //  The following lines set the properties for the guild.
+
+   set_property("base hp regen", 3);
+  set_property("base mp regen", 15);
+  //  Base heling per tick.  Note that the default is 3 for both.
+  //  Keep in mind that this increases with level.
+
+  set_property("hp advance", 15);
+  set_property("mp advance", 50);
+  //  Base advance per level im max mp/hp.  Default is 10. 
+
+  set_property("guild mods",
+	([ "intelligence" : 10 ]) );
+  //  Stat mods received upon joining.
+
+  //  The following line is necessary:
+  this_object()->reset();
+  return;
+}
+
+/*
+int no_south(){
+	if(wizardp(this_player())) {return 0;}
+	if(TP->is_pet()) { return 0; }
+	if(this_player()->query_class() == "necromancer") {return 0;}
+	message("info", "Only Necromancers may enter this school.", this_player());
+	return 1;
+}
+*/

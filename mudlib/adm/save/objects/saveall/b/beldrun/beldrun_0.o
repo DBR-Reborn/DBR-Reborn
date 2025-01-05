@@ -1,0 +1,8 @@
+#/d/damned/virtual/chain-vest.armour
+#/d/damned/virtual/chain-vest.armour.c
+encumbrance 180
+props (["material_name":"iron","value":150,"material_type":"metal",])
+true_name "chain vest"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iron"
+armour_save (["short desc":"A chain vest","ac":(["infernal":30,"fire":3,"cold":3,"disruption":1,"stress":1,"unholy":30,"crushing":12,"cutting":30,"strike":8,"vacuum":1,"plasma":1,"impact":30,"impaling":3,"holy":1,"aether":1,"electricity":1,]),])

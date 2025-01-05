@@ -1,0 +1,9 @@
+#/std/diewarzau/obj/misc/skill_ring.c
+encumbrance 2
+props (["progress extreme_fortification_nawara":0,"new desc":"%^B_BLUE%^Lord K'thach%^RESET%^ {ring}","material_name":"iron","progress engrave_nawara":0,"pow extreme_fortification_nawara":0,"progress enchanter_mark_nawara":0,"pow enchanter_mark_nawara":0,"progress engrave_angelica":0,"progress enchanter_mark_osric":0,"value":96000,"material_type":"metal","extra long":({({"Fortification: %^CYAN%^+100%","detect magic",}),}),"progress enchanter_mark_okkita":0,"pow enchanter_mark_osric":0,"progress engrave_yorik":0,"pow enchanter_mark_okkita":0,"enchantment":100,])
+true_name "ring"
+creator "/d/daybreak/room/shop/magic_store"
+material "/metal/iron"
+armour_save (["short desc":"%^B_BLUE%^Lord K'thach%^RESET%^ {ring}","ac":(["infernal":1,"disruption":1,"stress":1,"unholy":1,"crushing":1,"cutting":1,"vacuum":1,"plasma":1,"impaling":1,"holy":1,"fire":1,"cold":1,"strike":1,"impact":1,"aether":1,"electricity":1,]),])
+skills ([])
+spells ([])

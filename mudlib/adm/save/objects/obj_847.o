@@ -1,0 +1,7 @@
+#/d/damned/virtual/leather-glove.armour.c
+encumbrance 1
+props (["material_name":"Snotling","progress inscribe_malsa_bonnes_trent":0,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"value":3,"extra long":({"Crafted by: Trent with A Level [1] Snotling leather","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"leather","progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,])
+true_name "leather glove"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Snotling"
+armour_save (["short desc":"A leather glove","ac":(["infernal":203,"disruption":203,"stress":210,"unholy":205,"crushing":216,"cutting":232,"vacuum":199,"plasma":207,"impaling":222,"holy":205,"fire":204,"cold":208,"strike":220,"impact":215,"aether":206,"electricity":210,]),])

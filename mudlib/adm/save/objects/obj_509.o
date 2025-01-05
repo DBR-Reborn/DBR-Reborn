@@ -1,0 +1,7 @@
+#/d/damned/virtual/great-helm.armour.c
+encumbrance 100
+props (["material_name":"laen","value":45,"material_type":"metal","extra long":"level[86] laen Helm of plasma and stress protection","new desc":"level[86] laen Helm of plasma and stress protection",])
+true_name "great helm"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"level[86] laen Helm of plasma and stress protection","ac":(["infernal":234,"disruption":234,"stress":565,"crushing":234,"unholy":234,"cutting":234,"vacuum":234,"plasma":470,"impaling":234,"holy":234,"cold":234,"fire":234,"strike":234,"impact":234,"electricity":234,"aether":234,]),])

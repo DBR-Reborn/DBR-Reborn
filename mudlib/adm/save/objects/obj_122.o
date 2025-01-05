@@ -1,0 +1,7 @@
+#/d/damned/virtual/brass-knuckles_6.weapon.c
+encumbrance 25
+props (["material_name":"iysaughton","value":4336,"material_type":"metal","extra long":"This weapon was forged by: Rihcter with iysaughton [110] weapon blank",])
+true_name "brass knuckles"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/iysaughton"
+__Weapon (["original wc":(["disruption":171,"crushing":10,]),"quality":6,"type":"melee","ac":(["infernal":5,"disruption":5,"stress":5,"crushing":5,"unholy":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"cold":5,"fire":5,"strike":5,"impact":5,"electricity":5,"aether":5,]),"verb":"punch","wc":(["disruption":171,"crushing":176,]),"short desc":"brass knuckles","decay rate":18000,])

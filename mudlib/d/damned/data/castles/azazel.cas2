@@ -1,0 +1,15 @@
+light:::2
+indoors:::1
+short:::welcome
+long:::Welcome to the Sanctum Sanctorum                                            
+no scry:::1
+no summon:::0
+no teleport:::0
+special exits:::1
+healing room:::0
+exit:::square:/d/daybreak/room/db_square
+exit:::west:/d/damned/virtual/azazel_room_5.castle
+exit:::east:/d/damned/virtual/azazel_room_4.castle
+exit:::portal:/d/daybreak/room/N1
+exit:::south:/d/damned/virtual/azazel_room_1.castle:door:16:vault door
+exit:::north:/d/damned/virtual/azazel_room_3.castle:door:16:vault door 2

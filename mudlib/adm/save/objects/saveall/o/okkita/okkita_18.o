@@ -1,0 +1,8 @@
+#/d/damned/virtual/plate-bracer.armour
+#/d/damned/virtual/plate-bracer.armour.c
+encumbrance 45
+props (["runes":({"malsa bonnes","malsa sen zora",}),"value":2827,"extra long":({"Smithed by: Lore with laen [84] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","progress engrave_skye":0,"new desc":"%^B_BLUE%^%^RESET%^ {bracer}","progress engrave_lilund":0,"material_name":"laen","progress inscribe_malsa_sen_zora_lore":0,"progress engrave_nawara":0,"progress enchanter_mark_nawara":0,"progress inscribe_malsa_bonnes_lore":0,"pow enchanter_mark_nawara":0,"progress engrave_angelica":0,])
+true_name "plate bracer"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"%^B_BLUE%^%^RESET%^ {bracer}","ac":(["infernal":507,"disruption":523,"stress":496,"crushing":617,"unholy":534,"cutting":642,"vacuum":571,"plasma":520,"impaling":584,"holy":548,"cold":578,"fire":514,"strike":613,"impact":565,"electricity":497,"aether":506,]),])

@@ -1,0 +1,2115 @@
+Error in delayed call: /std/spells/devour_soul#416895
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#422232
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#440001
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#437099
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#452580
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#452577
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#450889
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#455438
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#455442
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/lifesteal#456732
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/lifesteal#456747
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/lifesteal#456748
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/lifesteal#456754
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/lifesteal#456763
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#459814
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#459812
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#459820
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#459821
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#459828
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#459830
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#459832
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#459842
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#459844
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/lifesteal#465239
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/lifesteal#465243
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/decay#465244
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/lifesteal#465250
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/lifesteal#465257
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/devour_soul#465343
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/devour_soul#465342
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/devour_soul#465354
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#465467
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#465468
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#465473
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#465477
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#465497
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#465509
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#465511
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#465513
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#465514
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#465518
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#465520
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#465530
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#470769
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#470770
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/wind_of_death#476165
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/hell_blast#479312
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/fire_breath#479315
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/hell_blast#479332
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/wind_of_death#479606
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#770
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#1691
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#4416
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#6144
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#7089
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#6577
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#6043
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#5643
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#21341
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#21194
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#20216
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#29598
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#29602
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#29607
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#29622
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#29633
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#29634
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#28188
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#27813
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#35116
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#35952
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#38693
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#38697
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#38700
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#38699
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#38702
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#38701
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#45545
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#45549
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#45550
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#45554
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#45559
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#45561
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#45562
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#45566
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#45565
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#45575
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#45576
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#45584
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#45598
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#45601
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#50943
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#50944
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#50953
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#67331
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#66242
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#76479
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#75747
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#77249
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#87522
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#87523
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#87530
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#87536
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#87535
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#87558
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#87559
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#87568
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#87578
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#87579
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#90989
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#90990
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#90992
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#91000
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#91001
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#91006
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#91007
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#91018
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#91020
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#91024
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#91025
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#91041
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#91053
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#91054
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#92891
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#92204
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#92761
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#94398
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#103665
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#107907
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#107740
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#104192
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#107734
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#93058
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/lifesteal#113177
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/lifesteal#113179
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/lifesteal#113180
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#113637
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#113644
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#118967
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#118985
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#118990
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#118999
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#119003
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#121709
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#120594
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#134325
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#139212
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#146789
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#146759
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#152787
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#152791
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#152796
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#152804
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#152813
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#152818
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#152819
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#153398
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#153397
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#153406
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#153446
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /std/spells/owedquar's_might#153447
+*Bad argument 1 to lower_case()
+Expected: string Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#167608
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#167608
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#168987
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#169599
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#169276
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#169384
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#167801
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#182727
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#183607
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#182471
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#183516
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#181332
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/wind_of_death#251271
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/wind_of_death#251454
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#284979
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#365027
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#371763
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#373111
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#423539
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#593202
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#595207
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#654552
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#722132
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/wind_of_death#771733
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#879870
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#1081617
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#1090418
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#3376
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#29884
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#36755
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#43743
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#42836
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#50392
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#50485
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#84970
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#112167
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /d/damned/inn/fred
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#89057
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#89086
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#13607
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#14400
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#23788
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#23852
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#23015
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#23787
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#33876
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#33876
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#34702
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#43790
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#54569
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#54386
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#73955
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#91196
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#90855
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#91514
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#123470
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#141794
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#138955
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#141286
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#142225
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#163099
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#163099
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#162945
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#162946
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#184903
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#184236
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#184235
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#185004
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#203966
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#198887
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#205580
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#203966
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#206074
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#206073
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#222965
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#239802
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#258524
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#257816
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#257815
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#276996
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#277475
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#277474
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#297734
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#314447
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#314446
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#315228
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/damned/inn/fred
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#351102
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#351101
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#365973
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#368244
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#365973
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#370796
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#384388
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#389624
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#385015
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#389801
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#389800
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#384387
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#388292
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#388293
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#389625
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#410546
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#410438
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#410547
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#423445
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#427094
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#427095
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#426822
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#422190
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#422191
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#425027
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#466532
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#468075
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#466533
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#465561
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#461364
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#465562
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#461363
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#468076
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/areas/tyranid/mon/lictor1#489183
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#504729
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#506263
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#501051
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#506264
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#507684
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#507683
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#501052
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#524066
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#527029
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#527165
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#527030
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#523700
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#543816
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#540070
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#540071
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#558907
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#562523
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#563997
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#562524
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#563996
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#558906
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#565688
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#565687
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#586556
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#586555
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#586637
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#607854
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#606544
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#613997
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#608612
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#613998
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#604108
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /std/spells/greater_elemental_storm#16642
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#17912
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#17914
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#30345
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#45494
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#46788
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#89718
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_bolt#92631
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#92823
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_bolt#194286
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#344164
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#344286
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#349151
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#355182
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#369579
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#369580
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#369587
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#369744
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#369746
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/damned/inn/fred
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#438523
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#446246
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/greater_elemental_storm#498290
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#512746
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#512742
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#511088
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#527741
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#544544
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#546567
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#551958
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#584764
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#587056
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#591924
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#586705
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#592681
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#588649
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#590222
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#594037
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#594070
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#606009
+*Too deep recursion.
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#1772
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#6366
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#12214
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#17970
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#38517
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /wizards/honspron/spells/special_haste#23787
+*Bad argument 2 to call_out()
+Expected: int or float Got: "until quit".
+
+Error in delayed call: /wizards/honspron/spells/special_haste#23788
+*Bad argument 2 to call_out()
+Expected: int or float Got: "until quit".
+
+Error in delayed call: /std/spells/demon_prince_sword#24947
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/demon_prince_sword#31818
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#64503
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#63353
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#81213
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#79790
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#98289
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#106161
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#113331
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#107120
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#111362
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#122559
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#124182
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#130532
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#130967
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#143513
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#151762
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#156364
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#158044
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#194654
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#195091
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#195094
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#212074
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#217205
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#219400
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#221816
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#214730
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#252573
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#897
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#7461
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#21044
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#24024
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#19768
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#19769
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#21045
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#24023
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#36963
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#34755
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#34503
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#43725
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#42864
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#47961
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#42864
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#47962
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#48694
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#33690
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#31672
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#31142
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#33029
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#45221
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#45221
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#46888
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#49654
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#65276
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#64359
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#67705
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#61590
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#60942
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#67240
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#68754
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#86768
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/damned/inn/fred
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#118966
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#4442
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#13156
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#4442
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#9602
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#27687
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#25516
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#39360
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#41726
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#41019
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#51256
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#52539
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#53258
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#52269
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#54834
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#49688
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/demon_lord_sword#73911
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/demon_lord_sword#73913
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/demon_lord_sword#74589
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/firestorm_blade#74600
+*Bad argument to [ .. ] range operator.
+
+Error in delayed call: /std/spells/firestorm_blade#79957
+*Bad argument to [ .. ] range operator.
+
+Error in delayed call: /std/spells/firestorm_blade#83454
+*Bad argument to [ .. ] range operator.
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /std/spells/bless_weapon#1372
+*Bad argument to [ .. ] range operator.
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /std/spells/transport#15476
+*Bad argument 1 to environment()
+Expected: object Got: 0.
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#36710
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#50696
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#45620
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#42760
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#51129
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#51137
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#49496
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#51159
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#48694
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#36084
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#40430
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#60595
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#60595
+*Too deep recursion.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#67088
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#61436
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#69131
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#60597
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#61435
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#70744
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#60596
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#67605
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#61076
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#71087
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#86223
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#86222
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#80510
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#80511
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#79461
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#81950
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#79462
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#86820
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#107711
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#107712
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/freezing_grasp#110109
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#119686
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#119687
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#123564
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#125595
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#126920
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#121822
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#121825
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#121591
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#121826
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#129839
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#129840
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /d/nocte/kuril/mon/ghost#129843
+*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+Error in delayed call: /std/spells/lightning_blade#132974
+*Bad argument to [ .. ] range operator.
+
+Error in delayed call: /std/spells/lightning_blade#134022
+*Bad argument to [ .. ] range operator.
+
+Error in delayed call: /std/spells/lightning_blade#135033
+*Bad argument to [ .. ] range operator.
+
+Error in delayed call: /std/spells/lightning_blade#135567
+*Bad argument to [ .. ] range operator.
+
+Error in delayed call: /std/spells/lightning_blade#135748
+*Bad argument to [ .. ] range operator.
+
+Error in delayed call: /std/spells/lightning_blade#137187
+*Bad argument to [ .. ] range operator.
+
+Error in delayed call: /std/spells/lightning_blade#137994
+*Bad argument to [ .. ] range operator.
+
+Error in delayed call: /std/spells/lightning_blade#138918
+*Bad argument to [ .. ] range operator.
+
+Error in delayed call: /std/spells/lightning_blade#139431
+*Bad argument to [ .. ] range operator.
+
+Error in delayed call: /std/spells/lightning_blade#141094
+*Bad argument to [ .. ] range operator.
+
+Error in delayed call: /std/spells/firestorm_blade#141347
+*Bad argument to [ .. ] range operator.
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+Error in delayed call: /adm/daemon/wizchar_d
+*Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+

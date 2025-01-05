@@ -1,0 +1,19 @@
+light:::2
+indoors:::1
+short:::The Nexus of Wonders
+long:::Shimmering veils of magic dance through the air of this vast,               
+circular chamber, where dozens of master artisans work tirelessly           
+at enchanted forges and mystical workbenches. The rhythmic                  
+clanging of hammers on celestial metals blends with the soft                
+chanting of runesmiths, creating an otherworldly symphony of                
+creation. At the center, a swirling vortex of pure energy                   
+pulses, feeding raw power into the legendary artifacts taking               
+shape around the room.                                                      
+.
+no scry:::0
+no summon:::0
+no teleport:::0
+special exits:::0
+healing room:::0
+exit:::up:/d/damned/virtual/singe_room_5.castle:door:5:iron door
+exit:::down:/d/damned/virtual/singe_room_1.castle:door:16:vault door

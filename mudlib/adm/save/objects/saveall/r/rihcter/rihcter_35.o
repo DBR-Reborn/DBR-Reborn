@@ -1,0 +1,8 @@
+#/d/damned/virtual/studded-leather-glove.armour
+#/d/damned/virtual/studded-leather-glove.armour.c
+encumbrance 1
+props (["runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"new desc":"%^COLOR81%^Enchanted%^RESET%^ {studded glove}","material_name":"Silver dragon","true armour":1,"pow enchanter_mark_rihcter":0,"pow true_armour_rihcter":0,"progress inscribe_malsa_bonnes_rihcter":0,"value":6,"material_type":"leather","extra long":({"Crafted by: Rihcter with A Level [100] Silver dragon leather",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",}),"progress extreme_fortification_rihcter":0,"progress inscribe_aldara_zet_rihcter":0,"progress true_armour_rihcter":0,"pow extreme_fortification_rihcter":0,"progress enchanter_mark_rihcter":0,"progress inscribe_malsa_sen_zora_rihcter":0,"enchantment":100,])
+true_name "studded leather glove"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Silver dragon"
+armour_save (["enhance critical":-5,"short desc":"%^COLOR81%^Enchanted%^RESET%^ {studded glove}","ac":(["infernal":910,"disruption":940,"stress":911,"unholy":930,"crushing":965,"cutting":1058,"vacuum":907,"plasma":908,"impaling":1002,"holy":924,"fire":929,"cold":1007,"strike":947,"impact":929,"aether":916,"electricity":942,]),])

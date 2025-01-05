@@ -1,0 +1,5 @@
+#/d/nocte/kuril/magic/brownie_orb.c
+encumbrance 30
+props (["value":2000,])
+true_name "orb"
+creator "/d/nocte/kuril/rooms/magic_shop_storage"

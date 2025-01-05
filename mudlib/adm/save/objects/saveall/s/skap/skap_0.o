@@ -1,0 +1,8 @@
+#/d/damned/virtual/plate-bracer.armour
+#/d/damned/virtual/plate-bracer.armour.c
+encumbrance 45
+props (["material_name":"laen","progress engrave_dalton":0,"value":60,"material_type":"metal","extra long":"level[88] laen Bracer of stress and impact protection","new desc":"%^B_BLUE%^Angelic%^RESET%^ {bracer}",])
+true_name "plate bracer"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"%^B_BLUE%^Angelic%^RESET%^ {bracer}","ac":(["infernal":208,"disruption":208,"stress":538,"crushing":208,"unholy":208,"cutting":208,"vacuum":208,"plasma":208,"impaling":208,"holy":208,"cold":208,"fire":208,"strike":208,"impact":455,"electricity":208,"aether":208,]),])

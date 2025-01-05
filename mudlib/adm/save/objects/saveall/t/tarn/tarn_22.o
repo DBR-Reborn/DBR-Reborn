@@ -1,0 +1,8 @@
+#/d/damned/virtual/wooden-armour.armour
+#/d/damned/virtual/wooden-armour.armour.c
+encumbrance 180
+props (["material_name":"abachi","value":150,"material_type":"wood","extra long":"Crafted by: Alpha with A wooden board of abachi [68]",])
+true_name "wooden armour"
+creator "/d/damned/virtual/armour_server"
+material "/wood/abachi"
+armour_save (["short desc":"wooden armour","ac":(["infernal":211,"disruption":199,"stress":218,"crushing":177,"unholy":193,"cutting":192,"vacuum":178,"plasma":218,"impaling":194,"holy":213,"cold":188,"fire":202,"strike":183,"impact":186,"electricity":210,"aether":233,]),])

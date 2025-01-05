@@ -1,0 +1,7 @@
+#/std/diewarzau/obj/misc/ingot.c
+encumbrance 66
+props (["material_name":"steel","value":50,"material_type":"metal",])
+true_name "ingot"
+creator "/d/areas/ork/mon/1wildboyz#206059"
+material "/metal/steel"
+metal 5

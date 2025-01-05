@@ -1,0 +1,7 @@
+#/d/damned/virtual/wood-leg-guards.armour.c
+encumbrance 450
+props (["material_name":"abachi","value":430,"material_type":"wood","extra long":"Crafted by: Torm with A wooden board of abachi [68]",])
+true_name "wood leg guards"
+creator "/d/damned/virtual/armour_server"
+material "/wood/abachi"
+armour_save (["short desc":"A pair of wood leg guards","ac":(["infernal":184,"disruption":178,"stress":175,"crushing":197,"unholy":173,"cutting":191,"vacuum":194,"plasma":187,"impaling":192,"holy":201,"cold":193,"fire":193,"strike":182,"impact":205,"electricity":177,"aether":228,]),])

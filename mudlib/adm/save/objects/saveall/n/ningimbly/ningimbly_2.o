@@ -1,0 +1,8 @@
+#/d/damned/virtual/plate-bracer.armour
+#/d/damned/virtual/plate-bracer.armour.c
+encumbrance 45
+props (["material_name":"elrodnite","value":60,"extra long":"level[118] elrodnite bracer of impaling and vacuum protection","material_type":"metal","new desc":"level[118] elrodnite bracer of impaling and vacuum protection",])
+true_name "plate bracer"
+creator "/d/damned/virtual/armour_server"
+material "/metal/elrodnite"
+armour_save (["short desc":"level[118] elrodnite bracer of impaling and vacuum protection","ac":(["infernal":847,"disruption":847,"stress":847,"unholy":847,"crushing":847,"cutting":847,"vacuum":3238,"plasma":847,"impaling":2858,"holy":847,"fire":847,"cold":847,"strike":847,"impact":847,"aether":847,"electricity":847,]),])

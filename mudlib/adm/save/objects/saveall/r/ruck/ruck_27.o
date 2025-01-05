@@ -1,0 +1,8 @@
+#/d/damned/virtual/chain-glove.armour
+#/d/damned/virtual/chain-glove.armour.c
+encumbrance 1
+props (["progress inscribe_malsa_bonnes_singe":0,"progress engrave_singe":0,"runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"new desc":"%^COLOR137%^MasterCrafted%^RESET%^ {glove}","material_name":"laen","true armour":1,"progress inscribe_malsa_sen_zora_singe":0,"value":706,"pow true_armour_upstart":0,"material_type":"metal","extra long":({"Smithed by: Singe with laen [60] armour blank","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress extreme_fortification_upstart":0,"progress true_armour_upstart":0,"pow extreme_fortification_upstart":0,"progress inscribe_aldara_zet_singe":0,"enchantment":100,])
+true_name "chain glove"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-4,"short desc":"%^COLOR137%^MasterCrafted%^RESET%^ {glove}","ac":(["infernal":543,"disruption":529,"stress":538,"unholy":593,"crushing":632,"cutting":608,"vacuum":545,"plasma":546,"impaling":631,"holy":563,"fire":587,"cold":571,"strike":593,"impact":619,"aether":593,"electricity":566,]),])

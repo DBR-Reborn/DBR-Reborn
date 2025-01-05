@@ -1,0 +1,6 @@
+#/wizards/diewarzau/obj/misc/leather2.c
+encumbrance 30
+props (["material_name":"Ghost","value":15,"material_type":"leather","extra long":"Level [15] Ghost","new desc":"Level [15] Ghost",])
+true_name "leather"
+creator "/std/skills/skin_corpse#194858"
+material "/leather/Ghost"

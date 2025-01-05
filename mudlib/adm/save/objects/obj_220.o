@@ -1,0 +1,7 @@
+#/d/damned/virtual/iron-bracer.armour.c
+encumbrance 19
+props (["material_name":"iron","runes":({"aldara zet",}),"value":50,"extra long":({"A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","progress inscribe_aldara_zet_trent":0,])
+true_name "iron bracer"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iron"
+armour_save (["short desc":"A iron bracer","ac":(["infernal":40,"disruption":1,"stress":1,"unholy":40,"crushing":40,"cutting":40,"vacuum":1,"plasma":3,"impaling":40,"holy":1,"fire":5,"cold":5,"strike":35,"impact":45,"aether":1,"electricity":1,]),])

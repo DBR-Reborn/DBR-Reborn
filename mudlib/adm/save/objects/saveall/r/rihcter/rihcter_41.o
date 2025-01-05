@@ -1,0 +1,8 @@
+#/d/damned/virtual/taces.armour
+#/d/damned/virtual/taces.armour.c
+encumbrance 1
+props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"%^COLOR81%^Enchanted%^RESET%^ {taces}","material_name":"laen","true armour":1,"pow enchanter_mark_rihcter":0,"pow true_armour_rihcter":0,"progress inscribe_malsa_bonnes_rihcter":0,"value":2355,"material_type":"metal","extra long":({"Smithed by: Rihcter with laen [208] armour blank",({"Fortification: %^CYAN%^+100%","detect magic",}),"A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress extreme_fortification_rihcter":0,"progress inscribe_aldara_zet_rihcter":0,"progress true_armour_rihcter":0,"pow extreme_fortification_rihcter":0,"progress enchanter_mark_rihcter":0,"progress inscribe_malsa_sen_zora_rihcter":0,"enchantment":100,])
+true_name "taces"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-5,"short desc":"%^COLOR81%^Enchanted%^RESET%^ {taces}","ac":(["infernal":1171,"disruption":1136,"stress":1089,"unholy":1139,"crushing":1046,"cutting":1211,"vacuum":1149,"plasma":1008,"impaling":992,"holy":919,"fire":1131,"cold":1000,"strike":1145,"impact":1193,"aether":1064,"electricity":1084,]),])

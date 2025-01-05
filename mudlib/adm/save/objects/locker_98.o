@@ -1,0 +1,11 @@
+#/std/diewarzau/obj/misc/small_chest.c
+encumbrance 400
+props (["value":14000,"pow enchanter_mark_upstart":0,"new desc":"Unknown Chest {chest}","progress enchanter_mark_upstart":0,])
+true_name "chest"
+creator "/d/daybreak/room/shop/chest_store"
+possible_to_close 1
+is_closed 1
+max_internal_encumbrance 2000
+register_idx 98
+max_items 5
+closed_weight 10

@@ -1,0 +1,65 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":40,"light":0,"xp mod":-60,"hp advance":50,"melee damage":(["crushing":5,]),"handedness":"left hand","last reinc":1667463868,"reincarnate":1,"dev point base":73,"mp advance":15,"last read news":1674018513,"dev cost":-2,"allow_over_max":0,"magic resistance":15,"sp points":290,"old exp":0,"base mp regen":36,"ambidextry":1,"base hp regen":72,"combat color":"%^BOLD%^","dev points":12,])
+true_name "yoshi"
+creator "/adm/obj/login#185678"
+max_internal_encumbrance 3390
+player_data (["kills":({21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0,15,4,82,44,65,25,66,24,183,184,26,39,11,43,42,335,298,126,129,127,128,32,200,201,102,104,2,34,33,36,35,37,48,138,137,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,31,0,105,49,76,77,85,78,86,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,27,68,23,67,59,29,}),"general":(["alignment":84,"exp buffer":0,"sp":1,"max_hp":4115,"hp":4115,"max exp":1954165269,"experience":1769934747,"quest points":0,"last adjust":1674019983,"max_sp":854,]),])
+magic (["max points":819,"points":819,])
+severed ([])
+healing (["stuffed":715,"quenched":1100,])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":2057,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"chain head",}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":1371,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"leather legs","metal legs",}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":1028,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":1371,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm",}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":1028,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":1371,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"leather legs","metal legs",}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":4115,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"chain torso",}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":1028,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":1371,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"metal arm",}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":1028,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 4
+heal_rate 132
+char_class "fighter"
+skills (["compare":(["stat":"intelligence","last dev":({47,6,}),"level":80,]),"kick":(["stat":"strength","last dev":({49,3,}),"last use":1673659358,"level":44,]),"focused attack":(["stat":"dexterity","last dev":({50,7,}),"last use":1674018822,"level":196,]),"reverse stroke":(["stat":"dexterity","last dev":({50,1,}),"level":76,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"balance weapon":(["stat":"dexterity","last dev":({49,1,}),"level":115,]),"fast attack":(["stat":"constitution","last dev":({50,8,}),"last use":1674018821,"level":233,]),"perception":(["stat":"intelligence","last dev":({47,5,}),"level":79,]),"blade":(["stat":"dexterity","last dev":({50,8,}),"level":269,]),"prospecting":(["stat":"intelligence","last dev":({49,6,}),"level":99,]),"blacksmith":(["stat":"dexterity","last dev":({50,1,}),"level":5,]),"whirlwind attack":(["stat":"constitution","last dev":({50,8,}),"last use":1674018820,"level":216,]),"consider":(["stat":"intelligence","last dev":({49,6,}),"level":42,]),"dual attack":(["stat":"dexterity","last dev":({50,7,}),"level":230,]),"repair weapon":(["stat":"dexterity","last dev":({45,5,}),"level":115,]),"swimming":(["stat":"constitution","last dev":({47,1,}),"level":102,]),"offhand training":(["stat":"dexterity","last dev":({50,7,}),"level":230,]),"sweep":(["stat":"dexterity","last dev":({49,6,}),"last use":1673666089,"level":90,]),"resist stun":(["stat":"constitution","last dev":({50,7,}),"level":196,]),"dodge":(["stat":"dexterity","last dev":({50,8,}),"level":248,]),"parry":(["stat":"dexterity","last dev":({50,8,}),"level":254,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"engrave":(["stat":"dexterity","last dev":({47,2,}),"level":123,]),"attack":(["stat":"dexterity","last dev":({50,8,}),"max":0,"points":0,"level":269,]),])
+spells ([])
+wimpydir "out"
+protection 4
+hits 1
+i 2
+j 4
+k 3
+num_attacks 2
+x 30
+num_rounds 2
+skill 448
+env_var (["TITLE":"Grand $N the Blood-elf","start":"/d/damned/guilds/fighter/train_room","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money (["silver":15447,"gold":340,])
+ok_to_heal 98510
+player_age 98506
+sight_bonus 4
+gender "male"
+state "stand"
+stats (["wisdom":50,"dexterity":122,"strength":113,"constitution":112,"intelligence":50,"charisma":51,])
+languages (["common":10,"blood-elfish":10,])
+primary_language "common"
+language_exp (["goblinish":({18,0,}),"yin":({5,0,}),"elvish":({1,0,}),"middle-english":({7,0,}),"undead-tongue":({2,0,}),])
+xp_to_next_dev 1954176925
+alias (["fa":"use fast attack","boa":"say bob, boa yoshi","nw":"northwest","im":"say bob, im yoshi","df":"drink fountain","repair":"use repair weapon at sword","w":"west","exa":"look at $*","sw":"southwest","u":"up","wa":"use whirlwind attack","s":"south","sho":"say shopkeeper, list","bio":"biography","n":"north","l":"look $*","k":"kill $*","ne":"northeast","i":"inventory","dt":"say bob, dt yoshi","bok":"say bob, bok yoshi","e":"east","sweep":"use sweep at $*","se":"southeast","d":"down","foa":"use focused attack","engrave":"use engrave at dagger with Skinning dagger","sta":"status",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+zexp 1769783537
+znexp 2170300553
+zlexp 400517016
+znlevel 51
+zlevel 50
+auto_load ({({"/d/damned/guilds/fighter/fighter_obj",({"/d/damned/guilds/join_rooms/fighter_join","yoshi",}),}),})
+level 50
+verbose_moves 1
+birth 1667463868
+blocked (["daybreak":0,])
+exp_log ([1673664158:14410300,1673664782:43230898,1673664189:14410300,1673661244:14410300,1673660757:14410300,1667525333:43230898,1673664420:14410300,1673664116:14410300,1673038033:14410300,])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "jason.yoshikawa@gmail.com"
+ip "66.8.214.117"
+last_on "Wed Jan 18 05:08:33 2023"
+password "$6$8q1N6DB7FLNgHUUi$DJ461hfxJklvujJ3o5lXB.yNFKdHcbU.TAZuWaYU53UP9mhgNbFKgnGcXvpwPm9MGZtiPj1fwAgVmE7oo.CB.0"
+race "blood-elf"
+original_site "66.8.214.117"
+position "player"
+primary_start "/d/damned/guilds/fighter/train_room"
+quests ({})

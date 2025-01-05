@@ -1,0 +1,16 @@
+version: '3'
+services:
+  mud:
+    build: .
+    image: tlny/darkelib
+    ports:
+      - "7778:7778"
+      - "7786:7786/udp"
+    volumes:
+      - .:/home/tlny/mud
+    logging:
+            driver: "json-file"
+            options:
+                    max-size: "50m"
+                    max-file: "4"
+

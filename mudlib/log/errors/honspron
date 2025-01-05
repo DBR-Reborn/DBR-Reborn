@@ -1,0 +1,219 @@
+/wizards/honspron/workroom_2.c line 17: Undefined variable 'forge' before  new("/d/excelsior/t
+/wizards/honspron/workroom_2.c line 17: Illegal lvalue before  new("/d/excelsior/t
+/wizards/honspron/workroom_3.c line 1: Cannot #include a1.h before //
+/wizards/honspron/workroom_3.c line 12: Undefined function et before ;
+/wizards/honspron/spells/chaos_power.c line 47: syntax error before  "chaos power" : 3 ]
+/wizards/honspron/spells/chaos_power.c line 67: syntax error before  "chaos power" : 3 ]
+/wizards/honspron/spells/chaos_power.c line 7: syntax error before  : 3 ])
+/wizards/honspron/spells/bnshe_blade.c line 67: Undefined variable 'from' before  8)) {
+/wizards/honspron/spells/bnshe_blade.c line 67: Wrong number of arguments to check_brittle
+    Expected: 3  Got: 2 before ) {
+/wizards/honspron/spells/bnshe_blade.c line 67: Bad type for argument 2 of check_brittle ( object vs int ) before ) {
+/wizards/honspron/spells/honspron_shields.c line 42: syntax error before  );
+/wizards/honspron/spells/dl_bind.c line 85: Warning: Unused local variable 'ob' before the end of line
+/wizards/honspron/spells/dl_bind.c line 85: Warning: Unused local variable 'ob' before the end of line
+/wizards/honspron/obj/tr_rune.c line 31: Undefined variable 'room' before  0);
+/wizards/honspron/obj/tr_rune.c line 32: Warning: Non-void functions must return a value. before   
+/wizards/honspron/obj/tr_rune.c line 33: Warning: Non-void functions must return a value. before   
+/wizards/honspron/obj/tr_rune.c line 34: Undefined variable 'room' before  0);
+/wizards/honspron/obj/tr_rune.c line 40: Warning: Unused local variable 'who' before the end of line
+/wizards/honspron/obj/tr_rune.c line 36: Warning: Unused local variable 'room' before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'no_clean'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'encumbrance'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'last_location'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'props'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'ob_data'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'cap_name'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'true_name'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'creator'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'd_master'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'material'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'internal_encumbrance'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'possible_to_close'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'is_closed'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'max_internal_encumbrance'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable '__Search_Obj'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable '__Smells'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable '__Listens'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable '__Searches'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'skip_obvious'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'destinations'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'invis_exits'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'pre_exit_func'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'post_exit_func'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'tracks'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable '__Items'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Warning: Redeclaration of global variable 'reset_number'. before the end of line
+/wizards/honspron/workroom_3.c line 6: Illegal to redefine 'nomask' function "query_name" before the end of line
+/wizards/honspron/workroom_3.c line 6: Illegal to redefine 'nomask' function "query_room" before the end of line
+/wizards/honspron/obj/honspron_robe.c line 9: syntax error before ");
+/wizards/honspron/obj/honspron_robe.c line 33: End of file in string at the end of the file
+/wizards/honspron/obj/honspron_robe.c line 9: syntax error before ");
+/wizards/honspron/obj/honspron_robe.c line 33: End of file in string at the end of the file
+/wizards/honspron/obj/honspron_robe.c line 16: Bad type for argument 1 of set_ac ( int vs string ) before ;
+/wizards/honspron/obj/honspron_robe.c line 16: Bad type for argument 2 of set_ac ( string vs int ) before ;
+/wizards/honspron/obj/honspron_robe.c line 17: Bad type for argument 1 of set_ac ( int vs string ) before ;
+/wizards/honspron/obj/honspron_robe.c line 17: Bad type for argument 2 of set_ac ( string vs int ) before ;
+/wizards/honspron/obj/honspron_robe.c line 18: Bad type for argument 1 of set_ac ( int vs string ) before ;
+/wizards/honspron/obj/honspron_robe.c line 18: Bad type for argument 2 of set_ac ( string vs int ) before ;
+/wizards/honspron/obj/sword_of_honspron.c line 17: Undefined function set_enhance_critical before ;
+/wizards/honspron/obj/sword_of_honspron.c line 17: Undefined function set_enhance_critical before ;
+/wizards/honspron/obj/honspron_robe.c line 18: Undefined function set_enhance_critical before ;
+/wizards/honspron/obj/honspron_robe.c line 18: Undefined function set_enhance_critical before ;
+/wizards/honspron/obj/sword_of_honspron.c line 21: syntax error before  ]));
+/wizards/honspron/obj/sword_of_honspron.c line 21: syntax error before  "speed B" : 200) ])
+/wizards/honspron/obj/sword_of_honspron.c line 21: syntax error before  "speed B" : 200 ]);
+/wizards/honspron/obj/sword_of_honspron.c line 21: syntax error before  "speed B" : 200 ]);
+/wizards/honspron/pets/sasa_aggro.c line 15: Wrong number of arguments to add_limb
+    Expected: 5  Got: 1 before ;
+/wizards/honspron/pets/sasa_aggro.c line 16: Wrong number of arguments to add_limb
+    Expected: 5  Got: 1 before ;
+/wizards/honspron/pets/sasa_aggro.c line 15: Undefined variable 'add_limb' before  "3rd arm": arm, "ma
+/wizards/honspron/pets/sasa_aggro.c line 15: syntax error before  "3rd arm": arm, "ma
+/wizards/honspron/pets/sasa_aggro.c line 23: Illegal LHS before the end of line
+/wizards/honspron/pets/sasa_aggro.c line 23: Warning: Expression has no side effects, and the value is unused before the end of line
+/wizards/honspron/pets/sasa_aggro.c line 15: Undefined variable 'set_limb' before  "3rd arm": arm, "ma
+/wizards/honspron/pets/sasa_aggro.c line 15: syntax error before  "3rd arm": arm, "ma
+/wizards/honspron/pets/sasa_aggro.c line 23: Illegal LHS before the end of line
+/wizards/honspron/pets/sasa_aggro.c line 23: Warning: Expression has no side effects, and the value is unused before the end of line
+/wizards/honspron/spells/animate_sasa.c line 62: syntax error before the end of file
+/wizards/honspron/workroom_2.c line 17: syntax error before ), ({"archmage"}),
+/wizards/honspron/workroom_2.c line 16: Bad type for argument 1 of add_exit ( string vs mixed * ) before ;
+/wizards/honspron/workroom_2.c line 16: Bad type for argument 2 of add_exit ( string vs mixed * ) before ;
+/wizards/honspron/workroom_2.c line 17: Bad type for argument 1 of add_exit ( string vs mixed * ) before ;
+/wizards/honspron/workroom_2.c line 17: Bad type for argument 2 of add_exit ( string vs mixed * ) before ;
+/wizards/honspron/test_area/mon/mon_1.c line 21: syntax error before "]Pet 1");
+/wizards/honspron/test_area/mon/mon_1.c line 23: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 23: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 32: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 32: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 21: Wrong number of arguments to set_short
+    Expected: 1  Got: 3 before ;
+/wizards/honspron/test_area/mon/mon_1.c line 21: syntax error before );
+/wizards/honspron/test_area/mon/mon_1.c line 23: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 23: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 32: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 32: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 21: Bad type for argument 1 of set_short ( string vs int ) before ;
+/wizards/honspron/test_area/mon/mon_1.c line 21: Undefined variable 'printf' before ,"]Pet 1");
+/wizards/honspron/test_area/mon/mon_1.c line 21: syntax error before ,"]Pet 1");
+/wizards/honspron/test_area/mon/mon_1.c line 23: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 23: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 32: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 32: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 21: Undefined variable 'print' before ,"]Pet 1");
+/wizards/honspron/test_area/mon/mon_1.c line 21: syntax error before ,"]Pet 1");
+/wizards/honspron/test_area/mon/mon_1.c line 23: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 23: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 32: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 32: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 21: Wrong number of arguments to set_short
+    Expected: 1  Got: 3 before ;
+/wizards/honspron/test_area/mon/mon_1.c line 21: syntax error before "]Pet 1");
+/wizards/honspron/test_area/mon/mon_1.c line 23: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 23: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 32: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 32: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 21: syntax error before pow+"Pet 1");
+/wizards/honspron/test_area/mon/mon_1.c line 23: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 23: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 32: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 32: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 12: Bad assignment ( string vs int ). before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 23: syntax error before pow+"Pet 1");
+/wizards/honspron/test_area/mon/mon_1.c line 25: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 25: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 34: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 34: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 12: Bad assignment ( string vs int ). before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 23: syntax error before lvl+"Pet 1");
+/wizards/honspron/test_area/mon/mon_1.c line 25: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 25: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 34: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 34: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 12: Bad assignment ( string vs int ). before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 23: syntax error before lvl+"Pet 1");
+/wizards/honspron/test_area/mon/mon_1.c line 25: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 25: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 34: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 34: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 12: Bad assignment ( string vs int ). before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 23: syntax error before lvl+"Pet 1");
+/wizards/honspron/test_area/mon/mon_1.c line 25: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 25: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 34: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 34: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 12: Bad assignment ( string vs int ). before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 22: syntax error before lvl+"Pet 1");
+/wizards/honspron/test_area/mon/mon_1.c line 24: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 24: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 33: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 33: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 12: Bad assignment ( string vs int ). before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 22: syntax error before lvl+"Pet 1");
+/wizards/honspron/test_area/mon/mon_1.c line 24: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 24: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 33: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 33: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 21: syntax error before pow+"Pet 1");
+/wizards/honspron/test_area/mon/mon_1.c line 23: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 23: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 32: Illegal LHS before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 32: syntax error before the end of line
+/wizards/honspron/test_area/mon/mon_1.c line 56: Undefined variable 'plasma' before ;
+/wizards/honspron/test_area/mon/mon_1.c line 57: Undefined variable 'nexus' before ;
+/wizards/honspron/test_area/mon/mon_1.c line 58: Undefined variable 'vacid' before ;
+/wizards/honspron/test_area/mon/mon_1.c line 59: Undefined variable 'aether' before ;
+/wizards/honspron/test_area/mon/mon_1.c line 46: syntax error before  > 5{
+/wizards/honspron/test_area/mon/mon_1.c line 50: syntax error before , "$A");
+/wizards/honspron/spells/blessing_of_honspron.c line 52: Reserved type name unexpected. before (int power, object a
+/wizards/honspron/spells/blessing_of_honspron.c line 52: syntax error before (int power, object a
+/wizards/honspron/spells/blessing_of_honspron.c line 53: Illegal LHS before the end of line
+/wizards/honspron/spells/blessing_of_honspron.c line 53: Warning: Expression has no side effects, and the value is unused before the end of line
+/wizards/honspron/spells/blessing_of_honspron.c line 55: Undefined variable 'at' before  {
+/wizards/honspron/spells/blessing_of_honspron.c line 60: Undefined variable 'sk_aff' before  (: call_other($3, $
+/wizards/honspron/spells/blessing_of_honspron.c line 61: Undefined variable 'flag' before ?1:-1) * power);
+/wizards/honspron/spells/blessing_of_honspron.c line 50: Warning: Unused local variable 'sk_aff' before the end of line
+/wizards/honspron/spells/blessing_of_honspron.c line 50: Warning: Unused local variable 'sk_aff' before the end of line
+/wizards/honspron/spells/blessing_of_honspron.c line 50: Warning: Unused local variable 'sk_aff' before the end of line
+/wizards/honspron/spells/blessing_of_honspron.c line 52: Reserved type name unexpected. before  = SKILLS_AFFECTED;
+/wizards/honspron/spells/blessing_of_honspron.c line 52: syntax error before  = SKILLS_AFFECTED;
+/wizards/honspron/spells/blessing_of_honspron.c line 52: Illegal LHS before the end of line
+/wizards/honspron/spells/blessing_of_honspron.c line 52: Warning: Expression has no side effects, and the value is unused before the end of line
+/wizards/honspron/spells/blessing_of_honspron.c line 55: Undefined variable 'at' before query("a bless num")
+/wizards/honspron/spells/blessing_of_honspron.c line 57: Undefined variable 'caster' before ;
+/wizards/honspron/spells/blessing_of_honspron.c line 62: Undefined variable 'flag' before  message("info", "Th
+/wizards/honspron/spells/blessing_of_honspron.c line 53: Reserved type name unexpected. before  = SKILLS_AFFECTED;
+/wizards/honspron/spells/blessing_of_honspron.c line 53: syntax error before  = SKILLS_AFFECTED;
+/wizards/honspron/spells/blessing_of_honspron.c line 53: Illegal LHS before the end of line
+/wizards/honspron/spells/blessing_of_honspron.c line 53: Warning: Expression has no side effects, and the value is unused before the end of line
+/wizards/honspron/spells/blessing_of_honspron.c line 56: Undefined variable 'at' before query("a bless num")
+/wizards/honspron/spells/blessing_of_honspron.c line 58: Undefined variable 'caster' before ;
+/wizards/honspron/spells/blessing_of_honspron.c line 63: Undefined variable 'flag' before  message("info", "Th
+/wizards/honspron/spells/blessing_of_honspron.c line 49: Warning: Number of arguments disagrees with previous definition. before  {
+/wizards/honspron/spells/blessing_of_honspron.c line 53: Reserved type name unexpected. before  = SKILLS_AFFECTED;
+/wizards/honspron/spells/blessing_of_honspron.c line 53: syntax error before  = SKILLS_AFFECTED;
+/wizards/honspron/spells/blessing_of_honspron.c line 53: Illegal LHS before the end of line
+/wizards/honspron/spells/blessing_of_honspron.c line 53: Warning: Expression has no side effects, and the value is unused before the end of line
+/wizards/honspron/spells/blessing_of_honspron.c line 56: Undefined variable 'at' before query("a bless num")
+/wizards/honspron/spells/blessing_of_honspron.c line 58: Undefined variable 'caster' before ;
+/wizards/honspron/spells/blessing_of_honspron.c line 63: Undefined variable 'flag' before  message("info", "Th
+/wizards/honspron/spells/blessing_of_honspron.c line 49: Warning: Number of arguments disagrees with previous definition. before  {
+/wizards/honspron/spells/blessing_of_honspron.c line 53: Reserved type name unexpected. before  = SKILLS_AFFECTED;
+/wizards/honspron/spells/blessing_of_honspron.c line 53: syntax error before  = SKILLS_AFFECTED;
+/wizards/honspron/spells/blessing_of_honspron.c line 53: Illegal LHS before the end of line
+/wizards/honspron/spells/blessing_of_honspron.c line 53: Warning: Expression has no side effects, and the value is unused before the end of line
+/wizards/honspron/spells/blessing_of_honspron.c line 56: Undefined variable 'at' before query("a bless num")
+/wizards/honspron/spells/blessing_of_honspron.c line 58: Undefined variable 'caster' before ;
+/wizards/honspron/spells/blessing_of_honspron.c line 63: Undefined variable 'flag' before  message("info", "Th
+/wizards/honspron/spells/blessing_of_honspron.c line 53: Reserved type name unexpected. before  = SKILLS_AFFECTED;
+/wizards/honspron/spells/blessing_of_honspron.c line 53: syntax error before  = SKILLS_AFFECTED;
+/wizards/honspron/spells/blessing_of_honspron.c line 53: Illegal LHS before the end of line
+/wizards/honspron/spells/blessing_of_honspron.c line 53: Warning: Expression has no side effects, and the value is unused before the end of line
+/wizards/honspron/spells/blessing_of_honspron.c line 56: Undefined variable 'at' before query("a bless num")
+/wizards/honspron/spells/blessing_of_honspron.c line 58: Undefined variable 'caster' before ;
+/wizards/honspron/spells/blessing_of_honspron.c line 63: Undefined variable 'flag' before  message("info", "Th
+/wizards/honspron/spells/blessing_of_honspron.c line 52: Left argument of -> is not a class before "skills"], caster);
+/wizards/honspron/spells/blessing_of_honspron.c line 52: Left argument of -> is not a class before "skills"], caster);
+/wizards/honspron/spells/blessing_of_honspron.c line 52: Left argument of -> is not a class before "skills"], caster);
+/wizards/honspron/spells/blessing_of_honspron.c line 52: Left argument of -> is not a class before "skills"], caster);

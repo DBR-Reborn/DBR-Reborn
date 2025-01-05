@@ -1,0 +1,7 @@
+#/d/areas/kobold/armor/helmet.c
+encumbrance 200
+props (["material_name":"iron","value":50,"material_type":"metal",])
+true_name "kobold helmet"
+creator "/d/areas/kobold/mon/warrior#159408"
+material "/metal/iron"
+armour_save (["ac":(["infernal":2,"fire":3,"cold":3,"disruption":3,"stress":5,"crushing":5,"strike":5,"cutting":5,"vacuum":1,"plasma":2,"impact":5,"impaling":5,"holy":0,"electricity":0,"aether":0,]),])

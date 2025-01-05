@@ -1,0 +1,404 @@
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/generalstore.c line 14: syntax error before , 4);
+/d/newbieville/rooms/generalstore.c line 14: syntax error before , 4);
+/d/newbieville/rooms/generalstore.c line 14: syntax error before , 4);
+/d/newbieville/rooms/generalstore.c line 14: syntax error before , 4);
+/d/newbieville/rooms/generalstore.c line 14: syntax error before , 4);
+/d/newbieville/rooms/generalstore.c line 23: Undefined function set_door before ;
+/d/newbieville/rooms/generalstore.c line 24: Undefined function set_open before ;
+/d/newbieville/rooms/generalstore.c line 25: Undefined function set_locked before ;
+/d/newbieville/rooms/generalstore.c line 26: Undefined function set_lock_level before ;
+/d/newbieville/rooms/generalstore.c line 23: Undefined function set_door before ;
+/d/newbieville/rooms/generalstore.c line 24: Undefined function set_open before ;
+/d/newbieville/rooms/generalstore.c line 25: Undefined function set_locked before ;
+/d/newbieville/rooms/generalstore.c line 26: Undefined function set_lock_level before ;
+/d/newbieville/rooms/generalstore.c line 23: Undefined function set_door before ;
+/d/newbieville/rooms/generalstore.c line 24: Undefined function set_open before ;
+/d/newbieville/rooms/generalstore.c line 25: Undefined function set_locked before ;
+/d/newbieville/rooms/generalstore.c line 26: Undefined function set_lock_level before ;
+/d/newbieville/rooms/generalstore.c line 23: Undefined function set_door before ;
+/d/newbieville/rooms/generalstore.c line 24: Undefined function set_open before ;
+/d/newbieville/rooms/generalstore.c line 25: Undefined function set_locked before ;
+/d/newbieville/rooms/generalstore.c line 26: Undefined function set_lock_level before ;
+/d/newbieville/rooms/generalstore.c line 23: Undefined function set_door before ;
+/d/newbieville/rooms/generalstore.c line 24: Undefined function set_open before ;
+/d/newbieville/rooms/generalstore.c line 25: Undefined function set_locked before ;
+/d/newbieville/rooms/generalstore.c line 26: Undefined function set_lock_level before ;
+/d/newbieville/rooms/generalstore.c line 23: Undefined function set_door before ;
+/d/newbieville/rooms/generalstore.c line 24: Undefined function set_open before ;
+/d/newbieville/rooms/generalstore.c line 25: Undefined function set_locked before ;
+/d/newbieville/rooms/generalstore.c line 26: Undefined function set_lock_level before ;
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/upperfloor.c line 49: Warning: Unused local variable 'bob' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 87: Warning: Unused local variable 'j' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 88: syntax error before ;
+/d/newbieville/rooms/upperfloor2.c line 89: Warning: Unused local variable 'i' before   
+/d/newbieville/rooms/upperfloor2.c line 103: Warning: Unused local variable 'i' before   
+/d/newbieville/rooms/upperfloor2.c line 104: syntax error before the end of file
+/d/newbieville/rooms/upperfloor2.c line 104: syntax error before the end of file
+/d/newbieville/rooms/upperfloor2.c line 99: syntax error before the end of file
+/d/newbieville/rooms/upperfloor2.c line 99: syntax error before the end of file
+/d/newbieville/rooms/upperfloor2.c line 97: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 101: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 97: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 78: Undefined variable 'inv' before  all_inventory(this_
+/d/newbieville/rooms/upperfloor2.c line 78: Illegal lvalue before  all_inventory(this_
+/d/newbieville/rooms/upperfloor2.c line 101: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 78: syntax error before  {
+/d/newbieville/rooms/upperfloor2.c line 80: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 81: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 82: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 82: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 84: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 77: syntax error before  {
+/d/newbieville/rooms/upperfloor2.c line 79: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 80: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 81: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 81: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 83: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 77: syntax error before  {
+/d/newbieville/rooms/upperfloor2.c line 79: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 80: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 81: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 81: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 83: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 78: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 54: syntax error before  {
+/d/newbieville/rooms/upperfloor2.c line 57: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 59: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 61: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 61: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 63: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 55: syntax error before  {
+/d/newbieville/rooms/upperfloor2.c line 57: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 59: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 61: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 61: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 63: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 41: Undefined variable 'inv' before ;
+/d/newbieville/rooms/upperfloor2.c line 44: Warning: Unused local variable 'max' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 56: syntax error before  {
+/d/newbieville/rooms/upperfloor2.c line 58: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 60: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 62: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 62: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 43: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 43: Warning: Unused local variable 'max' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 55: syntax error before  {
+/d/newbieville/rooms/upperfloor2.c line 57: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 59: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 61: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 61: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 63: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor2.c line 43: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 43: Warning: Unused local variable 'max' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 54: Redeclaration of function reset. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 54: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 54: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 55: syntax error before (i++) {
+/d/newbieville/rooms/upperfloor2.c line 48: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 48: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 49: syntax error before (i++) {
+/d/newbieville/rooms/upperfloor2.c line 45: Warning: Unused local variable 'inv' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 45: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 45: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 47: syntax error before (i++) {
+/d/newbieville/rooms/upperfloor2.c line 45: Warning: Unused local variable 'inv' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 45: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 45: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 47: syntax error before (i=1, i++) {
+/d/newbieville/rooms/upperfloor2.c line 45: Warning: Unused local variable 'inv' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 45: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 45: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 47: syntax error before (i=1; i++) {
+/d/newbieville/rooms/upperfloor2.c line 45: Warning: Unused local variable 'inv' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 45: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 45: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 47: syntax error before (i=1;i <=10; i++) {
+/d/newbieville/rooms/upperfloor2.c line 39: Illegal to declare global variable of type void. before () {
+/d/newbieville/rooms/upperfloor2.c line 39: syntax error before () {
+/d/newbieville/rooms/upperfloor2.c line 39: Illegal to declare global variable of type void. before () {
+/d/newbieville/rooms/upperfloor2.c line 39: syntax error before () {
+/d/newbieville/rooms/upperfloor2.c line 47: Undefined variable 'MAX_INV' before  {
+/d/newbieville/rooms/upperfloor2.c line 67: Illegal to declare global variable of type void. before () {
+/d/newbieville/rooms/upperfloor2.c line 67: syntax error before () {
+/d/newbieville/rooms/upperfloor2.c line 99: syntax error before the end of line
+/d/newbieville/rooms/upperfloor2.c line 103: syntax error before the end of file
+/d/newbieville/rooms/upperfloor2.c line 103: syntax error before the end of file
+/d/newbieville/rooms/castle.c line 46: Undefined function load before ;
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/townsquare.c line 11: syntax error before n   0\n   | \n0--@--
+/d/newbieville/rooms/townsquare.c line 11: Illegal terminator before --0\n   c \n   0\n")
+/d/newbieville/rooms/townsquare.c line 30: syntax error before ()->more(explode(msg
+/d/newbieville/rooms/upperfloor2.c line 39: syntax error before () {
+/d/newbieville/rooms/upperfloor2.c line 51: syntax error before n"));
+/d/newbieville/rooms/upperfloor2.c line 85: Illegal character constant before  all here now.",
+/d/newbieville/rooms/upperfloor2.c line 124: End of file in string at the end of the file
+/d/newbieville/rooms/upperfloor.c line 50: syntax error before n"));
+/d/newbieville/rooms/upperfloor.c line 84: Illegal character constant before  all here now.",
+/d/newbieville/rooms/upperfloor.c line 102: End of file in string at the end of the file
+/d/newbieville/rooms/upperfloor.c line 50: syntax error before n"));
+/d/newbieville/rooms/upperfloor.c line 84: Illegal character constant before  all here now.",
+/d/newbieville/rooms/upperfloor.c line 102: End of file in string at the end of the file
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'no_clean'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'encumbrance'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'last_location'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'props'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'ob_data'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'cap_name'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'true_name'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'creator'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'd_master'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'material'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'internal_encumbrance'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'possible_to_close'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'is_closed'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'max_internal_encumbrance'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable '__Search_Obj'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable '__Smells'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable '__Listens'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable '__Searches'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'skip_obvious'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'destinations'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'invis_exits'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'pre_exit_func'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'post_exit_func'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'tracks'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable '__Items'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Warning: Redeclaration of global variable 'reset_number'. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Illegal to redefine 'nomask' function "query_name" before the end of line
+/d/newbieville/rooms/upperfloor2.c line 19: Illegal to redefine 'nomask' function "query_room" before the end of line
+/d/newbieville/rooms/upperfloor2.c line 60: syntax error before , "read");
+/d/newbieville/rooms/upperfloor2.c line 60: syntax error before , "read");
+/d/newbieville/rooms/upperfloor2.c line 60: syntax error before , "read");
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/upperfloor2.c line 116: Redeclaration of function reset. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 113: syntax error before ;
+/d/newbieville/rooms/upperfloor2.c line 113: syntax error before ;
+/d/newbieville/rooms/upperfloor2.c line 114: syntax error before ;
+/d/newbieville/rooms/upperfloor2.c line 118: Redeclaration of function reset. before the end of line
+/d/newbieville/rooms/upperfloor2.c line 118: Redeclaration of function reset. before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/townsquare.c line 57: Redeclaration of function init. before the end of line
+/d/newbieville/rooms/townsquare.c line 25: Wrong number of arguments to set_search
+    Expected: 2  Got: 1 before ;
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/upperfloor.c line 80: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/upperfloor.c line 80: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/upperfloor.c line 135: syntax error before ->move(this_object()
+/d/newbieville/rooms/upperfloor.c line 137: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor.c line 137: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/newbieville/rooms/upperfloor.c line 145: syntax error before ->move(this_object()
+/d/newbieville/rooms/upperfloor.c line 147: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor.c line 147: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/newbieville/rooms/upperfloor.c line 155: syntax error before ->move(this_object()
+/d/newbieville/rooms/upperfloor.c line 157: Illegal LHS before the end of line
+/d/newbieville/rooms/upperfloor.c line 157: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/newbieville/rooms/upperfloor2.c line 77: Redeclaration of function init. before the end of line
+/d/newbieville/rooms/upperfloor3.c line 45: syntax error before  that if you do not 
+/d/newbieville/rooms/upperfloor3.c line 66: End of file in string at the end of the file
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/newbie0.c line 68: Reserved type name unexpected. before (){
+/d/newbieville/rooms/newbie0.c line 68: syntax error before (){
+/d/newbieville/rooms/newbie0.c line 68: Reserved type name unexpected. before (){
+/d/newbieville/rooms/newbie0.c line 68: syntax error before (){
+/d/newbieville/rooms/newbie1.c line 40: syntax error before ()->more(explode(msg
+/d/newbieville/rooms/newbie3.c line 22: Undefined variable 'd' before newbieville/rooms/ne
+/d/newbieville/rooms/newbie3.c line 22: Bad argument 1 to '/': "string " before newbieville/rooms/ne
+/d/newbieville/rooms/newbie3.c line 22: Undefined variable 'newbieville' before rooms/newbie2", "dow
+/d/newbieville/rooms/newbie3.c line 22: Undefined variable 'rooms' before newbie2", "down");
+/d/newbieville/rooms/newbie3.c line 22: Undefined variable 'newbie2' before down");
+/d/newbieville/rooms/newbie3.c line 22: syntax error before down");
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/newbie3_u.c line 70: Undefined variable 'x' before  0;
+/d/newbieville/rooms/newbie3_u.c line 70: Illegal lvalue before  0;
+/d/newbieville/rooms/newbie3_u.c line 87: Undefined variable 'x' before  0){
+/d/newbieville/rooms/newbie3_u.c line 103: Undefined variable 'UNTHIEF' before "thief_du","You hear
+/d/newbieville/rooms/newbie3_u.c line 138: Undefined variable 'x' before  0;
+/d/newbieville/rooms/newbie3_u.c line 138: Illegal lvalue before  0;
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/rooms/bar.c line 84: Warning: Unused local variable 'i' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line
+/d/newbieville/mon/rat2.c line 31: Warning: Unused local variable 'ob' before the end of line

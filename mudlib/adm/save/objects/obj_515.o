@@ -1,0 +1,7 @@
+#/std/diewarzau/obj/misc/ingot.c
+encumbrance 204
+props (["material_name":"laen","value":510,"material_type":"metal",])
+true_name "ingot"
+creator "/std/skills/minning#424551"
+material "/metal/laen"
+metal 51

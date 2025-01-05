@@ -1,0 +1,5 @@
+//#define NORTH "26"
+//#define WEST "05"
+#define EAST "23"
+//#define SOUTH "09"
+#include "base_orc.c"

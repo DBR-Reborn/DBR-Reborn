@@ -1,0 +1,8 @@
+#/d/damned/virtual/metal-visor.armour
+#/d/damned/virtual/metal-visor.armour.c
+encumbrance 30
+props (["runes":({"malsa bonnes","malsa sen zora","lifta",}),"progress inscribe_malsa_sen_zora_lilund":0,"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Protection%^RESET%^ {visor}","pow master_fortification_lilund":0,"progress inscribe_malsa_bonnes_lilund":0,"progress engrave_lilund":0,"material_name":"laen","true armour":1,"progress master_fortification_lilund":0,"pow true_armour_lilund":0,"progress true_armour_lilund":0,"value":2355,"extra long":({"Smithed by: Lilund with laen [212] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Lifta%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"metal","progress inscribe_lifta_lilund":0,"enchantment":70,])
+true_name "metal visor"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-4,"short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Protection%^RESET%^ {visor}","ac":(["infernal":817,"disruption":859,"stress":906,"crushing":832,"unholy":856,"cutting":926,"vacuum":892,"plasma":895,"impaling":911,"holy":817,"cold":836,"fire":905,"strike":849,"impact":910,"electricity":914,"aether":906,]),])

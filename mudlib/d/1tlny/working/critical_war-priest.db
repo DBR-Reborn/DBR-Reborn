@@ -1,0 +1,82 @@
+#War priest special crits for thier weapons.
+
+(A):
+?..?:$A tries to intimidate $T, buts just ends up looking kinda
+silly.::NO_EFFECT
+?..?:$A $V $T on both $(TPP) cheeks with $(AP) weapon.:slap:DAMAGE 10
+?..?:$A finds a weakness in $(TP) defense.::DAMAGE 8:STUN 2
+?..?:$A $V $T so hard $(TP) head swims and eyes cross.:hit:DAMAGE 15:
+STUN 6 
+?..?:$A is full of righteous anger.::SPECIAL_RESULT 
+/crit/special_results/war-priest do_righteous_anger
+?..?:$A swings and $(TP) head then suddenly changes direction and cripples
+$(TP) leg.::STUN 5:DAMAGE 15:LIMB_LOSS leg cripple
+
+(B):
+?..?:$(AP) morale is boosted by $(APP) success, and $(AN) attacks even
+harder::NO_EFFECT
+?..?:$A crashes up against $T, and $V $T in the temple with the handle
+of $AP weapon.:hit:DAMAGE 10:STUN 5
+?..?:$A sings a catchy battle song as $(AN) knocks $T around a
+bit.::DAMAGE 25:STUN 3
+?..?:Showing amazing precision, $A cripples $(TP) weapon wielding
+hand.::DAMAGE 10:SPECIAL_RESULT /crit/special_results/war-priest
+do_cripple_weaponhand
+?..?:$A attacks leaving $T feelings insignificant.::STAT_MOD strength -50
+4:STAT_MOD dexterity -50 4:SKILL_MOD attack -50 4
+?..?:$(AP) weapon glows with ethereal energy::SPECIAL_RESULT
+/crit/special_results/war-priest do_ethereal_weapon
+?..?:$A is empowered by divine light.::SPECIAL_RESULT 
+/crit/special_results/war-priest do_divine_empower
+?..?:$T $V to block $(AP) attack but loses and arm instead.:try:DAMAGE 30
+LIMB_LOSS arm
+
+(C):
+?..?:$(TP) heart skips a beat at $(AP) display of martial prowess.::STUN 5
+?..?:As $A rushes, $T $V back and slip in $(TPP) own blood.:fall:DAMAGE
+5:STUN 3
+?..?:$(AP) attack makes $(TPP) knees weak and $(TPP) limbs
+tremble.::SKILL_MOD parry -50 3:SKILL_MOD block -50 3:
+SKILL_MOD dodge -50 3
+?..?:$A finds a weakness in $(TPP) defense, delivering a stunning
+blow!::STUN 10:DAMAGE 25
+?..?:$A finds a pattern in $(TP) attack and is able to defend
+better.::SKILL_MOD attack -100 15
+?..?:$A attacks $(TP) weapon and severely damages it.::SPECIAL_RESULTS
+/crit/special_results/war-priest do_weapon_damage
+?..?:$(AP) war cry $V $(TP) ear drums.:shatter:STUN 12:SKILL_MOD dodge -70
+5:SKILL_MOD parry -70 5:SKILL_MOD block -70 5:SKILL_MOD attack -100
+5:STAT_MOD dexterity -50 5:STAT_MOD intelligence -100 5
+
+(D):
+?..?:$A leaves $T full of envy, and, oh yeah, face down in the
+dirt.::DAMAGE 10:STUN 8
+?..?:$(AP) attack leaves a dent in $(TPP) skull.::STUN 15:DAMAGE 35
+?..?:$A throws all caution to the wind and begings to attack
+wildly!::SPECIAL_RESULT /crit/special_results/war-priest do_beserk_rage
+?..?:$A attacks $(TP) weapon and sends it flying from $(TP)
+hand.::SPECIAL_RESULT /crit/special_results/war-priest do_weapon_loss
+?..?:$(AP) might attack shatters $(TP) armour.::SPECIAL_RESULT
+/crit/special_results/war-priest do_shatter_armour
+?..?:$(AP) attack summons a bored guild guard to share in the
+fun.::SPECIAL_RESULT /crit/special_results/war-priest do_summon_guard
+?..?:Looking incredibly slick, $A spins around and decapitates
+$T.::LIMB_LOSS head
+
+(E):
+?..?:$A bats aside $(TP) feeble attack and shows $T how a true warrior
+hits.::DAMAGE 40:STUN 10
+?..?:$A spins and $(APP) backhand swing catches $T totally unprepared
+knocking $(TO) right off $(TPP) feet.::DAMAGE 45:STUN 14
+?..?:$(AP) speed is blinding to the eye!::SPECIAL_RESULT
+/crit/special_results/war-priest do_speedup
+?..?:$(AP) attacks draws whistles of admiration and you hear clappings
+from the heavens.::SPECIAL_RESULT /crit/special_results/war-priest
+do_heavenly_blessing
+?..?:$A seems to grow in statue and power, leaving $T feelings very
+intimidated.::SPECIAL_RESULT /crit/special_results/war-priest do_growth
+?..?:$(AP) attack rallies the spirits of warriors long dead, who jump into
+the battle with glee and beat $T senseless.::SPECIAL_RESULT
+/crit/special_results/war-priest do_summon_spirits
+?..?:The goddes Asra appears in her full glory and screams "Don't touch my
+man!" and then cleaves $T in half with her mighty sword.::KILL

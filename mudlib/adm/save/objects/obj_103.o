@@ -1,0 +1,7 @@
+#/d/damned/guilds/nethermancer/misc/huge_sword.c
+encumbrance 150
+props (["brittle":20,"pow dark_weapon_inikhida":6,"value":3250,"progress engrave_tursnik":0,"material_type":"metal","extra long":({({"This weapon has %^BOLD%^%^BLUE%^Dark Weapon%^RESET%^.","detect magic",}),}),"progress dark_weapon_tursnik":0,"new desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {sword}","dark weapon":12,"material_name":"elrodnite","progress dark_weapon_inikhida":268,"no add quality":1,"pow dark_weapon_tursnik":0,])
+true_name "A huge skull sword"
+creator "/d/areas/zoo/mon/ewarrior#29576"
+material "/metal/elrodnite"
+__Weapon (["original wc":(["cold":75,"unholy":75,"cutting":90,]),"quality":5,"type":"two handed blade","ac":(["infernal":0,"disruption":0,"stress":0,"crushing":0,"unholy":0,"cutting":0,"vacuum":0,"plasma":0,"impaling":0,"holy":0,"cold":0,"fire":0,"strike":0,"impact":0,"electricity":0,"aether":0,]),"verb":"lacerate","wc":(["cold":75,"unholy":275,"cutting":90,]),"decay status":120,"short desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {sword}","decay rate":200,])

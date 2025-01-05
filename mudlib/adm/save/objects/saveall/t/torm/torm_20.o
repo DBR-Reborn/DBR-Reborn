@@ -1,0 +1,8 @@
+#/d/damned/virtual/studded-leather-pants.armour
+#/d/damned/virtual/studded-leather-pants.armour.c
+encumbrance 130
+props (["material_name":"Ghost","value":120,"material_type":"leather","extra long":"Crafted by: Torm with A Level [15] Ghost leather","progress engrave_torm":0,"new desc":"A {pants}",])
+true_name "studded leather pants"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Ghost"
+armour_save (["short desc":"A {pants}","ac":(["infernal":191,"disruption":173,"stress":185,"crushing":148,"unholy":132,"cutting":103,"vacuum":181,"plasma":141,"impaling":143,"holy":153,"cold":100,"fire":119,"strike":182,"impact":93,"electricity":174,"aether":126,]),])

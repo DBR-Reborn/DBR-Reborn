@@ -1,0 +1,7 @@
+#/d/damned/virtual/chain-mail.armour.c
+encumbrance 180
+props (["material_name":"laen","value":150,"material_type":"metal",])
+true_name "chain mail"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"A chain mail","ac":(["infernal":104,"disruption":104,"stress":104,"crushing":104,"unholy":104,"cutting":104,"vacuum":104,"plasma":104,"impaling":104,"holy":104,"cold":104,"fire":104,"strike":104,"impact":104,"electricity":104,"aether":104,]),])

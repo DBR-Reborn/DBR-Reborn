@@ -1,0 +1,7 @@
+#/d/damned/virtual/tabard.armour.c
+encumbrance 1
+props (["progress engrave_singe":0,"progress inscribe_malsa_bonnes_singe":0,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"%^B_BLUE%^RESET%^ {tabard}","material_name":"Shadowflame Templar","true armour":1,"progress inscribe_malsa_sen_zora_singe":0,"pow true_armour_upstart":0,"value":10,"material_type":"leather","extra long":({"Crafted by: Singe with A Level [136] Shadowflame Templar leather","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress enchanter_mark_okkita":0,"progress extreme_fortification_upstart":0,"progress true_armour_upstart":0,"pow enchanter_mark_okkita":0,"pow extreme_fortification_upstart":0,"progress inscribe_aldara_zet_singe":0,"enchantment":100,])
+true_name "tabard"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Shadowflame Templar"
+armour_save (["enhance critical":-4,"short desc":"%^B_BLUE%^RESET%^ {tabard}","ac":(["infernal":534,"disruption":528,"stress":548,"unholy":522,"crushing":531,"cutting":551,"vacuum":543,"plasma":535,"impaling":551,"holy":539,"fire":534,"cold":533,"strike":576,"impact":561,"aether":524,"electricity":521,]),])

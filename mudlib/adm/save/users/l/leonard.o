@@ -1,0 +1,63 @@
+#/std/user.c
+encumbrance 500
+props (["light":0,"hp advance":15,"melee damage":(["crushing":0,]),"last reinc":1673292403,"handedness":"left hand","dev point base":49,"mp advance":40,"last read news":1674151941,"sp points":0,"old exp":10149,"ambidextry":0,"base mp regen":13,"base hp regen":3,"luck":5,"combat color":"%^BOLD%^","dev points":659,])
+true_name "leonard"
+creator "/adm/obj/login#74479"
+max_internal_encumbrance 600
+player_data (["kills":({0,0,0,0,0,0,0,0,0,0,0,0,129,0,1,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,}),"general":(["sp":1,"exp buffer":0,"alignment":0,"max_hp":144,"hp":144,"max exp":72192,"experience":72193,"last adjust":1674155116,"max_sp":665,]),])
+magic (["max points":359,"points":359,])
+severed ([])
+healing (["stuffed":345,"quenched":500,])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":72,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"robe",}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":48,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"robe",}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":36,"weapons":0,"ac":0,"limb_ref":"","armour":({"robe",}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":48,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"robe",}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":36,"weapons":0,"ac":0,"limb_ref":"","armour":({"robe",}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":48,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"robe",}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":144,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"robe",}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":36,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({"robe",}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":48,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"robe",}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({,0,,}),"max_dam":36,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"robe",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 31
+char_class "enchanter"
+skills (["stealth":(["stat":"dexterity","level":5,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"pick locks":(["stat":"dexterity","level":5,]),"pick pocket":(["stat":"dexterity","level":5,]),"blunt":(["stat":"dexterity","last dev":({4,4,}),"level":36,]),"dodge":(["stat":"dexterity","last dev":({4,2,}),"level":20,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"attack":(["stat":"dexterity","last dev":({4,5,}),"max":0,"points":0,"level":50,]),])
+spells ([])
+wimpydir "out"
+i 1
+j 1
+k -1
+num_attacks 1
+defendflag 1
+num_rounds 1
+skill -3
+env_var (["TITLE":"Student $N the Halfling","start":"/d/daybreak/room/N3","LINES":"70","TERM":"xterm-256","SCORE":"on",])
+money (["silver":454,"gold":328,])
+ok_to_heal 136836
+player_age 136834
+sight_bonus 2
+gender "male"
+state "stand"
+stats (["wisdom":50,"dexterity":95,"intelligence":96,"constitution":50,"strength":20,"charisma":55,])
+languages (["goblinish":2,"pix":10,"common":10,"wild-elfish":2,])
+primary_language "common"
+language_exp (["goblinish":({7,1,}),"zebber":({2,0,}),"orcish":({2,0,}),"wild-elfish":({5,1,}),"elvish":({1,0,}),])
+xp_to_next_dev 72480
+alias (["n":"north","bio":"biography","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","exa":"look at $*","sw":"southwest","e":"east","u":"up","d":"down","se":"southeast","s":"south",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+zexp 60255
+znexp 86751
+zlexp 26496
+znlevel 6
+zlevel 5
+auto_load ({})
+level 5
+verbose_moves 1
+birth 1673292403
+blocked ([])
+exp_log ([1673307815:-97,1673307069:-388,])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "Connor"
+email "connoro07@icloud.com"
+ip "174.205.229.254"
+last_on "Thu Jan 19 18:12:21 2023"
+password "$6$1R9x8aVK6QuHTrSF$JC8XrR2DpW9O1y/yKl.ve08uclHWCiJ1TMYtwbnHeVxY/avQ7dbFypYqa2rwn706fUlYg4LUaCVCtiWpBdodm0"
+race "halfling"
+original_site "174.205.224.215"
+position "player"
+primary_start "/d/daybreak/room/db_square"
+quests ({})

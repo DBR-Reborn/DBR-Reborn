@@ -1,0 +1,73 @@
+melee damage:::(["crushing":5])
+melee damage:::([ "fire" : 13 ])
+
+extra hp regen:::300
+extra hp regen:::30
+extra mp regen:::50
+natural ac:::5
+magic resistance:::15
+
+physical resistance:::(["cold":30])
+physical resistance:::(["iron":20, "wood":20, "steel":20, "default":20])
+
+limb regen:::1
+ambidextry:::1
+corpse eating:::1
+water breathing:::1
+enhance criticals:::(["fire":1, "cold":-1])
+enhance criticals:::(["impact":-1])
+luck:::5
+extra heart beat:::50
+
+innate skills:::(["conjuration":10,"illusionism":10,"magery":10,"focus casting":10,])
+
+innate spells:::(["darkness":1,"faerie fire":1, "levitation":1])
+
+xp mod:::-50
+dev cost:::-2
+
+--maybe
+flying:::1
+light:::1
+
+lycanthrope mods:::(["strength":15, "constitution":15, "intelligence":-30,"dexterity":15, "wisdom":-30, "charisma":-30])
+lycanthrope moon:::"ankh"
+l melee damage:::(["cutting":20])
+
+
+----
+
+-=-=-=- Stat Bonuses -=-=-=- 
+Strength:           ---
+Constitution:       -5
+Intelligence:       +15
+Wisdom:             +5
+Dexterity:          +15
+Charisma:           -20 
+  
+-=-=-=-=-=- Abilities -=-=-=-=-=-     
+Body Size:         Medium             
+HP Regen:          Normal                
+MP Regen:          High               
+Natural Weapons:   Crushing Hands     
+Sight:             Dark Vision
+         
++------ Special Abilities ------+     
+Ambidexterity     
+Magic Resistance  
++-------------------------------+     
+
+-=-=-=-=-= Skills =-=-=-=-=-
+Sorcery                +  5%
+Magery                 +  5%
+Illusionism            +  5%
+
+-=-=-=-=-= Spells =-=-=-=-=-
+Levitation             *  1
+Faerie fire            *  1
+Darkness               *  1
+
+    +-----------------Experience Gain Rates-----------------+
+    |                    Below Average                      |
+    +-------------------------------------------------------+
+

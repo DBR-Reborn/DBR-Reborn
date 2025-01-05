@@ -1,0 +1,66 @@
+				%^RED%^Mon Jan 13 19:43:38 2020 **
+[%^YELLOW%^admin%^RESET%^ : Creg] did that work?
+				%^RED%^Mon Jan 13 19:43:43 2020 **
+[%^YELLOW%^admin%^RESET%^ : Thraeq] nope
+				%^RED%^Mon Jan 13 19:43:46 2020 **
+[%^YELLOW%^admin%^RESET%^ : Creg] I see you tried to change something
+				%^RED%^Mon Jan 13 19:43:51 2020 **
+[%^YELLOW%^admin%^RESET%^ : Creg] ok keep trying
+				%^RED%^Mon Jan 13 19:43:56 2020 **
+[%^YELLOW%^admin%^RESET%^ : Thraeq] just typed change filename reason
+				%^RED%^Mon Jan 13 19:44:09 2020 **
+[%^YELLOW%^admin%^RESET%^ : Thraeq] that just reports that I did change a file but not allowing me to change it
+				%^RED%^Mon Jan 13 19:49:44 2020 **
+[%^YELLOW%^admin%^RESET%^ : Thraeq] they are in mudlib/cmds/system
+				%^RED%^Mon Jan 13 19:49:45 2020 **
+[%^YELLOW%^admin%^RESET%^ : Creg] hist
+				%^RED%^Mon Jan 13 19:50:03 2020 **
+[%^YELLOW%^admin%^RESET%^ : Thraeq] there is a bunch of stuff in there that are basically linux commands you can use from inside the mud
+				%^RED%^Mon Jan 13 19:50:19 2020 **
+[%^YELLOW%^admin%^RESET%^ : Thraeq] kind of dangerous cause you can do all kids of stuff including deleting files
+				%^RED%^Mon Jan 13 19:50:24 2020 **
+[%^YELLOW%^admin%^RESET%^ : Creg] I will have to take a look at it
+				%^RED%^Mon Jan 13 19:50:42 2020 **
+[%^YELLOW%^admin%^RESET%^ : Thraeq] I have not found the edit command yet, cause I dont know which editor they are using
+				%^RED%^Mon Jan 13 19:51:02 2020 **
+[%^YELLOW%^admin%^RESET%^ : Creg] just knowing that it is there is good enough for me
+				%^RED%^Mon Jan 13 19:51:11 2020 **
+[%^YELLOW%^admin%^RESET%^ : Creg] i'll put it in my notes section
+				%^RED%^Mon Jan 13 19:51:20 2020 **
+[%^YELLOW%^admin%^RESET%^ : Thraeq] looks like it might be ed
+				%^RED%^Mon Jan 13 19:52:12 2020 **
+[%^YELLOW%^admin%^RESET%^ : Creg] yeah that makes sense
+				%^RED%^Mon Jan 13 19:52:15 2020 **
+[%^YELLOW%^admin%^RESET%^ : Creg] ed looks lik ie
+				%^RED%^Mon Jan 13 19:52:22 2020 **
+[%^YELLOW%^admin%^RESET%^ : Creg] this works with the no tell thing command
+				%^RED%^Mon Jan 13 19:52:24 2020 **
+[%^YELLOW%^admin%^RESET%^ : Thraeq] I got stuck in that file
+				%^RED%^Mon Jan 13 19:52:30 2020 **
+[%^YELLOW%^admin%^RESET%^ : Creg] yeah it is big
+				%^RED%^Mon Jan 13 19:52:49 2020 **
+[%^YELLOW%^admin%^RESET%^ : Thraeq] I have no idea how to edit things with that command lol
+				%^RED%^Mon Jan 13 19:52:53 2020 **
+[%^YELLOW%^admin%^RESET%^ : Creg] I need to go back and find the command to sure I ignore and don't get any other posts while in it
+				%^RED%^Mon Jan 13 19:53:02 2020 **
+[%^YELLOW%^admin%^RESET%^ : Creg] you need to call on a filename
+				%^RED%^Mon Jan 13 19:53:04 2020 **
+[%^YELLOW%^admin%^RESET%^ : Thraeq] codeblock
+				%^RED%^Mon Jan 13 19:53:15 2020 **
+[%^YELLOW%^admin%^RESET%^ : Thraeq] I was in a file
+				%^RED%^Mon Jan 13 19:53:20 2020 **
+[%^YELLOW%^admin%^RESET%^ : Thraeq] I called a filename
+				%^RED%^Mon Jan 13 19:53:39 2020 **
+[%^YELLOW%^admin%^RESET%^ : Creg] let me go to one that is not on the world..
+				%^RED%^Mon Jan 13 19:54:01 2020 **
+[%^YELLOW%^admin%^RESET%^ : Thraeq] /doc/immortals/ed
+				%^RED%^Mon Jan 13 19:54:07 2020 **
+[%^YELLOW%^admin%^RESET%^ : Thraeq] anyway got to go for now
+				%^RED%^Mon Jan 13 19:54:12 2020 **
+[%^YELLOW%^admin%^RESET%^ : Thraeq] catch you later
+				%^RED%^Mon Jan 20 01:21:53 2020 **
+[%^YELLOW%^admin%^RESET%^ : Tiny] test
+				%^RED%^Wed Apr 22 22:34:14 2020 **
+[%^YELLOW%^admin%^RESET%^ : Test] test
+				%^RED%^Wed Apr 22 22:34:24 2020 **
+[%^YELLOW%^admin%^RESET%^ : Test] this is a channel as well

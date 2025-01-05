@@ -1,0 +1,8 @@
+#/d/damned/virtual/footman's-mace_4.weapon
+#/d/damned/virtual/footman's-mace_4.weapon.c
+encumbrance 150
+props (["material_name":"steel","value":408,"material_type":"metal",])
+true_name "footman's mace"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/steel"
+__Weapon (["original wc":(["crushing":10,]),"wielded":,"quality":6,"limb string":" (wielded in left hand)","type":"blunt","ac":(["infernal":5,"disruption":5,"stress":5,"unholy":5,"crushing":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"fire":5,"cold":5,"strike":5,"impact":5,"aether":5,"electricity":5,]),"verb":"pound","wc":(["crushing":10,]),"decay status":439,"short desc":"footman's mace","decay rate":6157,"parry bonus":-15,])

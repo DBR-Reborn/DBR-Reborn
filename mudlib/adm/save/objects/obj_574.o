@@ -1,0 +1,7 @@
+#/d/damned/virtual/footman's-mace_6.weapon.c
+encumbrance 150
+props (["material_name":"elrodnite","value":524,"material_type":"metal","extra long":"level[43] elrodnite footman's-mace of electricity and electricity","new desc":"level[43] elrodnite footman's-mace of electricity and electricity",])
+true_name "footman's mace"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/elrodnite"
+__Weapon (["original wc":(["crushing":10,"electricity":75,]),"quality":6,"type":"blunt","ac":(["infernal":5,"disruption":5,"stress":5,"crushing":5,"unholy":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"cold":5,"fire":5,"strike":5,"impact":5,"electricity":5,"aether":5,]),"verb":"pound","wc":(["crushing":62,"electricity":50,]),"short desc":"level[43] elrodnite footman's-mace of electricity and electricity","decay rate":200,"parry bonus":-15,])

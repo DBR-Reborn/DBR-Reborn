@@ -1,0 +1,13 @@
+#/d/damned/guilds/join_rooms/dark-paladin_join.c
+props (["base mp regen":4,"guild mods":(["wisdom":5,"constitution":5,"strength":5,]),"base hp regen":6,"light":3,"mp advance":20,"hp advance":30,"indoors":1,])
+__Smells ([])
+__Listens ([])
+__Searches ([])
+destinations (["north":"/d/damned/guilds/dark-paladin/skill_room","east":"/d/daybreak/room/db_slum","west":"/d/damned/guilds/dark-paladin/spell_room",])
+invis_exits ([])
+pre_exit_func ([])
+post_exit_func ([])
+tracks ({})
+__Items (["blue moon":0,"sky":0,"ankh":0,"moon":0,"red moon":0,"green moon":0,"warzau":0,"sun":0,"luna":0,"moons":0,])
+guild_list (["roderick":(["status":"member",]),"tyranus":(["status":"member",]),"lunia":(["status":"member",]),"coriantha":(["status":"member",]),"inikhida":(["status":"member",]),"abacad":(["status":"member",]),"raidan":(["status":"member",]),"nightwing":(["status":"member",]),"anacropora":(["status":"member",]),"tarn":(["status":"allow train",]),"borso":(["status":"member",]),"lorak":(["status":"member",]),])
+banish ([])

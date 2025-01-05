@@ -1,0 +1,6 @@
+#/d/damned/guilds/nethermancer/misc/soul_orb.c
+encumbrance 50
+props (["progress rotted_zombie_infusion_neyah":0,"total souls":2,"pow ghost_infusion_neyah":0,"undead beast souls":0,"blood hound souls":0,"pow rotted_zombie_infusion_neyah":0,"progress minor_soul_union_neyah":0,"value":1,"extra long":({"This orb contains %^MAGENTA%^1%^RESET%^ ghast dog soul.",}),"ghast dog souls":1,"rotted zombie souls":0,"pow blood_hound_infusion_neyah":0,"pow minor_soul_union_neyah":0,"progress blood_hound_infusion_neyah":0,"progress ghost_infusion_neyah":0,"ghost souls":0,])
+true_name "soul orb"
+creator "/d/damned/guilds/nethermancer/magic_store"
+armour_save (["short desc":"A soul orb",])

@@ -1,0 +1,7 @@
+#/d/1tlny/loot/hooded_robe.c
+encumbrance 100
+props (["material_name":"cloth","value":400,"material_type":"none","extra long":"level[93] Rare Robe of plasma and stress protection","new desc":"level[93] Rare Robe of plasma and stress protection",])
+true_name "hooded robe"
+creator "/d/areas/ork/mon/3painboyz#107854"
+material "/cloth"
+armour_save (["short desc":"level[93] Rare Robe of plasma and stress protection","ac":(["infernal":542,"disruption":542,"stress":746,"crushing":542,"unholy":542,"cutting":542,"vacuum":542,"plasma":848,"impaling":542,"holy":542,"cold":542,"fire":542,"strike":542,"impact":542,"electricity":542,"aether":542,]),])

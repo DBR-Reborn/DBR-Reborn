@@ -1,0 +1,8 @@
+#/d/damned/virtual/plate-greaves.armour
+#/d/damned/virtual/plate-greaves.armour.c
+encumbrance 450
+props (["material_name":"inniculmoid","value":430,"material_type":"metal","extra long":"level[42] inniculmoid greaves of impact and disruption protection","new desc":"level[42] inniculmoid greaves of impact and disruption protection",])
+true_name "plate greaves"
+creator "/d/damned/virtual/armour_server"
+material "/metal/inniculmoid"
+armour_save (["short desc":"level[42] inniculmoid greaves of impact and disruption protection","ac":(["infernal":60,"disruption":153,"stress":60,"crushing":60,"unholy":60,"cutting":60,"vacuum":60,"plasma":60,"impaling":60,"holy":60,"cold":60,"fire":60,"strike":60,"impact":142,"electricity":60,"aether":60,]),])

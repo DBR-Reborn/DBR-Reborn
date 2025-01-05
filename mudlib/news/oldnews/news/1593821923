@@ -1,0 +1,4 @@
+Critical Errors happened on the server. Docker error logs were many GB's big and took every inch of space on the server. Honspron and I have since removed those log files and added in checks to auto remove them after 10Mb's big and only to create 3 of them at most. With the new checks in place this will not occur because of this though we had to role back all save rooms and lockers to yesterday 7/2/2020 4 PM MST your character and exp gain and all items on your person was not touched. We are sorry for any trouble this causes.
+
+
+Posted by Tlny Sat Jul  4 00:18:43 2020.

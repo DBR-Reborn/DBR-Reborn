@@ -1,0 +1,7 @@
+#/d/damned/virtual/great-axe_6.weapon.c
+encumbrance 320
+props (["material_name":"neorolite","value":786,"material_type":"metal","extra long":"level[61] neorolite great-axe of holy and cold","new desc":"level[61] neorolite great-axe of holy and cold",])
+true_name "great axe"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/neorolite"
+__Weapon (["original wc":(["cold":87,"holy":99,"crushing":84,"cutting":20,]),"quality":6,"type":"two handed polearm","ac":(["infernal":4,"disruption":4,"stress":4,"crushing":4,"unholy":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"cold":4,"fire":4,"strike":4,"impact":4,"electricity":4,"aether":4,]),"verb":"chop","wc":(["cold":87,"holy":99,"crushing":84,"cutting":20,]),"short desc":"level[61] neorolite great-axe of holy and cold","decay rate":200,"parry bonus":-30,])

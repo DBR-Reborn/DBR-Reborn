@@ -1,0 +1,60 @@
+#/std/user.c
+encumbrance 500
+props (["allow_over_max":0,"extra hp regen":20,"light":0,"sp points":0,"xp mod":-60,"old exp":0,"hp advance":50,"melee damage":(["crushing":8,"electricity":8,]),"natural ac":6,"base mp regen":6,"handedness":"left hand","ambidextry":0,"last reinc":1722649203,"base hp regen":17,"dev point base":71,"mp advance":15,"combat color":"%^BOLD%^","last read news":1722649203,"dev points":49,])
+true_name "tarune"
+creator "/adm/obj/login#261610"
+max_internal_encumbrance 4620
+player_data (["kills":({1,61,0,75,15,21,}),"general":(["alignment":2,"max exp":33868,"exp buffer":0,"sp":1,"experience":33869,"last adjust":1722652363,"max_hp":423,"max_sp":0,"hp":423,]),])
+magic (["max points":105,"points":105,])
+severed ([])
+healing (["poisoning":0,"quenched":1100,])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":423,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":141,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":105,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":141,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":211,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":105,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":105,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":141,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":105,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":141,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 6
+heal_rate 63
+char_class "fighter"
+skills (["body block":(["stat":"strength","last dev":({4,1,}),"level":10,]),"kick":(["stat":"strength","last dev":({4,2,}),"level":10,]),"melee":(["stat":"strength","last dev":({4,2,}),"max":0,"points":0,"level":30,]),"fast attack":(["stat":"constitution","last dev":({4,2,}),"level":20,]),"perception":(["stat":"intelligence","last dev":({4,2,}),"level":33,]),"martial arts":(["stat":"dexterity","last dev":({4,2,}),"level":30,]),"block":(["stat":"strength","last dev":({4,3,}),"level":36,]),"repair weapon":(["stat":"dexterity","last dev":({4,2,}),"level":30,]),"shield bash":(["stat":"strength","last dev":({4,3,}),"level":30,]),"swimming":(["stat":"constitution","last dev":({4,2,}),"level":33,]),"offhand training":(["stat":"dexterity","last dev":({4,2,}),"level":10,]),"blunt":(["stat":"dexterity","last dev":({3,2,}),"level":25,]),"dodge":(["stat":"dexterity","last dev":({4,2,}),"level":20,]),"parry":(["stat":"dexterity","last dev":({4,2,}),"level":33,]),"trade lore":(["stat":"charisma","last dev":({4,2,}),"level":30,]),"attack":(["stat":"dexterity","last dev":({4,2,}),"max":0,"points":0,"level":36,]),])
+spells ([])
+wimpydir "out"
+protection 1
+i 1
+j 2
+k 2
+num_attacks 1
+x 20
+num_rounds 2
+skill 75
+env_var (["start":"/d/standard/square","TITLE":"Goblin Killer $N the Storm-giant","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 6179
+player_age 6170
+sight_bonus 1
+gender "male"
+state "stand"
+stats (["wisdom":35,"dexterity":102,"strength":154,"constitution":125,"intelligence":35,"charisma":26,])
+languages (["goblinish":2,"common":10,"stormspeak":10,])
+primary_language "common"
+language_exp (["goblinish":({0,1,}),])
+xp_to_next_dev 33884
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 4
+ghost 1
+birth 1722649203
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "jeremy.w.gilley@gmail.com"
+ip "68.32.199.4"
+last_on "Sat Aug  3 01:40:03 2024"
+password "$6$U/oWNnPRz.kDez4z$6AWXQIcbsSdBurQkxzK/JYwNYdAbaVU.8BFVxD4oc/d8LR3tB/R55wvnBcXh/wV2LTpt/fJFuCP.BIjISZ.Sx."
+race "storm-giant"
+original_site "68.32.199.4"
+position "player"
+quests ({})

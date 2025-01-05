@@ -1,0 +1,16 @@
+light:::2
+indoors:::1
+short:::Hawpun's Castle Room #10
+long:::This is Room #10 of Hawpun's Castle.
+If you are Hawpun, type 'help castle' for options.  
+
+
+no scry:::0
+no summon:::0
+no teleport:::0
+special exits:::0
+healing room:::0
+exit:::west:/d/damned/virtual/hawpun_room_3.castle
+exit:::down:/d/damned/virtual/hawpun_room_4.castle
+exit:::east:/d/damned/virtual/hawpun_room_2.castle
+exit:::south:/d/damned/virtual/hawpun_room_1.castle:door:16:vault door

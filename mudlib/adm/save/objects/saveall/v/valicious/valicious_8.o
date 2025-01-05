@@ -1,0 +1,8 @@
+#/d/damned/virtual/hand-axe_2.weapon
+#/d/damned/virtual/hand-axe_2.weapon.c
+encumbrance 70
+props (["float value":0.820000,"material_name":"platnite","material_type":"metal",])
+true_name "hand axe"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/platnite"
+__Weapon (["original wc":(["cutting":6,]),"quality":2,"auto critical":({"electricity A",}),"type":"axe","ac":(["infernal":2,"fire":2,"cold":2,"disruption":2,"stress":2,"unholy":2,"crushing":2,"cutting":2,"strike":2,"vacuum":2,"plasma":2,"impact":2,"impaling":2,"holy":2,"aether":2,"electricity":2,]),"verb":"hack","wc":(["cutting":6,]),"short desc":"small hand axe","decay rate":1000,"parry bonus":50,"hit bonus":50,"throwable":1,])

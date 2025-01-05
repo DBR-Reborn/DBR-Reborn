@@ -1,0 +1,7 @@
+#/d/damned/virtual/studded-leather-vest.armour.c
+encumbrance 70
+props (["material_name":"Huge troll","value":60,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"leather","extra long":({"Crafted by: Maker with A Level [26] Huge troll leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_malsa_sen_zora_maker":0,"progress inscribe_malsa_bonnes_maker":0,])
+true_name "studded leather vest"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Huge troll"
+armour_save (["short desc":"A studded leather vest","ac":(["infernal":330,"disruption":331,"stress":338,"crushing":347,"unholy":333,"cutting":354,"vacuum":337,"plasma":333,"impaling":352,"holy":329,"cold":335,"fire":341,"strike":345,"impact":335,"electricity":342,"aether":334,]),])

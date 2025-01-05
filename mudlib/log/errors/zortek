@@ -1,0 +1,919 @@
+/wizards/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/virtual/server.c line 35: Warning: Unused local variable 'obj' before the end of line
+/wizards/zortek/virtual/ztest_server.c line 262: Warning: Unused local variable 'wibble' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/virtual/server.c line 35: Warning: Unused local variable 'obj' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/virtual/server.c line 35: Warning: Unused local variable 'obj' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/pet/erines_pet.c line 37: Warning: Unused local variable 'tmp' before the end of line
+/wizards/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/virtual/server.c line 35: Warning: Unused local variable 'obj' before the end of line
+/wizards/zortek/virtual/ztest_server.c line 262: Warning: Unused local variable 'wibble' before the end of line
+/wizards/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/virtual/server.c line 35: Warning: Unused local variable 'obj' before the end of line
+/wizards/zortek/virtual/ztest_server.c line 262: Warning: Unused local variable 'wibble' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/virtual/server.c line 35: Warning: Unused local variable 'obj' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/d/zortek/canyon/mon/quest1.c line 204: Warning: Unused local variable 'what' before the end of line
+/wizards/zortek/obj/recall_ob.c line 5: Warning: Redeclaration of global variable 'creator'. before  recall_dest;

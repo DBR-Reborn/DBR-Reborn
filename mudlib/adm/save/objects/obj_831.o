@@ -1,0 +1,7 @@
+#/d/damned/virtual/tonfa_6.weapon.c
+encumbrance 25
+props (["material_name":"abachi","brittle":27,"runes":({"xen mora","malsa xen",}),"progress inscribe_xen_mora_torm":0,"value":622,"extra long":({"Crafted by: Torm with A wooden board of abachi [56]","A %^CYAN%^Xen Mora%^RESET%^ rune is inscribed on the weapon.","A %^BLUE%^%^BOLD%^Malsa Xen%^RESET%^ rune is inscribed on the weapon.",}),"material_type":"wood","progress inscribe_malsa_xen_torm":0,])
+true_name "tonfa"
+creator "/d/damned/virtual/weapon_server"
+material "/wood/abachi"
+__Weapon (["original wc":(["impact":195,"impaling":12,"stress":249,"crushing":10,"electricity":249,"aether":100,]),"quality":6,"type":"melee","ac":(["infernal":5,"fire":5,"cold":5,"disruption":5,"stress":5,"unholy":5,"crushing":5,"cutting":5,"strike":5,"vacuum":5,"plasma":5,"impact":5,"impaling":5,"holy":5,"aether":5,"electricity":5,]),"verb":"whop","wc":(["impact":195,"impaling":106,"stress":249,"crushing":299,"electricity":249,"aether":100,]),"short desc":"tonfa","decay rate":37000,])

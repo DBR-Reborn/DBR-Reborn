@@ -1,0 +1,7 @@
+#/d/damned/virtual/great-helm.armour.c
+encumbrance 100
+props (["material_name":"mabril","value":45,"material_type":"metal","extra long":"level[40] mabril helm of impaling and impact protection","new desc":"level[40] mabril helm of impaling and impact protection",])
+true_name "great helm"
+creator "/d/damned/virtual/armour_server"
+material "/metal/mabril"
+armour_save (["short desc":"level[40] mabril helm of impaling and impact protection","ac":(["infernal":43,"disruption":43,"stress":43,"crushing":43,"unholy":43,"cutting":43,"vacuum":43,"plasma":43,"impaling":137,"holy":43,"cold":43,"fire":43,"strike":43,"impact":142,"electricity":43,"aether":43,]),])

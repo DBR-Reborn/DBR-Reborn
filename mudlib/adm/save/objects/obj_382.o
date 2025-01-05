@@ -1,0 +1,7 @@
+#/d/damned/virtual/brass-knuckles_6.weapon.c
+encumbrance 25
+props (["material_name":"mithril","value":622,"material_type":"metal","extra long":"level[89] mithril Brass Knuckles of electricity and impaling","new desc":"level[89] mithril Brass Knuckles of electricity and impaling",])
+true_name "brass knuckles"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/mithril"
+__Weapon (["original wc":(["impaling":335,"crushing":10,"electricity":315,]),"quality":6,"type":"melee","ac":(["infernal":5,"disruption":5,"stress":5,"crushing":5,"unholy":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"cold":5,"fire":5,"strike":5,"impact":5,"electricity":5,"aether":5,]),"verb":"punch","wc":(["impaling":335,"crushing":286,"electricity":315,]),"short desc":"level[89] mithril Brass Knuckles of electricity and impaling","decay rate":200,])

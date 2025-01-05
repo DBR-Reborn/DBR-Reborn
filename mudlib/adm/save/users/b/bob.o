@@ -1,0 +1,66 @@
+#/std/user.c
+encumbrance 500
+props (["physical resistance":(["default":10,"steel":10,"wood":10,"iron":10,]),"extra mp regen":0,"extra hp regen":0,"extra heart beat":50,"light":0,"xp mod":0,"hp advance":45,"melee damage":(["crushing":7,]),"natural ac":0,"handedness":"left hand","last reinc":1585929846,"dev point base":70,"enhance criticals":(["impact":-1,]),"reincarnate":1,"mp advance":4,"last read news":1735009312,"dev cost":-2,"magic resistance":10,"sp points":680,"old exp":0,"base mp regen":2,"ambidextry":0,"base hp regen":10,"combat color":"%^BOLD%^","dev points":1053366,])
+true_name "bob"
+creator "/adm/obj/login#1195"
+max_internal_encumbrance 2790
+player_data (["kills":({0,0,0,0,0,0,0,1,0,0,0,42,39,44,32,34,63,60,41,45,10,69,70,71,0,11,55,72,64,0,}),"general":(["alignment":0,"exp buffer":0,"sp":1,"max_hp":2319,"hp":2319,"max exp":2798475,"experience":2798481,"last adjust":1620482458,"quest points":0,"max_sp":770,]),])
+magic (["max points":3434,"points":3434,])
+severed ([])
+healing (["poisoning":0,"stuffed":0,"quenched":823,])
+body (["right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":579,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":773,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":1159,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":579,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":773,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":2319,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":773,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"weapon":0,"max_dam":579,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"weapon":0,"max_dam":579,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":773,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 4
+heal_rate 37
+char_class "child"
+skills (["magery":(["stat":"intelligence","last dev":({0,0,}),"level":500,]),"lumberjack":(["stat":"strength","last use":1593203502,"level":500,]),"control demon":(["stat":"intelligence","level":500,]),"chaos magic":(["stat":"intelligence","level":500,]),"prayer":(["stat":"wisdom","last dev":({0,0,}),"level":500,]),"worship of k'thach":(["stat":"wisdom","last dev":({0,0,}),"level":500,]),"compare":(["stat":"intelligence","level":500,]),"woodwork armour":(["stat":"dexterity","level":100,]),"melee":(["stat":"strength","last dev":({0,0,}),"max":0,"points":0,"level":500,]),"prepare corpse":(["stat":"intelligence","last dev":({0,0,}),"level":500,]),"lock smithing":(["stat":"dexterity","level":500,]),"carpentry":(["stat":"dexterity","last dev":({0,0,}),"level":50,]),"body alteration":(["stat":"wisdom","last dev":({0,0,}),"level":500,]),"necromancy":(["stat":"intelligence","last dev":({0,0,}),"level":500,]),"detect magic":(["stat":"intelligence","last dev":({0,0,}),"level":500,]),"prospecting":(["stat":"intelligence","last dev":({0,0,}),"last use":1593202631,"level":500,]),"blacksmith":(["stat":"dexterity","last dev":({0,0,}),"level":5,]),"vacid lore":(["stat":"intelligence","last dev":({0,0,}),"level":500,]),"conjuration":(["stat":"intelligence","last dev":({0,0,}),"level":500,]),"demonic preparation":(["stat":"intelligence","level":500,]),"repair weapon":(["stat":"dexterity","last dev":({0,0,}),"level":5,]),"woodwork weapon":(["stat":"dexterity","level":100,]),"dodge":(["stat":"dexterity","last dev":({0,0,}),"level":0,]),"parry":(["stat":"dexterity","last dev":({0,0,}),"level":0,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":800,]),"enchantment":(["stat":"intelligence","last dev":({0,0,}),"level":500,]),"nexus lore":(["stat":"intelligence","last dev":({0,0,}),"level":500,]),"plasma lore":(["stat":"intelligence","last dev":({0,0,}),"level":500,]),"elementalism":(["stat":"intelligence","last dev":({0,0,}),"level":500,]),"attack":(["stat":"dexterity","last dev":({0,0,}),"max":0,"points":0,"level":500,]),])
+spells (["summon demon lord":(["level":6,]),"undead dimension":(["level":6,]),"summon greater familiar":(["level":6,]),"elemental transformation":(["level":6,]),"lock enchantment":(["level":6,]),"healing rune":(["level":6,]),"divine might":(["level":6,]),"major puissance":(["level":6,]),"soul gate":(["level":6,]),"true heal":(["level":6,]),"stabilize familiar":(["level":6,]),"prepare spell":(["level":6,]),"true armour":(["level":6,]),"satisfy thirst":(["level":6,]),"animate dracolich":(["level":6,]),"shocking grasp":(["level":6,]),"bind demon lord":(["level":6,]),"blessing of knowledge":(["level":6,]),"lich form":(["level":6,]),"increase metabolism":(["last dev":({50,6,}),"level":6,]),"satisfy hunger":(["level":6,]),"blessing of agility":(["level":6,]),"bless weapon":(["level":6,]),"divine transformation":(["level":6,]),"summon elemental dragon":(["level":6,]),"transport undead":(["level":6,]),"true weapon":(["level":6,]),"greater elemental blade":(["level":6,]),"summon arch angel":(["level":6,]),])
+wimpydir "out"
+i 1
+j 1
+k -1
+num_attacks 1
+defendflag 1
+num_rounds 1
+skill 554
+env_var (["start":"/d/daybreak/room/db_square","TITLE":"%^RED%^$N","prompt":">","LINES":"80","TERM":"xterm-256","SCORE":"off",])
+money (["silver":43,"gold":2,"mithril":234,])
+invis 1
+ok_to_heal 51790556
+player_age 51790552
+sight_bonus 3
+gender "male"
+state "stand"
+stats (["wisdom":100,"dexterity":110,"strength":93,"constitution":98,"intelligence":45,"charisma":40,])
+languages (["goblinish":5,"common":10,"orcish":5,"dwarvish":10,])
+primary_language "common"
+language_exp (["goblinish":({12,1,}),"zebber":({3,0,}),"were-wolfish":({2,0,}),"orcish":({10,3,}),"gr'grr":({4,0,}),"pyrish":({1,0,}),"middle-english":({17,0,}),"stormspeak":({0,0,}),"undead-tongue":({3,0,}),"treefolk":({0,0,}),])
+xp_to_next_dev 2799459
+alias (["9":"hotcast *6 summon greater familiar","44":"hotcast *6 blessing of agility at $*","7":"hotcast *6 soul gate at $*","w":"west","99":"cast *6 summon demon lord","6":"cast *6 true heal at $*","5":"cast *6 shocking grasp at $*","u":"up","4":"cast *6 shocking grasp at $*","3":"cast *6 increase metabolism at $*","s":"south","2":"cast *6 divine transformation at $*","1":"cast *6 lich form at $*","0":"force alpha cast *6 animate nethergeist at corpse","kw":"kill watchman $*","--":"cast *6 undead dimension","bio":"biography","n":"north","-":"cast *6 transport undead at undead $*","22":"cast *6 satisfy thirst at $*","l":"look $*","k":"kill $*","i":"inventory","e":"east","d":"down","wp":"who -peoplw","00":"hotcast *6 summon elemental dragon at figurine $*","pp":"use prepare corpse at corpse $*","nw":"northwest","df":"drink fountain","exa":"look at $*","sw":"southwest","st":"status","33":"hotcast *6 blessing of knowledge at $*","000":"hotcast *6 summon arch angel at figurine $*","ne":"northeast","999":"cast *6 bind demon lord at demon $*","11":"cast *6 satisfy hunger at $*","gc":"get coins from corpse $*","ssk":"say shopkeeper, $*","66":"cast *6 healing rune","se":"southeast","sc":"score",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+nicknames (["wat":"watchman",])
+zexp 2798481
+znexp 3306354
+zlexp 507873
+znlevel 15
+zlevel 14
+auto_load ({})
+level 14
+verbose_moves 1
+birth 1579267075
+blocked ([])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "bob"
+email "test@gmail.com"
+ip "136.38.83.106"
+last_on "Tue Dec 24 03:01:52 2024"
+password "$6$YuSdkyhpHvn5UrU3$A9Ks9NnA5KOLgt.mZYrlPJdv790QMHTjJrBsYn2T/LUuziGNp0TS6jMBH7mAyxBVCqfb2H4F6xWm84MxGwzur0"
+cpath "/wizards/bob"
+race "dwarf"
+original_site "192.168.1.1"
+position "superuser"
+primary_start "/d/daybreak/room/db_square"
+quests ({})
+mysites ({})

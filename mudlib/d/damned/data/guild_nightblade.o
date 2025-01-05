@@ -1,0 +1,13 @@
+#/d/damned/guilds/join_rooms/nightblade_join.c
+props (["base mp regen":5,"guild mods":(["dexterity":7,"intelligence":7,]),"base hp regen":5,"light":-1,"mp advance":25,"hp advance":28,"indoors":1,])
+__Smells ([])
+__Listens ([])
+__Searches ([])
+destinations (["south":"/d/damned/guilds/nightblade/train_room","west":"/d/daybreak/room/dbns7",])
+invis_exits ([])
+pre_exit_func ([])
+post_exit_func ([])
+tracks ({})
+__Items (["blue moon":0,"sky":0,"ankh":0,"moon":0,"red moon":0,"green moon":0,"warzau":0,"sun":0,"luna":0,"moons":0,])
+guild_list (["dalinar":(["status":"member",]),"ofukayu":(["status":"member",]),"alisine":(["status":"member",]),"belmont":(["status":"member",]),"dyne":(["status":"member",]),"holyfook":(["status":"member",]),"moosh":(["status":"member",]),"ofukeme":(["status":"member",]),"bruss":(["status":"member",]),"gortz":(["status":"member",]),"exit":(["status":"member",]),"brexit":(["status":"member",]),"denethor":(["status":"member",]),"mythicos":(["status":"member",]),"faker":(["status":"member",]),"shalis":(["status":"member",]),])
+banish ([])

@@ -1,0 +1,7 @@
+#/d/damned/virtual/war-hammer_6.weapon.c
+encumbrance 310
+props (["material_name":"iysaughton","value":786,"material_type":"metal","extra long":"level[41] iysaughton war-hammer of vacuum and crushing","new desc":"level[41] iysaughton war-hammer of vacuum and crushing",])
+true_name "war hammer"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/iysaughton"
+__Weapon (["original wc":(["crushing":20,"vacuum":71,]),"quality":6,"type":"two handed blunt","ac":(["infernal":4,"disruption":4,"stress":4,"crushing":4,"unholy":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"cold":4,"fire":4,"strike":4,"impact":4,"electricity":4,"aether":4,]),"verb":"pound","wc":(["crushing":87,"vacuum":71,]),"short desc":"level[41] iysaughton war-hammer of vacuum and crushing","decay rate":200,"parry bonus":-25,])

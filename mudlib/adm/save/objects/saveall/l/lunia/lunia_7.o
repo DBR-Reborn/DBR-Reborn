@@ -1,0 +1,8 @@
+#/d/damned/virtual/chain-mail.armour
+#/d/damned/virtual/chain-mail.armour.c
+encumbrance 180
+props (["material_name":"iysaughton","value":150,"extra long":"level[40] iysaughton mail of impaling and plasma protection","material_type":"metal","new desc":"level[40] iysaughton mail of impaling and plasma protection",])
+true_name "chain mail"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iysaughton"
+armour_save (["short desc":"level[40] iysaughton mail of impaling and plasma protection","ac":(["infernal":74,"disruption":74,"stress":74,"unholy":74,"crushing":74,"cutting":74,"vacuum":74,"plasma":134,"impaling":154,"holy":74,"fire":74,"cold":74,"strike":74,"impact":74,"aether":74,"electricity":74,]),])

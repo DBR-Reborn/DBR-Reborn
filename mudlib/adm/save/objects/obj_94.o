@@ -1,0 +1,7 @@
+#/d/damned/virtual/large-shield.armour.c
+encumbrance 1
+props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"%^COLOR81%^Enchanted%^RESET%^ {shield}","material_name":"laen","true armour":1,"pow enchanter_mark_rihcter":0,"pow true_armour_rihcter":0,"value":75,"progress inscribe_malsa_bonnes_rihcter":0,"material_type":"metal","extra long":({"level[217] laen shield of plasma and impaling protection",({"Fortification: %^CYAN%^+100%","detect magic",}),"A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress extreme_fortification_rihcter":0,"progress inscribe_aldara_zet_rihcter":0,"progress true_armour_rihcter":0,"pow extreme_fortification_rihcter":0,"progress enchanter_mark_rihcter":0,"enchantment":100,"progress inscribe_malsa_sen_zora_rihcter":0,])
+true_name "large shield"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-5,"short desc":"%^COLOR81%^Enchanted%^RESET%^ {shield}","ac":(["infernal":843,"disruption":843,"stress":843,"unholy":843,"crushing":852,"cutting":852,"vacuum":843,"plasma":4988,"impaling":4973,"holy":843,"fire":838,"cold":838,"strike":896,"impact":896,"aether":843,"electricity":838,]),])

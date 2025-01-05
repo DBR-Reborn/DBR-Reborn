@@ -1,0 +1,63 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":50,"sp points":0,"light":0,"old exp":10149,"melee damage":(["crushing":0,]),"last reinc":1680127510,"ambidextry":0,"handedness":"left hand","base mp regen":3,"dev point base":67,"base hp regen":3,"last read news":1680127510,"combat color":"%^BOLD%^","dev points":67,])
+true_name "asmerian"
+creator "/adm/obj/login#10271"
+max_internal_encumbrance 2550
+player_data (["kills":({21,}),"general":(["sp":1,"exp buffer":0,"alignment":0,"max_hp":138,"hp":138,"max exp":134,"experience":135,"last adjust":1678821002,"max_sp":630,]),])
+magic (["max points":150,"points":36,])
+severed ([])
+healing ([])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":69,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":34,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":34,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":138,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":34,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":34,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 4
+heal_rate 1
+char_class "child"
+skills (["trade lore":(["stat":"charisma","level":5,]),"melee":(["max":0,"points":0,"level":0,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":5,]),])
+spells ([])
+wimpydir "out"
+protection 2
+hits 8
+i 1
+j 1
+k 2
+num_attacks 1
+x 17
+num_rounds 1
+skill 37
+env_var (["start":"/d/standard/square","TITLE":"Novice $N the Gnome","LINES":"70","TERM":"xterm-256","SCORE":"on",])
+money ([])
+ok_to_heal 2182
+player_age 2180
+sight_bonus 4
+gender "male"
+state "stand"
+stats (["wisdom":70,"dexterity":90,"intelligence":105,"constitution":95,"strength":85,"charisma":45,])
+languages (["common":10,"grken":10,])
+primary_language "grken"
+xp_to_next_dev 259
+alias (["n":"north","bio":"biography","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","exa":"look at $*","sw":"southwest","e":"east","u":"up","d":"down","se":"southeast","s":"south",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+zexp 135
+znexp 4999
+zlexp 4864
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+ghost 1
+verbose_moves 1
+birth 1677702035
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Ryan Salter"
+email "salterryanjr@gmail.com"
+ip "108.63.137.198"
+last_on "Wed Mar 29 22:05:10 2023"
+password "$6$FEArHGaVDrAgC5ki$k17YVswtOdixltjLmX4hZXHdwNR53GWrBZ1DVaktSN7kozZzNnXuzmxFYp5gfZNmWBgj23SLCVdHKX9O54FIW0"
+race "gnome"
+original_site "159.203.67.128"
+position "player"
+primary_start "/d/newbieville/rooms/newbie4"
+quests ({})

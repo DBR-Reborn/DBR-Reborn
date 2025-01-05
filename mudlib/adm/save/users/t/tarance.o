@@ -1,0 +1,64 @@
+#/std/user.c
+encumbrance 500
+props (["xp mod":0,"light":0,"hp advance":38,"melee damage":(["crushing":0,]),"handedness":"left hand","last reinc":1667540258,"dev point base":74,"mp advance":18,"last read news":1668809481,"allow_over_max":0,"old exp":0,"sp points":14,"base mp regen":9,"ambidextry":0,"base hp regen":21,"luck":5,"combat color":"%^BOLD%^","dev points":1963,])
+true_name "tarance"
+creator "/adm/obj/login#351030"
+max_internal_encumbrance 2310
+player_data (["kills":({21,0,1,0,0,59,27,26,67,56,52,51,16,25,66,23,68,65,126,129,127,128,138,137,24,42,74,102,104,105,29,30,}),"general":(["alignment":4,"exp buffer":0,"sp":1,"max_hp":916,"hp":1030,"max exp":3316873,"experience":3316874,"last adjust":1668804470,"max_sp":931,]),])
+magic (["max points":334,"points":334,])
+severed ([])
+healing (["quenched":900,"stuffed":870,])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":458,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"robe","metal head","leather head",}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":305,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"robe","metal legs","metal torso",}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":229,"weapons":0,"ac":0,"limb_ref":"","armour":({"robe","metal torso","wood foots",}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":305,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"robe","metal arm","metal torso",}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":229,"weapons":0,"ac":0,"limb_ref":"","armour":({"robe","metal torso","wood foots",}),]),"left leg":(["crippled":0,"damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":305,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"robe","metal legs","metal torso",}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":916,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"robe","metal torso",}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":229,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({"robe","metal torso","metal hand",}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":305,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"robe","metal arm","metal torso",}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({,,,,}),"max_dam":229,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"robe","metal torso","metal hand",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 80
+char_class "thief"
+skills (["magery":(["stat":"intelligence","last dev":({15,2,}),"level":46,]),"dance of daggers":(["stat":"dexterity","last dev":({14,3,}),"last use":1668804477,"level":73,]),"poison lore":(["stat":"intelligence","last dev":({14,3,}),"level":44,]),"reverse stroke":(["stat":"dexterity","last dev":({14,1,}),"level":5,]),"balance weapon":(["stat":"dexterity","last dev":({14,1,}),"level":5,]),"pick locks":(["stat":"dexterity","last dev":({14,1,}),"level":39,]),"steal":(["stat":"dexterity","last dev":({14,1,}),"level":44,]),"pick pocket":(["stat":"dexterity","last dev":({14,1,}),"level":48,]),"consider lock":(["stat":"dexterity","last dev":({14,1,}),"level":42,]),"back stab":(["stat":"dexterity","last dev":({14,3,}),"level":60,]),"fast attack":(["stat":"constitution","last dev":({15,1,}),"last use":1668804461,"level":5,]),"disguise":(["stat":"dexterity","last dev":({11,1,}),"level":10,]),"detect trap":(["stat":"intelligence","last dev":({14,1,}),"level":36,]),"dual attack":(["stat":"dexterity","last dev":({14,1,}),"level":5,]),"repair weapon":(["stat":"dexterity","last dev":({14,2,}),"level":69,]),"stalk":(["stat":"dexterity","last dev":({14,1,}),"level":25,]),"swimming":(["stat":"constitution","last dev":({14,2,}),"level":69,]),"resist stun":(["stat":"constitution","last dev":({14,1,}),"level":5,]),"engrave":(["stat":"dexterity","last dev":({14,2,}),"level":46,]),"stealth":(["stat":"dexterity","last dev":({14,1,}),"level":50,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"invisibility art":(["stat":"dexterity","last dev":({14,2,}),"level":30,]),"knife":(["stat":"dexterity","last dev":({14,4,}),"level":90,]),"body alteration":(["stat":"wisdom","last dev":({15,2,}),"level":30,]),"peek":(["stat":"dexterity","last dev":({14,1,}),"level":20,]),"perception":(["stat":"intelligence","last dev":({14,2,}),"level":69,]),"whirlwind attack":(["stat":"constitution","last dev":({14,1,}),"last use":1668804469,"level":5,]),"hide in shadows":(["stat":"dexterity","last dev":({14,1,}),"level":52,]),"offhand training":(["stat":"dexterity","last dev":({14,2,}),"level":10,]),"dodge":(["stat":"dexterity","last dev":({14,4,}),"level":82,]),"stab":(["stat":"dexterity","last dev":({14,2,}),"last use":1667600442,"level":30,]),"parry":(["stat":"dexterity","last dev":({14,4,}),"level":81,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"attack":(["stat":"dexterity","last dev":({14,4,}),"max":0,"points":0,"level":89,]),])
+spells (["alter visage":(["last dev":({11,1,}),"level":1,]),"haste":(["last dev":({12,1,}),"level":1,]),"transport":(["last dev":({15,1,}),"level":1,]),"scry":(["last dev":({13,1,}),"level":2,]),"iron will":(["last dev":({14,1,}),"level":3,]),"clairvoyance":(["last dev":({12,1,}),"level":3,]),"dark vision":(["last dev":({12,1,}),"level":1,]),"stun blade":(["last dev":({12,1,}),"level":2,]),"animal transformation":(["last dev":({11,1,}),"level":1,]),])
+wimpydir "out"
+protection 1
+hits 4
+i 1
+j 2
+k 7
+num_attacks 1
+x 69
+num_rounds 1
+skill 194
+env_var (["start":"/d/damned/guilds/fighter/train_room","TITLE":"Dark Dagger $N the Halfling","LINES":"70","SCORE":"on","TERM":"unknown",])
+money (["silver":35035,"gold":7710,"copper":3,])
+ok_to_heal 37694
+player_age 37688
+sight_bonus 2
+gender "male"
+state "stand"
+stats (["wisdom":50,"dexterity":133,"strength":77,"constitution":103,"intelligence":55,"charisma":51,])
+languages (["goblinish":4,"common":10,"pix":10,"elfish":3,])
+primary_language "common"
+language_exp (["ratish":({5,0,}),"goblinish":({13,0,}),"elfish":({2,0,}),"catfolk":({4,0,}),])
+xp_to_next_dev 3316875
+alias (["nw":"northwest","cbwa":"say healer, boa tarance","dg":"kill goblin","dwd":"use dance of daggers","wg":"open hatch","w":"west","sw":"southwest","exa":"look at $*","u":"up","wg2":"open hatch2","s":"south","awf":"say healer, aof tarance","ev":"enter","bio":"biography","n":"north","sbwa":"say healer, boa tarance","req":"use repair weapon at dagger","l":"look $*","ne":"northeast","sev":"say healer, enlarge tarance","eq":"equip","asq":"aspells","i":"inventory","qs":"plank","e":"east","sdv":"say healer, dm tarance","ga":"say healer, ha tarance","se":"southeast","d":"down","sdt":"say healer, dt tarance","ssg":"say healer, sh tarance",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+zexp 3316874
+znexp 4611175
+zlexp 1294301
+znlevel 16
+zlevel 15
+auto_load ({})
+level 15
+birth 1667540258
+blocked ([])
+exp_log ([1667590903:24001,1667591150:72001,1667591021:24001,1667566235:1191,])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "Bill"
+email "ardvarq2000@gmail.com"
+ip "184.20.215.150"
+last_on "Fri Nov 18 22:11:21 2022"
+password "$6$zW5tzpCHWRs/DhZC$jmbvYxIcqD58M9NHe1nltIIYtUsbe799xsMxKJKMp3O.2n6GjGkw0zOvUZ0Qb6iKZ5scRXJA5f9OmzsiaL2kb."
+race "halfling"
+original_site "172.243.79.9"
+position "player"
+primary_start "/d/daybreak/room/db_square"
+quests ({})

@@ -1,0 +1,60 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":25,"extra hp regen":25,"old exp":10149,"light":0,"sp points":0,"xp mod":-15,"hp advance":40,"melee damage":(["cutting":5,]),"natural ac":4,"base mp regen":4,"handedness":"right hand","ambidextry":0,"last reinc":1667005447,"base hp regen":10,"dev point base":71,"mp advance":18,"combat color":"%^BOLD%^","last read news":1667005447,"dev points":71,])
+true_name "klaw"
+creator "/adm/obj/login#634510"
+max_internal_encumbrance 3780
+player_data (["kills":({118,}),"general":(["alignment":2,"max exp":96,"exp buffer":0,"sp":1,"experience":97,"last adjust":1667006445,"max_hp":150,"max_sp":0,"hp":150,]),])
+magic (["max points":96,"points":21,])
+severed ([])
+healing ([])
+body (["head":(["damage":0,"armour_ob":({}),"max_dam":75,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":50,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":37,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":50,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":37,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"torso":(["damage":0,"armour_ob":({}),"max_dam":150,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":50,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":37,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right wing":(["damage":0,"armour_ob":({}),"max_dam":50,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":37,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":50,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left wing":(["damage":0,"armour_ob":({}),"max_dam":50,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"head","right leg","right foot","left arm","left foot","left leg","torso","right hand","right wing","right arm","left hand","left wing",})
+all_my_fingers 5
+heal_rate 4
+char_class "tinker"
+skills (["trade lore":(["stat":"charisma","level":5,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":5,]),"melee":(["max":0,"points":0,"level":0,]),])
+spells ([])
+wimpydir "out"
+protection 40
+hits 1
+i 1
+j 1
+k 2
+num_attacks 1
+x 9
+num_rounds 1
+skill 37
+env_var (["start":"/d/standard/square","TITLE":"Novice $N the Gromek","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 2001
+player_age 2000
+sight_bonus 3
+gender "male"
+state "stand"
+stats (["wisdom":60,"dexterity":105,"strength":126,"constitution":110,"intelligence":60,"charisma":31,])
+languages (["draconian":10,"common":10,])
+primary_language "draconian"
+xp_to_next_dev 261
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+ghost 1
+birth 1667005447
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "@yahoo.com"
+ip "68.41.203.137"
+last_on "Sat Oct 29 01:04:07 2022"
+password "$6$4Nf7lO8qXEzjz69k$c7pM850Ayu/QonTcgUp3DyNbF.orh.uJJDTMtoBLKeAzOalzCVVCDEU0eFabpLavu24mxj6WbkDZz09jNaODv1"
+race "gromek"
+original_site "68.41.203.137"
+position "player"
+quests ({})

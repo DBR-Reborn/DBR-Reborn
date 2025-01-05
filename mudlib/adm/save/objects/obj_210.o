@@ -1,0 +1,7 @@
+#/d/damned/virtual/wing-guards.armour.c
+encumbrance 70
+props (["runes":({"malsa sen zora","malsa bonnes",}),"value":4240,"extra long":({"Smithed by: Nawara with laen [100] armour blank","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","progress inscribe_malsa_sen_zora_nawara":0,"new desc":"%^B_BLUE%^%^RESET%^ {wing guards}","material_name":"laen","progress inscribe_malsa_bonnes_nawara":0,"progress engrave_nawara":0,"progress enchanter_mark_nawara":0,"pow enchanter_mark_nawara":0,"progress engrave_angelica":0,])
+true_name "wing guards"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"%^B_BLUE%^%^RESET%^ {wing guards}","ac":(["infernal":546,"disruption":591,"stress":547,"crushing":550,"unholy":583,"cutting":550,"vacuum":565,"plasma":599,"impaling":593,"holy":606,"cold":581,"fire":609,"strike":579,"impact":593,"electricity":568,"aether":578,]),])

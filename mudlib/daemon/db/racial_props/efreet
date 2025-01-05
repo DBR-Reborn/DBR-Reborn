@@ -1,0 +1,11 @@
+melee damage:::(["fire" : 15])
+innate spells:::(["lesser elemental bolt":1])
+enhance criticals:::(["fire":-1, "cold":1])
+natural ac:::5
+magic resistance:::10
+innate skills:::(["fire lore":20, "elementalism":10])
+xp mod:::-45
+extra mp regen:::20
+extra hp regen:::5
+flying:::1
+light:::5

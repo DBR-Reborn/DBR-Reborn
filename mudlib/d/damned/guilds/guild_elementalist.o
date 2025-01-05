@@ -1,0 +1,13 @@
+#/d/damned/guilds/join_rooms/elementalist_join.c
+props (["base mp regen":15,"guild mods":(["intelligence":10,]),"base hp regen":3,"light":2,"mp advance":50,"hp advance":15,"indoors":1,])
+__Smells ([])
+__Listens ([])
+__Searches ([])
+destinations (["south":"/d/damned/guilds/elementalist/ele_train","east":"/d/daybreak/room/dbvl3",])
+invis_exits ([])
+pre_exit_func ([])
+post_exit_func ([])
+tracks ({})
+__Items (["items":"They are very valuable, but well protected.","magi":"Several of them wear ornate robes and jewelry.","blue moon":,"sky":,"ankh":,"moon":,"red moon":,"sun":,"warzau":,"green moon":,"moons":,"luna":,])
+guild_list (["yasmine":(["status":"member",]),"ceinna":(["status":"member",]),"nephele":(["status":"member",]),"zuurk":(["privs":({"treasure",}),"status":"member",]),"magic":(["status":"member",]),"liralindrielle":(["status":"member",]),"elena":(["privs":({"treasury",}),"status":"member",]),"argon":(["status":"member",]),"arythella":(["status":"member",]),"xelcor":(["status":"member",]),"hawpun":(["status":"allow train",]),"vindak":(["status":"member",]),])
+banish ([])

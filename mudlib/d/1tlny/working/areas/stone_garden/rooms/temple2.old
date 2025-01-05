@@ -1,0 +1,35 @@
+#include <daemons.h>
+#include <stone_garden.h>
+
+inherit "/std/vault";
+
+private int open;
+
+
+void create() {
+   ::create();
+   set_property("indoors",1);
+   set_property("light",3);
+   add_exit("/wizards/shade/stone_garden/rooms/small_hut", "stairs");
+   add_exit("temple4", "southwest");
+  add_pre_exit_function("stairs","chk_stairs");
+   add_exit("temple3","east");
+   set("short","Entrance to Stone Rose Temple");
+   set("long",
+  "This is the entrance to the Stone Rose Temple. Many passages go off in "
+  "various directions, and dimly lit torches line the walls. A sudden chill "
+  "runs along the stairwell. "
+  "There is a large iron door at the top of the stairs.");
+  add_item("vault door", "This is a large vault door.\n");
+}
+
+
+int chk_stairs(){
+  if((present("Temple Guard") && this_player()->is_player())
+  || (!this_player()->is_player() && !this_player()->id("guard")))
+ {
+  write("The temple guard blocks your retreat north up the stairs.");
+  return 0;
+ }
+else return 1;
+}

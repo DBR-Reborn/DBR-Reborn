@@ -1,0 +1,61 @@
+Map of current Daybreak Ridge created by TLNY 1/19/2020
+
+Hidden Guilds (This means it requires deep searching to find these guilds)
+-Thief
+-Nethermancer	
+-Assassin Guild
+-Necromancer Guild - located in Kuril
+
+G = Guild										
+S = Shopkeeper or other Sales rooms					
+M = Exit Mountain									
+I = Inkeeper										
+X = Broken or working on (need to fix)						
+
+G1=     Nightblade Guild
+G2=	Paladin Guild
+G3=	Priest Guild
+G4=	Fighter Guild
+G5=	Elementalist Guild
+G6=	Chaotic Lord
+G7=	Archmage Guild
+G8=	Sword-Mage Guild
+G9=	Enchanter Guild
+G10=    Tinker Guild
+G11=    Secret Guilds
+G12=    Dark-Paladin Guild    
+G13=    Elementa-Mage Guild *GUILD BROKEN not on map*
+G14=	War-Priest Guild
+G15=    Alchemist Guild *NEW Work in process*
+G16=    Mercenary Guild *NEW Work in process*
+G17=    Shaman Guild *New Work in process
+
+ 
+                M 
+                |      
+                0   
+                |  
+                0          S  
+                |          |  
+         G12-0 -0  G10-0-0-0     
+             |  |      |   |          
+             0  0-G1 S-0-0-0-G9         
+            /   |      |   |     
+         G11    0      S   0-G15       
+                |          |      
+     G14 -C     0        S-0-S   
+      |   |     |          |                 
+      0-0-0-0-G3|          0-S    
+      |   | |   0          |                  
+     G2   | S   |          |         
+  M-0-0-0-0-0- -T- --0-0-0-0-0-M    
+    |           |          |          
+    0-G15       0          0     
+    |           |          |  
+ G4-0-S  G6     0-I-S      0    
+    |     |     | |        | 
+ G5-0-0-0-0-0-S 0 I    G17 0-G8   
+    |           |        | | 
+   G13          M        0-0   
+                         | |  
+                        G7 S   

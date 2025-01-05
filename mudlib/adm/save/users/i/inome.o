@@ -1,0 +1,62 @@
+#/std/user.c
+encumbrance 500
+props (["extra hp regen":20,"light":0,"xp mod":-30,"natural ac":6,"melee damage":(["crushing":15,]),"last reinc":1669475696,"handedness":"left hand","dev point base":72,"last read news":1670698581,"sp points":0,"old exp":0,"ambidextry":0,"base mp regen":4,"base hp regen":7,"combat color":"%^BOLD%^","dev points":935,])
+true_name "inome"
+creator "/adm/obj/login#8"
+max_internal_encumbrance 3600
+player_data (["kills":({21,}),"general":(["exp buffer":0,"sp":1,"alignment":0,"max_hp":194,"hp":194,"max exp":10269,"experience":10270,"last adjust":1669476298,"max_sp":616,]),])
+magic (["max points":126,"points":125,])
+severed ([])
+healing ([])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":97,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"metal head","chain head",}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":64,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"leather legs",}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":48,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":64,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm",}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":48,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":64,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"leather legs",}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":194,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"leather torso",}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":48,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":64,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"metal arm",}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":48,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 6
+heal_rate 2
+char_class "child"
+skills (["trade lore":(["stat":"charisma","level":5,]),"melee":(["max":0,"points":0,"level":0,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":5,]),])
+spells ([])
+wimpydir "out"
+protection 2
+hits 9
+i 1
+j 1
+k 3
+num_attacks 1
+x 24
+num_rounds 1
+skill 34
+env_var (["start":"/d/daybreak/room/dbew4","TITLE":"Novice $N the Hill-giant","LINES":"70","SCORE":"off","TERM":"unknown",])
+money (["silver":10,])
+ok_to_heal 6802
+player_age 6792
+sight_bonus 1
+gender "male"
+state "stand"
+stats (["wisdom":62,"dexterity":88,"intelligence":67,"constitution":115,"strength":120,"charisma":45,])
+languages (["common":10,"mountainspeak":10,])
+primary_language "mountainspeak"
+xp_to_next_dev 10508
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+zexp 10270
+znexp 24999
+zlexp 14729
+znlevel 4
+zlevel 3
+auto_load ({})
+level 3
+verbose_moves 1
+birth 1668888632
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "mudregaddr1234@mailnesia.com"
+ip "158.101.222.175"
+last_on "Sat Dec 10 18:56:21 2022"
+password "$6$LxW54kuJCkH8LM0F$bfgcRM.rR1BIohUKyDMDjh0COeaAkPV39uAF9OAO1Qg0vVthUekPZ4LZsLsgPLnGx4fej6WlbT66o/tTrmK5t/"
+race "hill-giant"
+original_site "158.101.222.175"
+position "player"
+primary_start "/d/daybreak/room/dbew4"
+quests ({})

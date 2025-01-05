@@ -1,0 +1,51 @@
+#/std/user.c
+encumbrance 500
+props (["xp mod":0,"light":0,"sp points":0,"old exp":0,"hp advance":40,"melee damage":(["crushing":5,]),"base mp regen":6,"handedness":"right hand","ambidextry":0,"last reinc":1665358196,"base hp regen":13,"dev point base":69,"mp advance":18,"combat color":"%^BOLD%^","last read news":1665358196,"dev points":30,"dev cost":-2,])
+true_name "lore"
+creator "/adm/obj/login#262526"
+max_internal_encumbrance 3750
+player_data (["general":(["max exp":10148,"exp buffer":0,"sp":1,"experience":10149,"max_hp":279,"max_sp":0,"hp":279,]),])
+magic (["max points":98,"points":41,])
+severed ([])
+healing ([])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":279,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":93,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":69,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":93,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":139,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":69,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":69,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":93,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":69,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":93,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 4
+char_class "tinker"
+skills (["blacksmith":(["stat":"dexterity","last dev":({3,3,}),"level":30,]),"skin corpse":(["stat":"strength","last dev":({3,2,}),"level":10,]),"repair weapon":(["stat":"dexterity","last dev":({3,1,}),"level":5,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"swimming":(["stat":"constitution","last dev":({3,1,}),"level":15,]),"carpentry":(["stat":"dexterity","last dev":({3,1,}),"level":30,]),"two handed blunt":(["stat":"dexterity","last dev":({3,4,}),"level":39,]),"repair wood weapon":(["stat":"dexterity","last dev":({3,1,}),"level":5,]),"parry":(["stat":"dexterity","last dev":({3,3,}),"level":30,]),"trade lore":(["stat":"charisma","last dev":({2,1,}),"level":10,]),"perception":(["stat":"intelligence","last dev":({3,2,}),"level":25,]),"attack":(["stat":"dexterity","last dev":({3,3,}),"max":0,"points":0,"level":33,]),])
+spells ([])
+wimpydir "out"
+env_var (["start":"/d/standard/square","TITLE":"Novice $N the High-man","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money ([])
+ok_to_heal 903
+player_age 896
+gender "male"
+state "stand"
+stats (["wisdom":35,"dexterity":110,"strength":125,"constitution":111,"intelligence":35,"charisma":46,])
+languages (["common":10,"middle-english":10,])
+primary_language "middle-english"
+xp_to_next_dev 10398
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south","tthb":"train two handed blunt",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 3
+ghost 1
+verbose_moves 1
+birth 1665358196
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "GreenTNT"
+email "idsbinney@gmail.com"
+ip "193.37.254.67"
+last_on "Sun Oct  9 23:29:56 2022"
+password "$6$YLATnyfOeDA3jENO$CPaDwRYCbXSZx3H8ZiLqpBf0.eAqJ7UZ.vACboewbdzvUWoAQA.o/RBM3KnzssWdC57AbqZcqnwvx3hY2q6pr/"
+race "high-man"
+original_site "193.37.254.67"
+position "player"
+quests ({})

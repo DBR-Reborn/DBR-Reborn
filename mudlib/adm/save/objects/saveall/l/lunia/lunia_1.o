@@ -1,0 +1,8 @@
+#/d/damned/virtual/gauntlet.armour
+#/d/damned/virtual/gauntlet.armour.c
+encumbrance 6
+props (["material_name":"steel","value":10,"extra long":"level[16] steel Gauntlet","material_type":"metal","new desc":"level[16] steel Gauntlet",])
+true_name "gauntlet"
+creator "/d/damned/virtual/armour_server"
+material "/metal/steel"
+armour_save (["short desc":"level[16] steel Gauntlet","ac":(["infernal":42,"disruption":42,"stress":42,"unholy":42,"crushing":42,"cutting":42,"vacuum":42,"plasma":42,"impaling":42,"holy":42,"fire":42,"cold":42,"strike":42,"impact":42,"aether":42,"electricity":42,]),])

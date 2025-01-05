@@ -1,0 +1,7 @@
+#/d/damned/virtual/gauntlet.armour.c
+encumbrance 2
+props (["material_name":"steel","progress inscribe_aldara_zet_celthric":0,"progress inscribe_malsa_bonnes_celthric":0,"value":14,"runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"extra long":({"Smithed by: Celthric with A steel armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","progress inscribe_malsa_sen_zora_celthric":0,])
+true_name "gauntlet"
+creator "/d/damned/virtual/armour_server"
+material "/metal/steel"
+armour_save (["short desc":"A gauntlet","ac":(["infernal":243,"disruption":243,"stress":243,"unholy":243,"crushing":265,"cutting":265,"vacuum":243,"plasma":245,"impaling":265,"holy":243,"fire":246,"cold":246,"strike":261,"impact":261,"aether":243,"electricity":246,]),])

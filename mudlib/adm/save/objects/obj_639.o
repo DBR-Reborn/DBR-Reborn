@@ -1,0 +1,7 @@
+#/d/damned/virtual/great-helm.armour.c
+encumbrance 100
+props (["material_name":"mithril","value":45,"extra long":"level[44] mithril helm of electricity and impaling protection","material_type":"metal","new desc":"level[44] mithril helm of electricity and impaling protection",])
+true_name "great helm"
+creator "/d/damned/virtual/armour_server"
+material "/metal/mithril"
+armour_save (["short desc":"level[44] mithril helm of electricity and impaling protection","ac":(["infernal":65,"disruption":65,"stress":65,"unholy":65,"crushing":65,"cutting":65,"vacuum":65,"plasma":65,"impaling":150,"holy":65,"fire":65,"cold":65,"strike":65,"impact":65,"aether":65,"electricity":140,]),])

@@ -1,0 +1,9 @@
+#/std/obj/misc/h_rune.c
+props (["pow preserve_rune_azazel":0,"progress preserve_rune_azazel":0,"non-combat":1,"preserved":1,"can resist":1,])
+true_name "rune"
+creator "/std/spells/healing_rune#94899"
+register_idx 30
+caster "azazel"
+my_file "rune_0"
+non_active ({})
+level 6

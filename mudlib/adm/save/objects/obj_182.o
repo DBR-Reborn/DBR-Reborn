@@ -1,0 +1,7 @@
+#/d/damned/virtual/plate-greaves.armour.c
+encumbrance 117
+props (["pow master_fortification_baarich":0,"value":14895,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"material_type":"metal","extra long":({"Smithed by: Trent with davistone [28] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"pow true_armour_baarich":0,"progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,"material_name":"davistone","progress true_armour_baarich":0,"progress master_fortification_baarich":0,"true armour":1,"progress inscribe_malsa_bonnes_trent":0,"enchantment":70,])
+true_name "plate greaves"
+creator "/d/damned/virtual/armour_server"
+material "/metal/davistone"
+armour_save (["enhance critical":-4,"short desc":"A pair of plate greaves","ac":(["infernal":197,"disruption":197,"stress":197,"unholy":197,"crushing":235,"cutting":235,"vacuum":197,"plasma":199,"impaling":235,"holy":197,"fire":200,"cold":200,"strike":231,"impact":231,"aether":197,"electricity":200,]),])

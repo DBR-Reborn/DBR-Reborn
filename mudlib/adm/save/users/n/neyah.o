@@ -1,0 +1,64 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":40,"xp mod":-60,"light":0,"hp advance":15,"melee damage":(["crushing":5,]),"last reinc":1681959989,"handedness":"right hand","dev point base":66,"mp advance":50,"last read news":1726670547,"magic resistance":15,"sp points":14,"old exp":10149,"ambidextry":1,"base mp regen":26,"base hp regen":17,"combat color":"%^BOLD%^","dev points":670,])
+true_name "neyah"
+creator "/adm/obj/login#117669"
+max_internal_encumbrance 2100
+player_data (["kills":({118,21,135,136,139,143,18,19,20,155,42,1,2,181,146,176,178,154,102,104,105,107,}),"general":(["sp":1,"exp buffer":0,"alignment":32,"max_hp":426,"hp":426,"max exp":3521117,"experience":3521118,"last adjust":1682524477,"max_sp":770,]),])
+magic (["max points":1298,"points":1298,])
+severed ([])
+healing (["stuffed":195,"quenched":900,])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":213,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"robe","metal head","chain head",}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":142,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"robe","leather legs","metal legs",}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":106,"weapons":0,"ac":0,"limb_ref":"","armour":({"robe","leather foots",}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":142,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"robe","metal arm",}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":106,"weapons":0,"ac":0,"limb_ref":"","armour":({"robe","leather foots",}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":142,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"robe","leather legs","metal legs",}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":426,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"robe","leather torso",}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({,,,,}),"max_dam":106,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"robe","cloth hand","metal hand",}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":142,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"robe","metal arm",}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":106,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"robe","cloth hand",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 4
+heal_rate 53
+char_class "nethermancer"
+skills (["concentrate":(["stat":"intelligence","last dev":({15,1,}),"level":58,]),"minor nether arts":(["stat":"intelligence","last dev":({15,2,}),"level":63,]),"nether magic":(["stat":"intelligence","last dev":({15,3,}),"level":84,]),"melee":(["stat":"strength","last dev":({12,1,}),"max":0,"points":0,"level":5,]),"create lesser nexus":(["stat":"intelligence","last dev":({14,2,}),"level":54,]),"undead suggestion":(["stat":"intelligence","last dev":({14,3,}),"last use":1682463195,"level":60,]),"perception":(["stat":"intelligence","last dev":({11,2,}),"level":20,]),"detect magic":(["stat":"intelligence","last dev":({15,1,}),"level":46,]),"spell sense":(["stat":"intelligence","last dev":({15,1,}),"level":33,]),"prospecting":(["stat":"intelligence","last dev":({13,3,}),"level":25,]),"consider":(["stat":"intelligence","last dev":({5,1,}),"level":5,]),"minor nether erudition":(["stat":"intelligence","last dev":({15,3,}),"level":83,]),"orb manipulation":(["stat":"intelligence","last dev":({15,3,}),"level":84,]),"swimming":(["stat":"constitution","last dev":({15,1,}),"level":42,]),"focus casting":(["stat":"intelligence","last dev":({14,2,}),"level":52,]),"dodge":(["stat":"dexterity","last dev":({15,2,}),"level":67,]),"trade lore":(["stat":"charisma","last dev":({14,4,}),"level":64,]),"two handed staff":(["stat":"dexterity","last dev":({15,3,}),"level":80,]),"attack":(["stat":"dexterity","last dev":({15,3,}),"max":0,"points":0,"level":82,]),])
+spells (["rotted zombie infusion":(["last dev":({7,1,}),"level":6,]),"bone man infusion":(["last dev":({6,1,}),"level":6,]),"mold nether robe":(["last dev":({15,1,}),"level":6,]),"minor soul union":(["last dev":({8,1,}),"level":6,]),"nether gate":(["last dev":({15,1,}),"level":1,]),"mold nether staff":(["last dev":({14,1,}),"level":6,]),"blood hound infusion":(["last dev":({11,1,}),"level":6,]),"minor orb finalization":(["last dev":({6,1,}),"level":6,]),"ghost infusion":(["last dev":({15,1,}),"level":5,]),"minor undead creation":(["last dev":({6,1,}),"level":6,]),"minor orb sacrifice":(["last dev":({6,1,}),"level":6,]),])
+wimpydir "out"
+protection 10
+hits 7
+pois 47
+i 4
+j 1
+k 1
+num_attacks 4
+num_rounds 1
+skill 243
+env_var (["TITLE":"Bone Collector $N the Blood-elf","start":"/d/damned/guilds/nethermancer/treasury_room","LINES":"70","TERM":"unknown","SCORE":"on",])
+money (["silver":16891,"gold":2537,"copper":7542,"silver ":700,])
+ok_to_heal 499420
+player_age 499418
+sight_bonus 4
+gender "female"
+state "stand"
+stats (["wisdom":105,"dexterity":110,"intelligence":115,"constitution":90,"strength":70,"charisma":65,])
+languages (["ratish":5,"common":10,"blood-elfish":10,])
+primary_language "common"
+language_exp (["ratish":({0,5,}),"goblinish":({1,0,}),"wild-elfish":({0,0,}),"elvish":({2,0,}),])
+xp_to_next_dev 3522206
+alias (["n":"north","bio":"biography","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","exa":"look at $*","sw":"southwest","e":"east","u":"up","d":"down","se":"southeast","s":"south",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+zexp 3521118
+znexp 4611175
+zlexp 1090057
+znlevel 16
+zlevel 15
+auto_load ({})
+level 15
+birth 1681959989
+blocked ([])
+exp_log ([1682284119:24001,1682359180:34110,1682456691:34110,1682094290:5146,1682316064:34110,])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "Guil"
+email "gucalle12@gmail.com"
+ip "96.234.21.100"
+last_on "Wed Sep 18 14:42:27 2024"
+password "$6$FMZwRKIfTRxT.JlB$lDP8vIdIifIDLcZk9Yd5ScqM9kU9HBz.r..fhATu21jqbWvXQAF.fozkCCyYnpdX0VAZb8p9iDnVh2mYn1bmY0"
+race "blood-elf"
+original_site "108.53.40.203"
+position "player"
+primary_start "/d/areas/mansion/rooms/trail1"
+quests ({})

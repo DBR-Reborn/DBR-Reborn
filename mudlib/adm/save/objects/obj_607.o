@@ -1,0 +1,7 @@
+#/d/damned/virtual/brass-knuckles_5.weapon.c
+encumbrance 25
+props (["brittle":52,"progress master_puissance_okkita":0,"value":389,"material_type":"metal","extra long":({"level[19] catoetine Brass Knuckles",({"Accuracy: %^CYAN%^+40%","detect magic",}),({"Puissance: %^CYAN%^++70%","detect magic",}),({"This weapon has %^BOLD%^Bless Weapon%^RESET%^.","detect magic",}),}),"pow bless_weapon_yorik":0,"new desc":"level[19] catoetine Brass Knuckles","progress bless_weapon_yorik":0,"bless weapon":26,"material_name":"catoetine","progress major_accuracy_okkita":0,"pow major_accuracy_okkita":0,"pow master_puissance_okkita":0,"enchantment":70,"hit bonus":40,])
+true_name "brass knuckles"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/catoetine"
+__Weapon (["original wc":(["holy":115,"crushing":10,]),"quality":5,"type":"melee","ac":(["infernal":5,"disruption":5,"stress":5,"crushing":5,"unholy":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"cold":5,"fire":5,"strike":5,"impact":5,"electricity":5,"aether":5,]),"verb":"punch","wc":(["holy":351,"crushing":40,]),"short desc":"level[19] catoetine Brass Knuckles","decay rate":200,])

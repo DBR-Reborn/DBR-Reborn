@@ -1,0 +1,9 @@
+- Fix level xp quickly
+- Talk with Bob about remorting worth more, losing 160 levels is a lot to lose
+- /std/living.c examine do_healing function and integrate with query_state
+- Look at memory info and extend meminfo command with the top 20 biggest objects, something eats memory on hb too
+- Ask Bob about Forest area, marked lvl10-20 containing a lot of 1-10 npcs
+- Check why mines don't save
+- Check why the 'end' command doesn't reboot properly with specified time limit
+- Check gate rune for Julian, why does it transport people who it shouldn't transport, immunity list
+- weapons crafted from walnut will be iron

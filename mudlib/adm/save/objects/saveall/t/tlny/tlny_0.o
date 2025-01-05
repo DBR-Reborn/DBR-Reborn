@@ -1,0 +1,5 @@
+#/d/areas/goblin/items/spear.c
+encumbrance 50
+props (["brittle":62,"decay":500,"value":60,"extra long":({({"This weapon has %^BOLD%^%^BLUE%^Dark Weapon%^RESET%^.","detect magic",}),}),"material_type":"metal","progress dark_weapon_tlny":0,"dark weapon":62,"material_name":"iron","pow dark_weapon_tlny":0,])
+material "/metal/iron"
+__Weapon (["original wc":(["impaling":10,"unholy":39,]),"quality":2,"auto critical":({"unholy A","unholy A","unholy A",}),"type":"two handed polearm","poison":5,"verb":"thrust","wc":(["impaling":10,"unholy":987,]),"decay rate":200,"parry bonus":-5,])

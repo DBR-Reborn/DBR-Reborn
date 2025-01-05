@@ -1,0 +1,8 @@
+#/d/damned/virtual/studded-leather-glove.armour
+#/d/damned/virtual/studded-leather-glove.armour.c
+encumbrance 3
+props (["runes":({"malsa bonnes","malsa sen zora",}),"value":6,"material_type":"leather","extra long":({"Crafted by: Lore with A Level [29] Worker leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Absorption%^RESET%^ {studded glove}","material_name":"Worker","progress inscribe_malsa_sen_zora_lore":0,"progress engrave_lore":0,"progress inscribe_malsa_bonnes_lore":0,])
+true_name "studded leather glove"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Worker"
+armour_save (["short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Absorption%^RESET%^ {studded glove}","ac":(["infernal":142,"disruption":145,"stress":142,"unholy":143,"crushing":158,"cutting":162,"vacuum":148,"plasma":142,"impaling":152,"holy":150,"fire":149,"cold":158,"strike":172,"impact":168,"aether":142,"electricity":141,]),])

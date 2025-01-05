@@ -1,0 +1,8 @@
+#/d/damned/virtual/tabard.armour
+#/d/damned/virtual/tabard.armour.c
+encumbrance 1
+props (["progress engrave_singe":0,"progress inscribe_malsa_bonnes_singe":0,"runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"new desc":"%^B_BLUE%^War Priest%^RESET%^ {tabard}","progress engrave_inikhida":0,"material_name":"Infernal skeleton","true armour":1,"progress inscribe_malsa_sen_zora_singe":0,"progress engrave_aartos":0,"progress engrave_ceinna":0,"pow true_armour_upstart":0,"value":10,"extra long":({"Crafted by: Singe with A Level [99] Infernal skeleton leather","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress extreme_fortification_upstart":0,"progress enchanter_mark_okkita":0,"progress true_armour_upstart":0,"progress engrave_yorik":0,"pow extreme_fortification_upstart":0,"pow enchanter_mark_okkita":0,"progress inscribe_aldara_zet_singe":0,"enchantment":100,])
+true_name "tabard"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Infernal skeleton"
+armour_save (["enhance critical":-6,"short desc":"%^B_BLUE%^War Priest%^RESET%^ {tabard}","ac":(["infernal":697,"disruption":698,"stress":706,"crushing":741,"unholy":708,"cutting":739,"vacuum":698,"plasma":705,"impaling":730,"holy":706,"cold":728,"fire":730,"strike":721,"impact":740,"electricity":699,"aether":709,]),])

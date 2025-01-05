@@ -1,0 +1,8 @@
+#/d/damned/virtual/banded-mail.armour
+#/d/damned/virtual/banded-mail.armour.c
+encumbrance 100
+props (["progress true_armour_math":0,"progress bless_armour_magic":0,"value":125,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"metal","extra long":({"Smithed by: Maker with An iron armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress master_fortification_math":0,"pow true_armour_math":6,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"iron","enchantment":70,"pow bless_armour_magic":0,])
+true_name "banded mail"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iron"
+armour_save (["short desc":"A banded mail","ac":(["infernal":437,"fire":445,"cold":445,"disruption":437,"stress":437,"unholy":437,"crushing":453,"cutting":453,"strike":445,"vacuum":437,"plasma":442,"impact":445,"impaling":453,"holy":437,"aether":437,"electricity":445,]),])

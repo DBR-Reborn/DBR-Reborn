@@ -1,0 +1,8 @@
+#/d/damned/virtual/robe.armour
+#/d/damned/virtual/robe.armour.c
+encumbrance 100
+props (["value":10,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"leather","extra long":({"Crafted by: Maker with A Level [21] Sinister goblin leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress major_fortification_math":0,"progress master_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"Sinister goblin","pow major_fortification_math":0,"enchantment":70,])
+true_name "robe"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Sinister goblin"
+armour_save (["short desc":"A Robe","ac":(["infernal":302,"disruption":303,"stress":303,"unholy":302,"crushing":321,"cutting":323,"vacuum":300,"plasma":308,"impaling":315,"holy":302,"fire":309,"cold":305,"strike":316,"impact":317,"aether":303,"electricity":308,]),])

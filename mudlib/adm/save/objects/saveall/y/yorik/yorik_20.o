@@ -1,0 +1,8 @@
+#/std/diewarzau/obj/misc/power_stone.c
+encumbrance 5
+props (["value":200000,"pow activate_powerstone_nawara":0,"total casting":960,"progress activate_powerstone_nawara":0,])
+true_name "powerstone"
+creator "/d/daybreak/room/shop/magic_store"
+max_points 1000
+mp_left 1000
+activated 1

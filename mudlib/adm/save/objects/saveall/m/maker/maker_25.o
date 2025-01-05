@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-belt.armour
+#/d/damned/virtual/leather-belt.armour.c
+encumbrance 2
+props (["value":4,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"leather","extra long":({"Crafted by: Maker with A Level [20] Sinister goblin leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress master_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"Sinister goblin","enchantment":70,])
+true_name "leather belt"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Sinister goblin"
+armour_save (["short desc":"A nice leather belt","ac":(["infernal":335,"disruption":338,"stress":341,"unholy":339,"crushing":361,"cutting":361,"vacuum":341,"plasma":340,"impaling":352,"holy":335,"fire":354,"cold":350,"strike":351,"impact":354,"aether":338,"electricity":352,]),])

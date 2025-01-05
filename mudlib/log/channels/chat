@@ -1,0 +1,53 @@
+				%^RED%^Sat Sep 14 22:29:39 2024 **
+[%^CYAN%^chat%^RESET%^ : Yorik] Become a cleric to restore limbs haha.
+				%^RED%^Sat Sep 14 22:29:52 2024 **
+[%^CYAN%^chat%^RESET%^ : Azazel] i can heh
+				%^RED%^Sat Sep 14 22:30:12 2024 **
+[%^CYAN%^chat%^RESET%^ : Azazel] recall is a must for soloing
+				%^RED%^Sat Sep 14 22:30:48 2024 **
+[%^CYAN%^chat%^RESET%^ : Yorik] Well... your a gm. SO, that auto grants you recall abilities.
+				%^RED%^Sat Sep 14 22:31:18 2024 **
+[%^CYAN%^chat%^RESET%^ : Azazel] yeah its nice
+				%^RED%^Sat Sep 14 22:31:30 2024 **
+[%^CYAN%^chat%^RESET%^ : Azazel] are you a gm?
+				%^RED%^Sat Sep 14 22:31:38 2024 **
+[%^CYAN%^chat%^RESET%^ : Yorik] Yeah.
+				%^RED%^Sat Sep 14 22:31:50 2024 **
+[%^CYAN%^chat%^RESET%^ : Azazel] of wp?
+				%^RED%^Sat Sep 14 22:31:57 2024 **
+[%^CYAN%^chat%^RESET%^ : Yorik] Yep
+				%^RED%^Sat Sep 14 22:32:10 2024 **
+[%^CYAN%^chat%^RESET%^ : Azazel] nods
+				%^RED%^Sat Sep 14 22:32:52 2024 **
+[%^CYAN%^chat%^RESET%^ : Azazel] if i can get another eog ingot ill make you a staff				%^RED%^Fri Dec 20 15:48:46 2024 **
+[%^CYAN%^chat%^RESET%^ : Someone] I am ripping out current combat code and replacing and changing it Exepect possible bad things to happen
+				%^RED%^Fri Dec 20 17:34:37 2024 **
+[%^CYAN%^chat%^RESET%^ : Mazer] where do I find wine?
+				%^RED%^Fri Dec 20 17:34:53 2024 **
+[%^CYAN%^chat%^RESET%^ : Mazer] oh nm i think i found it
+				%^RED%^Fri Dec 20 17:59:45 2024 **
+[%^CYAN%^chat%^RESET%^ : Tlny] just a FYI major changes to combat and pet code went into place for those not reading discord changes
+				%^RED%^Fri Dec 20 18:00:02 2024 **
+[%^CYAN%^chat%^RESET%^ : Tlny] if you want to see all updates it's on my mud discord
+				%^RED%^Fri Dec 20 18:45:13 2024 **
+[%^CYAN%^chat%^RESET%^ : Azazel] yoour all in big trouble
+				%^RED%^Fri Dec 20 18:47:14 2024 **
+[%^CYAN%^chat%^RESET%^ : Tlny] what happened?
+				%^RED%^Fri Dec 20 18:47:36 2024 **
+[%^CYAN%^chat%^RESET%^ : Azazel] j/k happy holidays all
+				%^RED%^Fri Dec 20 18:48:42 2024 **
+[%^CYAN%^chat%^RESET%^ : Mazer] I've been a naughty little boy
+				%^RED%^Fri Dec 20 22:04:03 2024 **
+[%^CYAN%^chat%^RESET%^ : Tlny] New code change to skin corpse added if skin corpse does not function properly let me know asap trying to fix 0 object error
+				%^RED%^Sat Dec 21 21:48:49 2024 **
+[%^CYAN%^chat%^RESET%^ : Tlny] major changes to long term spells and skills going on exepect major bugs on long term stuff
+				%^RED%^Sat Dec 21 21:49:04 2024 **
+[%^CYAN%^chat%^RESET%^ : Tlny] Josh figured out prompt for long term stuff gonna test it out but requires a restart
+				%^RED%^Sat Dec 21 21:49:19 2024 **
+[%^CYAN%^chat%^RESET%^ : Tlny] again exepect major bugs with long term everything till I has out the bugs
+				%^RED%^Sun Dec 22 03:05:29 2024 **
+[%^CYAN%^chat%^RESET%^ : Tlny] massive server update for pormpt and long term gotta reset it again for update
+				%^RED%^Tue Dec 24 02:06:34 2024 **
+[%^CYAN%^chat%^RESET%^ : Tlny] critical new bug found if you are casting a long term spell enchantment and you "give" yourself that item and not drop it so give self item it will make the item no longer able to cast that same long term spell on it it will say you continue but never progress we are working on a fix please do not give yourself items you are enchanting while we work on a fix
+				%^RED%^Tue Dec 24 02:22:22 2024 **
+[%^CYAN%^chat%^RESET%^ : Tlny] a possible fix to the bug is going in but to see it work we gotta restart the mud

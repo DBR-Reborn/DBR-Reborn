@@ -1,0 +1,63 @@
+#/std/user.c
+encumbrance 500
+props (["extra hp regen":20,"xp mod":60,"light":0,"hp advance":28,"corpse eating":1,"natural ac":5,"melee damage":(["crushing":5,]),"last reinc":1668025723,"handedness":"left hand","dev point base":74,"mp advance":25,"last read news":1668025723,"old exp":10149,"sp points":0,"ambidextry":0,"base mp regen":5,"base hp regen":5,"combat color":"%^BOLD%^","dev points":3,])
+true_name "denethor"
+creator "/adm/obj/login#271158"
+max_internal_encumbrance 3090
+player_data (["kills":({21,}),"general":(["sp":1,"exp buffer":0,"alignment":0,"max_hp":147,"hp":147,"max exp":208,"experience":209,"last adjust":1668025389,"max_sp":700,]),])
+magic (["max points":123,"points":123,])
+severed ([])
+healing (["stuffed":625,"quenched":900,])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":73,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":49,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":36,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":49,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":36,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":49,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":147,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":36,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":49,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":36,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 4
+heal_rate 66
+char_class "nightblade"
+skills (["prospecting":(["stat":"intelligence","last dev":({1,1,}),"level":5,]),"magery":(["stat":"intelligence","last dev":({1,1,}),"level":5,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"swimming":(["stat":"constitution","last dev":({1,1,}),"level":5,]),"knife":(["stat":"dexterity","last dev":({1,1,}),"level":5,]),"illusionism":(["stat":"intelligence","last dev":({1,1,}),"level":5,]),"parry":(["stat":"dexterity","last dev":({1,1,}),"level":5,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"attack":(["stat":"dexterity","last dev":({1,1,}),"max":0,"points":0,"level":10,]),])
+spells ([])
+wimpydir "out"
+protection 2
+hits 7
+i 1
+j 1
+k 2
+num_attacks 1
+x 14
+num_rounds 1
+skill 37
+env_var (["TITLE":"Novice $N the Gnoll","start":"/d/standard/square","LINES":"70","TERM":"xterm-256","SCORE":"on",])
+money ([])
+ok_to_heal 2754
+player_age 2752
+sight_bonus 4
+gender "male"
+state "stand"
+stats (["wisdom":25,"dexterity":100,"intelligence":90,"constitution":103,"strength":103,"charisma":32,])
+languages (["common":10,"gnollish":10,])
+primary_language "gnollish"
+xp_to_next_dev 268
+alias (["tpro":"train prospecting","nw":"northwest","pl":"pull lever","tswi":"train swimming","sco":"score","w":"west","exa":"look at $*","sw":"southwest","lsk":"list skills","tmag":"train magery","tatt":"train attack","u":"up","lad":"ladder","s":"south","st":"status","n":"north","bio":"biography","till":"train illusionism","l":"look $*","tpar":"train parry","dw":"doorway","ne":"northeast","i":"inventory","gc":"get coins from corpse","tkni":"train knife","mou":"mountains","e":"east","d":"down","se":"southeast",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+zexp 209
+znexp 4999
+zlexp 4790
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+ghost 1
+verbose_moves 1
+birth 1668024958
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Howard"
+email "Plsdonthackme123@hotmail.com"
+ip "174.240.176.9"
+last_on "Wed Nov  9 20:28:43 2022"
+password "$6$nFv5xMazovK581a0$yyGwe2fBCdYZ8szfHca6s/XMAA.sREtboNZXXTjvo3rX18BjcaKjXE70RhjGKC3YFr67Ad9kkphNJgXxG1npl1"
+race "gnoll"
+original_site "174.240.176.9"
+position "player"
+primary_start "/d/damned/guilds/thief/thief2"
+quests ({})

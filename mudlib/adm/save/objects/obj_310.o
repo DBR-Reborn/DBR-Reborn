@@ -1,0 +1,7 @@
+#/d/damned/virtual/shod-staff_6.weapon.c
+encumbrance 30
+props (["brittle":49,"pow bless_weapon_thromax":0,"value":106,"extra long":({"level[41] raysorite shod-staff of fire and plasma",({"This weapon has %^BOLD%^Bless Weapon%^RESET%^.","detect magic",}),}),"material_type":"metal","new desc":"level[41] raysorite shod-staff of fire and plasma","bless weapon":42,"material_name":"raysorite","progress bless_weapon_thromax":0,])
+true_name "shod staff"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/raysorite"
+__Weapon (["original wc":(["plasma":76,"fire":45,"holy":100,"crushing":15,]),"quality":4,"type":"two handed staff","ac":(["infernal":6,"disruption":6,"stress":6,"unholy":6,"crushing":6,"cutting":6,"vacuum":6,"plasma":6,"impaling":6,"holy":6,"fire":6,"cold":6,"strike":6,"impact":6,"aether":6,"electricity":6,]),"verb":"bash","decay status":53,"wc":(["plasma":76,"fire":45,"holy":512,"crushing":55,]),"short desc":"level[41] raysorite shod-staff of fire and plasma","decay rate":200,"parry bonus":10,])

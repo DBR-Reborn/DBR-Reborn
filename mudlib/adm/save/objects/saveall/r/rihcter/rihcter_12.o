@@ -1,0 +1,5 @@
+#/std/diewarzau/obj/misc/everlasting_body.c
+encumbrance 40
+props (["value":2,"progress animate_everlasting_rihcter":21708,"pow animate_everlasting_rihcter":7,])
+true_name "body"
+creator "/cmds/system/_clone"

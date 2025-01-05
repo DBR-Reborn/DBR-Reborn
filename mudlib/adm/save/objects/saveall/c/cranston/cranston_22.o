@@ -1,0 +1,8 @@
+#/d/damned/virtual/chain-coif.armour
+#/d/damned/virtual/chain-coif.armour.c
+encumbrance 80
+props (["material_name":"laen","progress inscribe_malsa_sen_zora_kharne":0,"runes":({"malsa bonnes","malsa sen zora",}),"value":1649,"extra long":({"Smithed by: Kharne with laen [108] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","progress inscribe_malsa_bonnes_kharne":0,])
+true_name "chain coif"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"A chain coif","ac":(["infernal":460,"disruption":465,"stress":437,"unholy":425,"crushing":467,"cutting":428,"vacuum":426,"plasma":432,"impaling":458,"holy":453,"fire":467,"cold":450,"strike":434,"impact":422,"aether":421,"electricity":448,]),])

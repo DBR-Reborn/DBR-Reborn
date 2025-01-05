@@ -1,0 +1,8 @@
+#/d/damned/virtual/metal-visor.armour
+#/d/damned/virtual/metal-visor.armour.c
+encumbrance 30
+props (["value":50,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"metal","extra long":({"Smithed by: Maker with An iron armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress master_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"iron","enchantment":70,])
+true_name "metal visor"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iron"
+armour_save (["short desc":"A metal visor","ac":(["infernal":388,"disruption":388,"stress":388,"unholy":388,"crushing":403,"cutting":403,"vacuum":388,"plasma":392,"impaling":403,"holy":388,"fire":395,"cold":395,"strike":396,"impact":396,"aether":388,"electricity":395,]),])

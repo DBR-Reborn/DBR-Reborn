@@ -1,0 +1,8 @@
+#/d/damned/virtual/great-helm.armour
+#/d/damned/virtual/great-helm.armour.c
+encumbrance 14
+props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"progress inscribe_malsa_sen_zora_trent":0,"new desc":"slim helm {helmet}","material_name":"laen","progress master_fortification_baarich":0,"true armour":1,"pow enchanter_mark_baarich":0,"pow master_fortification_baarich":0,"value":2120,"extra long":({"Smithed by: Trent with laen [36] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"metal","pow true_armour_baarich":0,"progress inscribe_aldara_zet_trent":0,"progress true_armour_baarich":0,"progress inscribe_malsa_bonnes_trent":0,"enchantment":70,"progress enchanter_mark_baarich":0,])
+true_name "great helm"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-4,"short desc":"slim helm {helmet}","ac":(["infernal":349,"disruption":320,"stress":315,"crushing":340,"unholy":342,"cutting":336,"vacuum":345,"plasma":335,"impaling":365,"holy":323,"cold":313,"fire":335,"strike":366,"impact":356,"electricity":340,"aether":325,]),])

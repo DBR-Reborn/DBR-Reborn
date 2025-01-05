@@ -1,0 +1,8 @@
+#/d/damned/virtual/breast-plate.armour
+#/d/damned/virtual/breast-plate.armour.c
+encumbrance 1
+props (["material_name":"laen","progress inscribe_malsa_bonnes_trent":0,"runes":({"aldara zet","malsa bonnes",}),"value":16490,"extra long":({"Smithed by: Trent with laen [104] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":335,])
+true_name "breast plate"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"A breast plate","ac":(["infernal":260,"fire":297,"cold":272,"disruption":248,"stress":283,"unholy":256,"crushing":499,"cutting":534,"strike":516,"vacuum":251,"plasma":261,"impact":524,"impaling":491,"holy":267,"aether":266,"electricity":250,]),])

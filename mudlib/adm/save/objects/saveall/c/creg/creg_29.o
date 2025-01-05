@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-belt.armour
+#/d/damned/virtual/leather-belt.armour.c
+encumbrance 2
+props (["progress inscribe_malsa_sen_zora_creg":0,"runes":({"malsa bonnes","malsa sen zora",}),"value":4,"extra long":({"Crafted by: Creg with A Level [84] WildBoyz leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress true_armour_creg":0,"progress inscribe_malsa_bonnes_creg":0,"material_name":"WildBoyz","true armour":1,"pow true_armour_creg":0,])
+true_name "leather belt"
+creator "/d/damned/virtual/armour_server"
+material "/leather/WildBoyz"
+armour_save (["enhance critical":-5,"short desc":"A nice leather belt","ac":(["infernal":709,"disruption":710,"stress":700,"crushing":686,"unholy":706,"cutting":693,"vacuum":426,"plasma":720,"impaling":695,"holy":706,"cold":711,"fire":728,"strike":682,"impact":700,"electricity":716,"aether":710,]),])

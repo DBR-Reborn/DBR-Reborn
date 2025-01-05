@@ -1,0 +1,8 @@
+#/d/damned/virtual/plate-bracer.armour
+#/d/damned/virtual/plate-bracer.armour.c
+encumbrance 45
+props (["material_name":"inniculmoid","value":60,"extra long":"level[119] inniculmoid bracer of plasma and impaling protection","material_type":"metal","new desc":"level[119] inniculmoid bracer of plasma and impaling protection",])
+true_name "plate bracer"
+creator "/d/damned/virtual/armour_server"
+material "/metal/inniculmoid"
+armour_save (["short desc":"level[119] inniculmoid bracer of plasma and impaling protection","ac":(["infernal":691,"disruption":691,"stress":691,"unholy":691,"crushing":691,"cutting":691,"vacuum":691,"plasma":3304,"impaling":3190,"holy":691,"fire":691,"cold":691,"strike":691,"impact":691,"aether":691,"electricity":691,]),])

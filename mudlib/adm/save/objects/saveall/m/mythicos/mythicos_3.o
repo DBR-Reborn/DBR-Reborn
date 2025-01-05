@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-boots.armour
+#/d/damned/virtual/leather-boots.armour.c
+encumbrance 1
+props (["runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"new desc":"%^COLOR220%^+CHAOS+%^RESET%^ {leather boots}","material_name":"Slugga Boyz","true armour":1,"progress extreme_fortification_azazel":0,"progress inscribe_malsa_sen_zora_azazel":0,"value":30,"extra long":({"Crafted by: Azazel with A Level [101] Slugga Boyz leather","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress inscribe_malsa_bonnes_azazel":0,"progress engrave_azazel":0,"pow extreme_fortification_azazel":0,"pow true_armour_azazel":0,"progress true_armour_azazel":0,"progress inscribe_aldara_zet_azazel":0,"enchantment":100,])
+true_name "leather boots"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Slugga Boyz"
+armour_save (["enhance critical":-5,"short desc":"%^COLOR220%^+CHAOS+%^RESET%^ {leather boots}","ac":(["infernal":1496,"disruption":1511,"stress":1510,"crushing":1501,"unholy":1499,"cutting":1545,"vacuum":1529,"plasma":1511,"impaling":1542,"holy":1514,"cold":1584,"fire":1580,"strike":1495,"impact":1508,"electricity":1545,"aether":1510,]),])

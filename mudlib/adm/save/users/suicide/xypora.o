@@ -1,0 +1,63 @@
+#/std/user.c
+encumbrance 500
+props (["extra hp regen":25,"light":0,"xp mod":-15,"hp advance":50,"melee damage":(["cutting":5,]),"natural ac":7,"handedness":"first hand","last reinc":1665110360,"dev point base":69,"mp advance":15,"last read news":1665149385,"sp points":0,"old exp":0,"base mp regen":4,"ambidextry":0,"base hp regen":22,"combat color":"%^BOLD%^","dev points":6,])
+true_name "xypora"
+creator "/adm/obj/login#40138"
+max_internal_encumbrance 3600
+player_data (["kills":({118,1,0,15,21,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,129,127,128,137,138,140,}),"general":(["max exp":10211,"alignment":3,"exp buffer":0,"sp":1,"experience":217485,"max_hp":733,"max_sp":735,"hp":733,]),])
+magic (["max points":183,"points":183,])
+severed (["third hand":"",])
+healing (["poisoning":0,"stuffed":625,"quenched":700,])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":366,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"first leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":244,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"fourth arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":244,"weapons":0,"ac":0,"limb_ref":"fourth hand","armour":({}),]),"second arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":244,"weapons":0,"ac":0,"limb_ref":"second hand","armour":({}),]),"first hand":(["damage":0,"armour_ob":({}),"weapon":0,"max_dam":183,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({}),]),"third arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":244,"weapons":0,"ac":0,"limb_ref":"third hand","armour":({}),]),"fourth leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":244,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"second leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":244,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":733,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"third leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":244,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"fourth hand":(["damage":0,"armour_ob":({}),"weapon":0,"max_dam":183,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({}),]),"second hand":(["damage":0,"armour_ob":({}),"weapon":0,"max_dam":183,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({}),]),"first arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":244,"weapons":0,"ac":0,"limb_ref":"first hand","armour":({}),]),])
+limbs ({"head","first leg","fourth arm","second arm","first hand","third arm","fourth leg","second leg","second hand","fourth hand","third leg","torso","first arm",})
+all_my_fingers 3
+heal_rate 82
+char_class "fighter"
+skills (["reverse punch":(["stat":"dexterity","last dev":({8,3,}),"level":39,]),"whirlwind attack":(["stat":"constitution","last dev":({8,2,}),"level":42,]),"kick":(["stat":"strength","last dev":({8,2,}),"level":46,]),"melee":(["stat":"strength","last dev":({8,4,}),"max":0,"points":0,"level":61,]),"swimming":(["stat":"constitution","last dev":({8,3,}),"level":48,]),"head butt":(["stat":"dexterity","last dev":({8,3,}),"level":36,]),"dodge":(["stat":"dexterity","last dev":({8,2,}),"level":48,]),"fast attack":(["stat":"constitution","last dev":({8,2,}),"level":44,]),"trade lore":(["stat":"charisma","last dev":({8,2,}),"level":33,]),"perception":(["stat":"intelligence","last dev":({8,1,}),"level":50,]),"martial arts":(["stat":"dexterity","last dev":({8,4,}),"level":64,]),"attack":(["stat":"dexterity","last dev":({8,4,}),"max":0,"points":0,"level":65,]),])
+spells ([])
+wimpy 50
+wimpydir "out"
+protection 12
+hits 4
+i 2
+j 2
+k 3
+num_attacks 2
+x 16
+num_rounds 2
+skill 75
+env_var (["prompt":">","start":"/d/standard/square","TITLE":"Goblin Killer $N the Thranx","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 36397
+player_age 36394
+gender "female"
+state "stand"
+stats (["wisdom":40,"dexterity":105,"strength":120,"constitution":117,"intelligence":45,"charisma":31,])
+languages (["thri'krien":10,"common":10,])
+primary_language "common"
+language_exp (["goblinish":({5,0,}),"middle-english":({3,0,}),])
+xp_to_next_dev 10461
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+zexp 215973
+znexp 216887
+zlexp 914
+znlevel 8
+zlevel 7
+auto_load ({})
+level 8
+ghost 1
+birth 1665110360
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "amanda.blackstone0923@gmail.com"
+ip "68.41.203.137"
+last_on "Fri Oct  7 13:29:45 2022"
+password "$6$JFG3aH5hR0FDWqJc$wnQxFtvbTipANlLQBXyavx8nmZgEpuw2yNA43g5rZO8hyEom1izA9mMYgp2gpsazS0exTQYNsUepTaDukU.BI1"
+race "thranx"
+original_site "68.41.203.137"
+position "player"
+primary_start "/d/areas/arm_dealers/nalon/rooms/room7"
+quests ({})

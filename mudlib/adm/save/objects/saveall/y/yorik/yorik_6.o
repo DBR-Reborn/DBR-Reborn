@@ -1,0 +1,8 @@
+#/d/damned/virtual/wing-guards.armour
+#/d/damned/virtual/wing-guards.armour.c
+encumbrance 1
+props (["progress engrave_dalton":0,"progress inscribe_malsa_bonnes_singe":0,"progress engrave_singe":0,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"progress engrave_inikhida":0,"new desc":"%^B_BLUE%^Divinium%^RESET%^ {wing guards}","material_name":"laen","true armour":1,"progress inscribe_malsa_sen_zora_singe":0,"value":4240,"pow true_armour_upstart":0,"extra long":({"Smithed by: Singe with laen [228] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"metal","progress enchanter_mark_okkita":0,"progress extreme_fortification_upstart":0,"progress true_armour_upstart":0,"progress engrave_yorik":0,"pow enchanter_mark_okkita":0,"pow extreme_fortification_upstart":0,"progress inscribe_aldara_zet_singe":0,"enchantment":100,])
+true_name "wing guards"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-4,"short desc":"%^B_BLUE%^Divinium%^RESET%^ {wing guards}","ac":(["infernal":533,"disruption":523,"stress":502,"crushing":534,"unholy":551,"cutting":558,"vacuum":524,"plasma":585,"impaling":574,"holy":571,"cold":577,"fire":587,"strike":609,"impact":573,"electricity":554,"aether":526,]),])

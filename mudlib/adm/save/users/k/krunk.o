@@ -1,0 +1,64 @@
+#/std/user.c
+encumbrance 500
+props (["extra hp regen":300,"xp mod":-15,"light":0,"hp advance":50,"limb regen":1,"corpse eating":1,"natural ac":4,"melee damage":(["crushing":10,]),"last reinc":1668809707,"handedness":"right hand","enhance criticals":(["fire":1,]),"dev point base":71,"mp advance":15,"last read news":1668878646,"allow_over_max":0,"old exp":10149,"sp points":0,"ambidextry":0,"base mp regen":6,"base hp regen":27,"combat color":"%^BOLD%^","dev points":1069,])
+true_name "krunk"
+creator "/adm/obj/login#492535"
+max_internal_encumbrance 3810
+player_data (["kills":({21,0,1,0,61,59,26,27,67,65,25,16,51,56,52,23,151,70,71,24,68,17,57,}),"general":(["sp":1,"exp buffer":0,"alignment":0,"max_hp":692,"hp":848,"max exp":162293,"experience":162294,"last adjust":1668879529,"max_sp":651,]),])
+magic (["max points":156,"points":156,])
+severed ([])
+healing (["quenched":1100,"stuffed":890,])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":346,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"metal head","robe",}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":230,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"leather legs","robe","metal legs",}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":173,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots","robe","wood foots",}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":230,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"robe","metal arm",}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":173,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots","robe","wood foots",}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":230,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"leather legs","robe","metal legs",}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":692,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"metal torso","leather torso","robe",}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({,,,,}),"max_dam":173,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"cloth hand","robe","metal hand",}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":230,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"robe","metal arm",}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":173,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({"cloth hand","robe","metal hand",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 372
+char_class "fighter"
+skills (["magery":(["stat":"intelligence","last dev":({6,1,}),"level":5,]),"kick":(["stat":"strength","last dev":({6,3,}),"last use":1668879512,"level":33,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"fast attack":(["stat":"constitution","last dev":({5,3,}),"last use":1668879338,"level":36,]),"perception":(["stat":"intelligence","last dev":({6,1,}),"level":33,]),"whirlwind attack":(["stat":"constitution","last dev":({6,2,}),"last use":1668879339,"level":20,]),"repair weapon":(["stat":"dexterity","last dev":({6,2,}),"level":39,]),"swimming":(["stat":"constitution","last dev":({6,2,}),"level":39,]),"offhand training":(["stat":"dexterity","last dev":({6,2,}),"level":30,]),"head butt":(["stat":"dexterity","last dev":({6,3,}),"last use":1668879380,"level":15,]),"blunt":(["stat":"dexterity","last dev":({6,4,}),"level":61,]),"dodge":(["stat":"dexterity","last dev":({6,2,}),"level":36,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"parry":(["stat":"dexterity","last dev":({6,4,}),"level":62,]),"attack":(["stat":"dexterity","last dev":({6,4,}),"max":0,"points":0,"level":61,]),])
+spells ([])
+wimpydir "out"
+protection 5
+hits 9
+i 1
+j 3
+k 4
+num_attacks 1
+x 34
+num_rounds 3
+skill 89
+env_var (["TITLE":"Monk Destroyer $N the Troll","start":"/d/daybreak/room/db_square","prompt":"%","LINES":"70","TERM":"unknown","SCORE":"on",])
+money (["silver":68414,"gold":1801,"copper":12960,])
+ok_to_heal 17106
+player_age 17104
+sight_bonus -1
+gender "male"
+state "stand"
+stats (["wisdom":40,"dexterity":93,"intelligence":40,"constitution":127,"strength":127,"charisma":40,])
+languages (["goblinish":3,"zebber":10,"common":10,])
+primary_language "common"
+language_exp (["goblinish":({11,0,}),"elfish":({0,0,}),])
+xp_to_next_dev 162666
+alias (["nw":"northwest","ec":"eat corpse","wg":"open hatch","dd":"kill goblin","w":"west","sw":"southwest","exa":"look at $*","u":"up","qqw":"setenv prompt $tnl","wg2":"open hatch2","s":"south","wwa":"use whirlwind attack","ev":"enter","n":"north","bio":"biography","l":"look $*","req":"use repair weapon at mace","ne":"northeast","eq":"equip","i":"inventory","asq":"aspells","qs":"plank","wwt":"out","e":"east","d":"down","se":"southeast","qqf":"setenv prompt %","rfa":"use fast attack",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+zexp 111235
+znexp 139693
+zlexp 28458
+znlevel 7
+zlevel 6
+auto_load ({})
+level 7
+birth 1668809707
+blocked ([])
+exp_log ([1668832614:3530,])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "Bill"
+email "ardvarq2000@gmail.com"
+ip "184.20.215.150"
+last_on "Sat Nov 19 17:24:06 2022"
+password "$6$IMSuGUgl0QlO/dPE$LnrMnUb7dijUyoof13bOxJXFDcvNq3vC5AFlsGIG.GMHDJ4cbyFbFerFcwxwmCjzhfCkop1p42yTNZRAHGTGN1"
+race "troll"
+original_site "184.20.215.150"
+position "player"
+primary_start "/d/daybreak/room/db_square"
+quests ({})

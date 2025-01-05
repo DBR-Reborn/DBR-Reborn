@@ -1,0 +1,7 @@
+#/d/khojem/new/armor/leather_belt.c
+encumbrance 20
+props (["value":3,"material_type":"misc","extra long":({({"Fortification: %^CYAN%^+40","detect magic",}),}),"progress major_fortification_math":0,"progress minor_fortification_math":0,"material_name":"leather","pow major_fortification_math":0,"enchantment":40,"pow minor_fortification_math":0,])
+true_name "leather belt"
+creator "/d/khojem/new/mon/champion#11354"
+material "/misc/leather"
+armour_save (["ac":(["infernal":1,"disruption":1,"stress":1,"unholy":5,"crushing":3,"cutting":5,"vacuum":1,"plasma":1,"impaling":5,"holy":0,"fire":2,"cold":2,"strike":1,"impact":2,"aether":0,"electricity":1,]),])

@@ -1,0 +1,63 @@
+#/std/user.c
+encumbrance 500
+props (["extra hp regen":20,"xp mod":50,"light":0,"hp advance":40,"melee damage":(["crushing":10,]),"last reinc":1668982570,"handedness":"left hand","dev point base":72,"mp advance":18,"last read news":1672336071,"allow_over_max":0,"magic resistance":20,"sp points":200,"old exp":10149,"ambidextry":0,"base mp regen":17,"base hp regen":53,"combat color":"%^BOLD%^","dev points":9984,])
+true_name "kharne"
+creator "/adm/obj/login#91106"
+max_internal_encumbrance 4050
+player_data (["kills":({21,58,13,231,55,102,104,105,201,200,74,72,309,285,307,287,286,284,}),"general":(["sp":1,"exp buffer":0,"alignment":-769,"max_hp":2334,"hp":2334,"max exp":867779286,"experience":867779287,"last adjust":1672336967,"max_sp":840,]),])
+magic (["max points":816,"points":816,])
+severed ([])
+healing (["stuffed":835,"quenched":1000,])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({,,,,,}),"max_dam":1167,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"metal head","chain head","leather head","cloth back","metal face",}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({,,,,,}),"max_dam":778,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"robe","chain legs","taces","leather legs","metal legs",}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":583,"weapons":0,"ac":0,"limb_ref":"","armour":({"metal foots","wood foots","cloth foots",}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({,,,,}),"max_dam":778,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"leather torso","chain torso","robe","metal arm",}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":583,"weapons":0,"ac":0,"limb_ref":"","armour":({"metal foots","wood foots","cloth foots",}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({,,,,,}),"max_dam":778,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"robe","chain legs","taces","leather legs","metal legs",}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({,,,,,,,}),"max_dam":2334,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"metal torso","leather torso","chain torso","robe","belt","cloth back","tabard",}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({,,,,,}),"max_dam":583,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"cloth hand","leather hand","chain hand","metal hand",}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({,,,,}),"max_dam":778,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"leather torso","chain torso","robe","metal arm",}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({,,,,,}),"max_dam":583,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"metal hand","leather hand","chain hand","cloth hand",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 4
+heal_rate 136
+char_class "tinker"
+skills (["magery":(["stat":"intelligence","last dev":({41,2,}),"level":76,]),"lumberjack":(["stat":"strength","last dev":({41,1,}),"last use":1671474933,"level":163,]),"compare":(["stat":"intelligence","last dev":({30,3,}),"level":87,]),"woodwork armour":(["stat":"dexterity","last dev":({41,2,}),"level":148,]),"inscribe crusha":(["stat":"dexterity","last dev":({42,6,}),"level":30,]),"install lock":(["stat":"dexterity","last dev":({30,6,}),"level":39,]),"reverse stroke":(["stat":"dexterity","last dev":({41,3,}),"level":91,]),"axe":(["stat":"dexterity","last dev":({2,1,}),"level":5,]),"carpentry":(["stat":"dexterity","last dev":({41,2,}),"level":150,]),"repair wood weapon":(["stat":"dexterity","last dev":({26,6,}),"level":73,]),"fast attack":(["stat":"constitution","last dev":({41,3,}),"last use":1671280794,"level":78,]),"inscribe malsa sen zora":(["stat":"dexterity","last dev":({35,3,}),"level":117,]),"prospecting":(["stat":"intelligence","last dev":({32,1,}),"last use":1671474933,"level":101,]),"inscribe impacta":(["stat":"dexterity","last dev":({42,6,}),"level":30,]),"skin corpse":(["stat":"strength","last dev":({41,2,}),"level":156,]),"inscribe impacter":(["stat":"dexterity","last dev":({41,4,}),"level":102,]),"repair weapon":(["stat":"dexterity","last dev":({26,1,}),"level":91,]),"inscribe quickness":(["stat":"dexterity","last dev":({41,4,}),"level":102,]),"inscribe electricita":(["stat":"dexterity","last dev":({42,6,}),"level":30,]),"swimming":(["stat":"constitution","last dev":({30,4,}),"level":97,]),"woodwork weapon":(["stat":"dexterity","last dev":({41,2,}),"level":148,]),"inscribe aetha":(["stat":"dexterity","last dev":({42,6,}),"level":30,]),"inscribe inferna":(["stat":"dexterity","last dev":({42,6,}),"level":30,]),"inscribe vacumma":(["stat":"dexterity","last dev":({42,6,}),"level":30,]),"resist stun":(["stat":"constitution","last dev":({41,3,}),"level":72,]),"inscribe plasmer":(["stat":"dexterity","last dev":({41,4,}),"level":20,]),"engrave":(["stat":"dexterity","last dev":({35,3,}),"level":117,]),"inscribe stressa":(["stat":"dexterity","last dev":({42,6,}),"level":30,]),"prayer":(["stat":"wisdom","last dev":({41,2,}),"level":78,]),"forge armour":(["stat":"dexterity","last dev":({41,2,}),"level":148,]),"focused attack":(["stat":"dexterity","last dev":({41,2,}),"last use":1671282239,"level":68,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"inscribe unholya":(["stat":"dexterity","last dev":({42,6,}),"level":30,]),"inscribe cutta":(["stat":"dexterity","last dev":({42,6,}),"level":30,]),"inscribe malsa bonnes":(["stat":"dexterity","last dev":({35,3,}),"level":117,]),"body alteration":(["stat":"wisdom","last dev":({41,2,}),"level":78,]),"perception":(["stat":"intelligence","last dev":({30,4,}),"level":84,]),"blacksmith":(["stat":"dexterity","last dev":({41,2,}),"level":150,]),"focus of elements":(["stat":"intelligence","last dev":({32,1,}),"level":5,]),"inscribe colda":(["stat":"dexterity","last dev":({42,6,}),"level":30,]),"leather craft":(["stat":"dexterity","last dev":({41,2,}),"level":150,]),"whirlwind attack":(["stat":"constitution","last dev":({41,3,}),"last use":1671282236,"level":100,]),"inscribe holya":(["stat":"dexterity","last dev":({42,6,}),"level":30,]),"inscribe plasa":(["stat":"dexterity","last dev":({42,6,}),"level":30,]),"empowerment":(["stat":"intelligence","last dev":({39,2,}),"level":36,]),"inscribe strika":(["stat":"dexterity","last dev":({42,6,}),"level":30,]),"inscribe disrupta":(["stat":"dexterity","last dev":({42,6,}),"level":30,]),"blunt":(["stat":"dexterity","last dev":({16,1,}),"level":5,]),"forge weapon":(["stat":"dexterity","last dev":({41,2,}),"level":148,]),"inscribe fira":(["stat":"dexterity","last dev":({42,6,}),"level":30,]),"minning":(["stat":"strength","last dev":({41,1,}),"last use":1671474933,"level":163,]),"inscribe aether":(["stat":"dexterity","last dev":({41,4,}),"level":20,]),"two handed blunt":(["stat":"dexterity","last dev":({41,5,}),"level":135,]),"dodge":(["stat":"dexterity","last dev":({40,3,}),"level":102,]),"inscribe crusher":(["stat":"dexterity","last dev":({41,4,}),"level":102,]),"inscribe impala":(["stat":"dexterity","last dev":({42,6,}),"level":30,]),"inscribe holyer":(["stat":"dexterity","last dev":({41,4,}),"level":102,]),"trade lore":(["stat":"charisma","last dev":({4,1,}),"level":10,]),"parry":(["stat":"dexterity","last dev":({40,3,}),"level":112,]),"attack":(["stat":"dexterity","last dev":({41,5,}),"max":0,"points":0,"level":135,]),"elementalism":(["stat":"intelligence","last dev":({32,1,}),"level":5,]),])
+spells (["divine might":(["last dev":({27,1,}),"level":6,]),"bless armour":(["last dev":({29,1,}),"level":6,]),"teleport":(["last dev":({21,1,}),"level":1,]),"heavenly blade":(["last dev":({32,1,}),"level":1,]),"dark vision":(["last dev":({41,1,}),"level":1,]),"blessing of knowledge":(["last dev":({31,1,}),"level":1,]),"create teleport beacon":(["last dev":({21,1,}),"level":1,]),"fire shield":(["last dev":({23,1,}),"level":1,]),"sanctify blade":(["last dev":({40,1,}),"level":6,]),"blessing of agility":(["last dev":({27,1,}),"level":6,]),"alter visage":(["last dev":({24,1,}),"level":1,]),"bless weapon":(["last dev":({29,1,}),"level":6,]),"enlarge":(["last dev":({30,1,}),"level":4,]),"divine transformation":(["last dev":({29,1,}),"level":6,]),"holy blade":(["last dev":({41,1,}),"level":6,]),"iron will":(["last dev":({28,1,}),"level":6,]),"unholy rage":(["last dev":({39,1,}),"level":4,]),"animal transformation":(["last dev":({24,1,}),"level":1,]),])
+wimpy 50
+wimpydir "out"
+protection 10
+hits 4
+i 2
+j 25
+k 7
+num_attacks 3
+x 70
+num_rounds 2
+skill 319
+env_var (["TITLE":"Grand $N the Dwarf","start":"/d/daybreak/room/db_square","prompt":"%","LINES":"70","TERM":"unknown","SCORE":"off",])
+money (["silver":7468,"gold":68996,"copper":2660,"mithril":2052,])
+ok_to_heal 1204501
+player_age 1204500
+sight_bonus 4
+gender "male"
+state "stand"
+stats (["wisdom":45,"dexterity":120,"intelligence":45,"constitution":85,"strength":135,"charisma":45,])
+languages (["common":10,"catfolk":1,"dwarvish":10,])
+primary_language "common"
+language_exp (["elfish":({3,0,}),"middle-english":({6,0,}),"catfolk":({7,1,}),])
+xp_to_next_dev 867797410
+alias (["rra":"alias css cast *4 unholy rage at kharne","css":"cast *1 teleport","cew":"cast *6 iron will at kharne","qrv":"use prospecting at mineral","ts":"use lumberjack at pine","w":"west","u":"up","s":"south","wwa":"use whirlwind attack","cgb":"alias css cast *2 holy blade at kanabou","rv":"use minning at eog","n":"north","bio":"biography","rqw":"use prospecting at wood","fas":"use fast attack","rqv":"use prospecting at wood","rs":"use lumberjack at birch","csb":"cast *6 sanctify blade at kanabou","l":"look $*","req":"use repair weapon at kanabou","i":"inventory","tss":"use woodwork weapon at board 4 with three-section-staff","e":"east","d":"down","tes":"alias css cast *1 teleport","sta":"status","evs":"alias css cast *2 enlarge at kharne","cbwa":"alias css cast *6 blessing of agility at kharne","nw":"northwest","df":"drink fountain","de":"drop ingot","dd":"kill dragon","woods":"say coachwood plasma, maple cutting, gum cold, elm vacuum,  abachi aether,  dogwood disruption,","wood2":"birch holy, willow electricity, mahogany stress, walnut nothing, ironwood nothing, oak impaling, pine nothing buckeye unholy, limba fire, aspen unholy","sw":"southwest","exa":"look at $*","db":"drop board","cdv":"alias css cast *6 divine might at kharne","qqw":"setenv prompt $tnl","cdt":"alias css cast *6 divine transformation at kharne","ctb":"cast *1 create teleport beacon","fwc":"use focused attack","ne":"northeast","eq":"equip","asq":"aspells","xxx":"dark empowerment, fire breath, grand summon","cgv":"cast *6 holy blade at kanabou","se":"southeast","qqf":"setenv prompt %",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+zexp 828946588
+znexp 886828209
+zlexp 57881621
+znlevel 43
+zlevel 42
+auto_load ({})
+level 42
+birth 1668982570
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Bill"
+email "ardvarq2000@gmail.com"
+ip "184.20.215.150"
+last_on "Thu Dec 29 17:47:51 2022"
+password "$6$.qFWVIsNPFrdE/Pu$SKfIyvNKhWLFPS/tH5MBlLqIMRcDp2FOa2jV11NPiXT1YTYPuoj2rASHQZUIlFHF1Mnf4Kp8LiZDtwkYoZXU1."
+race "dwarf"
+original_site "184.20.215.150"
+position "player"
+primary_start "/d/daybreak/room/dbns1"
+quests ({})

@@ -1,0 +1,8 @@
+#/d/damned/virtual/gauntlet.armour
+#/d/damned/virtual/gauntlet.armour.c
+encumbrance 1
+props (["progress engrave_singe":0,"progress inscribe_malsa_bonnes_singe":0,"runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"new desc":"%^B_BLUE%^Divinium%^RESET%^ {gauntlet}","material_name":"laen","true armour":1,"progress inscribe_malsa_sen_zora_singe":0,"progress engrave_aartos":0,"pow true_armour_upstart":0,"value":471,"extra long":({"Smithed by: Singe with laen [116] armour blank","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"metal","progress extreme_fortification_upstart":0,"progress enchanter_mark_okkita":0,"progress true_armour_upstart":0,"progress engrave_yorik":0,"pow extreme_fortification_upstart":0,"pow enchanter_mark_okkita":0,"progress inscribe_aldara_zet_singe":0,"enchantment":100,])
+true_name "gauntlet"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-5,"short desc":"%^B_BLUE%^Divinium%^RESET%^ {gauntlet}","ac":(["infernal":717,"disruption":706,"stress":656,"crushing":657,"unholy":626,"cutting":704,"vacuum":626,"plasma":652,"impaling":660,"holy":709,"cold":673,"fire":717,"strike":651,"impact":657,"electricity":728,"aether":662,]),])

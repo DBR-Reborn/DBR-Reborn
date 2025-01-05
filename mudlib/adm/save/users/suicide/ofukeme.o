@@ -1,0 +1,64 @@
+#/std/user.c
+encumbrance 500
+props (["light":0,"xp mod":15,"hp advance":28,"melee damage":(["crushing":6,]),"handedness":"left hand","last reinc":1668032635,"dev point base":74,"mp advance":25,"last read news":1668118781,"dev cost":-2,"sp points":5,"old exp":0,"base mp regen":12,"ambidextry":1,"base hp regen":14,"combat color":"%^BOLD%^","dev points":6646,])
+true_name "ofukeme"
+creator "/adm/obj/login#292441"
+max_internal_encumbrance 2940
+player_data (["kills":({21,1,}),"general":(["alignment":0,"exp buffer":0,"sp":1,"max_hp":530,"hp":530,"max exp":1180932,"experience":1180933,"last adjust":1668115537,"max_sp":770,]),])
+magic (["max points":525,"points":525,])
+severed ([])
+healing (["poisoning":0,"quenched":900,"stuffed":875,])
+body (["right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":132,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":176,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":265,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":132,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":176,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":530,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":176,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"weapon":0,"max_dam":132,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"weapon":0,"max_dam":132,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":176,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 73
+char_class "nightblade"
+skills (["concentrate":(["stat":"intelligence","last dev":({11,1,}),"level":36,]),"magery":(["stat":"intelligence","last dev":({11,1,}),"level":42,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"pick locks":(["stat":"dexterity","last dev":({11,1,}),"level":25,]),"knife":(["stat":"dexterity","last dev":({11,4,}),"level":88,]),"consider lock":(["stat":"dexterity","last dev":({11,1,}),"level":25,]),"back stab":(["stat":"dexterity","last dev":({11,3,}),"level":61,]),"perception":(["stat":"intelligence","last dev":({11,2,}),"level":60,]),"prospecting":(["stat":"intelligence","last dev":({11,1,}),"level":42,]),"detect magic":(["stat":"intelligence","last dev":({11,1,}),"level":20,]),"repair weapon":(["stat":"dexterity","last dev":({11,1,}),"level":39,]),"swimming":(["stat":"constitution","last dev":({11,2,}),"level":60,]),"minning":(["stat":"strength","last dev":({11,1,}),"level":39,]),"illusionism":(["stat":"intelligence","last dev":({11,1,}),"level":39,]),"parry":(["stat":"dexterity","last dev":({11,4,}),"level":73,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"engrave":(["stat":"dexterity","last dev":({11,1,}),"level":33,]),"attack":(["stat":"dexterity","last dev":({11,4,}),"max":0,"points":0,"level":74,]),])
+spells (["dark vision":(["last dev":({7,1,}),"level":6,]),])
+wimpydir "out"
+protection 1
+hits 8
+i 2
+j 1
+k 2
+num_attacks 2
+x 16
+num_rounds 1
+skill 119
+env_var (["start":"/d/standard/square","TITLE":"Dark Acolyte $N the China-man","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money ([])
+ok_to_heal 22976
+player_age 22968
+sight_bonus -1
+gender "male"
+state "stand"
+stats (["wisdom":30,"dexterity":110,"strength":98,"constitution":83,"intelligence":95,"charisma":47,])
+languages (["goblinish":2,"common":10,"china-manish":10,])
+primary_language "china-manish"
+language_exp (["goblinish":({6,0,}),"elfish":({0,0,}),"catfolk":({2,0,}),])
+xp_to_next_dev 1181632
+alias (["tpro":"train prospecting","tswi":"train swimming","sco":"score","ent":"enter","w":"west","u":"up","tmag":"train magery","lad":"ladder","tdm":"train detect magic","s":"south","tbs":"train back stab","tpl":"train pick locks","bio":"biography","n":"north","till":"train illusionism","l":"look $*","dw":"doorway","dv":"cast *6 dark vision at Ofukeme","i":"inventory","tkni":"train knife","mou":"mountains","e":"east","tmin":"train minning","d":"down","tper":"train perception","kg":"kill goblin","nw":"northwest","pl":"pull lever","lsp":"list spells","bsg":"use back stab at goblin","tow":"town","exa":"look at $*","sw":"southwest","lsk":"list skills","tatt":"train attack","st":"status","tcl":"train consider lock","teng":"train engrave","roa":"road","tpar":"train parry","ne":"northeast","tcon":"train concentrate","rw2":"use repair weapon at dagger 2","rw1":"use repair weapon at dagger","gc":"get coins from corpse","trw":"train repair weapon","se":"southeast",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+zexp 1180933
+znexp 1620222
+zlexp 439289
+znlevel 13
+zlevel 12
+auto_load ({})
+level 12
+ghost 1
+verbose_moves 1
+birth 1668032635
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "howard"
+email "plsdonthackme123@hotmail.com"
+ip "174.240.176.55"
+last_on "Thu Nov 10 22:19:41 2022"
+password "$6$wMqadZ0tIHb32HpL$n.Driy3KFUCh/5BepKInJGw723WbCgFzKVRi8UCWF5iEhoDWKVUAKJU7ahjNT8vFJsL0u7KXERKxAXWRVDm2B."
+race "china-man"
+original_site "174.240.176.9"
+position "player"
+primary_start "/d/areas/goblin/areas/gates"
+quests ({})

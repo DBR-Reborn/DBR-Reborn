@@ -1,0 +1,62 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":50,"magic resistance":15,"old exp":0,"light":0,"sp points":0,"xp mod":-30,"hp advance":28,"melee damage":(["crushing":5,]),"base mp regen":6,"handedness":"left hand","ambidextry":1,"last reinc":1730343556,"base hp regen":5,"dev point base":71,"mp advance":25,"hand stamped":0,"combat color":"%^BOLD%^","last read news":1730343556,"dev points":52,])
+true_name "exit"
+creator "/adm/obj/login#25871"
+max_internal_encumbrance 2700
+player_data (["kills":({21,118,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,15,}),"general":(["alignment":3,"max exp":18977,"exp buffer":0,"sp":1,"experience":18978,"last adjust":1730348633,"max_hp":210,"max_sp":0,"hp":-1186,]),])
+magic (["max points":238,"points":238,])
+severed (["right foot":"",])
+healing (["stuffed":750,])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":210,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":70,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":70,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":105,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":52,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":70,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":52,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":70,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 30
+char_class "nightblade"
+skills (["concentrate":(["stat":"intelligence","last dev":({3,1,}),"level":5,]),"magery":(["stat":"intelligence","last dev":({3,1,}),"level":20,]),"consider":(["stat":"intelligence","last dev":({3,1,}),"level":10,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"swimming":(["stat":"constitution","last dev":({3,1,}),"level":15,]),"illusionism":(["stat":"intelligence","last dev":({3,1,}),"level":15,]),"dodge":(["stat":"dexterity","last dev":({3,2,}),"level":25,]),"parry":(["stat":"dexterity","last dev":({3,3,}),"level":30,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"body alteration":(["stat":"wisdom","last dev":({3,1,}),"level":15,]),"perception":(["stat":"intelligence","last dev":({3,1,}),"level":25,]),"blade":(["stat":"dexterity","last dev":({3,4,}),"level":36,]),"attack":(["stat":"dexterity","last dev":({3,3,}),"max":0,"points":0,"level":33,]),])
+spells (["darkness":(["last dev":({3,1,}),"level":3,]),"poison weapon":(["last dev":({3,1,}),"level":3,]),"clairvoyance":(["last dev":({3,1,}),"level":1,]),"instill poison":(["last dev":({3,1,}),"level":1,]),"levitation":(["level":1,]),"silent walk":(["last dev":({3,1,}),"level":1,]),"faerie fire":(["level":1,]),"winged flight":(["last dev":({3,1,}),"level":2,]),])
+wimpydir "out"
+protection 3
+hits 6
+i 2
+j 1
+k 3
+num_attacks 2
+x 19
+num_rounds 1
+skill 106
+env_var (["start":"/d/standard/square","TITLE":"Initiate $N the Drow-elf","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money ([])
+ok_to_heal 11120
+player_age 11112
+sight_bonus 5
+gender "male"
+state "stand"
+stats (["wisdom":40,"dexterity":117,"strength":90,"constitution":90,"intelligence":117,"charisma":20,])
+languages (["common":10,"drow":10,])
+primary_language "drow"
+language_exp (["goblinish":({2,0,}),"middle-english":({0,0,}),])
+xp_to_next_dev 19007
+alias (["kg":"kill goblin","ip":"cast *1 instill poison at $*","nw":"northwest","ec":"look at corpse","w":"west","exa":"look at $*","sw":"southwest","u":"up","s":"south","use":"consider at ^","bio":"biography","n":"north","uc":"use consider at $*","l":"look $*","ne":"northeast","gg":"get coins from corpse","ks":"kill snotling","i":"inventory","gc":"get all from corpse","e":"east","se":"southeast","d":"down","ps":"cast *3 poison weapon at scimitar","pss":"cast *3 poison weapon at short sword",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 3
+ghost 1
+verbose_moves 1
+birth 1730343556
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "hurryupdude29002@yahoo.com"
+ip "108.35.255.134"
+last_on "Thu Oct 31 02:59:16 2024"
+password "$6$ms8D2euQZDTZtnGE$g1OWcWh.jiZU2DtOurMnT953wGJRVw.t88upsws8uR8EP98nD7bWfAe94wa.xJyxc0naaeVhq1mVfC5YfxfRK/"
+race "drow-elf"
+original_site "108.35.255.134"
+position "player"
+quests ({})

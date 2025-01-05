@@ -1,0 +1,5 @@
+#/d/areas/goblin/items/newbie.c
+encumbrance 15
+props (["value":30,"material_type":"metal","flame blade":3,"material_name":"zatrichque","poisoning":5,"no add quality":1,"enchantment":4,])
+material "/metal/zatrichque"
+__Weapon (["original wc":(["cold":1,"fire":2,"cutting":10,"electricity":3,]),"quality":5,"type":"blade","wield":,"ac":(["infernal":6,"fire":6,"cold":6,"disruption":6,"stress":6,"unholy":6,"crushing":6,"cutting":6,"strike":6,"vacuum":6,"plasma":6,"impact":6,"impaling":6,"holy":6,"aether":6,"electricity":6,]),"verb":"eviscerate","wc":(["cold":1,"fire":2,"cutting":10,"electricity":3,]),"short desc":"Darke blade","decay rate":400,])

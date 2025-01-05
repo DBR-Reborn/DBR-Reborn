@@ -1,0 +1,13 @@
+#/d/damned/guilds/join_rooms/arch-mage_join.c
+props (["base mp regen":15,"guild mods":(["intelligence":10,]),"base hp regen":3,"light":2,"mp advance":50,"hp advance":15,"indoors":1,])
+__Smells ([])
+__Listens ([])
+__Searches ([])
+destinations (["south":"/d/damned/guilds/arch-mage/train_room","north":"/d/daybreak/room/dblw5",])
+invis_exits ([])
+pre_exit_func ([])
+post_exit_func ([])
+tracks ({})
+__Items (["blue moon":0,"sky":0,"ankh":0,"moon":0,"red moon":0,"green moon":0,"warzau":0,"sun":0,"luna":0,"moons":0,])
+guild_list (["farcelia":(["status":"member",]),"tenth":(["status":"member",]),"lauzzadin":(["status":"member",]),"madoc":(["status":"member",]),"arielle":(["status":"member",]),"playertest":(["status":"member",]),"jenni":(["status":"member",]),"arcadia":(["status":"member",]),"delmon":(["status":"member",]),"liralindielle":(["status":"member",]),])
+banish ([])

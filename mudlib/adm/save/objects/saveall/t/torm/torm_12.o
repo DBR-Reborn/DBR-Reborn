@@ -1,0 +1,8 @@
+#/d/damned/virtual/large-shield.armour
+#/d/damned/virtual/large-shield.armour.c
+encumbrance 150
+props (["material_name":"laen","value":75,"material_type":"metal","extra long":"%^BOLD%^Storm%^RESET%^ shield","new desc":"%^BOLD%^Storm%^RESET%^ shield",])
+true_name "large shield"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"%^BOLD%^Storm%^RESET%^ shield","ac":(["infernal":202,"disruption":202,"stress":202,"crushing":202,"unholy":202,"cutting":202,"vacuum":202,"plasma":202,"impaling":202,"holy":202,"cold":202,"fire":202,"strike":202,"impact":202,"electricity":202,"aether":202,]),])

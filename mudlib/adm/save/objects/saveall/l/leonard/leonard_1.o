@@ -1,0 +1,7 @@
+#/d/1tlny/loot/hooded_robe.c
+encumbrance 100
+props (["material_name":"cloth","value":400,"material_type":"none","extra long":"level[85] Rare Robe of cutting and impaling protection","new desc":"level[85] Rare Robe of cutting and impaling protection",])
+true_name "hooded robe"
+creator "/d/areas/ork/mon/1wildboyz#41873"
+material "/cloth"
+armour_save (["short desc":"level[85] Rare Robe of cutting and impaling protection","ac":(["infernal":311,"disruption":311,"stress":311,"crushing":311,"unholy":311,"cutting":521,"vacuum":311,"plasma":311,"impaling":430,"holy":311,"cold":311,"fire":311,"strike":311,"impact":311,"electricity":311,"aether":311,]),])

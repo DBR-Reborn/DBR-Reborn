@@ -1,0 +1,66 @@
+#/std/user.c
+encumbrance 500
+props (["physical resistance":(["default":20,"steel":20,"wood":20,"iron":20,]),"extra mp regen":50,"extra hp regen":20,"castle rooms":10,"light":0,"xp mod":-20,"hp advance":15,"melee damage":(["cold":10,]),"natural ac":20,"handedness":"right hand","last reinc":1666929719,"reincarnate":1,"dev point base":69,"enhance criticals":(["plasma":1,"holy":1,"electricity":1,]),"mp advance":50,"last read news":1734916892,"cross guild":"elementalist","has castle":1,"old exp":0,"sp points":872,"castle doors":({}),"old stats":(["wisdom":100,"dexterity":80,"intelligence":110,"constitution":86,"strength":81,"charisma":35,]),"base mp regen":96,"ambidextry":0,"base hp regen":68,"combat color":"%^BOLD%^","dev points":2977,])
+true_name "hawpun"
+creator "/adm/obj/login#350577"
+max_internal_encumbrance 2430
+player_data (["kills":({72,64,272,276,277,39,60,11,10,112,}),"general":(["alignment":73,"exp buffer":0,"sp":1,"max_hp":1807,"hp":1807,"max exp":12277951314,"experience":12277951315,"quest points":0,"last adjust":1734633368,"max_sp":560,]),])
+magic (["max points":6864,"points":6864,])
+severed ([])
+healing (["quenched":560,"stuffed":760,])
+body (["right foot":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":451,"weapons":0,"ac":0,"limb_ref":"","armour":({"robe","metal foots","leather foots",}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":602,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"robe","metal legs","leather legs",}),]),"head":(["damage":0,"weapon":0,"armour_ob":({,,,,,}),"max_dam":903,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"metal face","leather head","cloth back","metal head",0,}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":451,"weapons":0,"ac":0,"limb_ref":"","armour":({"robe","metal foots","leather foots",}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":602,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"robe","metal arm","leather torso",}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({,,,,}),"max_dam":1807,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"robe","leather torso","cloth back","metal torso",}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":602,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"robe","metal legs","leather legs",}),]),"right hand":(["damage":0,"armour_ob":({,,,}),"weapon":0,"max_dam":451,"weapons":,"wieldable":1,"ac":0,"limb_ref":"","armour":({"metal hand","leather hand",}),]),"left hand":(["damage":0,"armour_ob":({,,}),"weapon":0,"max_dam":451,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({"metal hand","leather hand",}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":602,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"robe","metal arm","leather torso",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 4
+heal_rate 134
+char_class "necromancer"
+skills (["concentrate":(["stat":"intelligence","last dev":({85,51,}),"level":92,]),"compare":(["stat":"intelligence","last dev":({85,42,}),"level":83,]),"stealth":(["stat":"dexterity","level":10,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"fire lore":(["stat":"intelligence","last dev":({85,1,}),"level":5,]),"prepare corpse":(["stat":"intelligence","last dev":({85,111,}),"level":152,]),"knife":(["stat":"dexterity","last dev":({85,146,}),"level":187,]),"black magic":(["stat":"intelligence","last dev":({85,61,}),"level":102,]),"perception":(["stat":"intelligence","last dev":({85,10,}),"level":42,]),"necromancy":(["stat":"intelligence","last dev":({85,109,}),"level":152,]),"spell sense":(["stat":"intelligence","last dev":({85,26,}),"level":67,]),"detect magic":(["stat":"intelligence","last dev":({85,26,}),"level":67,]),"repair weapon":(["stat":"dexterity","last dev":({85,11,}),"level":44,]),"swimming":(["stat":"constitution","last dev":({85,59,}),"level":100,]),"electricity lore":(["stat":"intelligence","last dev":({85,1,}),"level":5,]),"aether lore":(["stat":"intelligence","last dev":({85,1,}),"level":5,]),"illusionism":(["stat":"intelligence","level":10,]),"dodge":(["stat":"dexterity","last dev":({85,12,}),"level":46,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"nexus lore":(["stat":"intelligence","last dev":({85,1,}),"level":5,]),"attack":(["stat":"dexterity","last dev":({85,144,}),"max":0,"points":0,"level":186,]),"plasma lore":(["stat":"intelligence","last dev":({85,1,}),"level":5,]),])
+spells (["freeze skin":(["last dev":({85,6,}),"level":6,]),"chilling touch":(["last dev":({85,1,}),"level":1,]),"animate skeleton":(["last dev":({85,6,}),"level":6,]),"soul blade":(["last dev":({85,6,}),"level":6,]),"darkness":(["level":1,]),"embalm corpse":(["last dev":({85,6,}),"level":6,]),"animate death knight":(["last dev":({85,6,}),"level":6,]),"lifesteal":(["last dev":({85,6,}),"level":6,]),"animate dracolich":(["last dev":({85,6,}),"level":6,]),"animate abomination":(["last dev":({85,6,}),"level":6,]),"animate lich":(["last dev":({85,6,}),"level":6,]),"animate dragon":(["last dev":({85,6,}),"level":6,]),"unholy armour":(["last dev":({85,6,}),"level":6,]),"wind of death":(["last dev":({85,6,}),"level":6,]),"syphon soul":(["last dev":({85,6,}),"level":6,]),"lich form":(["last dev":({85,6,}),"level":6,]),"combine everlastings":(["last dev":({85,6,}),"level":6,]),"life blade":(["last dev":({85,6,}),"level":6,]),"animate demilich":(["last dev":({85,6,}),"level":6,]),"animate vampire":(["last dev":({85,6,}),"level":6,]),"drain life":(["last dev":({85,5,}),"level":6,]),"animate nethergeist":(["last dev":({85,6,}),"level":6,]),"cold blast":(["last dev":({85,6,}),"level":6,]),"animate ghast":(["last dev":({85,6,}),"level":6,]),"animate ghoul":(["last dev":({85,6,}),"level":6,]),"animate zombie":(["last dev":({85,6,}),"level":6,]),"animate everlasting":(["last dev":({85,6,}),"level":6,]),"create everlasting body":(["last dev":({85,6,}),"level":6,]),])
+wimpydir "out"
+protection 5
+hits 4
+pois 14
+i 1
+j 6
+k 10
+num_attacks 2
+x 100
+num_rounds 1
+skill 297
+env_var (["start":"/d/damned/virtual/hawpun_room_1.castle","TITLE":"$N","prompt":"%^COLOR1%^HP:%^COLOR9%^$h/$H %^COLOR26%^MP:%^COLOR33%^$m/$M %^RESET%^\\n$A/$a","combat_color":"red","LINES":"70","combatcolor":"red","SCORE":"on","TERM":"xterm-256",])
+money (["silver":308,"gold":9822,"mithril":7195,"copper":2790,])
+ok_to_heal 913296
+player_age 913296
+sight_bonus 6
+gender "male"
+state "stand"
+stats (["wisdom":100,"dexterity":80,"strength":81,"constitution":86,"intelligence":110,"charisma":35,])
+languages (["common":10,"middle-english":4,"undead-tongue":10,])
+primary_language "common"
+language_exp (["elvish":({4,0,}),"vr'krr":({1,0,}),"middle-english":({1,3,}),])
+xp_to_next_dev 12277980839
+alias (["uvd":"unlock vault door with key","lvd":"lock vault door with key","cvd":"close vault door","nw":"northwest","df":"drink fountain","w":"west","sw":"southwest","exa":"look at $*","bk":"break key","u":"up","s":"south","ss":"say shopkeeper, $*","sr":"steprune","wod":"cast *6 wind of death","bio":"biography","n":"north","uc":"use concentrate","l":"look $*","ne":"northeast","k":"kill $*","ua":"cast *6 unholy armour","ovd":"open vault door","i":"inventory","e":"east","se":"southeast","d":"down","pcc":"use prepare corpse at corpse","sc":"score",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+zexp 12277951315
+znexp 12650038919
+zlexp 372087604
+znlevel 86
+zlevel 85
+auto_load ({"/d/damned/guilds/necromancer/gm_amulet:","/d/damned/guilds/necromancer/gm_dagger:",({"/d/damned/guilds/necromancer/necromancer_obj",({"/d/damned/guilds/join_rooms/necromancer_join","hawpun",}),}),})
+level 85
+verbose_moves 1
+birth 1666929719
+blocked ([])
+exp_log ([1668292932:6525884,])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "cameron.travis@gmail.com"
+ip "65.130.216.205"
+last_on "Mon Dec 23 01:21:32 2024"
+password "$6$qdHomF9EhhiZM6gs$Dw8y.66fz.8OhWu3uwYyjwiujDf9czcJQX.bAXkJZQQCG02DY74dexge/mZFqXR3zpGP0SkvgifiwxrvYZZ9L."
+race "wraith"
+original_site "185.229.59.44"
+position "player"
+primary_start "/d/damned/guilds/necromancer/train_room"
+quests ({})

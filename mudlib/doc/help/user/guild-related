@@ -1,0 +1,135 @@
+Fighter     Arch-Mage           Cleric      Chaotic-Lord
+Thief       Elementalist        War-Priest  Nightblade
+Tinker      Enchanter           Paladin     Sword-Mage
+            Necromancer                     Dark-Paladin
+            Nethermancer                    Assassin
+            Elemental-Mage
+			
+"fighter", "thief", "tinker", "arch-mage", "elementalist", "enchanter", "necromancer", "nethermancer", "elemental-mage", "cleric", "war-priest", "paladin", "chaotic-lord", "nightblade", "sword-mage", "dark-paladin",	"assassin"
+
+Related = x2  DEV costs
+Other   = x5  DEV costs
+Odd     = x8  DEV costs
+Hard    = x16 DEV costs
+No		= You cannot cross train at this guild
+
+Subject to changes -- TLNY2023
+
+Arch-Mage=
+Related:	"elemental-mage", "elementalist"
+Other:		"enchanter", "necromancer", "nethermancer"
+Odd:		"tinker",  "cleric", "war-priest", "paladin", 
+Hard:		"fighter", "thief"
+No:			"dark-paladin", "nightblade", "assassin", "chaotic-lord", "sword-mage",
+
+Assassin=
+Realted:	"thief", "nightblade",
+Other:		"fighter","tinker", "chaotic-lord", "sword-mage",
+Odd:		"elementalist", "enchanter", "elemental-mage",
+Hard:		"arch-mage",
+No:			"nethermancer", "dark-paladin", "necromancer", "cleric", "war-priest", "paladin"
+
+Chaotic-Lord=
+Related:	"sword-mage", "dark-paladin",
+Other:		"elementalist", "enchanter",
+Odd:		"fighter", "thief", "tinker",  "nethermancer",
+Hard:		"necromancer",  "elemental-mage"
+No:			"cleric", "war-priest", "paladin", "arch-mage", "assassin", "nightblade",
+
+Cleric=
+Related:	"war-priest", "paladin",
+Other: 		"elementalist", "enchanter", "elemental-mage"
+Odd:		"thief", "tinker"
+Hard:		"arch-mage", "sword-mage", "fighter"
+No:			"dark-paladin",  "assassin",  "nightblade", "necromancer", "nethermancer", "chaotic-lord"
+
+Dark-Paladin=
+Realted:	"necromancer", "chaotic-lord",
+Other:		"fighter", "thief", "tinker",
+Odd:		"sword-mage",
+Hard:		"elementalist", "enchanter", "elemental-mage",	
+No:			"cleric", "war-priest", "paladin", "arch-mage", "assassin", "nightblade", "nethermancer"
+
+Elementalist= 
+Related:	"arch-mage", "elemental-mage",
+Other:		"enchanter", "necromancer", "nethermancer", "chaotic-lord", "sword-mage"
+Odd:		"tinker", "thief"
+Hard:		"fighter",
+No:			"dark-paladin",	"assassin", "nightblade", "cleric", "war-priest", "paladin"
+
+Elemental-mage=
+Related:	"sword-mage", "arch-mage", "elementalist"
+Other:		"enchanter", "necromancer", "nethermancer"
+Odd:		"fighter", "thief", "tinker",  "cleric"
+Hard:		"chaotic-lord"
+No:			"assassin", "nightblade", "dark-paladin",  "war-priest", "paladin",
+
+Enchanter= 
+Related:	"tinker", "necromancer", "nethermancer",
+Other:		"elementalist",  "elemental-mage", "arch-mage",
+Odd:		"cleric", "war-priest"
+Hard:		"fighter", "thief",
+No:			"dark-paladin", "assassin", "nightblade", "paladin", "chaotic-lord", "sword-mage", 
+		
+Fighter= 
+Related:	"tinker", "thief"
+Other:		"cleric", "war-priest", "paladin"
+Odd:		"enchanter", "chaotic-lord", "sword-mage", "assassin"
+Hard:		"elementalist", "necromancer"
+No:			"dark-paladin", "arch-mage", "nightblade", "nethermancer", "elemental-mage",
+
+Necromancer=
+Related:	"nethermancer", "dark-paladin",
+Other: 		"enchanter", "elementalist", "elemental-mage", "arch-mage"
+Odd:		"tinker"
+Hard:		"fighter", "thief", 
+No:			"assassin", "cleric", "war-priest", "paladin", "chaotic-lord", "nightblade", "sword-mage",
+
+Nethermancer=
+Related:	"necromancer", "enchanter"
+Other: 		"elementalist", "elemental-mage", "arch-mage"
+Odd:		"chaotic-lord", "nightblade", "sword-mage"
+Hard:		"thief"
+No:			"dark-paladin",	"assassin", "cleric", "war-priest", "paladin", "tinker", "fighter"
+
+Nightblade=
+Related:	"thief", "assassin",
+Other:		"tinker", "chaotic-lord", "sword-mage",  
+Odd:		"elementalist", "enchanter", "elemental-mage"
+Hard:		"fighter", "necromancer", "nethermancer",
+No:			"dark-paladin", "arch-mage", "cleric", "war-priest", "paladin", 
+
+Paladin=
+Related:	"fighter", "war-priest", "cleric",
+Other:		"arch-mage", "elementalist", "enchanter", "elemental-mage",
+Odd:		"sword-mage"
+Hard:		"nightblade", "assassin", "tinker"
+No:			"necromancer", "nethermancer", "dark-paladin", "chaotic-lord", "thief",
+
+Sword-Mage=
+Related:	"elementalist", "elemental-mage",
+Other:		"arch-mage","fighter", "thief", "tinker", "enchanter"
+Odd:		"paladin", "necromancer", "nethermancer"
+Hard:		"chaotic-lord", 
+No:			"nightblade", "dark-paladin", "assassin", "cleric", "war-priest" 
+
+Thief=
+Related:	"tinker", "assassin",
+Other:		"fighter", "nightblade"
+Odd:		"necromancer", "nethermancer", "chaotic-lord", "sword-mage", "paladin"
+Hard:		"cleric", "war-priest",
+No:			"arch-mage", "elementalist", "enchanter",  "dark-paladin", "elemental-mage",
+
+Tinker=
+Related:	"fighter", "thief", "enchanter"
+Other:		"sword-mage", "cleric", "necromancer"
+Odd:		"paladin",  "war-priest",
+Hard:		"assassin", "arch-mage"
+No:			"dark-paladin", "elemental-mage", "nethermancer", "elementalist", "chaotic-lord", "nightblade",
+
+War-Priest=
+Related:	"fighter", "paladin", "cleric",
+other:		"thief", "tinker",  "enchanter", 
+odd:		"sword-mage", "arch-mage", "elementalist",
+Hard:		"chaotic-lord", "elemental-mage"
+No:			"dark-paladin", "nethermancer", "necromancer", "nightblade", "assassin"

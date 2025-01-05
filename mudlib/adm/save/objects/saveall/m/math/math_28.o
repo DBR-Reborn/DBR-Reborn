@@ -1,0 +1,8 @@
+#/d/damned/virtual/iron-greaves.armour
+#/d/damned/virtual/iron-greaves.armour.c
+encumbrance 100
+props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"progress inscribe_aldara_zet_maker":0,"value":230,"material_type":"metal","extra long":({"Smithed by: Maker with An iron armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress major_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"material_name":"iron","progress minor_fortification_math":0,"pow major_fortification_math":0,"enchantment":40,"pow minor_fortification_math":0,])
+true_name "iron greaves"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iron"
+armour_save (["short desc":"A pair of iron greaves","ac":(["infernal":268,"disruption":268,"stress":268,"crushing":286,"unholy":268,"cutting":286,"vacuum":268,"plasma":270,"impaling":286,"holy":268,"cold":272,"fire":272,"strike":282,"impact":282,"electricity":272,"aether":268,]),])

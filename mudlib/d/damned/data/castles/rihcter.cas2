@@ -1,0 +1,12 @@
+light:::2
+indoors:::1
+short:::Rihcter's Castle Room #2
+long:::This is Room #2 of Rihcter's Castle.
+If you are Rihcter, type 'help castle' for options.  
+no scry:::0
+no summon:::0
+no teleport:::0
+special exits:::0
+healing room:::0
+exit:::down:/d/damned/virtual/rihcter_room_1.castle:door:5:iron door
+exit:::east:/d/damned/virtual/rihcter_room_3.castle:door:2:wood door

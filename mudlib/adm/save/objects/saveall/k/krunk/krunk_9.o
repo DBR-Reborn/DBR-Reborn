@@ -1,0 +1,8 @@
+#/d/damned/virtual/stumps.armour
+#/d/damned/virtual/stumps.armour.c
+encumbrance 70
+props (["material_name":"abachi","value":90,"material_type":"wood","extra long":"Crafted by: Tursnik with A wooden board of abachi [172]","progress engrave_tursnik":0,"new desc":"Get Some Wood {stumps}",])
+true_name "stumps"
+creator "/d/damned/virtual/armour_server"
+material "/wood/abachi"
+armour_save (["short desc":"Get Some Wood {stumps}","ac":(["infernal":356,"disruption":376,"stress":440,"crushing":381,"unholy":464,"cutting":334,"vacuum":349,"plasma":456,"impaling":453,"holy":357,"cold":390,"fire":377,"strike":356,"impact":425,"electricity":427,"aether":439,]),])

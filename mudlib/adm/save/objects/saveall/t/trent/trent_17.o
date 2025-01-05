@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-boots.armour
+#/d/damned/virtual/leather-boots.armour.c
+encumbrance 1
+props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"slim leather boots {leather boots}","progress inscribe_malsa_sen_zora_trent":0,"material_name":"Watchman","true armour":1,"progress master_fortification_baarich":0,"pow enchanter_mark_baarich":0,"pow master_fortification_baarich":0,"value":30,"pow true_armour_baarich":0,"material_type":"leather","extra long":({"Crafted by: Trent with A Level [16] Watchman leather","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_aldara_zet_trent":0,"progress true_armour_baarich":0,"progress inscribe_malsa_bonnes_trent":0,"enchantment":70,"progress enchanter_mark_baarich":0,])
+true_name "leather boots"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Watchman"
+armour_save (["enhance critical":-5,"short desc":"slim leather boots {leather boots}","ac":(["infernal":280,"disruption":275,"stress":284,"unholy":277,"crushing":296,"cutting":300,"vacuum":282,"plasma":282,"impaling":301,"holy":282,"fire":291,"cold":284,"strike":294,"impact":290,"aether":275,"electricity":285,]),])

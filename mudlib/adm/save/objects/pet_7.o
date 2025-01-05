@@ -1,0 +1,29 @@
+#/std/obj/pet/tarrasque.c
+props (["melee damage":(["crushing":130,]),"material_name":"iron","magic resistance":160,"ambidextry":1,"base mp regen":210,"base hp regen":210,"enhance criticals":-4,"material_type":"none",])
+true_name "tarrasque"
+creator "/std/spells/fashion_tarrasque#9466"
+material "/iron"
+max_internal_encumbrance 7080
+player_data (["general":(["sp":1,"exp buffer":0,"experience":42000,"max_hp":9719,"hp":9719,"max_sp":1,]),])
+magic (["max points":6480,"points":6480,])
+severed ([])
+healing ([])
+body (["left foreclaw":(["damage":0,"armour_ob":({}),"max_dam":4859,"wieldable":1,"weapons":0,"ac":24,"limb_ref":"","armour":({}),]),"torso":(["damage":0,"armour_ob":({}),"max_dam":4859,"weapons":0,"ac":48,"limb_ref":"FATAL","armour":({}),]),"tail":(["damage":0,"armour_ob":({}),"max_dam":4859,"weapons":0,"ac":24,"limb_ref":"","armour":({}),]),"right rear leg":(["damage":0,"armour_ob":({}),"max_dam":4859,"weapons":0,"ac":24,"limb_ref":"right rear claw","armour":({}),]),"right wing":(["damage":0,"armour_ob":({}),"max_dam":4859,"weapons":0,"ac":24,"limb_ref":"","armour":({}),]),"left wing":(["damage":0,"armour_ob":({}),"max_dam":4859,"weapons":0,"ac":24,"limb_ref":"","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":4859,"weapons":0,"ac":24,"limb_ref":"FATAL","armour":({}),]),"right foreclaw":(["damage":0,"armour_ob":({}),"max_dam":4859,"wieldable":1,"weapons":0,"ac":24,"limb_ref":"","armour":({}),]),"left foreleg":(["damage":0,"armour_ob":({}),"max_dam":4859,"weapons":0,"ac":24,"limb_ref":"left foreclaw","armour":({}),]),"left rear claw":(["damage":0,"armour_ob":({}),"max_dam":4859,"weapons":0,"ac":24,"limb_ref":"","armour":({}),]),"right rear claw":(["damage":0,"armour_ob":({}),"max_dam":4859,"weapons":0,"ac":24,"limb_ref":"","armour":({}),]),"right foreleg":(["damage":0,"armour_ob":({}),"max_dam":4859,"weapons":0,"ac":24,"limb_ref":"right foreclaw","armour":({}),]),"left rear leg":(["damage":0,"armour_ob":({}),"max_dam":4859,"weapons":0,"ac":24,"limb_ref":"left rear claw","armour":({}),]),])
+limbs ({"left foreclaw","torso","tail","right rear leg","right wing","left wing","head","right foreclaw","left foreleg","left rear claw","right rear claw","right foreleg","left rear leg",})
+all_my_fingers 3
+heal_rate 210
+skills (["concentrate":(["stat":"intelligence","level":235,]),"body block":(["stat":"strength","level":100,]),"melee":(["stat":"strength","max":0,"points":0,"level":255,]),"reverse stroke":(["stat":"dexterity","level":69,]),"knife":(["stat":"dexterity","level":210,]),"perception":(["stat":"intelligence","level":189,]),"blade":(["stat":"dexterity","level":200,]),"two handed blade":(["stat":"dexterity","level":204,]),"swimming":(["stat":"constitution","level":100,]),"defense":(["level":175,]),"blunt":(["stat":"dexterity","level":207,]),"resist stun":(["stat":"constitution","level":126,]),"dodge":(["stat":"dexterity","level":179,]),"two handed staff":(["stat":"dexterity","level":198,]),"parry":(["stat":"dexterity","level":184,]),"projectile":(["level":201,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":190,]),])
+wimpydir "out"
+ok_to_heal 24771
+player_age 24764
+gender "neuter"
+stats (["wisdom":115,"dexterity":115,"constitution":115,"strength":236,"intelligence":115,"charisma":152,])
+languages (["yin":10,"elvish":10,"grken":10,"drow":10,"common":10,"serra":10,"magical-creationish":10,"treefolk":10,"dwarvish":10,])
+primary_language "magical-creationish"
+level 42
+emotes ([])
+speech ([])
+spell_chance ([])
+body_type "dragon"
+register_idx 7
+Pet_data (["carry":1,"aggr status":0,"save":1,"change aggr":1,"owner":"upstart","attack":1,])

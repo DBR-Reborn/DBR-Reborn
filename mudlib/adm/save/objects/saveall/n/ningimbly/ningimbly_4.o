@@ -1,0 +1,8 @@
+#/d/damned/virtual/gauntlet.armour
+#/d/damned/virtual/gauntlet.armour.c
+encumbrance 6
+props (["material_name":"mcgrail","value":10,"extra long":"level[117] mcgrail gauntlet of fire and impaling protection","material_type":"metal","new desc":"level[117] mcgrail gauntlet of fire and impaling protection",])
+true_name "gauntlet"
+creator "/d/damned/virtual/armour_server"
+material "/metal/mcgrail"
+armour_save (["short desc":"level[117] mcgrail gauntlet of fire and impaling protection","ac":(["infernal":648,"disruption":648,"stress":648,"unholy":648,"crushing":648,"cutting":648,"vacuum":648,"plasma":648,"impaling":3018,"holy":648,"fire":3042,"cold":648,"strike":648,"impact":648,"aether":648,"electricity":648,]),])

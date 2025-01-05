@@ -1,0 +1,10 @@
+#/std/obj/misc/p_rune.c
+props (["save mod":"constitution","pow preserve_rune_okkita":0,"progress preserve_rune_okkita":0,"preserved":1,"can resist":1,])
+true_name "rune"
+creator "/std/spells/poison_rune#864849"
+register_idx 61
+caster "okkita"
+my_file "rune_0"
+non_active ({"ceinna",})
+level 6
+clevel 27

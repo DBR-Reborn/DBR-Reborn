@@ -1,0 +1,8 @@
+#/d/damned/virtual/plate-greaves.armour
+#/d/damned/virtual/plate-greaves.armour.c
+encumbrance 450
+props (["material_name":"laen","value":430,"material_type":"metal","extra long":"level[43] laen greaves of plasma and disruption protection","new desc":"level[43] laen greaves of plasma and disruption protection",])
+true_name "plate greaves"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"level[43] laen greaves of plasma and disruption protection","ac":(["infernal":61,"disruption":166,"stress":61,"crushing":61,"unholy":61,"cutting":61,"vacuum":61,"plasma":139,"impaling":61,"holy":61,"cold":61,"fire":61,"strike":61,"impact":61,"electricity":61,"aether":61,]),])

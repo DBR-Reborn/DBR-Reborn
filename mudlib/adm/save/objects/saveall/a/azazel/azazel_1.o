@@ -1,0 +1,8 @@
+#/wizards/zortek/obj/recall_ob.c
+encumbrance 50
+props (["value":0,])
+true_name "wafer"
+creator "Azazel"
+success 302
+recall_time 1734727659
+recall_dest "/d/daybreak/room/db_square"

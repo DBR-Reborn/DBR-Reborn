@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-helmet.armour
+#/d/damned/virtual/leather-helmet.armour.c
+encumbrance 60
+props (["value":45,"progress inscribe_malsa_bonnes_rihcter":0,"runes":({"malsa bonnes",}),"extra long":({"Crafted by: Rihcter with A Level [115] Shadowflame Templar leather",({"Fortification: %^CYAN%^+100%","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.",}),"material_type":"leather","progress extreme_fortification_rihcter":0,"new desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {leather helmet}","pow extreme_fortification_rihcter":0,"material_name":"Shadowflame Templar","progress engrave_thromax":0,"enchantment":100,])
+true_name "leather helmet"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Shadowflame Templar"
+armour_save (["short desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {leather helmet}","ac":(["infernal":597,"disruption":591,"stress":611,"crushing":1073,"unholy":557,"cutting":1089,"vacuum":602,"plasma":578,"impaling":1102,"holy":560,"cold":635,"fire":619,"strike":1104,"impact":1081,"electricity":561,"aether":600,]),])

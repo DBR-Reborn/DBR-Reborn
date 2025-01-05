@@ -1,0 +1,53 @@
+     =-=-=-=-=-=-=- Races of Daybreak -=-=-=-=-=-=
+
+
+Elven Races:          Sylvan/Faerie Races:        Dwarven Races:
+============          ====================        ==============
+Drow-Elf               Sprite                       Dwarf
+Grey-Elf               Dinjinni                       
+Half-Elf               Efreet                       
+High-Elf                                         
+Wood-Elf
+Blood-Elf
+
+
+Halfling Races:       Giant Races:                Human Races:
+================      ============                ============
+Halfling              Hill-Giant                   High-Man
+                      Storm-Giant                  China-Man
+                      Ogre                         North-Man
+
+                                                   
+Gnome Races:          Elemental Races:            Troll Races:
+============          ================            ============
+Gnome                 Nereid                      Troll  
+                      Pech                         
+                      Salamander                   
+                      Sylph                       
+                      Ent
+
+
+Foul Races:           Animal Races:               Gromek Races:
+==========            ===========                 =============
+Half-Orc              Gerudan                     Gromek 
+Minotaur              Gnoll                        
+Wraith                Thranx                        
+                      Vulfen                        
+
+                                           			                                 
+Ethereal Races:         Were Races: 
+===============         ===============
+Seraph                  Werebear 
+Sword-Demon             Weretiger
+                        Werewolf
+                        Weredragon (New work in progress)
+
+
+Type pick <race> to pick your race.
+
+For further information on the races, use help <race>
+
+
+Note: Some races have a resistance can take extra damage
+      from certain types of damage types.
+      Example: Trolls take extra fire damage.

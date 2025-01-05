@@ -1,0 +1,13 @@
+#/d/damned/guilds/join_rooms/alchemist_join.c
+props (["base mp regen":7,"light":2,"base hp regen":8,"guild mods":(["wisdom":10,"intelligence":10,]),"mp advance":25,"indoors":1,"hp advance":25,])
+__Smells ([])
+__Listens ([])
+__Searches ([])
+destinations (["north":"/d/damned/guilds/alchemist/train_room","west":"/d/daybreak/room/dbcc3",])
+invis_exits ([])
+pre_exit_func ([])
+post_exit_func ([])
+tracks ({})
+__Items (["blue moon":0,"sky":0,"ankh":0,"moon":0,"red moon":0,"sun":0,"warzau":0,"green moon":0,"moons":0,"luna":0,])
+guild_list ([])
+banish ([])

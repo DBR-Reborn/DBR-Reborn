@@ -1,0 +1,6 @@
+#/std/diewarzau/obj/misc/ingot.c
+encumbrance 680
+props (["material_name":"iysaughton","value":1700,"material_type":"metal",])
+true_name "ingot"
+creator "/std/skills/minning#1059"
+material "/metal/iysaughton"

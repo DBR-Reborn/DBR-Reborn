@@ -1,0 +1,6 @@
+#/std/obj/lantern.c
+encumbrance 200
+props (["float value":3,])
+true_name "lantern"
+creator "/d/newbieville/rooms/upperfloor2"
+fuel 3600000000000

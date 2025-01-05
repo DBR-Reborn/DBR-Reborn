@@ -1,0 +1,6 @@
+melee damage:::(["crushing":10])
+magic resistance:::20
+extra hp regen:::20
+innate skills:::(["carpentry":15,"blacksmith":15,"repair weapon":15])
+xp mod:::40
+dev cost:::-2

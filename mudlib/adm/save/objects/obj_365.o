@@ -1,0 +1,7 @@
+#/d/damned/virtual/leather-belt.armour.c
+encumbrance 2
+props (["value":4,"material_type":"leather","extra long":"Crafted by: Kigus with A Level [100] Gold dragon leather","progress engrave_kigus":0,"progress enchanter_mark_okkita":0,"new desc":"%^B_BLUE%^RESET%^ {leather belt}","progress engrave_inikhida":0,"material_name":"Gold dragon","pow enchanter_mark_okkita":0,"progress engrave_arcadia":0,])
+true_name "leather belt"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Gold dragon"
+armour_save (["short desc":"%^B_BLUE%^RESET%^ {leather belt}","ac":(["infernal":328,"disruption":326,"stress":332,"unholy":323,"crushing":321,"cutting":324,"vacuum":322,"plasma":322,"impaling":335,"holy":323,"fire":337,"cold":326,"strike":324,"impact":332,"aether":329,"electricity":331,]),])

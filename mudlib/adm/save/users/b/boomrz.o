@@ -1,0 +1,60 @@
+#/std/user.c
+encumbrance 500
+props (["light":0,"sp points":0,"xp mod":30,"old exp":10149,"hp advance":50,"corpse eating":1,"melee damage":(["crushing":5,]),"base mp regen":3,"handedness":"left hand","ambidextry":0,"last reinc":1669321057,"base hp regen":15,"dev point base":42,"mp advance":15,"combat color":"%^BOLD%^","last read news":1669321057,"dev points":1,])
+true_name "boomrz"
+creator "/adm/obj/login#190428"
+max_internal_encumbrance 2100
+player_data (["kills":({21,}),"general":(["max exp":120,"alignment":0,"exp buffer":0,"sp":1,"experience":121,"last adjust":1669322712,"max_hp":78,"max_sp":0,"hp":78,]),])
+magic (["max points":78,"points":78,])
+severed ([])
+healing (["stuffed":125,])
+body (["torso":(["damage":0,"armour_ob":({,}),"max_dam":78,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"leather torso",}),]),"left leg":(["damage":0,"armour_ob":({,}),"max_dam":26,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"leather legs",}),]),"right foot":(["damage":0,"armour_ob":({,}),"max_dam":19,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"right leg":(["damage":0,"armour_ob":({,}),"max_dam":26,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"leather legs",}),]),"head":(["damage":0,"armour_ob":({,}),"max_dam":39,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"chain head",}),]),"right hand":(["damage":0,"armour_ob":({,,}),"max_dam":19,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"left foot":(["damage":0,"armour_ob":({,}),"max_dam":19,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"left arm":(["damage":0,"armour_ob":({,}),"max_dam":26,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm",}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":19,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":26,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 19
+char_class "fighter"
+skills (["two handed blade":(["stat":"dexterity","last dev":({1,2,}),"level":10,]),"knife":(["stat":"dexterity","last dev":({1,1,}),"level":5,]),"parry":(["stat":"dexterity","last dev":({1,1,}),"level":5,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"attack":(["stat":"dexterity","last dev":({0,0,}),"max":0,"points":0,"level":5,]),"melee":(["stat":"strength","last dev":({1,1,}),"max":0,"points":0,"level":5,]),])
+spells ([])
+wimpydir "out"
+protection 2
+hits 4
+i 1
+j 1
+k 3
+num_attacks 1
+x 23
+num_rounds 1
+skill 6
+env_var (["TITLE":"Novice $N the Half-orc","start":"/d/daybreak/room/dbew10","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money (["silver":264,"gold":47,"copper":2530,])
+ok_to_heal 10498
+player_age 10492
+sight_bonus 1
+gender "male"
+state "stand"
+stats (["wisdom":45,"dexterity":50,"strength":70,"constitution":55,"intelligence":45,"charisma":45,])
+languages (["common":10,"orcish":6,"middle-english":6,])
+primary_language "orcish"
+xp_to_next_dev 349
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+verbose_moves 1
+birth 1669321057
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "ualtimo@gmail.com"
+ip "159.203.67.128"
+last_on "Thu Nov 24 20:17:37 2022"
+password "$6$I7W2GHiJpJBt88Qr$62QLWFUplzzYpjEFza0Y.Nb3bQT4ajRhTgDp/JtxHwFBlzrJVvfgJEN9sSJS4kaMq0JYAg.oelvyK8N8cv0ke1"
+race "half-orc"
+original_site "159.203.67.128"
+position "player"
+quests ({})

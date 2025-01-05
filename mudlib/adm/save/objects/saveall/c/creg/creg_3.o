@@ -1,0 +1,8 @@
+#/d/damned/virtual/chain-glove.armour
+#/d/damned/virtual/chain-glove.armour.c
+encumbrance 1
+props (["progress inscribe_malsa_sen_zora_creg":0,"runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"value":706,"extra long":({"Smithed by: Creg with laen [268] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"metal","progress inscribe_aldara_zet_creg":0,"progress true_armour_creg":0,"progress inscribe_malsa_bonnes_creg":0,"material_name":"laen","true armour":1,"pow true_armour_creg":0,])
+true_name "chain glove"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-6,"short desc":"A chain glove","ac":(["infernal":1234,"disruption":1237,"stress":1159,"crushing":1116,"unholy":1239,"cutting":1150,"vacuum":1163,"plasma":1204,"impaling":1120,"holy":1197,"cold":1151,"fire":1213,"strike":1193,"impact":1122,"electricity":1221,"aether":1222,]),])

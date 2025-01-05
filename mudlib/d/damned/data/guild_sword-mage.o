@@ -1,0 +1,13 @@
+#/d/damned/guilds/join_rooms/sword-mage_join.c
+props (["base mp regen":5,"guild mods":(["constitution":5,"intelligence":5,]),"base hp regen":5,"light":2,"mp advance":24,"hp advance":30,"indoors":1,])
+__Smells ([])
+__Listens ([])
+__Searches ([])
+destinations (["down":"/d/damned/guilds/sword-mage/train_room","west":"/d/daybreak/room/dblw3",])
+invis_exits ([])
+pre_exit_func ([])
+post_exit_func ([])
+tracks ({})
+__Items (["blue moon":0,"sky":0,"ankh":0,"moon":0,"red moon":0,"green moon":0,"warzau":0,"sun":0,"luna":0,"moons":0,])
+guild_list (["xanixar":(["status":"member",]),"daker":(["status":"member",]),"lithdhorian":(["status":"member",]),"exash":(["status":"member",]),"taril":(["status":"member",]),"instinct":(["status":"member",]),"menako":(["status":"member",]),"derek":(["status":"member",]),"lilund":(["status":"allow train",]),"krakenskulz":(["status":"member",]),"strider":(["status":"member",]),"poke":(["status":"member",]),"nogaruk":(["status":"member",]),"lu":(["status":"member",]),])
+banish ([])

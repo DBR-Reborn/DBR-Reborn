@@ -1,0 +1,62 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":50,"light":0,"xp mod":-30,"hp advance":30,"melee damage":(["crushing":5,]),"handedness":"left hand","last reinc":1734671904,"reincarnate":1,"dev point base":71,"mp advance":20,"last read news":1734671904,"magic resistance":15,"old exp":11120991491,"sp points":0,"base mp regen":4,"ambidextry":1,"base hp regen":6,"combat color":"%^BOLD%^","dev points":73,])
+true_name "dalau"
+creator "/adm/obj/login#109737"
+max_internal_encumbrance 3450
+player_data (["kills":({21,}),"general":(["alignment":0,"exp buffer":0,"sp":1,"max_hp":120,"hp":120,"max exp":432,"experience":433,"last adjust":1666395179,"quest points":0,"max_sp":595,]),])
+magic (["max points":126,"points":126,])
+severed ([])
+healing (["quenched":900,"stuffed":625,])
+body (["right foot":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":30,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":40,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"leather legs",}),]),"head":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":60,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"metal head",}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":30,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":40,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm",}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":120,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"leather torso",}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":40,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"leather legs",}),]),"right hand":(["damage":0,"armour_ob":({,,}),"weapon":0,"max_dam":30,"weapons":,"wieldable":1,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"left hand":(["damage":0,"armour_ob":({,,}),"weapon":0,"max_dam":30,"weapons":,"wieldable":1,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":40,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"metal arm",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 56
+char_class "paladin"
+skills (["magery":(["stat":"intelligence","level":5,]),"illusionism":(["stat":"intelligence","level":5,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"perception":(["stat":"intelligence","last dev":({0,0,}),"level":5,]),"attack":(["stat":"dexterity","last dev":({0,0,}),"max":0,"points":0,"level":5,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),])
+spells (["darkness":(["level":1,]),"levitation":(["level":1,]),"faerie fire":(["level":1,]),])
+wimpydir "out"
+protection 2
+hits 6
+i 1
+j 1
+k 3
+num_attacks 1
+x 15
+num_rounds 1
+skill 37
+env_var (["start":"/d/damned/guilds/paladin/paladin_spell_room","TITLE":"Novice $N the Drow-elf","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money (["silver":40,])
+ok_to_heal 20480
+player_age 20472
+sight_bonus 5
+gender "male"
+state "stand"
+stats (["wisdom":90,"dexterity":85,"strength":115,"constitution":85,"intelligence":85,"charisma":52,])
+languages (["common":10,"drow":10,])
+primary_language "drow"
+xp_to_next_dev 499
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+zexp 433
+znexp 4999
+zlexp 4566
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+verbose_moves 1
+birth 1666393544
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "David"
+email "dalau22@gmail.com"
+ip "72.130.56.231"
+last_on "Fri Dec 20 05:18:24 2024"
+password "$6$oPJRaOGqip9LhsMz$ybNl/XZDqVo5xdzhcK1Ef0QR0Yb7GVlJvUY9j60zQR3Neg50Ntdsi9.7HJsnR5pDtu2ow2z/DzGHiRprz6oWC/"
+race "drow-elf"
+original_site "159.203.67.128"
+position "player"
+primary_start "/d/damned/guilds/paladin/paladin_spell_room"
+quests ({})

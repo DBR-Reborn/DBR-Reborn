@@ -1,0 +1,8 @@
+#/d/damned/virtual/cloth-wing-guards.armour
+#/d/damned/virtual/cloth-wing-guards.armour.c
+encumbrance 50
+props (["runes":({"malsa sen zora","malsa bonnes",}),"new desc":"%^B_BLUE%^Divine%^RESET%^ {cloth wing guards}","progress engrave_inikhida":0,"material_name":"Gold dragon","pow master_fortification_nawara":0,"progress engrave_nawara":0,"true armour":1,"progress enchanter_mark_nawara":0,"progress master_fortification_nawara":0,"pow enchanter_mark_nawara":0,"progress inscribe_malsa_sen_zora_skye":0,"progress engrave_angelica":0,"value":10,"material_type":"leather","extra long":({"Crafted by: Kigus with A Level [100] Gold dragon leather","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_malsa_bonnes_skye":0,"progress enchanter_mark_okkita":0,"progress engrave_yorik":0,"pow enchanter_mark_okkita":0,"pow true_armour_okkita":0,"progress true_armour_okkita":0,"enchantment":70,])
+true_name "cloth wing guards"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Gold dragon"
+armour_save (["enhance critical":-4,"short desc":"%^B_BLUE%^Divine%^RESET%^ {cloth wing guards}","ac":(["infernal":518,"disruption":519,"stress":529,"crushing":539,"unholy":524,"cutting":545,"vacuum":518,"plasma":525,"impaling":528,"holy":522,"cold":527,"fire":537,"strike":531,"impact":522,"electricity":527,"aether":521,]),])

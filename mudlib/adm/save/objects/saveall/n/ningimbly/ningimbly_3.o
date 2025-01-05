@@ -1,0 +1,8 @@
+#/d/damned/virtual/chain-mail.armour
+#/d/damned/virtual/chain-mail.armour.c
+encumbrance 180
+props (["material_name":"iysaughton","value":150,"material_type":"metal","extra long":"level[107] iysaughton mail of disruption and vacuum protection","new desc":"level[107] iysaughton mail of disruption and vacuum protection",])
+true_name "chain mail"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iysaughton"
+armour_save (["short desc":"level[107] iysaughton mail of disruption and vacuum protection","ac":(["infernal":774,"disruption":2659,"stress":774,"crushing":774,"unholy":774,"cutting":774,"vacuum":2679,"plasma":774,"impaling":774,"holy":774,"cold":774,"fire":774,"strike":774,"impact":774,"electricity":774,"aether":774,]),])

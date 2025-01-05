@@ -1,0 +1,16 @@
+light:::2
+indoors:::1
+short:::Clan Trueenchanters Room #1
+long:::This is Room #1 of Clan Trueenchanters.
+If you are Upstart, type 'help clan' for options.
+
+
+no scry:::1
+no summon:::1
+no teleport:::1
+special exits:::1
+healing room:::1
+owner:::0
+exit:::church:/d/standard/square
+exit:::shop:/d/damned/akkad/ak_shop4
+exit:::out:/d/damned/virtual/courtyard:trueenchanters_1.clan

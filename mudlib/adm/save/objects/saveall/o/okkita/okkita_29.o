@@ -1,0 +1,5 @@
+#/d/areas/chaos/obj/plaguestaff.c
+encumbrance 200
+props (["brittle":139,"pow dark_weapon_inikhida":0,"value":0,"material_type":"none","extra long":({({"This weapon has %^BOLD%^Bless Weapon%^RESET%^.","detect magic",}),({"This weapon has %^BOLD%^%^BLUE%^Dark Weapon%^RESET%^.","detect magic",}),({"This weapon has %^RED%^%^RED%^Firestorm%^RESET%^ Blade.","detect magic",}),}),"no decay":1,"pow bless_weapon_yorik":0,"dark weapon":65,"progress bless_weapon_yorik":0,"material_name":"bone","bless weapon":58,"progress dark_weapon_inikhida":0,"firestorm blade":16,"no add quality":1,"pow firestorm_blade_okkita":0,"progress firestorm_blade_okkita":0,])
+material "/bone"
+__Weapon (["original wc":(["impact":81,"fire":25,"holy":105,"unholy":108,]),"quality":6,"type":"two handed staff","wield":"Your arm suddenly feels tired and worn.","ac":(["infernal":1,"disruption":1,"stress":1,"crushing":1,"unholy":1,"cutting":1,"vacuum":1,"plasma":1,"impaling":1,"holy":1,"cold":1,"fire":1,"strike":1,"impact":1,"electricity":1,"aether":1,]),"verb":"decay","wc":(["impact":153,"fire":210,"holy":558,"unholy":619,]),"short desc":"Staff of Nurgle","decay rate":200,"hit bonus":10,])

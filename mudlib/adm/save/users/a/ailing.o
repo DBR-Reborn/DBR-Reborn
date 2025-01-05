@@ -1,0 +1,50 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":40,"extra hp regen":25,"old exp":10149,"light":0,"sp points":0,"xp mod":-50,"melee damage":(["holy":5,"crushing":5,]),"base mp regen":3,"handedness":"right hand","ambidextry":0,"last reinc":1692689804,"base hp regen":3,"dev point base":72,"enhance criticals":(["disruption":1,"holy":-1,]),"combat color":"%^BOLD%^","last read news":1692689804,"dev points":72,])
+true_name "ailing"
+creator "/adm/obj/login#23369"
+max_internal_encumbrance 3150
+player_data (["general":(["exp buffer":0,"sp":1,"max_hp":150,"max_sp":0,"hp":109,]),])
+magic (["max points":123,"points":38,])
+severed ([])
+healing ([])
+body (["head":(["damage":0,"armour_ob":({}),"max_dam":75,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":50,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":37,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":50,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":37,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"torso":(["damage":0,"armour_ob":({}),"max_dam":150,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":50,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":37,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right wing":(["damage":0,"armour_ob":({}),"max_dam":50,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":37,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":50,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left wing":(["damage":0,"armour_ob":({}),"max_dam":50,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"head","right leg","right foot","left arm","left foot","left leg","torso","right hand","right wing","right arm","left hand","left wing",})
+all_my_fingers 5
+heal_rate 1
+char_class "child"
+skills (["prayer":(["stat":"wisdom","level":5,]),"trade lore":(["stat":"charisma","level":5,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":5,]),"melee":(["max":0,"points":0,"level":0,]),])
+spells (["holy word":(["level":1,]),"cure light wounds":(["level":1,]),])
+wimpydir "out"
+env_var (["TITLE":"Novice $N the Seraph","start":"/d/newbieville/rooms/upperfloor","LINES":"70","SCORE":"on","TERM":"unknown",])
+money ([])
+ok_to_heal 5396
+player_age 5384
+sight_bonus 3
+gender "female"
+state "stand"
+stats (["wisdom":88,"dexterity":96,"strength":105,"constitution":105,"intelligence":83,"charisma":77,])
+languages (["common":10,"serra":10,])
+primary_language "serra"
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+verbose_moves 1
+birth 1692689804
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "Emilysrobots56@gmail.com"
+ip "76.138.232.73"
+last_on "Tue Aug 22 07:36:44 2023"
+password "$6$fy6ZS76.Unx2XVBJ$iPV9W7O8D1h0X2WUqkgMjrcS5Hp0Y01E/RSwuWdyrDGn/reIkJ/4.M65rc3LAz92ZWZe.u6k1VZgaEjkfgZDB0"
+race "seraph"
+original_site "76.138.232.73"
+position "player"
+quests ({})

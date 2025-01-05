@@ -1,0 +1,1555 @@
+// /d/1tlny/crit/crit_func
+// special results for the aether crit table, accessed with
+// eog metal as of 5-6-96
+// Excelsior 5-6-96
+//TLNY2020 Merged all crit tables into one
+
+#define A_NAMEX ((string)from->query_cap_name())
+#define T_NAMEX ((string)to->query_cap_name())
+#define A_NAMEZ ((string)from->query_cap_name())
+#define T_NAMEZ ((string)to->query_cap_name())
+#define AETHER_ELEMENTS ({"vacuum","electricity","fire","cold","holy"})
+#define A_NAME ((string)from->query_name())
+#define T_NAME ((string)to->query_name())
+#define MONEY_TYPES ({"gold","silver","mithril","electrum","copper",\
+	"platinum"})
+
+
+object environment;
+int times;
+
+void pass_storm(object to, object from);
+void do_element(object to,object from);
+
+void mad_attack(object from,object to) {
+	int rounds;
+	object shadow;
+	rounds = 2+random(5);
+	while(rounds--) {
+		message("info","%^ORANGE%^%^BOLD%^"+((string)from->query_cap_name())+" attacks "+((string)to->query_cap_name())+" in a crazed, "+
+			"magic induced rage!",
+			environment(from),({to,from}));
+		message("info","%^ORANGE%^%^BOLD%^You attack "+((string)to->query_cap_name())+" in a crazed, "+
+			"magic induced rage!",from);
+		message("info","%^ORANGE%^%^BOLD%^"+((string)from->query_cap_name())+" attacks you in a crazed, "+
+			"magic induced rage!",to);
+		from->continue_attack();
+	}
+}
+
+void energy_barrier(object from,object to) {
+  object ob;
+  seteuid(getuid());
+  ob = new("/std/spells/shadows/ac_shadow");
+  ob->set_shad_ac(15 + random(25));
+  ob->set_expire_message("The energy barrier around you fades away.");
+  ob->start_shadow(from, 60);
+  return;
+}
+
+void lower_max_hp(object from,object to) {
+	object shadow;
+	seteuid(getuid());
+	shadow = new("/std/spells/shadows/max_hp_shadow");
+	shadow->start_shadow(to,-(random(400)+100),60);
+}
+
+void knock_back(object from,object to) {
+	int i;
+	string *tmp,destination;
+	tmp = environment(to)->query_exits();
+	i = sizeof(tmp);
+	i--;
+        if(i < 0) return;
+	while((string)environment(to)->query_pre_exit_func(tmp[i]) &&
+		!call_other(environment(to),(string)environment(
+			to)->query_pre_exit_func(tmp[i]))) {
+		i--; 
+		if(i < 0) {
+			message("info","%^GREEN%^%^BOLD%^"+(string)to->query_cap_name()+
+			" has nowhere to fly.",
+				environment(from));
+			message("info","%^GREEN%^%^BOLD%^You have nowhere to be hit to.",to);
+			return;
+		}
+	}
+	destination = environment(to)->query_exit(tmp[i]);
+	to->move(destination);
+	message("info","%^GREEN%^%^BOLD%^"+(string)to->query_cap_name()+
+		" flies "+tmp[i]+" very fast.",
+		environment(from));
+	message("info","%^GREEN%^%^BOLD%^You fly "+tmp[i]+" very fast.",to);
+}
+
+void rob_money(object from,object to) {
+	int i;
+	i = sizeof(MONEY_TYPES);
+	while(i--) {
+		if(to->query_money(MONEY_TYPES[i])) {
+			from->add_money(MONEY_TYPES[i],
+				(int)to->query_money(MONEY_TYPES[i]));
+			to->add_money(MONEY_TYPES[i],
+				-(int)to->query_money(MONEY_TYPES[i]));
+		}
+	}
+	message("info","%^RED%^You have lost all the money on your person!!!",to);
+}
+
+void drop_all(object from,object to) {
+	object *inv;
+	int i;
+	inv = all_inventory(to);
+	i = sizeof(inv);
+	while(i--) inv[i]->move(environment(to));
+}
+
+
+void transfer_hp(object from,object to) {
+	int amount;
+	amount = random(300) + 20;
+	from->add_hp(amount);
+	if(((int)to->query_hp() - amount) <= 0) {
+                if(!(int)to->is_player()) from->add_exp2((int)to->query_exp()/5);
+		to->add_hp(-((int)to->query_hp() + 10));
+		return;
+	}
+	to->add_hp(-amount);
+}
+
+void heavy_drop(object from,object to) {
+	object *inv;
+	int i;
+	inv = all_inventory(to);
+	i = sizeof(inv);
+	while(i--) {
+		if((int)inv[i]->query_weight() > 120) {
+			message("info","%^B_BLUE%^"+
+				capitalize((string)inv[i]->query_short())+" falls to the ground!",to);
+			message("info","%^B_BLUE%^"+((string)to->query_cap_name())+" can no longer hold onto "+
+				capitalize((string)inv[i]->query_short())+", so it "+
+				"falls to the ground!",environment(to),({to}));
+			inv[i]->move(environment(to));
+		}
+	}
+}
+
+void poison_blood(object from,object to) {
+	to->add_poisoning(300);
+}
+
+void lesser_unworldly(object from,object to) {
+	object mon;
+	seteuid(getuid());
+	mon = new("/d/1tlny/crit/lesser_unworldly");
+	mon->move(environment(to));
+	mon->set_owner((string)from->query_name());
+	mon->kill_ob(to,0);
+}
+
+void leave_rooms(object from,object to) {
+	int flag,damage,whee;
+	string direction,dest,func;
+	whee = 0;
+	while(!flag) {
+		if(!to || !environment(to)) flag = 1;
+		if(!random(40)) flag = 1;
+		if(whee > 80) flag = 1;
+		if(!direction)
+			direction = ((string *)environment(to)->query_exits())[
+				random(sizeof((string *)environment(to)->query_exits()))];
+		if(!random(3))
+			direction = ((string *)environment(to)->query_exits())[
+				random(sizeof((string *)environment(to)->query_exits()))];
+		dest = (string)environment(to)->query_exit(direction);
+		func = environment(to)->query_exit_func(direction);
+		if(!dest || flag || (func && !call_other(environment(to),func))) {
+			message("info","You finally come to a rest on a hard surface. OUCH!",
+				to);
+			message("info",(string)to->query_cap_name()+
+				" finally comes to a rest on a hard surface. "+
+				"%^YELLOW%^%^BOLD%^AWESOME HIT!!\n"+
+				(string)to->query_psubjective()+" can be found at: "+
+				"%^RED%^"+(string)environment(to)->query_short()+".",
+				environment(from));
+			if((int)to->query_hp() <= 0) return;
+			damage = -(random(30)+20);
+			if(((int)to->query_hp() + damage) <= 0) {
+				if(!(int)to->is_player()) from->add_exp2((int)to->query_exp());
+				to->add_hp(-((int)to->query_hp() + 10));
+			} else { to->add_hp(damage); }
+			whee++;
+			break;
+		}
+		message("other_action","%^MAGENTA%^"+(string)to->query_cap_name()+
+		" is flung "+direction+"!",from);
+		message("other_action","%^MAGENTA%^"+(string)to->query_cap_name()+
+		" is flung "+direction+"!",environment(to),({to}));		
+		message("my_action","%^MAGENTA%^You are flung "+direction+"!",to);
+		to->move(dest);		
+		damage = -(random(10)+15);
+		if(((int)to->query_hp() + damage) <= 0) {
+			if(!(int)to->is_player()) from->add_exp2((int)to->query_exp());
+			to->add_hp(-((int)to->query_hp() + 10));
+		} else { to->add_hp(damage); }
+	}
+}
+
+void elemental_control(object from,object to) {
+	do_element(to,from);
+}
+
+void do_element(object to,object from) {
+	string crit;
+	int i;
+	object tmp;
+	i = random(30);
+	if(to->query_ghost() || !i || !find_living((string)to->query_name())) {
+		if(!i) message("info","%^PINK%^You feel your elemental control "+
+			"fade away...",from);
+		return;
+	}
+	i = random(2);
+	tmp = present(to,environment(from));
+	if(!tmp && !i) {
+		message("info","%^GREEN%^%^BOLD%^"+(string)from->query_cap_name()+" uses a powerful wind to drag "+
+			"you back into battle!",to);
+		message("info","%^GREEN%^%^BOLD%^A powerful wind suddenly "+
+			"drags "+(string)to->query_cap_name()+" away.",environment(to),
+			({to}));
+		message("info","%^GREEN%^%^BOLD%^"+(string)from->query_cap_name()+" uses a powerful wind to "+
+			"drag "+(string)to->query_cap_name()+" back into the "+
+			"room.",environment(from),({from}));
+		message("info","%^GREEN%^%^BOLD%^HA! You're not about to let "+
+		(string)to->query_cap_name()+""+((string)to->query_cap_name())+" get "+
+			"away that easily! "+
+			"You drag "+(string)to->query_objective()+" back into the room!",from);
+		to->move(environment(from));
+	} else {
+		if(!tmp) {
+			return;
+		}
+	}
+	i = random(sizeof(AETHER_ELEMENTS));
+	crit = AETHER_ELEMENTS[i];
+	message("info",((string)from->query_cap_name())+" uses %^RED%^"+crit+"%^RESET%^.",
+		environment(from),({from}));
+	message("info","You use %^RED%^"+crit+"%^RESET%^.",
+		from);
+	crit = crit+" "+({"B","C","D","E"})[random(4)];
+	do_critical(from, to, ({ crit }) );
+	call_out("do_element",2,to,from);
+}
+
+void remove_corpse(object from,object to) {
+	object *inv;
+	if(!(int)to->is_player()) from->add_exp2((int)to->query_exp());
+	to->add_hp(-((int)to->query_hp() + 10));
+	if(to->is_player()) {
+		times = 0;
+		call_out("corpse_check",3,to,from);
+	}
+}		
+
+void greater_unworldly(object from,object to) {
+	object mon;
+	seteuid(getuid());
+	mon = new("/d/1tlny/crit/greater_unworldly");
+	mon->move(environment(to));
+	mon->set_owner((string)from->query_name());
+	mon->kill_ob(to,0);
+	call_out("remove_pet",3000,mon);
+}
+
+void remove_pet(object ob) {
+	message("info",(string)ob->query_short()+" suddenly dissapears.",
+		 environment(ob));
+	ob->remove();
+}
+
+void no_balance(object from,object to) {
+	object ob;
+	message("info","%^MAGENTA%^You begin to have serious trouble focusing on "+
+				"things.",to);
+	seteuid(getuid());
+	ob = new("/std/spells/shadows/blur_shadow");
+	ob->set_penalty(random(5)+10);
+	ob->start_shadow(to,(100+random(80)),
+		"%^CYAN%^You regain control of your vision.");
+	call_out("do_balance",1,from,to);
+}
+
+void do_balance(object from,object to) {
+	object *stuff;
+	int i;
+	if(!random(30)) return;
+	switch(random(4)) {
+		case(0):
+			stuff = filter_array(map_array((string *)to->query_limbs(),
+        		(: call_other, to, "query_weapon" :)),
+        		(: ($1 != $2) :), 0);
+        	message("info","%^MAGENTA%^In your unbalanced state you are unable to wield "+
+        		"your weapons!",to);
+        	i = sizeof(stuff);
+        	while(i--) {
+        		if(stuff[i]->query_wielded())
+        			stuff[i]->__ActuallyUnwield();
+        	}
+        	break;
+        case(1):
+        	message("my_action","%^MAGENTA%^Shoot! You trip and fall down on one of "+
+        		"your weapons!",to);
+        	message("other_action","%^MAGENTA%^In "+(string)to->query_possessive()+
+        		" unbalanced state "+(string)to->query_cap_name()+" trips and "+
+        		"falls on one of his weapons.",environment(to),({to}));
+        	i = random(30) + 1;
+        	if(to->query_hp() - i <= 0) {
+        		from->add_exp2(to->query_exp());
+        		to->add_hp(-i);
+        		return;
+        	}
+        	to->add_hp(-i);
+        	break;	
+        case(2):
+        	message("my_action","%^MAGENTA%^You walk into something.",to);
+        	message("other_action","%^MAGENTA%^"+(string)to->query_cap_name()+
+        	" walks into something.",environment(to),({to}));
+        	i = random(20) + 1;
+        	if(to->query_hp() - i <= 0) {
+        		from->add_exp2(to->query_exp());
+        		to->add_hp(-i);
+        		return;
+        	}
+        	to->add_hp(-i);
+        	break;
+        case(3):
+        	message("my_action","%^MAGENTA%^You collapse on the ground.",to);
+        	message("other_action","%^MAGENTA%^"+(string)to->query_cap_name()+
+        	" collapses on the ground.",environment(to),({to}));
+        	i = random(15) + 1;
+        	if(to->query_hp() - i <= 0) {
+        		from->add_exp2(to->query_exp());
+        		to->add_hp(-i);
+        		return;
+        	}
+        	to->add_hp(-i);
+        	break;	
+        }
+       call_out("do_balance",2,from,to);
+}
+void disturbance(object from,object to) {
+	object ob;
+	string name;
+	message("info","%^YELLOW%^%^BOLD%^The sky grows darker and a thunder storm "+
+		"appears out of nowhere. The earth seems to have gone mad!",environment(from));
+	seteuid(getuid());
+	environment = new("/d/1tlny/crit/environment_shadow");
+	environment->start_shadow(environment(to),({to,from}));
+	message("my_action","%^BLUE%^You rise up into the sky, supported by your "+
+		"own magical energies.",from);
+	message("info","%^BLUE%^"+(string)from->query_cape_name()+
+		" rises up into the sky, supported by "+
+		(string)from->query_possessive()+" own magical energies.",environment(to),
+			({from}));
+	call_out("first_attack",3,to,from);
+}
+
+void first_attack(object to,object from) {
+	int damage;
+	message("my_action","%^BLUE%^Raising you hands into the air, you "+
+		"annihilate "+(string)to->query_cap_name()+
+		" with a powerful electrical blast.",from);
+	message("info","%^BLUE%^"+(string)from->query_cap_name()+" raises "+
+		(string)from->query_possessive()+" hands into the air and utterly "+
+			"devestates "+(string)to->query_cap_name()+
+			" with a powerful electrical blast.",environment(to),
+			({from,to}));
+	message("info","%^BLUE%^"+(string)from->query_cap_name()+" raises "+
+		(string)from->query_possessive()+" hands into the air and utterly "+
+		"devestates you with a powerful electrical blast.",
+		to);
+	damage = random(100)+10;
+	if(((int)to->query_hp() - damage) <= 0) {
+		if(!(int)to->is_player()) from->add_exp2((int)to->query_exp());
+		to->add_hp(-((int)to->query_hp() + 10));
+		pass_storm(to,from);
+	}
+	call_out("second_attack",3,to,from);
+}
+
+void second_attack(object to,object from) {
+	object ob;
+	int i;
+	message("my_action","%^BLUE%^In your game of playing god, you create "+
+		"several little dwarvish creatures to attack "+
+		(string)to->query_cap_name()+".",from);
+	message("my_action","%^BLUE%^"+(string)from->query_cap_name()+
+		" creates several dwarvish creatures to attack "+
+		(string)to->query_cap_name()+".",environment(to),({to,from}));
+	message("my_action","%^BLUE%^"+(string)from->query_cap_name()+
+		" creates several dwarvish creatures to attack "+
+		"you.",to);
+	i = random(3)+7;
+	while(i > 0) {
+		seteuid(getuid());
+		ob = new("/d/1tlny/crit/gnome_man");
+		ob->move(environment(to));
+		ob->target(to,from);
+		i--;
+	}
+	call_out("pass_storm",random(300)+300,to,from);
+}
+
+void pass_storm(object to,object from) {
+	int i;
+	while(present("gnome_man",environment(to))) {
+		message("info","A small gnome man suddenly dissolves.",environment(to));
+		present("gnome_man",environment(to))->remove();
+	}
+	environment->external_destruct(environment);
+	message("info","%^YELLOW%^%^BOLD%^The sky grows light again as the temporal "+
+		"disturbance passes.",environment(from));
+}
+
+void leave_dimension(object from,object to) {
+	object where,ob;
+	int n;
+	n = 5;
+	message("info","%^CYAN%^Several %^RED%^portals "+
+		"%^RESET%^%^CAYN%^appear as reality weakens.");
+	while(n--) {
+		seteuid(getuid());
+		ob = new("/wizards/excelsior/misc/portal");
+		ob->move(environment(from));
+		ob->setup_color();
+	}
+	to->add_hp(-((int)to->query_hp() + 30));
+	message("info","%^RED%^"+(string)to->query_cap_name()+" suddenly "+
+		"fades into nothingness.",environment(to),({to}));
+	if(!to->is_player()) return;
+	message("info","%^RED%^You find yourself transported to a very strange place.",
+		to);
+	where = new("/d/1tlny/crit/dimensional_room");
+	to->move(where);
+	times = 0;
+	call_out("corpse_check",3,to,from);
+}
+
+void corpse_check(object who,object from) {
+	object ob;
+	if(!who->query_ghost()) {
+		if(times > 30) return;
+		call_out("corpse_check",3,who,from);
+		times++;
+		return;
+	}
+	ob = (object)who->query("corpse ob");
+	if(!present(ob,environment(from))) ob->move(environment(from));
+	ob->remove();
+}
+
+void go_to_hell(object from,object to) {
+		message("info","%^RESET%^%^BOLD%^%^RED%^FFFFFF%^RESET%^%^BOLD%^\\ "+
+" %^RED%^AAAAAA%^RESET%^%^BOLD%^\\  "+
+"  %^RED%^TTTTTT%^RESET%^%^BOLD%^\\"+
+"  %^RED%^AAAAAA%^RESET%^%^BOLD%^\\  %^RED%^LL%^RESET%^%^BOLD%^\\ "+
+"     %^RED%^III%^RESET%^%^BOLD%^\\  %^RED%^TTTTTT%^RESET%^%^BOLD%^\\  "+
+"%^RED%^YY  YY%^RESET%^%^BOLD%^\\\n"+   
+"%^RESET%^%^BOLD%^%^RED%^FFFFFF%^RESET%^%^BOLD%^\\ "+
+" %^RED%^AA%^RESET%^%^BOLD%^\\\\%^RED%^AA%^RESET%^%^BOLD%^\\ "+
+" %^RED%^TTTTTT%^RESET%^%^BOLD%^\\  %^RED%^AA%^RESET%^%^BOLD%^\\\\%^RED%^A"+
+"A%^RESET%^%^BOLD%^\\  %^RED%^LL%^RESET%^%^BOLD%^\\   "+
+"   %^RED%^III%^RESET%^%^BOLD%^\\  %^RED%^TTTTTT%^RESET%^%^BOLD%^\\  %^RED%^YY  YY%^RESET%^%^BOLD%^\\\n"+
+"%^RESET%^%^BOLD%^%^RED%^FF%^RESET%^%^BOLD%^\\\\\\\\\\  "+
+"%^RED%^AA%^RESET%^%^BOLD%^\\ %^RED%^AA%^RESET%^%^BOLD%^\\  "+
+"  %^RED%^TT%^RESET%^%^BOLD%^\\\\\\  %^RED%^AA%^RESET%^%^BOLD%^\\ "+
+"%^RED%^AA%^RESET%^%^BOLD%^\\  %^RED%^LL%^RESET%^%^BOLD%^\\  "+
+"    %^RED%^III%^RESET%^%^BOLD%^\\    %^RED%^TT%^RESET%^%^BOLD%^\\\\\\  "+
+"%^RED%^YY  YY%^RESET%^%^BOLD%^\\\n"+
+"%^RESET%^%^BOLD%^%^RED%^FFFFFF%^RESET%^%^BOLD%^\\%^RED%^  "+
+"%^RED%^AAAAAA%^RESET%^%^BOLD%^\\    %^RED%^TT%^RESET%^%^BOLD%^\\  "+
+"  %^RED%^AAAAAA%^RESET%^%^BOLD%^\\  %^RED%^LL%^RESET%^%^BOLD%^\\  "+
+"    %^RED%^III%^RESET%^%^BOLD%^\\    %^RED%^TT%^RESET%^%^BOLD%^\\  "+
+"  %^RED%^YYYYYY%^RESET%^%^BOLD%^\\\n"+
+"%^RESET%^%^BOLD%^%^RED%^FF%^RESET%^%^BOLD%^\\\\\\\\\\ "+
+" %^RED%^AA%^RESET%^%^BOLD%^\\\\%^RED%^AA%^RESET%^%^BOLD%^\\  "+
+"  %^RED%^TT%^RESET%^%^BOLD%^\\    %^RED%^AA%^RESET%^%^BOLD%^\\\\%^RED%^A"+
+"A%^RESET%^%^BOLD%^\\  %^RED%^LL%^RESET%^%^BOLD%^\\"+
+"      %^RED%^III%^RESET%^%^BOLD%^\\    %^RED%^TT%^RESET%^%^BOLD%^\\   "+
+"   %^RED%^YY%^RESET%^%^BOLD%^\\\n"+
+"%^RESET%^%^BOLD%^%^RED%^FF%^RESET%^%^BOLD%^\\  "+
+"    %^RED%^AA%^RESET%^%^BOLD%^\\ %^RED%^AA%^RESET%^%^BOLD%^\\  "+
+"  %^RED%^TT%^RESET%^%^BOLD%^\\    %^RED%^AA%^RESET%^%^BOLD%^\\ "+
+"%^RED%^AA%^RESET%^%^BOLD%^\\  %^RED%^LLLLLL%^RESET%^%^BOLD%^\\  "+
+"%^RED%^III%^RESET%^%^BOLD%^\\    %^RED%^TT%^RESET%^%^BOLD%^\\   "+
+"   %^RED%^YY%^RESET%^%^BOLD%^\\\n"+
+"%^RESET%^%^BOLD%^%^RED%^FF%^RESET%^%^BOLD%^\\     "+
+" %^RED%^AA%^RESET%^%^BOLD%^\\ %^RED%^AA%^RESET%^%^BOLD%^\\  "+
+"  %^RED%^TT%^RESET%^%^BOLD%^\\    %^RED%^AA%^RESET%^%^BOLD%^\\ "+
+"%^RED%^AA%^RESET%^%^BOLD%^\\  %^RED%^LLLLLL%^RESET%^%^BOLD%^\\  "+
+"%^RED%^III%^RESET%^%^BOLD%^\\    %^RED%^TT%^RESET%^%^BOLD%^\\"+
+"      %^RED%^YY%^RESET%^%^BOLD%^\\\n"+
+"%^RESET%^%^BOLD%^\\\\\\      \\\\\\ \\\\\\    \\\\\\    \\\\\\ \\\\\\ "+
+" \\\\\\\\\\\\\\  \\\\\\\\    \\\\\\      \\\\\\\n",environment(from));
+	if(!to->is_player()) return;
+	to->move_player("/d/1tlny/crit/hell");
+}
+
+
+// ZORTEK CRITS
+
+
+void shatter_me(object me, object you) {
+    call_out("do_shatter", 2, ({ (string)you->query_name(),
+	environment(you), you }));
+    return;
+}
+
+void blind_me(object from, object to) {
+  object ob;
+
+  seteuid(getuid());
+  ob = new("/std/spells/shadows/blind_shadow");
+  ob->start_shadow(to);
+  return;
+}
+
+
+void increase_ac(object from, object to) {
+  object ob;
+
+  seteuid(getuid());
+  ob = new("/std/spells/shadows/ac_shadow");
+  ob->set_shad_ac(10 + random(10));
+  ob->set_expire_message("%^BOLD%^RED%^The infernal mist about you disperses.");
+  ob->start_shadow(from, 40);
+  return;
+}
+
+void raise_weapon1(object from, object to) {
+  object shad, weap;
+  int sz;
+
+  if(!from->query_wielded() || !(sz = sizeof((object *)from->query_wielded())))
+    return;
+  weap = ((object *)from->query_wielded())[random(sz)];
+  shad = new("/std/spells/shadows/weapon_shadow");
+  shad->set_enchantment(1+random(4));
+  shad->start_shadow(weap, 50+random(25), "%^BOLD%^RED%^The shimmer on your weapon fades.");
+  return;
+}
+
+void raise_weapon2(object from, object to) {
+  object shad, weap;
+  int sz;
+
+  if(!from->query_wielded() || !(sz = sizeof((object *)from->query_wielded())))
+    return;
+  weap = ((object *)from->query_wielded())[random(sz)];
+  shad = new("/std/spells/shadows/weapon_shadow");
+  shad->set_enchantment(4+random(4));
+  shad->start_shadow(weap, 50+random(25), "%^BOLD%^RED%^The shimmer on your weapon fades.");
+  return;
+}
+
+void electricity_crit(object from, object to) {
+  string crit;
+
+  crit = sprintf("electricity %s", ({ "B", "C", "D" })[random(3)]);
+  do_critical(from, to, ({ crit }) );
+  return;
+}
+
+void impact_crit(object from, object to) {
+  string crit;
+
+  crit = sprintf("impact %s", ({ "B", "C", "D" })[random(3)]);
+  do_critical(from, to, ({ crit }) );
+  return;
+}
+
+void impact_A_crit(object from, object to) {
+  do_critical(from, to, ({ "impact A" }) );
+  return;
+}
+
+void fire_crit(object from, object to) {
+  string crit;
+
+  crit = sprintf("electricity %s", ({ "B", "C", "D" })[random(3)]);
+  do_critical(from, to, ({ crit }) );
+  return;
+}
+
+void fire_E_crit(object from, object to) {
+  do_critical(from, to, ({ "fire E" }) );
+  return;
+}
+void dest_pet(object what) {
+  if(objectp(what)) {
+    message("info", (string)what->query_short() +
+      " gates back to its home plane.", environment(what));
+    what->remove();
+  }
+  return;
+}
+
+void summon_impish_creature1(object from, object to) {
+  object ob;
+
+  seteuid(getuid());
+  ob = new("/d/1tlny/crit/z1/pet/imp");
+  ob->move(environment(to));
+  if(from->is_pet() && from->query_owner())
+    ob->set_owner((string)from->query_owner());
+  else
+    ob->set_owner((string)from->query_name());
+  ob->set_up(random(3)+1);
+  ob->set_dur(100 + random(200));
+  ob->kill_ob(to, 0);
+  return;
+}
+
+void summon_impish_creature2(object from, object to) {
+  object ob;
+
+  seteuid(getuid());
+  ob = new("/d/1tlny/crit/z1/pet/imp_pet");
+  ob->move(environment(to));
+  if(from->is_pet() && from->query_owner())
+    ob->set_owner((string)from->query_owner());
+  else
+    ob->set_owner((string)from->query_name());
+  ob->set_up(random(3)+4);
+  ob->set_dur(200 + random(200));
+  ob->kill_ob(to, 0);
+  return;
+}
+void summon_erines_devil(object from, object to) {
+  object ob;
+
+  seteuid(getuid());
+  ob = new("/d/1tlny/crit/z1/pet/erines_pet");
+  ob->move(environment(to));
+  if(from->is_pet() && from->query_owner())
+    ob->set_owner((string)from->query_owner());
+  else
+    ob->set_owner((string)from->query_name());
+  ob->set_up(6);
+  call_out("dest_pet", 50+random(50), ob);
+  ob->kill_ob(to, 0);
+  return;
+}
+
+void summon_devilish_noble(object from, object to) {
+  object ob;
+  int x;
+
+  seteuid(getuid());
+  ob = new("/d/1tlny/crit/z1/pet/devilish_noble");
+  ob->move(environment(to));
+  if(from->is_pet() && from->query_owner())
+    ob->set_owner((string)from->query_owner());
+  else
+    ob->set_owner((string)from->query_name());
+  x = random(4);
+  ob->set_up(x+1);
+  call_out("dest_pet", 150-(25*x), ob);
+  ob->kill_ob(to, 0);
+  return;
+}
+
+void summon_devilish_noble2(object from, object to) {
+  object ob;
+  int x;
+
+  seteuid(getuid());
+  ob = new("/d/1tlny/crit/z1/pet/devilish_noble");
+  ob->move(environment(to));
+  if(from->is_pet() && from->query_owner())
+    ob->set_owner((string)from->query_owner());
+  else
+    ob->set_owner((string)from->query_name());
+  x = random(3);
+  ob->set_up(x+4);
+  call_out("dest_pet", 150-(25*x), ob);
+  ob->kill_ob(to, 0);
+  return;
+}
+
+void hoards_of_hell(object from, object to) {
+  object ob;
+  int i;
+
+  seteuid(getuid());
+  for(i=1;i<=8;i++) {
+    ob = new("/d/1tlny/crit/z1/pet/imp_pet");
+    ob->move(environment(to));
+    if(from->is_pet() && from->query_owner())
+      ob->set_owner((string)from->query_owner());
+    else
+      ob->set_owner((string)from->query_name());
+    ob->set_up(random(6)+1);
+    call_out("dest_pet", random(250) + 100, ob);
+    ob->kill_ob(to, 0);
+
+    if(i >= 4) {
+      ob = new("/d/1tlny/crit/z1/pet/erines_pet");
+      ob->move(environment(to));
+      if(from->is_pet() && from->query_owner())
+        ob->set_owner((string)from->query_owner());
+      else
+        ob->set_owner((string)from->query_name());
+      ob->set_up(random(5)+2);
+      call_out("dest_pet", random(100) + 50, ob);
+      ob->kill_ob(to, 0);
+    }
+
+    if(i >= 6) {
+      ob = new("/d/1tlny/crit/z1/pet/devilish_noble");
+      ob->move(environment(to));
+      if(from->is_pet() && from->query_owner())
+        ob->set_owner((string)from->query_owner());
+      else
+        ob->set_owner((string)from->query_name());
+      ob->set_up(random(2)+5);
+      call_out("dest_pet", random(75) + 25, ob);
+      ob->kill_ob(to, 0);
+    }
+  }
+  ob = new("/d/1tlny/crit/z1/pet/prince_pet");
+  ob->move(environment(to));
+  if(from->is_pet() && from->query_owner())
+    ob->set_owner((string)from->query_owner());
+  else
+     ob->set_owner((string)from->query_name());
+  ob->set_up(6);
+  call_out("dest_pet", random(50) + 10, ob);
+  ob->kill_ob(to, 0);
+  return;
+}
+
+void extra_a_hbeat(object from, object to) {
+  from->heart_beat(1);
+  return;
+}
+
+void extra_attack(object me, object you) {
+  me->continue_attack();
+  return;
+}
+
+void haste_me(object me, object you) {
+  object ob;
+
+  ob = new("/std/spells/shadows/haste_shadow");
+  ob->start_shadow(me, 20, "%^CYAN%^You stop attacking speedily.");
+  return;
+}
+
+void haste_me2(object me, object you) {
+  object ob;
+
+  ob = new("/std/spells/shadows/haste_shadow");
+  ob->start_shadow(me, 30, "%^CYAN%^You stop attacking speedily.");
+  ob = new("/std/spells/shadows/haste_shadow");
+  ob->start_shadow(me, 30, "%^CYAN%^You stop attacking speedily.");
+  return;
+}
+
+void dest_corpse(object from, object to) {
+  call_out("remove_corpse", 2, to);
+  return;
+}
+
+void remove_corpse(object who) {
+  object corpse;
+
+  corpse = (object)who->query("corpse ob");
+  if(corpse) corpse->remove();
+  return;
+}
+
+void do_shatter(mixed *arg) {
+  object env;
+  string name;
+  object corpse;
+  int i, count;
+
+  if(sizeof(arg) != 3) return;
+  name = arg[0];
+  env = arg[1];
+  if(arg[2])
+    corpse = (object)arg[2]->query("corpse ob");
+  else corpse = 0;
+  if(objectp(corpse))
+    corpse->remove();
+  seteuid(getuid(this_object()));
+  count = random(7)+3;
+  for(i = 0; i <= count; i++) {
+    corpse = new("/std/diewarzau/crits/shards");
+    corpse->set_person(name);
+    corpse->move(env);
+  }
+  return;
+}
+
+
+void drop_all(object me, object you) {
+  object *inv;
+  int i;
+  
+  message("info", "You drop all of your possessions!", you);
+  inv = all_inventory(you);
+  while(i--) {
+    if(inv[i]->drop()) continue;
+    if(inv[i]->query_worn()) continue;
+    message("info", (string)you->query_cap_name()+
+      " drops "+(string)inv[i]->query_short()+".",
+      environment(you), ({ you }));
+    inv[i]->move(environment(you));
+  }
+  return;
+}
+
+//diewarzau crits
+
+void create() {
+  seteuid(getuid());
+}
+
+void shatter_me(object me, object you) {
+    call_out("do_shatter", 2, ({ (string)you->query_name(),
+	environment(you), you }));
+    return;
+
+}
+
+void blind_me(object from, object to) {
+
+  object ob;
+  seteuid(getuid());
+  ob = new("/std/spells/shadows/blind_shadow");
+  ob->start_shadow(to);
+  return;
+
+}
+
+
+
+void impact_crit(object from, object to) {
+  string crit;
+  crit = sprintf("impact %s", ({ "B", "C", "D" })[random(3)]);
+  do_critical(from, to, ({ crit }) );
+  return;
+
+}
+
+void increase_ac(object from, object to) {
+  object ob;
+  seteuid(getuid());
+  ob = new("/std/spells/shadows/ac_shadow");
+  ob->set_shad_ac(10 + random(10));
+  ob->set_expire_message("The holy aura about you dissipates.");
+  ob->start_shadow(from, 40);
+  return;
+}
+
+void raise_weapon1(object from, object to) {
+  object shad, weap;
+  int sz;
+
+  if(!from->query_wielded() || !(sz = sizeof((object *)from->query_wielded())))
+    return;
+  weap = ((object *)from->query_wielded())[random(sz)];
+  shad = new("/std/spells/shadows/weapon_shadow");
+  shad->set_enchantment(1+random(4));
+  shad->start_shadow(weap, 50+random(25), "%^CYAN%^An aura about your weapon wears off.");
+  return;
+}
+
+void raise_weapon2(object from, object to) {
+  object shad, weap;
+  int sz;
+  if(!from->query_wielded() || !(sz = sizeof((object *)from->query_wielded())))
+    return;
+  weap = ((object *)from->query_wielded())[random(sz)];
+  shad = new("/std/spells/shadows/weapon_shadow");
+  shad->set_enchantment(4+random(4));
+  shad->start_shadow(weap, 50+random(25), "%^CYAN%^An aura about your weapon wears off.");
+  return;
+}
+
+void electricity_crit(object from, object to) {
+  string crit;
+  crit = sprintf("electricity %s", ({ "B", "C", "D" })[random(3)]);
+  do_critical(from, to, ({ crit }) );
+  return;
+}
+
+void impact_A_crit(object from, object to) {
+  do_critical(from, to, ({ "impact A" }) );
+  return;
+}
+
+void dest_pet(object what) {
+  if(objectp(what)) {
+    message("info", (string)what->query_short() +
+      " winks out of existence.", environment(what));
+    what->remove();
+  }
+  return;
+}
+
+void summon_ethereal_entity1(object from, object to) {
+  object ob;
+  seteuid(getuid());
+
+  ob = new("/d/1tlny/crit/e1/pet/ethereal_entity");
+  ob->move(environment(to));
+  if(from->is_pet() && from->query_owner())
+    ob->set_owner((string)from->query_owner());
+  else
+    ob->set_owner((string)from->query_name());
+  ob->set_up(random(3)+1);
+  ob->set_dur(100 + random(200));
+  ob->kill_ob(to, 0);
+  return;
+}
+
+void summon_ethereal_entity2(object from, object to) {
+  object ob;
+  seteuid(getuid());
+
+  ob = new("/d/1tlny/crit/e1/pet/ethereal_entity");
+  ob->move(environment(to));
+  if(from->is_pet() && from->query_owner())
+    ob->set_owner((string)from->query_owner());
+  else
+    ob->set_owner((string)from->query_name());
+  ob->set_up(random(3)+4);
+  ob->set_dur(200 + random(200));
+  ob->kill_ob(to, 0);
+  return;
+}
+
+void summon_elder_seraph(object from, object to) {
+  object ob;
+  seteuid(getuid());
+
+  ob = new("/d/1tlny/crit/e1/pet/elder_seraph");
+  ob->move(environment(to));
+  if(from->is_pet() && from->query_owner())
+    ob->set_owner((string)from->query_owner());
+  else
+    ob->set_owner((string)from->query_name());
+  ob->set_up(random(4)+2);
+  call_out("dest_pet", 100+random(50), ob);
+  ob->kill_ob(to, 0);
+  return;
+}
+
+void summon_arch_angel(object from, object to) {
+  object ob;
+  seteuid(getuid());
+
+  ob = new("/d/1tlny/crit/e1/pet/arch_angel");
+  ob->move(environment(to));
+  if(from->is_pet() && from->query_owner())
+    ob->set_owner((string)from->query_owner());
+  else
+    ob->set_owner((string)from->query_name());
+  ob->set_up(random(4)+1);
+  call_out("dest_pet", 100+random(50), ob);
+  ob->kill_ob(to, 0);
+  return;
+}
+
+void multitude_of_the_heavenly_host(object from, object to) {
+  object ob;
+  int i;
+  seteuid(getuid());
+
+  for(i=1;i<=5;i++) {
+    ob = new("/d/1tlny/crit/e1/pet/elder_seraph");
+    ob->move(environment(to));
+    if(from->is_pet() && from->query_owner())
+      ob->set_owner((string)from->query_owner());
+    else
+      ob->set_owner((string)from->query_name());
+    ob->set_up(random(5)+2);
+    call_out("dest_pet", random(50) + 100, ob);
+    ob->kill_ob(to, 0);
+    if(i >= 4) {
+      ob = new("/d/1tlny/crit/e1/pet/arch_angel");
+      ob->move(environment(to));
+      if(from->is_pet() && from->query_owner())
+        ob->set_owner((string)from->query_owner());
+      else
+        ob->set_owner((string)from->query_name());
+      ob->set_up(random(4)+1);
+      call_out("dest_pet", random(50) + 100, ob);
+      ob->kill_ob(to, 0);
+    }
+  }
+  return;
+}
+
+void extra_a_hbeat(object from, object to) {
+  from->heart_beat(1);
+  return;
+}
+
+void extra_attack(object me, object you) {
+  me->continue_attack();
+  return;
+}
+
+void haste_me(object me, object you) {
+  object ob;
+
+  ob = new("/std/spells/shadows/haste_shadow");
+  ob->start_shadow(me, 20, "%^CYAN%^You stop attacking speedily.");
+  return;
+}
+
+void haste_me2(object me, object you) {
+  object ob;
+
+  ob = new("/std/spells/shadows/haste_shadow");
+  ob->start_shadow(me, 30, "%^CYAN%^You stop attacking speedily.");
+  ob = new("/std/spells/shadows/haste_shadow");
+  ob->start_shadow(me, 30, "%^CYAN%^You stop attacking speedily.");
+  return;
+}
+
+void fire_E_crit(object from, object to) {
+  do_critical(from, to, ({ "fire E" }) );
+  return;
+}
+
+
+void dest_corpse(object from, object to) {
+  call_out("remove_corpse", 2, to);
+  return;
+}
+
+void remove_corpse(object who) {
+  object corpse;
+
+  corpse = (object)who->query("corpse ob");
+  if(corpse) corpse->remove();
+  return;
+}
+
+void do_shatter(mixed *arg) {
+  object env;
+  string name;
+  object corpse;
+  int i, count;
+
+  if(sizeof(arg) != 3) return;
+  name = arg[0];
+  env = arg[1];
+  if(arg[2])
+   corpse = (object)arg[2]->query("corpse ob");
+  else corpse = 0;
+  if(objectp(corpse))
+    corpse->remove();
+  seteuid(getuid(this_object()));
+  count = random(7)+3;
+  for(i = 0; i <= count; i++) {
+    corpse = new("/d/1tlny/crit/e1/shards");
+    corpse->set_person(name);
+    corpse->move(env);
+  }
+  return;
+}
+
+void drop_all(object me, object you) {
+  object *inv;
+  int i;
+
+  message("info", "You drop all of your possessions!", you);
+  inv = all_inventory(you);
+  while(i--) {
+    if(inv[i]->drop()) continue;
+    if(inv[i]->query_worn()) continue;
+    message("info", (string)you->query_cap_name()+
+      " drops "+(string)inv[i]->query_short()+".",
+      environment(you), ({ you }));
+    inv[i]->move(environment(you));
+  }
+  return;
+}
+
+
+
+
+// TLNY2020 REMOVED STUFF:
+
+
+//TLNY2020 Removed
+/*
+void decay_weapon(object from, object to) {
+  object *weap;
+
+  weap = (object *)to->query_wielded();
+  if(!weap || !sizeof(weap)) return;
+  weap[0]->decay_me(20+random(50));
+  message("info", A_NAMEX+" attacks your weapon, inflicting "+
+    "some damage upon it.", to);
+  message("info", "You inflict some damage upon "+T_NAMEX+"'s "+
+    " weapon.", from);
+  message("info", A_NAMEX+" strikes "+T_NAMEX+"'s weapon, "+
+    "damaging it.", environment(to), ({ from, to }));
+  return;
+}
+
+void break_weapon1(object from, object to) {
+  if(random(100) <= 1) this_object()->shatter_weapon(from, to);
+  return;
+}
+
+void break_weapon2(object from, object to) {
+  if(random(100) <= 5) this_object()->shatter_weapon(from, to);
+  return;
+}
+
+void shatter_weapon(object from, object to) {
+  object *weap;
+
+  weap = (object *)to->query_wielded();
+  if(!weap || !sizeof(weap)) return;
+  message("info", A_NAMEX+" attacks your weapon, shattering "+
+    "it completely!", to);
+  message("info", "You attack "+T_NAMEX+"'s "+
+    "weapon, shattering it completely!", from);
+  message("info", A_NAMEX+" strikes "+T_NAMEX+"'s weapon, "+
+    "shattering it completely!", environment(to), ({ from, to }));
+  weap[0]->remove();
+  return;
+}
+
+void break_armour1(object from, object to) {
+  if(random(100) <= 1) this_object()->shatter_armour(from, to);
+  return;
+}
+
+void break_armour2(object from, object to) {
+  if(random(100) <= 5) this_object()->shatter_armour(from, to);
+  return;
+}
+
+
+
+//NOT ON ANY CRIT TABLES
+int not_shield(object item) {
+  if(!item->is_armour()) return 0;
+  if(!item->query_worn()) return 0;
+  if((string)item->query_type() == "shield") return 0;
+  return 1;
+}
+
+
+//NOT ON ANY CRIT TABLES
+int shield_filter(object item) {
+  if(!item->is_armour()) return 0;
+  if(!item->query_worn()) return 0;
+  if((string)item->query_type() == "shield") return 1;
+  return 0;
+}
+
+void shatter_armour(object from, object to) {
+  object *weap;
+  int idx;
+
+  weap = filter_array(all_inventory(to), "not_shield", this_object());
+  if(!weap || !sizeof(weap)) return;
+  message("info", A_NAMEX+" attacks a piece of your armour, destroying "+
+    "it completely!", to);
+  message("info", "You attack a piece of "+T_NAMEX+"'s "+
+    "armour, destroying it completely!", from);
+  message("info", A_NAMEX+" strikes a piece of "+T_NAMEX+"'s armour, "+
+    "destroying it completely!", environment(to), ({ from, to }));
+  idx = sizeof(weap);
+  if(idx > 1) idx = random(idx);
+  else idx = 0;
+  message("info", (string)weap[idx]->query_short()+" is destroyed!",
+     to);
+  weap[idx]->remove();
+  return;
+}
+
+
+void break_shield1(object from, object to) {
+  if(random(100) <= 1) this_object()->shatter_shield(from, to);
+  return;
+}
+
+void break_shield2(object from, object to) {
+  if(random(100) <= 5) this_object()->shatter_shield(from, to);
+  return;
+}
+
+void shatter_shield(object from, object to) {
+  object *weap;
+  int idx;
+
+  weap = filter_array(all_inventory(to), "shield_filter", this_object());
+  if(!weap || !sizeof(weap)) return;
+  message("info", A_NAMEX+" attacks your shield, destroying "+
+    "it completely!", to);
+  message("info", "You attack "+T_NAMEX+"'s "+
+    "shield, destroying it completely!", from);
+  message("info", A_NAMEX+" strikes "+T_NAMEX+"'s shield, "+
+    "destroying it completely!", environment(to), ({ from, to }));
+  idx = sizeof(weap);
+  if(idx > 1) idx = random(idx);
+  else idx = 0;
+  message("info", (string)weap[idx]->query_short()+" is destroyed!",
+     to);
+  weap[idx]->remove();
+  return;
+}
+
+
+//NOT ON ANY CRIT TABLES
+int armour_limb_filter(object armour, string limb) {
+  string *ac_limbs;
+
+  if(!armour->is_armour()) return 0;
+  if(!armour->query_worn()) return 0;
+  if(!(ac_limbs=(string *)armour->query_actual_limbs())) return 0;
+  if(member_array(limb, ac_limbs) < 0) return 0;
+  return 1;
+}
+
+void torso_no_armour(object me, object you) {
+  object *inv;
+  int i;
+
+  inv = filter_array(all_inventory(you), "armour_limb_filter",
+    this_object(), "torso");
+  if(!inv || !(i=sizeof(inv))) return;
+  while(i--) {
+    message("info", (string)inv[i]->query_short()+
+      " is vaporized!", environment(you));
+    inv[i]->remove();
+  }
+  return;
+}
+
+int leg_filter(string limb) {
+  string *words;
+
+  words = explode(limb, " ");
+  if(member_array("leg", words) >= 0 ||
+    member_array("root", words) >= 0) return 1;
+  return 0;
+}
+
+
+void leg_no_armour(object me, object you) {
+  object *inv;
+  string *limbs;
+  int i;
+
+  if(!living(you)) return;
+  limbs = filter_array((string *)you->query_limbs(), "leg_filter", this_object());
+  if(!limbs || !(i=sizeof(limbs))) return;
+  if(i == 1) i = 0;
+  else i = random(i);
+  inv = filter_array(all_inventory(you), "armour_limb_filter",
+    this_object(), limbs[i]);
+  if(!inv || !(i=sizeof(inv))) return;
+  while(i--) {
+    message("info", (string)inv[i]->query_short()+
+      " is vaporized!", environment(you));
+    inv[i]->remove();
+  }
+  return;
+}
+*/
+
+
+//Removed for now TLNY2020
+/*
+void melt_inv(object from,object to) {
+	object *inv;
+	int i, r;
+	inv = all_inventory(to);
+	i = sizeof(inv);
+	r = random(i);
+	inv[r]->remove();	
+	message("info","%^RED%^%^BOLD%^Your entire inventory has melted into "+
+		"nothingness!!!",to);
+}
+*/
+
+
+//TLNY2020 Removed for now
+/*
+void bright_light(object from,object to) {	
+	object shadow;
+	seteuid(getuid());
+	shadow = new("/std/spells/shadows/light_shad");
+	shadow->set_light(20);
+	shadow->start_shadow(to);
+	call_out("remove_light_shadow",500,shadow,to);
+}
+
+void no_light(object from,object to) {	
+	object shadow;
+	seteuid(getuid());
+	shadow = new("/std/spells/shadows/light_shad");
+	shadow->set_light(-25);
+	shadow->start_shadow(to);
+	call_out("remove_light_shadow",500,shadow,to);
+}
+
+void remove_light_shadow(object shadow,object to) {
+	shadow->external_destruct(shadow);
+	message("info","The light reality hole around your body finally wears off.",to);
+}
+
+*/
+
+//Tlny2020 Removed for now
+/*
+void melt_armour(object from, object to) {
+	object *inv;
+	int i;
+	inv = all_inventory(to);
+	i = sizeof(inv);
+	while(i--) {
+		if(inv[i]->is_armour() && inv[i]->query_worn()) {
+			message("info","%^BLUE%^"+
+				capitalize((string)inv[i]->query_short())+" melts away!",to);
+			inv[i]->remove();
+			return;
+		}
+	}
+}
+*/
+
+
+//TLNY2020 removed for now
+/*
+void melt_weapon(object from, object to) {
+  object *weap;
+  int i;
+
+  weap = (object *)to->query_wielded();
+  if(sizeof(weap)) {
+    i = random(sizeof(weap));
+    if(objectp(weap[i]))
+      weap[i]->remove();
+  }
+  return;
+}
+*/
+
+
+//TLNY2020 Removed for now
+/*
+void decay_weapon(object from, object to) {
+  object *weap;
+
+  weap = (object *)to->query_wielded();
+  if(!weap || !sizeof(weap)) return;
+  weap[0]->decay_me(20+random(50));
+  message("info", A_NAMEZ+" attacks your weapon, inflicting "+
+    "some damage upon it.", to);
+  message("info", "You inflict some damage upon "+T_NAMEZ+"'s "+
+    " weapon.", from);
+  message("info", A_NAMEZ+" strikes "+T_NAMEZ+"'s weapon, "+
+    "damaging it.", environment(to), ({ from, to }));
+  return;
+}
+
+void break_weapon1(object from, object to) {
+  if(random(100) <= 1) this_object()->shatter_weapon(from, to);
+  return;
+}
+
+void break_weapon2(object from, object to) {
+  if(random(100) <= 5) this_object()->shatter_weapon(from, to);
+  return;
+}
+
+void shatter_weapon(object from, object to) {
+  object *weap;
+
+  weap = (object *)to->query_wielded();
+  if(!weap || !sizeof(weap)) return;
+  message("info", A_NAMEZ+" attacks your weapon, shattering "+
+    "it completely!", to);
+  message("info", "You attack "+T_NAMEZ+"'s "+
+    "weapon, shattering it completely!", from);
+  message("info", A_NAMEZ+" strikes "+T_NAMEZ+"'s weapon, "+
+    "shattering it completely!", environment(to), ({ from, to }));
+  weap[0]->remove();
+  return;
+}
+
+int not_shield(object item) {
+  if(!item->is_armour()) return 0;
+  if(!item->query_worn()) return 0;
+  if((string)item->query_type() == "shield") return 0;
+  return 1;
+}
+
+int shield_filter(object item) {
+  if(!item->is_armour()) return 0;
+  if(!item->query_worn()) return 0;
+  if((string)item->query_type() == "shield") return 1;
+  return 0;
+}
+
+void break_armour1(object from, object to) {
+  if(random(100) <= 1) this_object()->shatter_armour(from, to);
+  return;
+}
+
+void break_armour2(object from, object to) {
+  if(random(100) <= 5) this_object()->shatter_armour(from, to);
+  return;
+}
+
+void shatter_armour(object from, object to) {
+  object *weap;
+  int idx;
+
+  weap = filter_array(all_inventory(to), "not_shield", this_object());
+  if(!weap || !sizeof(weap)) return;
+  message("info", A_NAMEZ+" attacks a piece of your armour, destroying "+
+    "it completely!", to);
+  message("info", "You attack a piece of "+T_NAMEZ+"'s "+
+    "armour, destroying it completely!", from);
+  message("info", A_NAMEZ+" strikes a piece of "+T_NAMEZ+"'s armour, "+
+    "destroying it completely!", environment(to), ({ from, to }));
+  idx = sizeof(weap);
+  if(idx > 1) idx = random(idx);
+  else idx = 0;
+  message("info", (string)weap[idx]->query_short()+" is destroyed!",
+     to);
+  weap[idx]->remove();
+  return;
+}
+
+void break_shield1(object from, object to) {
+  if(random(100) <= 1) this_object()->shatter_shield(from, to);
+  return;
+}
+
+void break_shield2(object from, object to) {
+  if(random(100) <= 5) this_object()->shatter_shield(from, to);
+  return;
+}
+
+void shatter_shield(object from, object to) {
+  object *weap;
+  int idx;
+
+  weap = filter_array(all_inventory(to), "shield_filter", this_object());
+  if(!weap || !sizeof(weap)) return;
+  message("info", A_NAMEZ+" attacks your shield, destroying "+
+    "it completely!", to);
+  message("info", "You attack "+T_NAMEZ+"'s "+
+    "shield, destroying it completely!", from);
+  message("info", A_NAMEZ+" strikes "+T_NAMEZ+"'s shield, "+
+    "destroying it completely!", environment(to), ({ from, to }));
+  idx = sizeof(weap);
+  if(idx > 1) idx = random(idx);
+  else idx = 0;
+  message("info", (string)weap[idx]->query_short()+" is destroyed!",
+     to);
+  weap[idx]->remove();
+  return;
+}
+
+
+int armour_limb_filter(object armour, string limb) {
+  string *ac_limbs;
+  
+  if(!armour->is_armour()) return 0;
+  if(!armour->query_worn()) return 0;
+  if(!(ac_limbs=(string *)armour->query_actual_limbs())) return 0;
+  if(member_array(limb, ac_limbs) < 0) return 0;
+  return 1;
+}
+
+void torso_no_armour(object me, object you) {
+  object *inv;
+  int i;
+
+  inv = filter_array(all_inventory(you), "armour_limb_filter",
+    this_object(), "torso");
+  if(!inv || !(i=sizeof(inv))) return;
+  while(i--) {
+    message("info", (string)inv[i]->query_short()+
+      " is vaporized!", environment(you));
+    inv[i]->remove();
+  }
+  return;
+}
+
+int leg_filter(string limb) {
+  string *words;
+
+  words = explode(limb, " ");
+  if(member_array("leg", words) >= 0 ||
+    member_array("root", words) >= 0) return 1;
+  return 0;
+}
+
+void leg_no_armour(object me, object you) {
+  object *inv;
+  string *limbs;
+  int i;
+
+  if(!living(you)) return;
+  limbs = filter_array((string *)you->query_limbs(), "leg_filter", this_object());
+  if(!limbs || !(i=sizeof(limbs))) return;
+  if(i == 1) i = 0;
+  else i = random(i);
+  inv = filter_array(all_inventory(you), "armour_limb_filter",
+    this_object(), limbs[i]);
+  if(!inv || !(i=sizeof(inv))) return;
+  while(i--) {
+    message("info", (string)inv[i]->query_short()+
+      " is vaporized!", environment(you));
+    inv[i]->remove();
+  }
+  return;
+}
+*/
+
+
+//TLNY2020 Removed for now/
+/*
+void melt_weapon(object from, object to) {
+
+  object *weap;
+
+  int i;
+
+
+
+  weap = (object *)to->query_wielded();
+
+  if(sizeof(weap)) {
+
+    i = random(sizeof(weap));
+
+    if(objectp(weap[i]))
+
+      weap[i]->remove();
+
+  }
+
+  return;
+
+}
+
+*/

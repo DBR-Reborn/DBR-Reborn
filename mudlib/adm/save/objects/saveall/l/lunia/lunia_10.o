@@ -1,0 +1,8 @@
+#/d/damned/virtual/metal-boots.armour
+#/d/damned/virtual/metal-boots.armour.c
+encumbrance 70
+props (["material_name":"laen","value":90,"extra long":"level[82] laen Boots of disruption and stress protection","material_type":"metal","new desc":"level[82] laen Boots of disruption and stress protection",])
+true_name "metal boots"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"level[82] laen Boots of disruption and stress protection","ac":(["infernal":317,"disruption":454,"stress":410,"unholy":317,"crushing":317,"cutting":317,"vacuum":317,"plasma":317,"impaling":317,"holy":317,"fire":317,"cold":317,"strike":317,"impact":317,"aether":317,"electricity":317,]),])

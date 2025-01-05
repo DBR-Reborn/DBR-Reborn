@@ -1,0 +1,7 @@
+#/d/damned/virtual/studded-leather-glove.armour.c
+encumbrance 3
+props (["material_name":"iron","value":6,"extra long":({({"Fortification: %^CYAN%^+40","detect magic",}),}),"pow major_fortification_math":0,"material_type":"metal","progress major_fortification_math":0,"enchantment":40,])
+true_name "studded leather glove"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iron"
+armour_save (["short desc":"A studded leather glove","ac":(["infernal":22,"disruption":1,"stress":1,"unholy":22,"crushing":8,"cutting":22,"vacuum":1,"plasma":1,"impaling":22,"holy":1,"fire":3,"cold":3,"strike":3,"impact":3,"aether":1,"electricity":1,]),])

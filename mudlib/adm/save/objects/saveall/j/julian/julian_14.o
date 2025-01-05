@@ -1,0 +1,8 @@
+#/d/damned/virtual/plate-greaves.armour
+#/d/damned/virtual/plate-greaves.armour.c
+encumbrance 1
+props (["runes":({"aldara zet","malsa sen zora","malsa bonnes",}),"progress true_armour_zurr":0,"new desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Haidate%^RESET%^ {greaves}","material_name":"laen","true armour":1,"progress inscribe_malsa_sen_zora_mort":0,"pow extreme_fortification_zurr":0,"progress extreme_fortification_zurr":0,"progress inscribe_aldara_zet_mort":0,"progress inscribe_malsa_bonnes_mort":0,"pow enchanter_mark_zurr":0,"value":430,"material_type":"metal","extra long":({"A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress enchanter_mark_zurr":0,"pow true_armour_zurr":0,"enchantment":100,])
+true_name "plate greaves"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-6,"short desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Haidate%^RESET%^ {greaves}","ac":(["infernal":310,"disruption":312,"stress":305,"crushing":306,"unholy":308,"cutting":306,"vacuum":294,"plasma":325,"impaling":308,"holy":292,"cold":310,"fire":314,"strike":352,"impact":342,"electricity":300,"aether":312,]),])

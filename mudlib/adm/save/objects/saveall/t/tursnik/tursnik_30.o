@@ -1,0 +1,8 @@
+#/d/damned/virtual/wood-bracer.armour
+#/d/damned/virtual/wood-bracer.armour.c
+encumbrance 1
+props (["material_name":"abachi","runes":({"aldara zet",}),"value":60,"progress engrave_tursnik":0,"extra long":({"Crafted by: Tursnik with A wooden board of abachi [268]","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",}),"material_type":"wood","progress inscribe_aldara_zet_tursnik":0,"new desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {wood bracer}",])
+true_name "wood bracer"
+creator "/d/damned/virtual/armour_server"
+material "/wood/abachi"
+armour_save (["short desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {wood bracer}","ac":(["infernal":600,"disruption":582,"stress":535,"unholy":485,"crushing":497,"cutting":465,"vacuum":461,"plasma":525,"impaling":650,"holy":478,"fire":548,"cold":610,"strike":525,"impact":507,"aether":519,"electricity":482,]),])

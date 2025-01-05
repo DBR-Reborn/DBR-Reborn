@@ -1,0 +1,3 @@
+#/daemon/letter.c
+__Letter "We did tests on the spell Shields_of_war and found the following.When user has the spell shields_of_war on self and just before they level up we notice that exp in the 'score' card goes to a negative number example -2776 and the user keeps saying the level up as the same level every heartbeat non stop in this case it says you leveled to level 5 over and over gaining more HP and MP and DEV points for that level the same amount untill the shadow for shields of war expire or the user logs out.We do not know why it does this"
+__Undeleted ({"exash",})

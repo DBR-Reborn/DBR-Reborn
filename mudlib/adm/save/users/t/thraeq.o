@@ -1,0 +1,49 @@
+#/std/user.c
+encumbrance 500
+props (["extra hp regen":300,"light":0,"xp mod":-15,"hp advance":40,"limb regen":1,"natural ac":4,"melee damage":(["crushing":10,]),"last reinc":1578930270,"handedness":"left hand","enhance criticals":(["fire":1,]),"dev point base":75,"mp advance":8,"last read news":1585105641,"sp points":0,"ambidextry":0,"base mp regen":2,"base hp regen":7,"combat color":"%^BOLD%^","dev points":9911911,])
+true_name "thraeq"
+creator "/adm/obj/login#255"
+max_internal_encumbrance 4260
+player_data (["general":(["sp":1,"exp buffer":0,"max exp":891,"experience":892,"last adjust":1578930539,"max_hp":100000000,"hp":6846,"max_sp":462,]),])
+magic (["max points":48,"points":47,])
+severed ([])
+healing (["quenched":0,"stuffed":0,])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":50000000,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":33333333,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":25000000,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":33333333,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":25000000,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":33333333,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":100000000,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":25000000,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":33333333,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":25000000,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 9
+char_class "tinker"
+skills (["blacksmith":(["stat":"dexterity","last dev":({1000,57,}),"level":98,]),"forge weapon":(["stat":"dexterity","last dev":({1000,27,}),"level":68,]),"dodge":(["stat":"dexterity","last dev":({0,0,}),"level":0,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"parry":(["stat":"dexterity","last dev":({0,0,}),"level":0,]),"melee":(["stat":"strength","last dev":({0,0,}),"max":0,"points":0,"level":0,]),"attack":(["stat":"dexterity","last dev":({0,0,}),"max":0,"points":0,"level":5,]),])
+spells ([])
+wimpydir "out"
+env_var (["TITLE":"Grand $N Wizard","start":"/d/newbieville/rooms/weaponshop","SCORE":"off","TERM":"ansi",])
+money (["silver":428,"gold":10000000000046,"copper":3540,])
+ok_to_heal 25270
+player_age 25268
+sight_bonus 499
+gender "male"
+stats (["wisdom":40,"dexterity":66,"intelligence":40,"constitution":132,"strength":142,"charisma":40,])
+languages (["zebber":10,"common":10,])
+primary_language "common"
+xp_to_next_dev 1001
+alias (["nw":"northwest","ggg":"goto /d/daybreak/room/db_square.c","w":"west","exa":"look at $*","sw":"southwest","u":"up","s":"south","gggt":"goto /d/damned/guilds/join_rooms/tinker_join.c","n":"north","bio":"biography","l":"look $*","ne":"northeast","i":"inventory","e":"east","d":"down","se":"southeast",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+auto_load ({})
+level 1000
+verbose_moves 1
+birth 1578928469
+blocked (["all":0,])
+exp_log ([1578928987:-1163,1578930288:-1163,])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "ualderaj@gmail.com"
+ip "104.243.58.22"
+last_on "Wed Mar 25 03:07:21 2020"
+password "2uIi/MZfMI"
+race "troll"
+original_site "128.187.116.27"
+position "superuser"
+primary_start "/d/newbieville/rooms/weaponshop"
+quests ({})

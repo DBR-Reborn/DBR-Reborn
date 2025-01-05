@@ -1,0 +1,69 @@
+#include <security.h>
+#include <move.h>
+#include <std.h>
+
+inherit MOVE;
+inherit "/std/spells/shadows/shadow";
+
+object who_shadowed;
+string expire_message;
+int really_move = 0;
+
+move_player(mixed dest);
+
+void start_shadow(object who, int duration, string message) {
+	seteuid(UID_SHADOW);
+	begin_shadow(who);
+	who_shadowed = who;
+	expire_message = message;
+
+	if(duration)
+	call_out("remove_slow", duration, this_object());
+
+	seteuid(getuid());
+	return;
+}
+
+
+int query_slow() { return 1; }
+
+
+void remove_slow(object me){
+	if(me != this_object()){
+	next_shadow()->remove_slow(me);
+	return;
+}
+	if(expire_message)
+	message("info", expire_message, who_shadowed);
+	remove();
+	return;
+}
+
+
+void delayed_move(mixed dest){
+	really_move = 2;
+	move_player(dest);
+	return;
+}
+
+
+int move_player(mixed dest){
+	if(really_move == 2){
+	really_move = 0;
+
+	next_shadow()->move_player(dest);
+	next_shadow()->describe_current_room(who_shadowed->query_verbose());
+	return;
+}
+	if(really_move == 0){
+	really_move = 1;
+	delayed_call("delayed_move", 4, dest);
+	message("info", "You begin moving very slowly.", who_shadowed);
+	return;
+}
+	if(really_move == 1){
+	message("info", "You're already moving.", who_shadowed);
+	return;
+}
+	return;
+}

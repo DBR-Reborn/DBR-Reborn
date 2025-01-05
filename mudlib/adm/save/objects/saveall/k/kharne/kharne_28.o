@@ -1,0 +1,8 @@
+#/d/damned/virtual/studded-leather-pants.armour
+#/d/damned/virtual/studded-leather-pants.armour.c
+encumbrance 130
+props (["material_name":"Elemental overlord","progress inscribe_malsa_sen_zora_kharne":0,"runes":({"malsa bonnes","malsa sen zora",}),"value":120,"material_type":"leather","extra long":({"Crafted by: Kharne with A Level [75] Elemental overlord leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_malsa_bonnes_kharne":0,])
+true_name "studded leather pants"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Elemental overlord"
+armour_save (["short desc":"A pair of studded leather pants","ac":(["infernal":523,"disruption":520,"stress":512,"crushing":499,"unholy":516,"cutting":518,"vacuum":525,"plasma":527,"impaling":515,"holy":523,"cold":537,"fire":543,"strike":492,"impact":507,"electricity":525,"aether":513,]),])

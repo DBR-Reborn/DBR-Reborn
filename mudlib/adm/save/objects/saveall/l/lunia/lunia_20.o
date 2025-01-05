@@ -1,0 +1,8 @@
+#/d/damned/virtual/plate-greaves.armour
+#/d/damned/virtual/plate-greaves.armour.c
+encumbrance 450
+props (["material_name":"mcgrail","value":430,"extra long":"level[16] mcgrail Plate Greaves","material_type":"metal","new desc":"level[16] mcgrail Plate Greaves",])
+true_name "plate greaves"
+creator "/d/damned/virtual/armour_server"
+material "/metal/mcgrail"
+armour_save (["short desc":"level[16] mcgrail Plate Greaves","ac":(["infernal":45,"disruption":45,"stress":45,"unholy":45,"crushing":45,"cutting":45,"vacuum":45,"plasma":45,"impaling":45,"holy":45,"fire":45,"cold":45,"strike":45,"impact":45,"aether":45,"electricity":45,]),])

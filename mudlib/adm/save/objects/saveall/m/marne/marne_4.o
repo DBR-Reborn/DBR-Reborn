@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-jacket.armour
+#/d/damned/virtual/leather-jacket.armour.c
+encumbrance 60
+props (["value":45,"runes":({"malsa bonnes","malsa sen zora",}),"progress inscribe_malsa_sen_zora_kharne":0,"material_type":"leather","extra long":({"Crafted by: Kharne with A Level [75] Elemental overlord leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_malsa_bonnes_kharne":0,"new desc":"A shadowy grey {jacket}","progress engrave_kharne":0,"material_name":"Elemental overlord",])
+true_name "leather jacket"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Elemental overlord"
+armour_save (["short desc":"A shadowy grey {jacket}","ac":(["infernal":617,"disruption":605,"stress":614,"crushing":646,"unholy":607,"cutting":643,"vacuum":614,"plasma":629,"impaling":646,"holy":616,"cold":643,"fire":630,"strike":632,"impact":634,"electricity":612,"aether":611,]),])

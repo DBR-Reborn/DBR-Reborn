@@ -1,0 +1,7 @@
+#/d/damned/virtual/plate-bracer.armour.c
+encumbrance 14
+props (["material_name":"davistone","progress inscribe_malsa_bonnes_trent":0,"value":2078,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"material_type":"metal","extra long":({"Smithed by: Trent with davistone [60] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,])
+true_name "plate bracer"
+creator "/d/damned/virtual/armour_server"
+material "/metal/davistone"
+armour_save (["short desc":"A plate bracer","ac":(["infernal":243,"disruption":243,"stress":243,"crushing":254,"unholy":243,"cutting":254,"vacuum":243,"plasma":245,"impaling":254,"holy":243,"cold":246,"fire":246,"strike":250,"impact":250,"electricity":246,"aether":243,]),])

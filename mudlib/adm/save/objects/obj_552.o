@@ -1,0 +1,7 @@
+#/d/damned/virtual/knife_6.weapon.c
+encumbrance 30
+props (["material_name":"iysaughton","float value":1.507328,"material_type":"metal","extra long":"level[44] iysaughton knife of plasma and disruption","new desc":"level[44] iysaughton knife of plasma and disruption",])
+true_name "knife"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/iysaughton"
+__Weapon (["original wc":(["plasma":67,"impaling":4,"disruption":87,"crushing":82,]),"quality":6,"type":"knife","ac":(["infernal":1,"disruption":1,"stress":1,"crushing":1,"unholy":1,"cutting":1,"vacuum":1,"plasma":1,"impaling":1,"holy":1,"cold":1,"fire":1,"strike":1,"impact":1,"electricity":1,"aether":1,]),"verb":"stab","wc":(["plasma":67,"impaling":4,"disruption":87,"crushing":82,]),"short desc":"level[44] iysaughton knife of plasma and disruption","decay rate":200,"parry bonus":-15,"throwable":1,])

@@ -1,0 +1,13 @@
+light:::2
+indoors:::1
+short:::Azazel's Castle Room #6
+long:::This is Room #6 of Azazel's Castle.
+If you are Azazel, type 'help castle' for options.  
+no scry:::1
+no summon:::0
+no teleport:::0
+special exits:::0
+healing room:::0
+exit:::up:/d/damned/virtual/azazel_room_8.castle:door:5:iron door 2
+exit:::south:/d/damned/virtual/azazel_room_3.castle:door:5:iron door
+exit:::north:/d/damned/virtual/azazel_room_7.castle:door:16:vault door

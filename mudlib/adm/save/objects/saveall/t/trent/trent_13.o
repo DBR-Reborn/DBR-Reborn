@@ -1,0 +1,6 @@
+#/wizards/diewarzau/obj/misc/leather2.c
+encumbrance 50
+props (["material_name":"Miner","value":25,"material_type":"leather","extra long":"Level [25] Miner","new desc":"Level [25] Miner",])
+true_name "leather"
+creator "/std/skills/skin_corpse#14846"
+material "/leather/Miner"

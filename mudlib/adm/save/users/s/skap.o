@@ -1,0 +1,58 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":50,"old exp":10149,"light":0,"sp points":0,"hp advance":18,"melee damage":(["crushing":0,]),"base mp regen":10,"handedness":"left hand","ambidextry":0,"last reinc":1713808165,"base hp regen":3,"dev point base":72,"mp advance":40,"combat color":"%^BOLD%^","last read news":1713808165,"dev points":5,])
+true_name "skap"
+creator "/adm/obj/login#66"
+max_internal_encumbrance 2400
+player_data (["general":(["max exp":54,"exp buffer":0,"sp":1,"experience":17,"last adjust":1713810905,"max_hp":138,"max_sp":0,"hp":138,]),])
+magic (["max points":114,"points":114,])
+severed ([])
+healing ([])
+body (["torso":(["damage":0,"armour_ob":({,,}),"max_dam":138,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"chain torso","robe",}),]),"left leg":(["damage":0,"armour_ob":({,,}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"metal legs","robe",}),]),"right foot":(["damage":0,"armour_ob":({,,}),"max_dam":34,"weapons":0,"ac":0,"limb_ref":"","armour":({"metal foots","robe",}),]),"right leg":(["damage":0,"armour_ob":({,,}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"metal legs","robe",}),]),"head":(["damage":0,"armour_ob":({,,}),"max_dam":69,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"robe","metal head",}),]),"right hand":(["damage":0,"armour_ob":({,,,}),"max_dam":34,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather hand","metal hand","robe",}),]),"left foot":(["damage":0,"armour_ob":({,,}),"max_dam":34,"weapons":0,"ac":0,"limb_ref":"","armour":({"metal foots","robe",}),]),"left arm":(["damage":0,"armour_ob":({,,,}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm","chain torso","robe",}),]),"left hand":(["damage":0,"armour_ob":({,,,}),"max_dam":34,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather hand","metal hand","robe",}),]),"right arm":(["damage":0,"armour_ob":({,,,}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"metal arm","chain torso","robe",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 4
+heal_rate 1
+char_class "cleric"
+skills (["blunt":(["stat":"dexterity","last dev":({1,2,}),"level":10,]),"prayer":(["stat":"wisdom","last dev":({1,1,}),"level":5,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"attack":(["stat":"dexterity","last dev":({1,1,}),"max":0,"points":0,"level":10,]),"melee":(["max":0,"points":0,"level":0,]),])
+spells (["satisfy thirst":(["last dev":({1,1,}),"level":1,]),"satisfy hunger":(["last dev":({1,1,}),"level":1,]),"cure light wounds":(["last dev":({1,1,}),"level":1,]),])
+wimpydir "out"
+i 1
+j 1
+k -1
+num_attacks 1
+defendflag 1
+num_rounds 1
+skill -12
+env_var (["start":"/d/nocte/kuril/rooms/temple_plaza1","TITLE":"Novice $N the Gnome","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money (["silver":286,"gold":53,"copper":3420,])
+ok_to_heal 5866
+player_age 5856
+sight_bonus 4
+gender "male"
+state "stand"
+stats (["wisdom":125,"dexterity":80,"strength":80,"constitution":95,"intelligence":75,"charisma":45,])
+languages (["common":10,"grken":10,])
+primary_language "grken"
+xp_to_next_dev 291
+alias (["clw":"cast *1 cure light wounds at $*","bio":"biography","n":"north","nw":"northwest","pl":"party line *","l":"look $*","k":"kill $*","ne":"northeast","sk":"skills","i":"inventory","sh":"cast *1 satisfy hunger at *","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","st":"stats","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+verbose_moves 1
+birth 1713808165
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "jer"
+email "slickfreedom@gmail.com"
+ip "3.128.186.25"
+last_on "Mon Apr 22 17:49:25 2024"
+password "$6$Vhe0aoY7GNGIOYuz$Qa3sCVPzbpYCpm93pe5m8Pw84sBGiLhXzilubEBBha.XYzejXTlIskgrxuaKdYYnmzB6Ene8gZQ6GzWoUlIYp/"
+race "gnome"
+original_site "3.128.186.25"
+position "player"
+quests ({})

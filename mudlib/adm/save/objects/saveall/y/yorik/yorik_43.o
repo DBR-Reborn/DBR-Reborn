@@ -1,0 +1,6 @@
+#/std/diewarzau/obj/misc/bag_of_holding_h.c
+encumbrance 100
+props (["pow enchanter_mark_okkita":0,"value":85600,"progress engrave_aartos":0,"no steal":1,"progress enchanter_mark_okkita":0,"new desc":"%^B_BLUE%^RESET%^ {bag}","progress engrave_inikhida":0,])
+true_name "bag"
+creator "/d/daybreak/room/shop/magic_store"
+max_internal_encumbrance 6000

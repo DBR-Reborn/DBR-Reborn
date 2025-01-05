@@ -1,0 +1,15 @@
+
+// Gobo items
+// Coders:  Amel & Arctic
+//Date: May 97
+
+
+Dice  (dice, no special function to it)
+Torch  (torch, just a std torch)
+Moss  (moss, light half as long as a torch and edible)
+Poisonous mushroom  (pmushroom, poisonous but nutritional)
+Pieces of wood    (pieces_of_wood, parts of a smashed table)
+Small vial    (vial, with purple potion of rand(heal or poison)
+Copper tubing   (tubing, copper tubing)
+Rug           (rug, ornamental rug with picture of gobos fighting a large
+purple worm)

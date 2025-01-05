@@ -1,0 +1,8 @@
+#/d/damned/virtual/metal-boots.armour
+#/d/damned/virtual/metal-boots.armour.c
+encumbrance 70
+props (["material_name":"mcgrail","value":90,"extra long":"level[22] mcgrail Metal Boots","material_type":"metal","new desc":"level[22] mcgrail Metal Boots",])
+true_name "metal boots"
+creator "/d/damned/virtual/armour_server"
+material "/metal/mcgrail"
+armour_save (["short desc":"level[22] mcgrail Metal Boots","ac":(["infernal":60,"disruption":60,"stress":60,"unholy":60,"crushing":60,"cutting":60,"vacuum":60,"plasma":60,"impaling":60,"holy":60,"fire":60,"cold":60,"strike":60,"impact":60,"aether":60,"electricity":60,]),])

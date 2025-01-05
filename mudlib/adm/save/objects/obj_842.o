@@ -1,0 +1,7 @@
+#/d/damned/virtual/wood-helm.armour.c
+encumbrance 100
+props (["material_name":"oak","runes":({"malsa bonnes","malsa sen zora",}),"value":45,"extra long":({"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_malsa_bonnes_hssr":0,"material_type":"wood","progress inscribe_malsa_sen_zora_hssr":0,])
+true_name "wood helm"
+creator "/d/damned/virtual/armour_server"
+material "/wood/oak"
+armour_save (["short desc":"A wood helm","ac":(["infernal":75,"disruption":21,"stress":21,"crushing":70,"unholy":75,"cutting":70,"vacuum":21,"plasma":28,"impaling":70,"holy":21,"cold":28,"fire":28,"strike":72,"impact":82,"electricity":24,"aether":21,]),])

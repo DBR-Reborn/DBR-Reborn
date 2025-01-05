@@ -1,0 +1,123 @@
+Trade System:
+
+Part 1: Raw Materials
+I. Materials (level 1 - raw)
+A. Ore
+	1. Mined
+B. Wood
+	1. Cut down using lumberjack skill
+C. Produce
+	1. Farmed
+D. Fabric material
+	1. Obtained from various sources (cotton, wool, flax, leather)
+E. Livestock
+	1. Cattleyard
+
+II. Ore
+A. Types
+	1. All already in game
+	2. Also, Uranium, Jade, Diamond, Sapphire, Ruby, Quartz
+B. Changes to system currently used
+	1. Add the following properties to ingots to further enhance play value:
+		a. Armor_OK
+		b. Weapon_OK
+		c. Item_OK
+
+III. Wood
+A. NEW TYPES
+	1. Oak
+	2. Mahogany
+	3. Pine
+	4. Ironwood
+	5. Bluewood
+B. Changes to system currently used
+	1. Different sizes of boards
+	2. Boards actually get smaller :-)
+	3. Woods have different properties that affect all-wood weapons.
+
+IV. Produce
+A. Types
+	1. Fruits: Apples, Peachers, Oranges, Bananas, Apricots, Lemons, Grapes
+	2. Vegetables: Carrots, Tomatoes, Cucumbers, Lettuce, Corn, Beets, Peas
+	3. Grains: Wheat, Barley
+	4. Other: Cotton, flax plant, toughthread plant
+B. Changes to system currently used
+	1. Virtual farm server needs to be coded. Use the mine server as a base, but alter it so you get fruits instead of ingots.
+	2. Code a produce template
+		a. Must be able to be eaten, except for the Other category.
+		b. Should be similar to ingots in most other ways (forget the new properties mentioned above).
+
+V. Fabrics
+A. Types
+	1. Cotton
+	2. Wool
+	3. Flax
+	4. Toughthread
+B. Changes to system currently used
+	1. Code a thread-making skill of some sort that requires a machine to work (ala forge).
+	2. Implement clothing into the MUD somehow.
+	3. Code a fabric template
+
+VI. Livestock
+A. Types
+	1. Sheep
+	2. Cow
+	3. Chicken
+	4. Deer
+	5. Duck
+	6. Pig
+B. Changes to system currently used
+	1. Code virtual cattleyard server. Figure out some way of getting the animals to market.
+	2. Code some animal templates as needed. Look at the mine server for ideas. Animals should not be inventory items, but should follow the player around once let out of their pen (or bought from the market) like pets.
+
+
+Part 2: Usage
+
+I. Ore
+A. Weapons
+B. Armour
+C. Rings
+D. Other (chests with a better ore might be harder to bash open, for instance)
+
+II. Wood
+A. Building (a certain amount might be needed for construction)
+B. Weapons
+C. Campfires (make fire skill (new))
+D. Other (chests)
+
+III. Produce
+A. Eat it
+B. Make better food from it (pies, cakes, cookies, bread, etc.)
+C. A certain amount might be needed for the upkeep of certain buildings (cattleyard).
+
+IV. Fabric Materials
+A. Make clothes from them
+B. Armour may become very rare, so clothes will be considered OK, esp toughthread
+
+V. Livestock
+A. Slaughter skill (new)
+
+
+Part 3: MUD-wide changes based on the new sys
+
+I. Ore
+A. No NPC sells ingots.
+B. Mines are toned down.
+
+II. Wood
+A. Wood boards get smaller when used.
+B. Chest making skill
+C. Implement multiple types of wood.
+
+III. Produce
+A. Code produce.
+B. Code farm virtual server
+
+IV. Fabric Materials
+A. Code clothing (probably use as armor)
+B. Code thread-making skill and weaving skill.
+
+V. Livestock
+A. Code livestock.
+B. Code cattleyard virtual server.
+C. Code slaughter skill and domesticate skill (have cows and stuff wandering the overworld map).

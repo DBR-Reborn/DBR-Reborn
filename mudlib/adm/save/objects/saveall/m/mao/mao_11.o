@@ -1,0 +1,7 @@
+#/d/1tlny/loot/hooded_robe.c
+encumbrance 100
+props (["material_name":"cloth","value":400,"material_type":"none","extra long":"level[51] Rare Robe of plasma and disruption protection","new desc":"level[51] Rare Robe of plasma and disruption protection",])
+true_name "hooded robe"
+creator "/d/areas/dragon/mon/mighty_dragon#351950"
+material "/cloth"
+armour_save (["short desc":"level[51] Rare Robe of plasma and disruption protection","ac":(["infernal":69,"disruption":200,"stress":69,"crushing":69,"unholy":69,"cutting":69,"vacuum":69,"plasma":197,"impaling":69,"holy":69,"cold":69,"fire":69,"strike":69,"impact":69,"electricity":69,"aether":69,]),])

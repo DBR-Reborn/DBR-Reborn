@@ -1,0 +1,6 @@
+#define PATH            "/d/areas/munitio"
+#define ROOMS           PATH+"/rooms/"
+#define MON             PATH+"/mon/"
+#define OBJ             PATH+"/obj/"
+#define WEAP            PATH+"/weapon/"
+#define ARMOR           PATH+"/armor/"

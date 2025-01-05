@@ -1,0 +1,6 @@
+//#define NORTHEAST "03"
+#define NORTH "06"
+#define SOUTHEAST "04"
+#define SOUTHWEST "02"
+//#define UP "entry"
+#include "base_buff.c"

@@ -1,0 +1,8 @@
+#/d/damned/virtual/tabard.armour
+#/d/damned/virtual/tabard.armour.c
+encumbrance 20
+props (["value":10,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"leather","extra long":({"Crafted by: Maker with A Level [22] Sinister goblin leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress master_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"Sinister goblin","enchantment":70,])
+true_name "tabard"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Sinister goblin"
+armour_save (["short desc":"A tabard","ac":(["infernal":346,"fire":367,"cold":365,"disruption":348,"stress":356,"unholy":347,"crushing":358,"cutting":365,"strike":361,"vacuum":348,"plasma":349,"impact":363,"impaling":359,"holy":347,"aether":346,"electricity":353,]),])

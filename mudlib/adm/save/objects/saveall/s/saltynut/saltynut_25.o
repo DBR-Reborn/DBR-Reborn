@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-boots.armour
+#/d/damned/virtual/leather-boots.armour.c
+encumbrance 30
+props (["value":30,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"leather","extra long":({"Crafted by: Lore with A Level [28] Worker leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Absorption%^RESET%^ {leather boots}","material_name":"Worker","progress inscribe_malsa_sen_zora_lore":0,"progress inscribe_malsa_bonnes_lore":0,"progress engrave_lore":0,])
+true_name "leather boots"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Worker"
+armour_save (["short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Absorption%^RESET%^ {leather boots}","ac":(["infernal":173,"disruption":177,"stress":170,"unholy":174,"crushing":173,"cutting":185,"vacuum":174,"plasma":171,"impaling":185,"holy":171,"fire":165,"cold":174,"strike":198,"impact":188,"aether":175,"electricity":175,]),])

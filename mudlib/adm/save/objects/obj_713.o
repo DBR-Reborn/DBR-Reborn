@@ -1,0 +1,7 @@
+#/d/damned/virtual/broad-sword_6.weapon.c
+encumbrance 100
+props (["brittle":12,"runes":({"malsa koren",}),"value":3031,"material_type":"metal","extra long":({"This weapon was forged by: Trent with catoetine [54] weapon blank","A %^GREEN%^%^BOLD%^Malsa Koren%^RESET%^ rune is inscribed on the weapon.",}),"material_name":"catoetine","progress inscribe_malsa_koren_trent":0,"hit bonus":52,])
+true_name "broad sword"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/catoetine"
+__Weapon (["original wc":(["impaling":4,"cutting":12,]),"quality":6,"type":"blade","ac":(["infernal":3,"disruption":3,"stress":3,"crushing":3,"unholy":3,"cutting":3,"vacuum":3,"plasma":3,"impaling":3,"holy":3,"cold":3,"fire":3,"strike":3,"impact":3,"electricity":3,"aether":3,]),"verb":"slice","wc":(["impaling":92,"cutting":84,]),"short desc":"broad sword","decay rate":11000,"parry bonus":5,])

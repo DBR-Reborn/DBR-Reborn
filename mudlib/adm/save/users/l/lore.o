@@ -1,0 +1,64 @@
+#/std/user.c
+encumbrance 500
+props (["xp mod":0,"light":0,"hp advance":40,"melee damage":(["crushing":5,]),"handedness":"right hand","last reinc":1665358706,"dev point base":69,"mp advance":18,"last read news":1672635065,"dev cost":-2,"sp points":74,"old exp":0,"base mp regen":14,"ambidextry":0,"base hp regen":33,"combat color":"%^BOLD%^","dev points":3140,])
+true_name "lore"
+creator "/adm/obj/login#262929"
+max_internal_encumbrance 3750
+player_data (["kills":({1,45,5,7,10,69,150,173,148,71,70,129,126,127,128,138,137,167,186,140,8,84,83,203,201,200,29,202,204,142,152,195,125,192,193,194,72,112,32,34,291,347,213,117,209,}),"general":(["alignment":1500,"exp buffer":0,"sp":1,"max_hp":1815,"hp":1815,"max exp":87103076,"experience":87103077,"last adjust":1666752882,"max_sp":770,]),])
+magic (["max points":482,"points":482,])
+severed ([])
+healing (["poisoning":0,"stuffed":450,"quenched":630,])
+body (["right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":453,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["crippled":0,"damage":0,"weapon":0,"armour_ob":({}),"max_dam":605,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":907,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":453,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["crippled":0,"damage":0,"weapon":0,"armour_ob":({}),"max_dam":605,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":1815,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"crippled":0,"armour_ob":({}),"weapon":0,"max_dam":605,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"weapon":0,"max_dam":453,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["crippled":0,"damage":0,"weapon":0,"armour_ob":({}),"max_dam":605,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":453,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 69
+char_class "tinker"
+skills (["compare":(["stat":"intelligence","last dev":({27,2,}),"level":46,]),"woodwork armour":(["stat":"dexterity","last dev":({27,2,}),"level":108,]),"install lock":(["stat":"dexterity","last dev":({27,2,}),"level":68,]),"balance weapon":(["stat":"dexterity","last dev":({26,4,}),"level":33,]),"energy manipulation":(["stat":"intelligence","last dev":({27,3,}),"level":62,]),"inscribe impaler":(["stat":"dexterity","last dev":({27,5,}),"level":69,]),"carpentry":(["stat":"dexterity","last dev":({27,3,}),"level":127,]),"repair wood weapon":(["stat":"dexterity","last dev":({27,1,}),"level":65,]),"inscribe malsa sen zora":(["stat":"dexterity","last dev":({27,4,}),"level":94,]),"spell sense":(["stat":"intelligence","last dev":({27,1,}),"level":36,]),"inscribe impacter":(["stat":"dexterity","last dev":({27,5,}),"level":76,]),"inscribe cutter":(["stat":"dexterity","last dev":({27,5,}),"level":75,]),"repair weapon":(["stat":"dexterity","last dev":({27,1,}),"level":65,]),"swimming":(["stat":"constitution","last dev":({27,1,}),"level":66,]),"woodwork weapon":(["stat":"dexterity","last dev":({27,2,}),"level":108,]),"engrave":(["stat":"dexterity","last dev":({27,2,}),"level":106,]),"rune lore":(["stat":"wisdom","last dev":({27,2,}),"level":70,]),"inscribe malsa xen":(["stat":"dexterity","last dev":({27,4,}),"level":94,]),"forge armour":(["stat":"dexterity","last dev":({27,2,}),"level":104,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"inscribe malsa bonnes":(["stat":"dexterity","last dev":({27,3,}),"level":101,]),"perception":(["stat":"intelligence","last dev":({27,2,}),"level":105,]),"detect magic":(["stat":"intelligence","last dev":({27,1,}),"level":39,]),"blacksmith":(["stat":"dexterity","last dev":({27,3,}),"level":118,]),"leather craft":(["stat":"dexterity","last dev":({27,3,}),"level":119,]),"forge weapon":(["stat":"dexterity","last dev":({27,2,}),"level":104,]),"inscribe crusher":(["stat":"dexterity","last dev":({27,5,}),"level":76,]),"two handed blunt":(["stat":"dexterity","last dev":({27,4,}),"level":143,]),"parry":(["stat":"dexterity","last dev":({27,3,}),"level":127,]),"trade lore":(["stat":"charisma","last dev":({27,3,}),"level":79,]),"inscribe xen mora":(["stat":"dexterity","last dev":({27,3,}),"level":99,]),"attack":(["stat":"dexterity","last dev":({27,3,}),"max":0,"points":0,"level":135,]),])
+spells (["energy shield":(["last dev":({25,1,}),"level":2,]),"force shield":(["last dev":({25,1,}),"level":2,]),"shield of ithian":(["last dev":({27,1,}),"level":2,]),"armour of oblivion":(["last dev":({27,1,}),"level":2,]),])
+wimpydir "out"
+i 1
+j 1
+k -1
+num_attacks 1
+x 1
+defendflag 1
+num_rounds 1
+skill 275
+env_var (["start":"/d/daybreak/room/db_square","TITLE":"%^COLOR49%^$N%^RESET%^","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money (["silver":1899,"gold":23010,"mithril":900,"copper":8270,])
+ok_to_heal 1271058
+player_age 1271054
+description "The stuff of Legends!"
+gender "male"
+state "stand"
+stats (["wisdom":35,"dexterity":110,"strength":125,"constitution":111,"intelligence":35,"charisma":46,])
+languages (["goblinish":2,"common":10,"middle-english":10,])
+primary_language "common"
+language_exp (["goblinish":({14,0,}),"orcish":({9,0,}),"grken":({2,0,}),"elfish":({1,0,}),"elvish":({6,0,}),])
+xp_to_next_dev 87103292
+alias (["magicweapon":"use inscribe xen mora at $*","boomstick":"use engrave at $* with %^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR50%^ Calamitous%^RESET%^","lal":"look at lore","cl":"close locker $*","bdt":"say bob, dt lore","newbieprotgear":"use engrave at $* with %^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR33%^ Protection%^RESET%^","retitle":"setenv TITLE %^COLOR49%^$N%^RESET%^","say":"say %^COLOR49%^$*%^","shimgear":"use engrave at $* with %^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR27%^ Shi%^COLOR33%^mmer%^COLOR39%^ing%^RESET%^","ol":"open locker $*","w":"west","absgear":"use engrave at $* with %^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Absorption%^RESET%^","u":"up","mightweapon":"use inscribe malsa xen at $*","s":"south","bdm":"say bob, dm lore","rw":"use repair weapon at hammer","bio":"biography","n":"north","lookwep":"use compare at $* and $*","empgear":"use engrave at $* with %^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Empowering%^RESET%^","l":"look $*","i":"inventory","e":"east","d":"down","physicalarmour":"use inscribe malsa bonnes at $*","tthb":"train two handed blunt","kg":"kill goblin","nw":"northwest","newbiegear":"use engrave at $* with %^COLOR3%^%^B_RED%^TNT%^RESET%^","thunderhammer":"use engrave at $* with %^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR3%^ Thundering%^RESET%^","bboa":"say bob, boa lore","sw":"southwest","exa":"look at $*","magicarmour":"use inscribe malsa sen zora at $*","st":"status","gct":"give kanabou to lore","impgear":"use engrave at $* with %^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Imposition%^RESET%^","tntgear":"use engrave at $* with %^COLOR3%^%^B_RED%^TNT%^RESET%^","ght":"give hammer to lore","ne":"northeast","aass":"aspells","ll":"look locker $*","se":"southeast","forgear":"use engrave at $* with %^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Foreboding%^RESET%^","protgear":"use engrave at $* with %^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Protection%^RESET%^",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+zexp 87103077
+znexp 91106362
+zlexp 4003285
+znlevel 28
+zlevel 27
+auto_load ({})
+level 27
+verbose_moves 1
+birth 1665358706
+blocked ([])
+exp_log ([1665560519:47515,1665440119:16572,1665426062:16572,1665412980:7605,])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "GreenTNT"
+email "idsbinney@gmail.com"
+ip "193.37.254.75"
+last_on "Mon Jan  2 04:51:05 2023"
+password "$6$aW5kfz5w1MfWR6G6$NmTQcQjWNtIevoHwgQl0Csk9OY.gZfvP5duk976Bps37H0hv2zyJeGXD1ncec8eg6UQXa5rz9KConmc5.QD.10"
+race "high-man"
+original_site "193.37.254.67"
+position "player"
+primary_start "/d/areas/goblin/areas/goblin2"
+quests ({})

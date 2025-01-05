@@ -1,0 +1,7 @@
+#/d/damned/virtual/plate-greaves.armour.c
+encumbrance 450
+props (["material_name":"iron","value":430,"material_type":"metal",])
+true_name "plate greaves"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iron"
+armour_save (["short desc":"A pair of plate greaves","ac":(["infernal":55,"disruption":1,"stress":1,"unholy":55,"crushing":55,"cutting":55,"vacuum":1,"plasma":1,"impaling":55,"holy":1,"fire":5,"cold":5,"strike":40,"impact":55,"aether":1,"electricity":1,]),])

@@ -1,0 +1,5 @@
+//#define NORTH "01"
+#define WEST "03"
+#define EAST "06"
+//#define SOUTH "02"
+#include "base_worker.c"

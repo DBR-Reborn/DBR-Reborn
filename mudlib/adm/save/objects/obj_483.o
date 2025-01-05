@@ -1,0 +1,7 @@
+#/d/damned/virtual/plate-bracer.armour.c
+encumbrance 45
+props (["material_name":"laen","value":60,"material_type":"metal","extra long":"level[90] laen Bracer of impaling and electricity protection","new desc":"level[90] laen Bracer of impaling and electricity protection",])
+true_name "plate bracer"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"level[90] laen Bracer of impaling and electricity protection","ac":(["infernal":290,"disruption":290,"stress":290,"crushing":290,"unholy":290,"cutting":290,"vacuum":290,"plasma":290,"impaling":748,"holy":290,"cold":290,"fire":290,"strike":290,"impact":290,"electricity":881,"aether":290,]),])

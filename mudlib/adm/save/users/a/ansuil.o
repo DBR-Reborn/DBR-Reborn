@@ -1,0 +1,63 @@
+#/std/user.c
+encumbrance 500
+props (["light":0,"xp mod":0,"hp advance":50,"melee damage":(["crushing":5,]),"last reinc":1669791997,"handedness":"left hand","dev point base":65,"mp advance":15,"last read news":1669826090,"dev cost":-2,"old exp":0,"sp points":0,"ambidextry":0,"base mp regen":3,"base hp regen":16,"combat color":"%^BOLD%^","dev points":689,])
+true_name "ansuil"
+creator "/adm/obj/login#151904"
+max_internal_encumbrance 3600
+player_data (["kills":({21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,15,0,233,230,232,28,235,}),"general":(["sp":1,"exp buffer":0,"alignment":2,"max_hp":411,"hp":411,"max exp":45476,"experience":45477,"last adjust":1669795681,"max_sp":630,]),])
+magic (["max points":129,"points":129,])
+severed ([])
+healing (["poisoning":0,"quenched":400,"stuffed":200,])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":205,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"chain head","metal head",}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":137,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"leather legs",}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":102,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":137,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm",}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":102,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":137,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"leather legs",}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":411,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"leather torso",}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":102,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":137,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"metal arm",}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":102,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 36
+char_class "fighter"
+skills (["consider":(["stat":"intelligence","last dev":({2,1,}),"level":5,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"swimming":(["stat":"constitution","last dev":({2,2,}),"level":15,]),"axe":(["stat":"dexterity","last dev":({3,1,}),"level":10,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"parry":(["stat":"dexterity","last dev":({2,2,}),"level":15,]),"fast attack":(["stat":"constitution","last dev":({3,6,}),"level":30,]),"attack":(["stat":"dexterity","last dev":({3,3,}),"max":0,"points":0,"level":30,]),"blade":(["stat":"dexterity","last dev":({3,2,}),"level":44,]),])
+spells ([])
+wimpydir "out"
+protection 17
+hits 8
+i 1
+j 2
+k 3
+num_attacks 1
+x 23
+num_rounds 2
+skill 92
+env_var (["TITLE":"Goblin Killer $N the High-man","start":"/d/khojem/new/room/entry","LINES":"70","TERM":"xterm-256","SCORE":"on",])
+money (["silver":372,"gold":1298,"copper":3660,])
+ok_to_heal 7564
+player_age 7562
+sight_bonus 1
+gender "male"
+state "stand"
+stats (["wisdom":50,"dexterity":90,"intelligence":50,"constitution":120,"strength":120,"charisma":95,])
+languages (["goblinish":1,"common":10,"middle-english":10,])
+primary_language "middle-english"
+language_exp (["goblinish":({1,0,}),"elvish":({0,0,}),])
+xp_to_next_dev 45540
+alias (["kg":"kill goblin","nw":"northwest","don":"get all from corpse","w":"west","exa":"look at $*","sw":"southwest","dcc":"get coins from corpse","u":"up","s":"south","n":"north","bio":"biography","l":"look $*","ne":"northeast","i":"inventory","e":"east","d":"down","se":"southeast",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+zexp 45477
+znexp 49999
+zlexp 4522
+znlevel 5
+zlevel 4
+auto_load ({})
+level 4
+verbose_moves 1
+birth 1669791997
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "ansuil@hotmail.com"
+ip "23.243.146.49"
+last_on "Wed Nov 30 16:34:50 2022"
+password "$6$9rUUt29LIIlMN.lr$HiDqTpSTGV2ndbIkVcLDoNf2pKYESN3c1QgT7ffYXtr.AkpAe5JbcRV.iTwfGe0Q2wULvHHtpPzXlbad8kp1B/"
+race "high-man"
+original_site "23.243.146.49"
+position "player"
+primary_start "/d/khojem/new/room/entry"
+quests ({})

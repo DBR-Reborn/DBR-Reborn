@@ -1,0 +1,10 @@
+#/std/obj/misc/s_rune.c
+props (["pow preserve_rune_upstart":0,"preserved":1,"progress preserve_rune_upstart":0,"can resist":1,])
+true_name "rune"
+creator "/std/spells/summon_rune#480473"
+register_idx 56
+caster "upstart"
+my_file "rune_0"
+non_active ({"ruck","singe","upstart",})
+level 6
+clevel 63

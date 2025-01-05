@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-belt.armour
+#/d/damned/virtual/leather-belt.armour.c
+encumbrance 2
+props (["material_name":"Ghost","value":4,"material_type":"leather","extra long":"Crafted by: Torm with A Level [15] Ghost leather",])
+true_name "leather belt"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Ghost"
+armour_save (["short desc":"A nice leather belt","ac":(["infernal":117,"disruption":101,"stress":174,"crushing":128,"unholy":109,"cutting":129,"vacuum":104,"plasma":75,"impaling":86,"holy":86,"cold":158,"fire":96,"strike":124,"impact":109,"electricity":181,"aether":105,]),])

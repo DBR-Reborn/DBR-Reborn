@@ -1,0 +1,8 @@
+#/d/damned/virtual/stumps.armour
+#/d/damned/virtual/stumps.armour.c
+encumbrance 1
+props (["progress inscribe_malsa_sen_zora_creg":0,"runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"value":90,"extra long":({"Crafted by: Creg with A wooden board of abachi [284]","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"wood","progress inscribe_aldara_zet_creg":0,"progress true_armour_creg":0,"progress inscribe_malsa_bonnes_creg":0,"material_name":"abachi","true armour":1,"pow true_armour_creg":0,])
+true_name "stumps"
+creator "/d/damned/virtual/armour_server"
+material "/wood/abachi"
+armour_save (["enhance critical":-4,"short desc":"A pair of stumps","ac":(["infernal":1251,"disruption":1295,"stress":1296,"crushing":1292,"unholy":1321,"cutting":1344,"vacuum":1306,"plasma":1241,"impaling":1346,"holy":1314,"cold":1237,"fire":1370,"strike":1224,"impact":1271,"electricity":1241,"aether":1367,]),])

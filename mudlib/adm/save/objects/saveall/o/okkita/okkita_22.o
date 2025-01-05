@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-glove.armour
+#/d/damned/virtual/leather-glove.armour.c
+encumbrance 2
+props (["progress inscribe_malsa_bonnes_singe":0,"progress engrave_singe":0,"runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"progress engrave_kigus":0,"new desc":"%^B_BLUE%^%^RESET%^ {leather glove}","progress engrave_inikhida":0,"material_name":"Dragon","true armour":1,"progress engrave_nawara":0,"progress engrave_arcadia":0,"progress enchanter_mark_nawara":0,"progress inscribe_malsa_sen_zora_singe":0,"pow enchanter_mark_nawara":0,"progress engrave_angelica":0,"value":3,"pow true_armour_upstart":0,"extra long":({"Crafted by: Singe with A Level [59] Dragon leather","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress engrave_skye":0,"progress extreme_fortification_upstart":0,"progress true_armour_upstart":0,"pow extreme_fortification_upstart":0,"progress inscribe_aldara_zet_singe":0,"enchantment":100,])
+true_name "leather glove"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Dragon"
+armour_save (["enhance critical":-4,"short desc":"%^B_BLUE%^%^RESET%^ {leather glove}","ac":(["infernal":602,"disruption":602,"stress":631,"crushing":636,"unholy":617,"cutting":651,"vacuum":372,"plasma":617,"impaling":650,"holy":613,"cold":629,"fire":637,"strike":609,"impact":607,"electricity":618,"aether":609,]),])

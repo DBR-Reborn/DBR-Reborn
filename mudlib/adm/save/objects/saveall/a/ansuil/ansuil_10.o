@@ -1,0 +1,5 @@
+#/d/areas/goblin/items/staff.c
+encumbrance 30
+props (["material_name":"iron","decay":500,"value":400,"material_type":"metal",])
+material "/metal/iron"
+__Weapon (["verb":"smash","quality":4,"short desc":"gnarled wooden staff","decay rate":200,"type":"two handed staff","parry bonus":-5,])

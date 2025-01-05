@@ -1,0 +1,52 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":20,"xp mod":0,"old exp":0,"light":0,"sp points":0,"hp advance":28,"melee damage":(["crushing":5,]),"base mp regen":6,"handedness":"left hand","ambidextry":0,"last reinc":1668982834,"base hp regen":6,"dev point base":69,"mp advance":25,"combat color":"%^BOLD%^","last read news":1668982834,"dev points":10,"dev cost":-2,])
+true_name "nawara"
+creator "/adm/obj/login#91676"
+max_internal_encumbrance 2700
+player_data (["general":(["max exp":10148,"exp buffer":0,"sp":1,"experience":10149,"max_hp":218,"max_sp":0,"hp":218,]),])
+magic (["max points":214,"points":214,])
+severed ([])
+healing (["stuffed":440,"quenched":900,])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":218,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":72,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":54,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":72,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":109,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":54,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":54,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":72,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":54,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":72,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 50
+char_class "assassin"
+skills (["magery":(["stat":"intelligence","level":5,]),"compare":(["stat":"intelligence","last dev":({3,1,}),"level":10,]),"strike mastery":(["stat":"strength","last dev":({3,2,}),"level":20,]),"hide in shadows":(["stat":"dexterity","last dev":({3,1,}),"level":15,]),"magic mastery":(["stat":"intelligence","last dev":({3,2,}),"level":20,]),"repair weapon":(["stat":"dexterity","last dev":({3,2,}),"level":20,]),"melee":(["stat":"strength","last dev":({2,2,}),"max":0,"points":0,"level":10,]),"swimming":(["stat":"constitution","last dev":({3,1,}),"level":15,]),"duel mastery":(["stat":"dexterity","last dev":({3,2,}),"level":20,]),"invulnerability mastery":(["stat":"strength","last dev":({3,2,}),"level":20,]),"knife":(["stat":"dexterity","last dev":({3,3,}),"level":30,]),"stab":(["stat":"dexterity","last dev":({3,1,}),"level":5,]),"parry":(["stat":"dexterity","last dev":({3,2,}),"level":20,]),"trade lore":(["stat":"charisma","last dev":({3,1,}),"level":20,]),"perception":(["stat":"intelligence","last dev":({3,1,}),"level":15,]),"blade":(["stat":"dexterity","last dev":({3,2,}),"level":25,]),"attack":(["stat":"dexterity","last dev":({3,3,}),"max":0,"points":0,"level":33,]),])
+spells ([])
+wimpydir "out"
+env_var (["start":"/d/standard/square","TITLE":"$N","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 3167
+player_age 3162
+sight_bonus 3
+gender "female"
+state "stand"
+stats (["wisdom":65,"dexterity":107,"strength":90,"constitution":95,"intelligence":102,"charisma":41,])
+languages (["common":10,"elfish":6,"middle-english":6,])
+primary_language "common"
+language_exp (["catfolk":({3,0,}),])
+xp_to_next_dev 10398
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 3
+ghost 1
+birth 1668982834
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "@comcast.net"
+ip "68.41.203.137"
+last_on "Sun Nov 20 22:20:34 2022"
+password "$6$hVfQkWZ/JhWAHRcj$Yv9/W4h394l1QMs1n0wMK.7G19pY2BmQ.ymr62/9tfMwz0QBksmjo/xQO0RcWULq5yIY.pJK.TNu8N.HbkY.L1"
+race "half-elf"
+original_site "68.41.203.137"
+position "player"
+quests ({})

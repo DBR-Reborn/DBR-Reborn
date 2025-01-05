@@ -1,0 +1,7 @@
+#/d/damned/virtual/gauntlet.armour.c
+encumbrance 2
+props (["material_name":"javednite","progress inscribe_malsa_bonnes_trent":0,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"value":382,"extra long":({"Smithed by: Trent with javednite [36] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,])
+true_name "gauntlet"
+creator "/d/damned/virtual/armour_server"
+material "/metal/javednite"
+armour_save (["short desc":"A gauntlet","ac":(["infernal":227,"disruption":227,"stress":227,"unholy":227,"crushing":264,"cutting":264,"vacuum":227,"plasma":229,"impaling":264,"holy":227,"fire":230,"cold":230,"strike":260,"impact":260,"aether":227,"electricity":230,]),])

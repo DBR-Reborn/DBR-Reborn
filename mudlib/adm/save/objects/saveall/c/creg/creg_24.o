@@ -1,0 +1,8 @@
+#/d/damned/virtual/wood-leg-guards.armour
+#/d/damned/virtual/wood-leg-guards.armour.c
+encumbrance 1
+props (["progress inscribe_malsa_sen_zora_creg":0,"runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"value":430,"extra long":({"Crafted by: Creg with A wooden board of abachi [280]","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"wood","progress inscribe_aldara_zet_creg":0,"progress true_armour_creg":0,"progress inscribe_malsa_bonnes_creg":0,"material_name":"abachi","true armour":1,"pow true_armour_creg":0,])
+true_name "wood leg guards"
+creator "/d/damned/virtual/armour_server"
+material "/wood/abachi"
+armour_save (["enhance critical":-4,"short desc":"A pair of wood leg guards","ac":(["infernal":1157,"disruption":1235,"stress":1196,"crushing":1350,"unholy":1246,"cutting":1176,"vacuum":1284,"plasma":1262,"impaling":1263,"holy":1305,"cold":1288,"fire":1296,"strike":1282,"impact":1324,"electricity":1212,"aether":1268,]),])

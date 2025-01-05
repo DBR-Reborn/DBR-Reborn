@@ -1,0 +1,7 @@
+#/d/areas/dwarf_mine/obj/pick-axe.c
+encumbrance 400
+props (["material_name":"iron","value":200,"material_type":"metal",])
+true_name "pick-axe"
+creator "/d/areas/dwarf_mine/mon/miner#84339"
+material "/metal/iron"
+__Weapon (["original wc":(["impaling":20,]),"quality":6,"type":"two handed polearm","ac":(["infernal":4,"disruption":4,"stress":4,"unholy":4,"crushing":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"fire":4,"cold":4,"strike":4,"impact":4,"aether":4,"electricity":4,]),"verb":"rend","wc":(["impaling":20,]),"short desc":"dwarven pick-axe","decay rate":200,])

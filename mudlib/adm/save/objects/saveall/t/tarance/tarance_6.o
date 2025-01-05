@@ -1,0 +1,8 @@
+#/d/damned/virtual/wood-helm.armour
+#/d/damned/virtual/wood-helm.armour.c
+encumbrance 100
+props (["value":45,"material_type":"wood","extra long":({"Crafted by: Tursnik with A wooden board of abachi [152]",({"Fortification: %^CYAN%^+100%","detect magic",}),}),"progress engrave_tursnik":0,"progress extreme_fortification_rihcter":0,"new desc":"Get Some Wood {wood helm}","pow extreme_fortification_rihcter":0,"material_name":"abachi","enchantment":100,])
+true_name "wood helm"
+creator "/d/damned/virtual/armour_server"
+material "/wood/abachi"
+armour_save (["short desc":"Get Some Wood {wood helm}","ac":(["infernal":407,"disruption":325,"stress":377,"unholy":337,"crushing":390,"cutting":329,"vacuum":389,"plasma":419,"impaling":364,"holy":429,"fire":394,"cold":332,"strike":347,"impact":409,"aether":354,"electricity":405,]),])

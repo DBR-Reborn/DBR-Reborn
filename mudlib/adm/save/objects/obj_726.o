@@ -1,0 +1,7 @@
+#/d/damned/virtual/studded-leather-glove.armour.c
+encumbrance 3
+props (["runes":({"malsa bonnes","malsa sen zora",}),"value":6,"progress inscribe_malsa_sen_zora_maker":0,"extra long":({"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"material_type":"metal","progress major_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"material_name":"iron","pow major_fortification_math":0,"enchantment":40,])
+true_name "studded leather glove"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iron"
+armour_save (["short desc":"A studded leather glove","ac":(["infernal":176,"disruption":155,"stress":155,"crushing":186,"unholy":176,"cutting":200,"vacuum":155,"plasma":158,"impaling":200,"holy":155,"cold":161,"fire":161,"strike":176,"impact":176,"electricity":159,"aether":155,]),])

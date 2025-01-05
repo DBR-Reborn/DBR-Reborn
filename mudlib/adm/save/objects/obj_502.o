@@ -1,0 +1,7 @@
+#/d/damned/virtual/hooded-cloak.armour.c
+encumbrance 1
+props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"%^COLOR57%^+SHROUDED+%^RESET%^ cloak {cloak}","material_name":"Silver dragon","true armour":1,"progress engrave_mythicos":0,"progress extreme_fortification_azazel":0,"progress inscribe_malsa_sen_zora_azazel":0,"value":10,"extra long":({"Crafted by: Azazel with A Level [100] Silver dragon leather","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress inscribe_malsa_bonnes_azazel":0,"progress engrave_azazel":0,"pow extreme_fortification_azazel":0,"pow true_armour_azazel":0,"progress inscribe_aldara_zet_azazel":0,"progress true_armour_azazel":0,"enchantment":100,])
+true_name "hooded cloak"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Silver dragon"
+armour_save (["enhance critical":-4,"short desc":"%^COLOR57%^+SHROUDED+%^RESET%^ cloak {cloak}","ac":(["infernal":966,"disruption":966,"stress":966,"unholy":967,"crushing":891,"cutting":902,"vacuum":976,"plasma":991,"impaling":880,"holy":969,"fire":1012,"cold":992,"strike":872,"impact":888,"aether":972,"electricity":991,]),])

@@ -1,0 +1,7 @@
+#/d/damned/virtual/knife_6.weapon.c
+encumbrance 30
+props (["float value":0.753664,"brittle":45,"material_type":"metal","extra long":({"level[212] iysaughton knife of crushing and plasma",({"This weapon has %^BOLD%^Bless Weapon%^RESET%^.","detect magic",}),}),"pow bless_weapon_azazel":0,"new desc":"level[212] iysaughton knife of crushing and plasma","material_name":"iysaughton","bless weapon":36,"progress bless_weapon_azazel":0,])
+true_name "knife"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/iysaughton"
+__Weapon (["original wc":(["plasma":542,"impaling":4,"holy":223,"crushing":261,]),"quality":5,"type":"knife","ac":(["infernal":1,"disruption":1,"stress":1,"unholy":1,"crushing":1,"cutting":1,"vacuum":1,"plasma":1,"impaling":1,"holy":1,"fire":1,"cold":1,"strike":1,"impact":1,"aether":1,"electricity":1,]),"verb":"stab","wc":(["plasma":542,"impaling":4,"holy":753,"crushing":739,]),"decay status":198,"short desc":"level[212] iysaughton knife of crushing and plasma","decay rate":200,"parry bonus":-15,"throwable":1,])

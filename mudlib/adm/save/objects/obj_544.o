@@ -1,0 +1,7 @@
+#/d/damned/virtual/knife_6.weapon.c
+encumbrance 30
+props (["float value":1.507328,"material_name":"laen","extra long":"level[43] laen knife of impact and fire","material_type":"metal","new desc":"level[43] laen knife of impact and fire",])
+true_name "knife"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/laen"
+__Weapon (["original wc":(["fire":60,"impact":66,"impaling":4,"crushing":57,]),"quality":6,"type":"knife","ac":(["infernal":1,"disruption":1,"stress":1,"unholy":1,"crushing":1,"cutting":1,"vacuum":1,"plasma":1,"impaling":1,"holy":1,"fire":1,"cold":1,"strike":1,"impact":1,"aether":1,"electricity":1,]),"verb":"stab","wc":(["fire":60,"impact":66,"impaling":4,"crushing":57,]),"short desc":"level[43] laen knife of impact and fire","decay rate":200,"parry bonus":-15,"throwable":1,])

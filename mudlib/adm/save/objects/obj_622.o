@@ -1,0 +1,7 @@
+#/d/damned/virtual/plate-greaves.armour.c
+encumbrance 450
+props (["material_name":"catoetine","value":430,"material_type":"metal","extra long":"level[61] catoetine greaves of impact and electricity protection","new desc":"level[61] catoetine greaves of impact and electricity protection",])
+true_name "plate greaves"
+creator "/d/damned/virtual/armour_server"
+material "/metal/catoetine"
+armour_save (["short desc":"level[61] catoetine greaves of impact and electricity protection","ac":(["infernal":111,"disruption":111,"stress":111,"crushing":111,"unholy":111,"cutting":111,"vacuum":111,"plasma":111,"impaling":111,"holy":111,"cold":111,"fire":111,"strike":111,"impact":220,"electricity":233,"aether":111,]),])

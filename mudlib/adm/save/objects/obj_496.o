@@ -1,0 +1,7 @@
+#/d/damned/virtual/leather-helmet.armour.c
+encumbrance 1
+props (["runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"new desc":"%^COLOR57%^+SHROUDED+%^RESET%^ leather helmet {leather helmet}","material_name":"Gold dragon","true armour":1,"progress engrave_mythicos":0,"progress extreme_fortification_azazel":0,"progress inscribe_malsa_sen_zora_azazel":0,"value":45,"material_type":"leather","extra long":({"Crafted by: Azazel with A Level [100] Gold dragon leather","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_malsa_bonnes_azazel":0,"progress engrave_azazel":0,"pow extreme_fortification_azazel":0,"pow true_armour_azazel":0,"progress inscribe_aldara_zet_azazel":0,"progress true_armour_azazel":0,"enchantment":100,])
+true_name "leather helmet"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Gold dragon"
+armour_save (["enhance critical":-4,"short desc":"%^COLOR57%^+SHROUDED+%^RESET%^ leather helmet {leather helmet}","ac":(["infernal":957,"disruption":959,"stress":958,"unholy":965,"crushing":869,"cutting":855,"vacuum":967,"plasma":975,"impaling":874,"holy":961,"fire":974,"cold":967,"strike":845,"impact":864,"aether":966,"electricity":984,]),])

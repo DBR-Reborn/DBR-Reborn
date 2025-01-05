@@ -1,0 +1,6 @@
+#/std/diewarzau/obj/misc/ingot.c
+encumbrance 43
+props (["material_name":"iysaughton","value":50,"material_type":"metal",])
+true_name "ingot"
+creator "/std/spells/summon/whelp_dragon#201988"
+material "/metal/iysaughton"

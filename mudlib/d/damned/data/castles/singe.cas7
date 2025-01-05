@@ -1,0 +1,13 @@
+light:::2
+indoors:::1
+short:::Singe's Castle Room #7
+long:::This is Room #7 of Singe's Castle.
+If you are Singe, type 'help castle' for options.  
+no scry:::1
+no summon:::1
+no teleport:::1
+special exits:::1
+healing room:::0
+exit:::square:/d/daybreak/room/db_square
+exit:::portal:/d/daybreak/room/N1
+exit:::south:/d/damned/virtual/singe_room_4.castle:door:16:vault door

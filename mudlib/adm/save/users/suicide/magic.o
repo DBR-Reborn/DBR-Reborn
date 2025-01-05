@@ -1,0 +1,61 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":50,"extra hp regen":30,"xp mod":-50,"light":0,"hp advance":15,"melee damage":(["disruption":5,"crushing":5,]),"last reinc":1730508652,"handedness":"left hand","enhance criticals":(["disruption":-1,"holy":1,]),"dev point base":70,"mp advance":50,"last read news":1730508652,"sp points":0,"old exp":10149,"ambidextry":0,"base mp regen":15,"base hp regen":3,"combat color":"%^BOLD%^","dev points":9,])
+true_name "magic"
+creator "/adm/obj/login#189571"
+max_internal_encumbrance 3300
+player_data (["kills":({0,0,0,0,0,0,0,0,0,}),"general":(["alignment":0,"max exp":661,"sp":1,"exp buffer":0,"experience":662,"last adjust":1730509460,"max_hp":156,"hp":156,"max_sp":770,]),])
+magic (["max points":123,"points":123,])
+severed ([])
+healing (["quenched":900,"stuffed":500,])
+body (["right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":39,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":78,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":39,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":156,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":39,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right wing":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":39,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left wing":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"head","right leg","right foot","left arm","left foot","left leg","torso","right hand","right wing","right arm","left hand","left wing",})
+all_my_fingers 5
+heal_rate 63
+char_class "elementalist"
+skills (["focus of elements":(["stat":"intelligence","last dev":({1,1,}),"level":5,]),"control demon":(["stat":"intelligence","level":5,]),"chaos magic":(["stat":"intelligence","level":5,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"fire lore":(["stat":"intelligence","last dev":({1,1,}),"level":5,]),"knife":(["stat":"dexterity","last dev":({1,1,}),"level":5,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"attack":(["stat":"dexterity","last dev":({1,1,}),"max":0,"points":0,"level":10,]),"elementalism":(["stat":"intelligence","last dev":({1,1,}),"level":5,]),])
+spells (["elemental shield":(["last dev":({1,1,}),"level":1,]),"body of elements":(["last dev":({1,1,}),"level":1,]),"lesser elemental bolt":(["last dev":({1,1,}),"level":1,]),"disruption bolt":(["level":1,]),])
+wimpydir "out"
+hits 9
+i 1
+j 1
+k 2
+num_attacks 1
+x 16
+num_rounds 1
+skill 48
+env_var (["TITLE":"Novice $N the Sword-demon","start":"/d/standard/square","LINES":"70","TERM":"ansi","SCORE":"on",])
+money ([])
+ok_to_heal 3870
+player_age 3866
+sight_bonus 3
+gender "male"
+state "stand"
+stats (["wisdom":45,"dexterity":110,"intelligence":93,"constitution":110,"strength":110,"charisma":11,])
+languages (["common":10,"yin":10,])
+primary_language "yin"
+language_exp (["goblinish":({8,0,}),])
+xp_to_next_dev 753
+alias (["nw":"northwest","w":"west","sw":"southwest","exa":"look at $*","u":"up","s":"south","n":"north","bio":"biography","l":"look $*","ne":"northeast","ks":"kill snotling","i":"inventory","h":"status","dbolt":"cast *1 disruption bolt at $*","e":"east","d":"down","se":"southeast","ga":"get all","gcc":"get coins from corpse $*",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+ghost 1
+birth 1730504569
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "oldschool@yahoo.com"
+ip "72.229.12.174"
+last_on "Sat Nov  2 00:50:52 2024"
+password "$6$5xuIGqtT8RzxRi1Y$vVcws96Eef3Eu.w.wJb6cmya1aIqwV9D4dHqUQIhUCQJsr0Y.14a8dJYgBfVQPezm6tTAed5BYUG3qlTx6BSj."
+race "sword-demon"
+original_site "72.229.12.174"
+position "player"
+primary_start "/d/daybreak/room/db_square"
+quests ({})

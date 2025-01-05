@@ -1,0 +1,64 @@
+#/std/user.c
+encumbrance 500
+props (["light":0,"xp mod":15,"hp advance":50,"melee damage":(["crushing":6,]),"handedness":"left hand","last reinc":1669005463,"dev point base":70,"mp advance":15,"last read news":1669032377,"dev cost":-2,"sp points":0,"old exp":5430,"base mp regen":4,"ambidextry":1,"base hp regen":18,"combat color":"%^BOLD%^","dev points":383,])
+true_name "masool"
+creator "/adm/obj/login#121893"
+max_internal_encumbrance 3540
+player_data (["kills":({21,118,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,76,77,85,78,86,144,134,}),"general":(["alignment":-52,"exp buffer":0,"sp":1,"max_hp":351,"hp":351,"max exp":42679,"experience":42680,"last adjust":1669033244,"max_sp":791,]),])
+magic (["max points":96,"points":96,])
+severed (["left foot":"",])
+healing (["poisoning":0,"stuffed":125,"quenched":900,])
+body (["right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":87,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":117,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"leather legs",}),]),"head":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":175,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"metal head","chain head","helmet",}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":117,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm","armour",}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":351,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"leather torso","armour",}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":117,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"leather legs",}),]),"right hand":(["damage":0,"armour_ob":({,,}),"weapon":0,"max_dam":87,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({"cloth hand","shield",}),]),"left hand":(["damage":0,"armour_ob":({,}),"weapon":0,"max_dam":87,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":117,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"metal arm","armour",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","right arm","left hand",})
+all_my_fingers 5
+heal_rate 52
+char_class "fighter"
+skills (["consider":(["stat":"intelligence","last dev":({3,2,}),"level":25,]),"dodge":(["stat":"dexterity","last dev":({4,3,}),"level":25,]),"kick":(["stat":"strength","last dev":({4,4,}),"level":20,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"parry":(["stat":"dexterity","last dev":({3,3,}),"level":15,]),"martial arts":(["stat":"dexterity","last dev":({4,3,}),"level":44,]),"attack":(["stat":"dexterity","last dev":({0,0,}),"max":0,"points":0,"level":5,]),"melee":(["stat":"strength","last dev":({4,2,}),"max":0,"points":0,"level":36,]),])
+spells ([])
+wimpydir "out"
+protection 1
+hits 3
+i 1
+j 2
+k 2
+num_attacks 1
+x 19
+num_rounds 2
+has_shield 1
+skill 80
+env_var (["start":"/d/daybreak/room/dblw4","TITLE":"Goblin Killer $N the China-man","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money (["silver":2257,"gold":189,"copper":3010,])
+ok_to_heal 8724
+player_age 8712
+sight_bonus -1
+gender "male"
+state "stand"
+stats (["wisdom":30,"dexterity":113,"strength":118,"constitution":98,"intelligence":30,"charisma":55,])
+languages (["goblinish":1,"common":10,"china-manish":10,])
+primary_language "china-manish"
+language_exp (["goblinish":({18,0,}),"elfish":({1,0,}),])
+xp_to_next_dev 42732
+alias (["nw":"northwest","w":"west","exa":"look at $*","sw":"southwest","u":"up","s":"south","3":"use consider at $*","2":"get all from corpse","1":"get coins from corpse","bio":"biography","n":"north","l":"look $*","k":"kill $*","ne":"northeast","i":"inventory","e":"east","se":"southeast","d":"down","sc":"score",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+zexp 25296
+znexp 49999
+zlexp 24703
+znlevel 5
+zlevel 4
+auto_load ({})
+level 4
+verbose_moves 1
+birth 1669005463
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "greg"
+email "dgh@aol.com"
+ip "81.170.163.42"
+last_on "Mon Nov 21 12:06:17 2022"
+password "$6$Kx72dMXV2cwDZA4a$74wcwo7IIGd2P7r3Gcx07Py4DWtcWlE9oa2WbpxpFHSAX0PACttTy/3ruK/t/YD7KhODQM9xp/kZAtIHViSIJ."
+race "china-man"
+original_site "81.170.163.42"
+position "player"
+primary_start "/d/areas/goblin/areas/cave2"
+quests ({})

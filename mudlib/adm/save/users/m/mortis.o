@@ -1,0 +1,60 @@
+#/std/user.c
+encumbrance 500
+props (["magic resistance":15,"extra mp regen":40,"old exp":10149,"light":0,"sp points":0,"xp mod":-60,"hp advance":15,"melee damage":(["crushing":5,]),"base mp regen":15,"handedness":"left hand","ambidextry":1,"last reinc":1714190255,"base hp regen":3,"dev point base":71,"mp advance":50,"combat color":"%^BOLD%^","last read news":1714190255,"dev points":5,])
+true_name "mortis"
+creator "/adm/obj/login#125625"
+max_internal_encumbrance 1500
+player_data (["kills":({21,}),"general":(["alignment":0,"max exp":62,"exp buffer":0,"sp":1,"experience":63,"last adjust":1714190890,"max_hp":132,"max_sp":0,"hp":132,]),])
+magic (["max points":165,"points":165,])
+severed ([])
+healing ([])
+body (["torso":(["damage":0,"armour_ob":({,}),"max_dam":132,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"leather torso",}),]),"left leg":(["damage":0,"armour_ob":({,}),"max_dam":44,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"leather legs",}),]),"right foot":(["damage":0,"armour_ob":({,}),"max_dam":33,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"right leg":(["damage":0,"armour_ob":({,}),"max_dam":44,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"leather legs",}),]),"head":(["damage":0,"armour_ob":({,,}),"max_dam":66,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"chain head","metal head",}),]),"right hand":(["damage":0,"armour_ob":({,,}),"max_dam":33,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"left foot":(["damage":0,"armour_ob":({,}),"max_dam":33,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"left arm":(["damage":0,"armour_ob":({,}),"max_dam":44,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm",}),]),"left hand":(["damage":0,"armour_ob":({,,}),"max_dam":33,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"right arm":(["damage":0,"armour_ob":({,}),"max_dam":44,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"metal arm",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 4
+heal_rate 1
+char_class "necromancer"
+skills (["necromancy":(["stat":"intelligence","last dev":({1,2,}),"level":10,]),"control undead":(["stat":"wisdom","last dev":({1,1,}),"level":5,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"attack":(["stat":"dexterity","last dev":({0,0,}),"max":0,"points":0,"level":5,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),])
+spells ([])
+wimpydir "out"
+protection 4
+hits 5
+i 1
+j 1
+k 2
+num_attacks 1
+x 14
+num_rounds 1
+skill 36
+env_var (["start":"/d/nocte/kuril/rooms/entrance","TITLE":"Novice $N the Blood-elf","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money (["silver":426,"gold":49,"copper":3550,])
+ok_to_heal 2415
+player_age 2412
+sight_bonus 4
+gender "male"
+state "stand"
+stats (["wisdom":118,"dexterity":70,"strength":50,"constitution":90,"intelligence":128,"charisma":65,])
+languages (["common":10,"blood-elfish":10,])
+primary_language "blood-elfish"
+xp_to_next_dev 251
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+verbose_moves 1
+birth 1714190255
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Josh"
+email "jleftonemod@gmail.com"
+ip "107.119.44.145"
+last_on "Sat Apr 27 03:57:35 2024"
+password "$6$3GW/HGqolB7WmLVF$3GrbyxA0qLSfg8M7kloPq.GAIMz10Upxb3u.QEpce.DZuEjx0YJeOK8doIRleShElWNUxMNSVQyd7eJlNz2k.1"
+race "blood-elf"
+original_site "107.119.44.145"
+position "player"
+quests ({})

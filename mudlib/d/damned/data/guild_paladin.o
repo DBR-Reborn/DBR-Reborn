@@ -1,0 +1,13 @@
+#/d/damned/guilds/join_rooms/paladin_join.c
+props (["base mp regen":4,"guild mods":(["wisdom":5,"constitution":5,"strength":5,]),"base hp regen":6,"light":3,"mp advance":20,"hp advance":30,"indoors":1,])
+__Smells ([])
+__Listens ([])
+__Searches ([])
+destinations (["north":"/d/daybreak/room/dbbw3","east":"/d/damned/guilds/paladin/paladin_spell_room","west":"/d/damned/guilds/paladin/train_room",])
+invis_exits ([])
+pre_exit_func ([])
+post_exit_func ([])
+tracks ({})
+__Items (["blue moon":0,"sky":0,"ankh":0,"moon":0,"red moon":0,"green moon":0,"warzau":0,"sun":0,"luna":0,"moons":0,])
+guild_list (["gilda":(["status":"member",]),"nosferatu":(["status":"member",]),"baarich":(["privs":({}),"status":"member",]),"kariel":(["status":"member",]),"dalau":(["status":"member",]),"tarn":(["status":"member",]),"ruck":(["status":"member",]),])
+banish ([])

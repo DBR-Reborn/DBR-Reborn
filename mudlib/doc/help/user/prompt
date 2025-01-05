@@ -1,0 +1,45 @@
+Prompt can be set up with the following commands
+
+setenv prompt (fill in the following)
+
+$h      your current HP
+$H      your max HP
+$q      Percent of HP
+
+$m      your current MP
+$M      Your max MP
+$Q      Percent of MP
+
+$tnl    Exp needed to next level
+$dp     Devlopment points
+
+$c      Carry
+$mc     Max Carry
+\\n     Move to next line
+
+$A      Show attcker name
+$a      Percent HP of attacker
+
+$ls     Long Term Name
+$lr     Long Term Time left
+
+(Other Debug for long term) May get removed in the future
+$la     Long term active not active
+$lt     Long term time progress
+$LT     Long Term time needed
+
+Example of a simple prompt
+
+setenv prompt %^RED%^HP:$h/$H%^BOLD%^ %^BLUE%^MP:$m/$M %^ORANGE%^EXP:$tnl%^RESET%^\\n>
+
+Copy Paste Version: 
+setenv prompt %%^^BOLD%%^^%%^^RED%%^^HP:$h/$H%%^^BLUE%%^^ MP:$m/$M %%^^ORANGE%%^^EXP:$tnl%%^^RESET%%^^\\n>
+
+Copy Paste Version 2 with long term:
+setenv prompt %%^^BOLD%%^^%%^^RED%%^^HP:$h/$H%%^^BLUE%%^^ MP:$m/$M %%^^ORANGE%%^^EXP:$tnl %%^^RESET%%^^$ls %%^^CYAN%%^^$lr%%^^RESET%%^^\\n>
+
+to reset your prompt to the default
+
+setenv prompt >
+
+++TLNY2021 more changes coming

@@ -1,0 +1,8 @@
+#/std/diewarzau/obj/misc/power_stone.c
+encumbrance 5
+props (["pow activate_powerstone_azazel":0,"progress activate_powerstone_azazel":0,"value":200000,"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR1%^%^B_BLUE%^Power%^RESET%^%^COLOR39%^Stone%^RESET%^ {powerstone}","total casting":970,"progress engrave_lilund":0,])
+true_name "powerstone"
+creator "/d/daybreak/room/shop/magic_store"
+max_points 1000
+mp_left 1000
+activated 1

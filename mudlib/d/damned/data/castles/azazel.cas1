@@ -1,0 +1,23 @@
+light:::2
+indoors:::1
+short:::Azazel's Castle Room #1
+long:::Foyer.                                                                      
+
+
+
+
+
+
+
+
+
+
+no scry:::0
+no summon:::0
+no teleport:::0
+special exits:::1
+healing room:::0
+exit:::square:/d/daybreak/room/db_square
+exit:::out:/d/damned/virtual/room_8_9.world
+exit:::portal:/d/daybreak/room/N1
+exit:::north:/d/damned/virtual/azazel_room_2.castle:door:16:vault door

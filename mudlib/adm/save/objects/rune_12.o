@@ -1,0 +1,7 @@
+#/std/obj/misc/t_rune.c
+props ([])
+true_name "rune"
+creator "/adm/daemon/save_items_d"
+register_idx 12
+non_active ({})
+level 1

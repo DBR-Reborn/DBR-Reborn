@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-helmet.armour
+#/d/damned/virtual/leather-helmet.armour.c
+encumbrance 5
+props (["runes":({"malsa bonnes","malsa sen zora","lifta",}),"progress inscribe_malsa_sen_zora_lilund":0,"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Absorption%^RESET%^ {leather helmet}","pow master_fortification_lilund":0,"progress inscribe_malsa_bonnes_lilund":0,"progress engrave_lilund":0,"material_name":"Elemental overlord","true armour":1,"progress master_fortification_lilund":0,"pow true_armour_lilund":0,"progress true_armour_lilund":0,"value":45,"extra long":({"Crafted by: Lilund with A Level [75] Elemental overlord leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Lifta%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress inscribe_lifta_lilund":0,"enchantment":70,])
+true_name "leather helmet"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Elemental overlord"
+armour_save (["enhance critical":-4,"short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Absorption%^RESET%^ {leather helmet}","ac":(["infernal":643,"disruption":645,"stress":656,"crushing":687,"unholy":646,"cutting":675,"vacuum":645,"plasma":655,"impaling":675,"holy":648,"cold":665,"fire":652,"strike":672,"impact":685,"electricity":671,"aether":653,]),])

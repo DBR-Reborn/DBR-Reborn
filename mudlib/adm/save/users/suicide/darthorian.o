@@ -1,0 +1,53 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":50,"extra hp regen":30,"xp mod":-50,"light":0,"hp advance":15,"melee damage":(["crushing":5,]),"last reinc":1722561637,"handedness":"left hand","dev point base":69,"mp advance":40,"last read news":1722605296,"sp points":0,"old exp":0,"ambidextry":1,"base mp regen":13,"base hp regen":3,"combat color":"%^BOLD%^","dev points":5,])
+true_name "darthorian"
+creator "/adm/obj/login#174562"
+max_internal_encumbrance 2400
+player_data (["general":(["sp":1,"exp buffer":0,"max exp":10148,"experience":10149,"max_hp":158,"hp":158,"max_sp":735,]),])
+magic (["max points":273,"points":273,])
+severed ([])
+healing ([])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":79,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":39,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":39,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":158,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":39,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":39,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 1
+char_class "enchanter"
+skills (["magery":(["stat":"intelligence","level":10,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"energy manipulation":(["stat":"intelligence","last dev":({3,2,}),"level":20,]),"perception":(["stat":"intelligence","last dev":({3,1,}),"level":10,]),"prospecting":(["stat":"intelligence","last dev":({3,2,}),"level":15,]),"conjuration":(["stat":"intelligence","level":10,]),"woodland stealth":(["stat":"dexterity","level":10,]),"swimming":(["stat":"constitution","last dev":({3,2,}),"level":15,]),"focus casting":(["stat":"intelligence","level":10,]),"illusionism":(["stat":"intelligence","level":10,]),"dodge":(["stat":"dexterity","last dev":({3,2,}),"level":20,]),"trade lore":(["stat":"charisma","last dev":({3,2,}),"level":20,]),"two handed staff":(["stat":"dexterity","last dev":({3,2,}),"level":25,]),"enchantment":(["stat":"intelligence","last dev":({3,2,}),"level":20,]),"attack":(["stat":"dexterity","last dev":({3,2,}),"max":0,"points":0,"level":30,]),])
+spells (["garguth's open palm":(["last dev":({3,1,}),"level":3,]),"sense aura":(["last dev":({3,1,}),"level":2,]),"fashion statue":(["last dev":({3,1,}),"level":2,]),"minor fortification":(["last dev":({3,1,}),"level":1,]),"poison rune":(["last dev":({3,1,}),"level":1,]),"flame blade":(["last dev":({3,1,}),"level":3,]),"minor puissance":(["last dev":({3,1,}),"level":3,]),"improve statue":(["last dev":({3,1,}),"level":1,]),])
+wimpydir "out"
+env_var (["TITLE":"Petitioner $N the Grey-elf","start":"/d/standard/square","LINES":"70","TERM":"xterm-256","SCORE":"off",])
+money ([])
+ok_to_heal 45604
+player_age 45604
+sight_bonus 4
+gender "male"
+state "stand"
+stats (["wisdom":95,"dexterity":105,"intelligence":111,"constitution":80,"strength":80,"charisma":36,])
+languages (["common":10,"grey-elfish":10,])
+primary_language "common"
+xp_to_next_dev 10398
+alias (["n":"north","bio":"biography","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","exa":"look at $*","sw":"southwest","e":"east","u":"up","d":"down","se":"southeast","s":"south",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+zexp 10149
+znexp 24999
+zlexp 14850
+znlevel 4
+zlevel 3
+auto_load ({})
+level 3
+ghost 1
+birth 1722561637
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "jeremy.w.gilley@gmail.com"
+ip "68.32.199.4"
+last_on "Fri Aug  2 13:28:16 2024"
+password "$6$eFxAe/OcKyZujOo7$.4QsBn7ve459zyuxr1SRrlOTkQpY9V5GvZB1WqVpLXcjzvwp5OG5s0fuw6APUZC0.y3tynYE62fiDVq9q9sWh1"
+race "grey-elf"
+original_site "68.32.199.4"
+position "player"
+primary_start "/d/daybreak/room/db_square"
+quests ({})

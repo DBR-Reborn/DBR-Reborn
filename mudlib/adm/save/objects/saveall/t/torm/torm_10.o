@@ -1,0 +1,8 @@
+#/d/damned/virtual/wood-hand-guard.armour
+#/d/damned/virtual/wood-hand-guard.armour.c
+encumbrance 6
+props (["material_name":"abachi","progress inscribe_malsa_sen_zora_torm":0,"value":10,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"wood","extra long":({"Crafted by: Torm with A wooden board of abachi [100]","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_malsa_bonnes_torm":0,])
+true_name "wood hand guard"
+creator "/d/damned/virtual/armour_server"
+material "/wood/abachi"
+armour_save (["short desc":"wood hand guard","ac":(["infernal":432,"disruption":449,"stress":420,"crushing":391,"unholy":399,"cutting":428,"vacuum":451,"plasma":434,"impaling":425,"holy":452,"cold":403,"fire":429,"strike":389,"impact":428,"electricity":454,"aether":446,]),])

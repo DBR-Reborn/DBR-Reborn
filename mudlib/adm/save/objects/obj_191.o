@@ -1,0 +1,7 @@
+#/d/areas/zoo/obj/sasa_stick.c
+encumbrance 10
+props (["brittle":614,"value":10000,"material_type":"metal","auto critical":(["cutting D":300,]),"extra long":({({"Puissance: %^CYAN%^++100%","detect magic",}),}),"progress extreme_puissance_rihcter":0,"material_name":"eog","pow extreme_puissance_rihcter":0,"enchantment":100,"hit bonus":500,])
+true_name "sasa stick"
+creator "/d/areas/zoo/mon/sasa#334101"
+material "/metal/eog"
+__Weapon (["original wc":(["cold":500,"fire":500,"disruption":500,"crushing":500,"unholy":500,"cutting":500,"vacuum":500,"plasma":500,"impaling":500,"holy":500,"aether":500,]),"quality":6,"enhance critical":200,"type":"blunt","wield":0,"ac":(["infernal":200,"disruption":500,"stress":200,"unholy":500,"crushing":500,"cutting":500,"vacuum":500,"plasma":500,"impaling":500,"holy":500,"fire":500,"cold":500,"strike":200,"impact":200,"aether":500,"electricity":200,]),"verb":"beat","wc":(["cold":500,"fire":500,"disruption":500,"crushing":500,"unholy":500,"cutting":500,"vacuum":500,"plasma":500,"impaling":500,"holy":500,"aether":500,]),"short desc":"%^BLUE%^Sasa Stick%^RESET%^","decay rate":100000,])

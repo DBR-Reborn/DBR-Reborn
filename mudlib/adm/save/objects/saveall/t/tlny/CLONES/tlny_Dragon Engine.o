@@ -1,0 +1,6 @@
+#/std/diewarzau/obj/misc/inc_creation.c
+encumbrance 100
+props (["progress fashion_dragon_engine_test":150000,"material_name":"laen","value":10000,"material_type":"none","type":"dragon engine","pow fashion_dragon_engine_test":8,])
+true_name "creation"
+creator "/std/spells/fashion_dragon_engine#13995"
+material "/laen"

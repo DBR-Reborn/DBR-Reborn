@@ -1,0 +1,7 @@
+#/d/damned/virtual/wood-hand-guard.armour.c
+encumbrance 4
+props (["runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"material_name":"dogwood","pow true_armour_trent":0,"progress major_fortification_trent":0,"true armour":1,"progress master_fortification_baarich":0,"pow master_fortification_baarich":0,"value":10,"extra long":({"Crafted by: Hssr",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),}),"material_type":"wood","progress true_armour_trent":0,"progress inscribe_malsa_sen_zora_hssr":0,"progress inscribe_aldara_zet_hssr":0,"progress inscribe_malsa_bonnes_hssr":0,"pow major_fortification_trent":0,"enchantment":70,])
+true_name "wood hand guard"
+creator "/d/damned/virtual/armour_server"
+material "/wood/dogwood"
+armour_save (["enhance critical":-5,"short desc":"wood hand guard","ac":(["infernal":68,"disruption":68,"stress":68,"crushing":63,"unholy":68,"cutting":63,"vacuum":68,"plasma":71,"impaling":63,"holy":68,"cold":71,"fire":71,"strike":79,"impact":79,"electricity":71,"aether":68,]),])

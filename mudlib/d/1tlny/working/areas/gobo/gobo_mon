@@ -1,0 +1,20 @@
+  Area: Gobo caves
+  Coders: Amel & Arctic
+  Date: April 97
+
+  Gobo Chieftan gobo_chief(4th)
+  Gobo Shaman   gobo_shaman(3rd)
+Gobo guard captain  gobo_champion(3rd)
+Gobo Guard    gobo_guard, gobo_guarda (the a indicates agro, armed, &
+armoured)(2nd)
+Gobo Male     gobo_male, gobo_malea(a is armed and agro)(1st)
+  Gobo Female   gobo_female, gobo_femaled(the d is diesease)(1st)
+  Gobo Child    gobo_child, gobo_childd(1st)
+Rat          rat (1st)
+Cave Fly      cave_fly (1st)
+Spider       cave_spider (4th, non poisonous)
+Snake         snake (2nd, poisonous)
+Small purple worm small_purple_worm(5th)
+Cave vines    cave_vines (1st)
+Cave fish     cave_fish(2nd)
+

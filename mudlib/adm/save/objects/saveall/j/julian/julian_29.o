@@ -1,0 +1,7 @@
+#/d/areas/keep/armour/black_hood.c
+encumbrance 50
+props (["progress true_armour_zurr":0,"new desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Altair Cowl%^RESET%^ {hood}","progress major_fortification_zurr":0,"progress engrave_julian":0,"material_name":"leather","progress master_fortification_zurr":0,"true armour":1,"pow extreme_fortification_zurr":0,"progress extreme_fortification_zurr":0,"value":2000,"material_type":"none","extra long":({({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),}),"pow true_armour_zurr":0,"pow master_fortification_zurr":0,"enchantment":100,"pow major_fortification_zurr":0,])
+true_name "black hood"
+creator "/d/areas/keep/mon/warlock#6554"
+material "/leather"
+armour_save (["enhance critical":-4,"short desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Altair Cowl%^RESET%^ {hood}","ac":(["infernal":100,"disruption":100,"stress":100,"unholy":100,"crushing":100,"cutting":100,"vacuum":100,"plasma":100,"impaling":100,"holy":100,"fire":100,"cold":100,"strike":100,"impact":100,"aether":100,"electricity":100,]),])

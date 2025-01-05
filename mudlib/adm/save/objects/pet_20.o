@@ -1,0 +1,32 @@
+#/std/spells/summon/undead_dragon.c
+props (["magic resistance":450,"physical resistance":(["default":500,]),"element":"nexus","power":6,"melee damage":(["infernal":500,"cold":500,"disruption":500,"nexus":500,"unholy":500,]),"ambidextry":1,"base mp regen":500,"base hp regen":500,"enhance criticals":-10,"magical resistance":(["default":500,]),])
+true_name "undead dragon"
+creator "/std/spells/animate_dragon#293498"
+max_internal_encumbrance 5400
+player_data (["general":(["sp":1,"exp buffer":0,"experience":100000,"max_hp":30000,"hp":30000,"max_sp":1,]),])
+magic (["max points":30000,"points":30000,])
+severed ([])
+healing ([])
+body (["right foot":(["damage":0,"armour_ob":({0,}),"max_dam":15000,"weapons":0,"ac":500,"limb_ref":"","armour":({"robe",}),]),"right leg":(["damage":0,"armour_ob":({0,}),"max_dam":15000,"weapons":0,"ac":500,"limb_ref":"right foot","armour":({"robe",}),]),"head":(["damage":0,"armour_ob":({0,}),"max_dam":15000,"weapons":0,"ac":500,"limb_ref":"FATAL","armour":({"robe",}),]),"left foot":(["damage":0,"armour_ob":({0,}),"max_dam":15000,"weapons":0,"ac":500,"limb_ref":"","armour":({"robe",}),]),"left arm":(["damage":0,"armour_ob":({0,}),"max_dam":15000,"weapons":0,"ac":500,"limb_ref":"left hand","armour":({"robe",}),]),"left leg":(["damage":0,"armour_ob":({0,}),"max_dam":15000,"weapons":0,"ac":500,"limb_ref":"left foot","armour":({"robe",}),]),"torso":(["damage":0,"armour_ob":({0,}),"max_dam":15000,"weapons":0,"ac":1000,"limb_ref":"FATAL","armour":({"robe",}),]),"right hand":(["damage":0,"armour_ob":({0,}),"max_dam":15000,"wieldable":1,"weapons":0,"ac":500,"limb_ref":"","armour":({"robe",}),]),"left hand":(["damage":0,"armour_ob":({0,}),"max_dam":15000,"wieldable":1,"weapons":0,"ac":500,"limb_ref":"","armour":({"robe",}),]),"right arm":(["damage":0,"armour_ob":({0,}),"max_dam":15000,"weapons":0,"ac":500,"limb_ref":"right hand","armour":({"robe",}),]),])
+limbs ({"left leg","torso","right foot","right leg","head","right hand","left foot","left arm","left hand","right arm",})
+all_my_fingers 5
+heal_rate 500
+skills (["concentrate":(["stat":"intelligence","level":500,]),"body block":(["stat":"strength","level":100,]),"reverse stroke":(["stat":"dexterity","level":185,]),"melee":(["stat":"strength","max":0,"points":0,"level":510,]),"knife":(["stat":"dexterity","level":447,]),"black magic":(["stat":"intelligence","level":200,]),"perception":(["stat":"intelligence","level":421,]),"blade":(["stat":"dexterity","level":435,]),"two handed blade":(["stat":"dexterity","level":438,]),"paralysis magic":(["stat":"intelligence","level":200,]),"swimming":(["stat":"constitution","level":100,]),"defense":(["level":404,]),"blunt":(["stat":"dexterity","level":430,]),"resist stun":(["stat":"constitution","level":300,]),"dodge":(["stat":"dexterity","level":300,]),"two handed staff":(["stat":"dexterity","level":431,]),"parry":(["stat":"dexterity","level":300,]),"projectile":(["level":433,]),"nexus lore":(["stat":"intelligence","level":200,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":510,]),"elementalism":(["stat":"intelligence","level":200,]),])
+spells (["greater elemental strike":(["level":6,]),"breathe fire":(["level":6,]),"syphon soul":(["level":6,]),])
+wimpydir "out"
+env_var ([])
+ok_to_heal 286467
+player_age 286466
+gender "neuter"
+stats (["wisdom":253,"dexterity":350,"constitution":253,"strength":180,"intelligence":120,"charisma":268,])
+languages (["common":10,"yin":10,"elvish":10,"serra":10,"undead dragonish":10,"treefolk":10,"dwarvish":10,"undead-tongue":10,])
+primary_language "undead dragonish"
+combat_chance 120
+level 100
+emotes ([])
+speech ([])
+spell_chance (["greater elemental strike":"$A","breathe fire":"$A","syphon soul":"$A",])
+body_type "human"
+register_idx 20
+Pet_data (["carry":0,"aggr status":0,"change aggr":1,"save":1,"owner":"rihcter","attack":1,])
+ele "0"

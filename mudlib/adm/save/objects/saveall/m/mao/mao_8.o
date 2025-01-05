@@ -1,0 +1,8 @@
+#/d/damned/virtual/metal-boots.armour
+#/d/damned/virtual/metal-boots.armour.c
+encumbrance 70
+props (["material_name":"laen","value":90,"material_type":"metal","extra long":"level[43] laen boots of crushing and plasma protection","new desc":"level[43] laen boots of crushing and plasma protection",])
+true_name "metal boots"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"level[43] laen boots of crushing and plasma protection","ac":(["infernal":71,"disruption":71,"stress":71,"crushing":149,"unholy":71,"cutting":71,"vacuum":71,"plasma":162,"impaling":71,"holy":71,"cold":71,"fire":71,"strike":71,"impact":71,"electricity":71,"aether":71,]),])

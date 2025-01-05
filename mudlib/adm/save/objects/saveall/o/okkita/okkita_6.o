@@ -1,0 +1,7 @@
+#/d/1tlny/loot/hooded_robe.c
+encumbrance 100
+props (["value":400,"progress engrave_skye":0,"extra long":"level[85] Rare Robe of disruption and impact protection","material_type":"none","progress engrave_kigus":0,"new desc":"%^B_BLUE%^%^RESET%^ {robe}","progress engrave_inikhida":0,"material_name":"cloth","progress engrave_nawara":0,"progress engrave_arcadia":0,"progress enchanter_mark_nawara":0,"pow enchanter_mark_nawara":0,"progress engrave_angelica":0,])
+true_name "hooded robe"
+creator "/d/areas/ork/mon/2mekboyz#249531"
+material "/cloth"
+armour_save (["short desc":"%^B_BLUE%^%^RESET%^ {robe}","ac":(["infernal":495,"disruption":643,"stress":495,"unholy":495,"crushing":495,"cutting":495,"vacuum":495,"plasma":495,"impaling":495,"holy":495,"fire":495,"cold":495,"strike":495,"impact":612,"aether":495,"electricity":495,]),])

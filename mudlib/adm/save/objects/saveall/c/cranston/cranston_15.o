@@ -1,0 +1,8 @@
+#/d/damned/virtual/gauntlet.armour
+#/d/damned/virtual/gauntlet.armour.c
+encumbrance 6
+props (["progress inscribe_malsa_sen_zora_kharne":0,"runes":({"malsa bonnes","malsa sen zora",}),"value":471,"progress major_fortification_cranston":0,"material_type":"metal","extra long":({"Smithed by: Kharne with laen [132] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"progress inscribe_malsa_bonnes_kharne":0,"material_name":"laen","pow major_fortification_cranston":0,"enchantment":40,])
+true_name "gauntlet"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"A gauntlet","ac":(["infernal":533,"disruption":519,"stress":567,"crushing":608,"unholy":533,"cutting":606,"vacuum":569,"plasma":536,"impaling":592,"holy":577,"cold":535,"fire":575,"strike":552,"impact":545,"electricity":568,"aether":537,]),])

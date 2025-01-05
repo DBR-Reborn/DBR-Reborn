@@ -1,0 +1,8 @@
+#/d/damned/virtual/knife_5.weapon
+#/d/damned/virtual/knife_5.weapon.c
+encumbrance 30
+props (["material_name":"steel","float value":0.471040,"material_type":"metal","extra long":"level[17] steel Knife","new desc":"level[17] steel Knife",])
+true_name "knife"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/steel"
+__Weapon (["wielded":,"quality":4,"limb string":" (wielded in left hand)","verb":"stab","decay status":172,"wc":(["impaling":4,"crushing":41,]),"throwable":1,"original wc":(["impaling":4,"crushing":41,]),"type":"knife","ac":(["infernal":1,"disruption":1,"stress":1,"crushing":1,"unholy":1,"cutting":1,"vacuum":1,"plasma":1,"impaling":1,"holy":1,"cold":1,"fire":1,"strike":1,"impact":1,"electricity":1,"aether":1,]),"short desc":"level[17] steel Knife","decay rate":200,"parry bonus":-15,])

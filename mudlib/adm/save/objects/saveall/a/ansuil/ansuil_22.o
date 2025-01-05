@@ -1,0 +1,5 @@
+#/std/Object.c
+encumbrance 30
+props (["float value":0.500000,])
+true_name "mug"
+creator "/d/areas/daybreak_castle/mon/drunk_ghost#159390"

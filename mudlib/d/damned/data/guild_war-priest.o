@@ -1,0 +1,13 @@
+#/d/damned/guilds/join_rooms/war-priest_join.c
+props (["base mp regen":6,"guild mods":(["wisdom":5,"constitution":5,]),"base hp regen":5,"light":2,"mp advance":32,"hp advance":18,"indoors":1,])
+__Smells ([])
+__Listens ([])
+__Searches ([])
+destinations (["north":"/d/damned/guilds/war-priest/hh5","south":"/d/daybreak/room/dbbw3",])
+invis_exits ([])
+pre_exit_func ([])
+post_exit_func ([])
+tracks ({})
+__Items (["blue moon":0,"sky":0,"ankh":0,"moon":0,"red moon":0,"green moon":0,"warzau":0,"sun":0,"luna":0,"moons":0,])
+guild_list (["akaysia":(["status":"member",]),"areala":(["status":"member",]),"fuhai":(["status":"member",]),"raphael":(["status":"member",]),"ningimbly":(["status":"member",]),"alderthorn":(["status":"member",]),"ariella":(["status":"member",]),"yorik":(["status":"member",]),"beldrun":(["status":"member",]),"fiera":(["status":"member",]),"paramoor":(["privs":({"bad standing",}),"status":"member",]),"exashtest":(["status":"member",]),])
+banish ([])

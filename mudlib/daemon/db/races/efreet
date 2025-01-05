@@ -1,0 +1,5 @@
+head:FATAL:2:0
+right arm:right hand:3:0
+right hand:0:4:right arm
+left arm:left hand:3:0
+left hand:0:4:left arm

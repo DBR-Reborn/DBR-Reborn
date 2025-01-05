@@ -1,0 +1,12 @@
+light:::2
+indoors:::1
+short:::Singe's Castle Room #8
+long:::This is Room #8 of Singe's Castle.
+If you are Singe, type 'help castle' for options.  
+no scry:::0
+no summon:::0
+no teleport:::0
+special exits:::0
+healing room:::0
+exit:::up:/d/damned/virtual/singe_room_3.castle
+exit:::down:/d/damned/virtual/singe_room_6.castle:door:16:vault door 2

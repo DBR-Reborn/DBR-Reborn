@@ -1,0 +1,60 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":50,"light":0,"xp mod":-30,"hp advance":28,"melee damage":(["crushing":5,]),"handedness":"right hand","last reinc":1730251227,"dev point base":70,"mp advance":25,"last read news":1730342923,"magic resistance":15,"old exp":0,"sp points":0,"base mp regen":5,"ambidextry":1,"base hp regen":5,"combat color":"%^BOLD%^","dev points":23,])
+true_name "brexit"
+creator "/adm/obj/login#127995"
+max_internal_encumbrance 1650
+player_data (["general":(["exp buffer":0,"sp":1,"max exp":10148,"experience":10149,"max_hp":124,"max_sp":924,"hp":124,]),])
+magic (["max points":208,"points":208,])
+severed ([])
+healing (["stuffed":250,])
+body (["right foot":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":31,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":41,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"leather legs",}),]),"head":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":62,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"chain head",}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":31,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":41,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm",}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":124,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"leather torso",}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":41,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"leather legs",}),]),"right hand":(["damage":0,"armour_ob":({,}),"weapon":0,"max_dam":31,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"left hand":(["damage":0,"armour_ob":({,}),"weapon":0,"max_dam":31,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":41,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"metal arm",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 13
+char_class "nightblade"
+skills (["concentrate":(["stat":"intelligence","last dev":({3,1,}),"level":5,]),"magery":(["stat":"intelligence","last dev":({3,1,}),"level":10,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"illusionism":(["stat":"intelligence","last dev":({3,2,}),"level":15,]),"dodge":(["stat":"dexterity","last dev":({3,2,}),"level":10,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"parry":(["stat":"dexterity","last dev":({3,5,}),"level":25,]),"perception":(["stat":"intelligence","last dev":({3,3,}),"level":20,]),"attack":(["stat":"dexterity","last dev":({3,4,}),"max":0,"points":0,"level":25,]),"blade":(["stat":"dexterity","last dev":({3,6,}),"level":30,]),])
+spells (["darkness":(["last dev":({0,0,}),"level":1,]),"levitation":(["level":1,]),"faerie fire":(["level":1,]),])
+wimpydir "out"
+i 1
+j 1
+k -1
+num_attacks 1
+defendflag 1
+num_rounds 1
+skill -12
+env_var (["TITLE":"Novice $N the Drow-elf","start":"/d/damned/guilds/join_rooms/nightblade_join","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money ([])
+ok_to_heal 6833
+player_age 6828
+sight_bonus 5
+gender "male"
+state "stand"
+stats (["wisdom":45,"dexterity":132,"strength":55,"constitution":65,"intelligence":132,"charisma":20,])
+languages (["common":10,"drow":10,])
+primary_language "drow"
+xp_to_next_dev 10398
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+zexp 10149
+znexp 24999
+zlexp 14850
+znlevel 4
+zlevel 3
+auto_load ({})
+level 3
+verbose_moves 1
+birth 1730248607
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "hurryupdude2002@yahoo.com"
+ip "108.35.255.134"
+last_on "Thu Oct 31 02:48:43 2024"
+password "$6$.BoYMxFHeXs2MaQI$OtGnXhK7UABNExQBNaz8wTufJJF7cz79APqVGvw/WX8eJ1ialvnNM2KW2WgJwKoQyEi29yNjLtlw59f6y83QF1"
+race "drow-elf"
+original_site "108.35.255.134"
+position "player"
+primary_start "/d/newbieville/rooms/newbie3"
+quests ({})

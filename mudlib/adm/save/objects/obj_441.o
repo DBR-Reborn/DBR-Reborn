@@ -1,0 +1,7 @@
+#/d/damned/virtual/knife_5.weapon.c
+encumbrance 30
+props (["float value":0.942080,"brittle":23,"extra long":({"level[16] catoetine Knife",({"Puissance: %^CYAN%^++40","detect magic",}),({"Accuracy: %^CYAN%^+37%","detect magic",}),}),"material_type":"metal","new desc":"level[16] catoetine Knife","pow major_puissance_okkita":0,"material_name":"catoetine","progress major_accuracy_okkita":0,"progress major_puissance_okkita":0,"pow major_accuracy_okkita":0,"enchantment":40,"hit bonus":37,])
+true_name "knife"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/catoetine"
+__Weapon (["original wc":(["impaling":4,"crushing":40,]),"quality":5,"type":"knife","ac":(["infernal":1,"disruption":1,"stress":1,"crushing":1,"unholy":1,"cutting":1,"vacuum":1,"plasma":1,"impaling":1,"holy":1,"cold":1,"fire":1,"strike":1,"impact":1,"electricity":1,"aether":1,]),"verb":"stab","wc":(["impaling":4,"crushing":40,]),"short desc":"level[16] catoetine Knife","decay rate":200,"parry bonus":-15,"throwable":1,])

@@ -1,0 +1,7 @@
+#/d/damned/virtual/leather-vest.armour.c
+encumbrance 50
+props (["runes":({"malsa bonnes","malsa sen zora",}),"value":30,"progress inscribe_malsa_sen_zora_maker":0,"material_type":"metal","extra long":({"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"progress major_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"material_name":"iron","progress minor_fortification_math":0,"pow major_fortification_math":0,"enchantment":40,"pow minor_fortification_math":0,])
+true_name "leather vest"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iron"
+armour_save (["short desc":"A leather vest","ac":(["infernal":151,"disruption":138,"stress":138,"crushing":162,"unholy":151,"cutting":171,"vacuum":138,"plasma":140,"impaling":171,"holy":138,"cold":144,"fire":144,"strike":155,"impact":155,"electricity":142,"aether":138,]),])

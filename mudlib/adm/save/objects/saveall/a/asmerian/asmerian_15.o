@@ -1,0 +1,14 @@
+#/std/obj/mon_corpse.c
+encumbrance 100
+props ([])
+true_name "Kobold man"
+creator "/d/areas/kobold/mon/man#93729"
+name "Kobold man"
+decay 2
+level 2
+old_hp 154
+fingers 5
+body (["torso":(["damage":89,"limb_ref":"FATAL","max_dam":78,"ac":0,]),"left leg":(["damage":0,"limb_ref":"left foot","max_dam":51,"ac":0,]),"head":(["damage":0,"limb_ref":"FATAL","max_dam":77,"ac":0,]),"right leg":(["damage":0,"limb_ref":"right foot","max_dam":51,"ac":0,]),"right foot":(["damage":0,"limb_ref":"","max_dam":38,"ac":0,]),"right hand":(["damage":0,"limb_ref":"","max_dam":38,"ac":0,]),"left arm":(["damage":0,"limb_ref":"left hand","max_dam":51,"ac":0,]),"left foot":(["damage":0,"limb_ref":"","max_dam":38,"ac":0,]),"right arm":(["damage":29,"limb_ref":"right hand","max_dam":51,"ac":0,]),"left hand":(["damage":0,"limb_ref":"","max_dam":38,"ac":0,]),])
+wielding_limbs ({"right hand","left hand",})
+race "kobold"
+gender "male"

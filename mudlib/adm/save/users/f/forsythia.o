@@ -1,0 +1,42 @@
+#/std/user.c
+encumbrance 500
+props (["last reinc":1665778799,"light":0,"last read news":1665778799,])
+true_name "forsythia"
+creator "/adm/obj/login#2606"
+player_data (["general":(["exp buffer":0,"sp":1,"max_hp":50,"max_sp":0,"hp":19,]),])
+magic (["points":0,])
+severed ([])
+healing ([])
+body ([])
+limbs ({})
+skills (["attack":(["max":0,"points":0,"level":0,]),"melee":(["max":0,"points":0,"level":0,]),])
+spells ([])
+wimpydir "out"
+env_var (["LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 224
+player_age 214
+gender "female"
+state "stand"
+stats ([])
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+verbose_moves 1
+birth 1665778799
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "user@host"
+ip "159.203.67.128"
+last_on "Fri Oct 14 20:19:59 2022"
+password "$6$OdOWmdhcndhEIVyo$2VAwcVJnhBhp1Unnq4.dF7d6VpfsMTO6yhP7H4qjEfQPZCLFjmQir2y5YVKBa93oEJAgpwMCuztoD8IsyRATv1"
+original_site "159.203.67.128"
+position "player"
+quests ({})

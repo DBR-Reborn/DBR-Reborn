@@ -1,0 +1,8 @@
+#/d/damned/virtual/great-helm.armour
+#/d/damned/virtual/great-helm.armour.c
+encumbrance 100
+props (["material_name":"catoetine","value":45,"material_type":"metal","extra long":"level[19] catoetine Great Helm","new desc":"level[19] catoetine Great Helm",])
+true_name "great helm"
+creator "/d/damned/virtual/armour_server"
+material "/metal/catoetine"
+armour_save (["short desc":"level[19] catoetine Great Helm","ac":(["infernal":56,"disruption":56,"stress":56,"crushing":56,"unholy":56,"cutting":56,"vacuum":56,"plasma":56,"impaling":56,"holy":56,"cold":56,"fire":56,"strike":56,"impact":56,"electricity":56,"aether":56,]),])

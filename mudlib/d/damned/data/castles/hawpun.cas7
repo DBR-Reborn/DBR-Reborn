@@ -1,0 +1,14 @@
+light:::2
+indoors:::1
+short:::Hawpun's Castle Room #7
+long:::This is Room #7 of Hawpun's Castle.
+If you are Hawpun, type 'help castle' for options.  
+
+
+no scry:::0
+no summon:::0
+no teleport:::0
+special exits:::0
+healing room:::0
+exit:::west:/d/damned/virtual/hawpun_room_6.castle
+exit:::east:/d/damned/virtual/hawpun_room_8.castle

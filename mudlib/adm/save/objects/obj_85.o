@@ -1,0 +1,7 @@
+#/d/damned/virtual/shod-staff_6.weapon.c
+encumbrance 30
+props (["material_name":"platnite","value":425,"extra long":"level[89] platnite Shod-Staff of vacuum and impact","material_type":"metal","new desc":"level[89] platnite Shod-Staff of vacuum and impact",])
+true_name "shod staff"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/platnite"
+__Weapon (["original wc":(["impact":155,"crushing":15,"vacuum":101,]),"quality":6,"type":"two handed staff","ac":(["infernal":6,"disruption":6,"stress":6,"unholy":6,"crushing":6,"cutting":6,"vacuum":6,"plasma":6,"impaling":6,"holy":6,"fire":6,"cold":6,"strike":6,"impact":6,"aether":6,"electricity":6,]),"verb":"bash","wc":(["impact":155,"crushing":177,"vacuum":101,]),"decay status":6,"short desc":"level[89] platnite Shod-Staff of vacuum and impact","decay rate":200,"parry bonus":10,])

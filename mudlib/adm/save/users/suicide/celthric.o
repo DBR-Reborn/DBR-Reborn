@@ -1,0 +1,64 @@
+#/std/user.c
+encumbrance 500
+props (["light":0,"xp mod":0,"hp advance":40,"melee damage":(["crushing":5,]),"last reinc":1721710585,"handedness":"left hand","dev point base":70,"mp advance":18,"last read news":1723807546,"dev cost":-2,"old exp":0,"sp points":26,"ambidextry":0,"base mp regen":11,"base hp regen":30,"combat color":"%^BOLD%^","dev points":1262,])
+true_name "celthric"
+creator "/adm/obj/login#181799"
+max_internal_encumbrance 3870
+player_data (["kills":({21,118,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,156,75,73,13,12,11,10,129,127,128,137,138,140,42,45,14,102,104,298,335,39,}),"general":(["sp":1,"exp buffer":0,"alignment":137,"max_hp":1278,"hp":1278,"max exp":9923906,"experience":9762419,"last adjust":1722062582,"max_sp":728,]),])
+magic (["max points":338,"points":338,])
+severed ([])
+healing (["poisoning":0,"quenched":1100,])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":639,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":426,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":319,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":426,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"crippled":0,"armour_ob":({}),"weapon":0,"max_dam":319,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left leg":(["damage":0,"crippled":0,"armour_ob":({}),"weapon":0,"max_dam":426,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":1278,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":319,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":426,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":319,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 66
+char_class "tinker"
+skills (["lumberjack":(["stat":"strength","last dev":({18,2,}),"level":79,]),"woodwork armour":(["stat":"dexterity","last dev":({18,2,}),"level":70,]),"inscribe crusha":(["stat":"dexterity","last dev":({18,2,}),"level":20,]),"inscribe harah lit":(["stat":"dexterity","last dev":({18,2,}),"level":56,]),"balance weapon":(["stat":"dexterity","last dev":({18,2,}),"level":64,]),"install lock":(["stat":"dexterity","last dev":({18,2,}),"level":70,]),"reverse stroke":(["stat":"dexterity","last dev":({18,2,}),"level":52,]),"carpentry":(["stat":"dexterity","last dev":({18,2,}),"level":82,]),"repair wood weapon":(["stat":"dexterity","last dev":({18,2,}),"level":76,]),"inscribe malsa sen zora":(["stat":"dexterity","last dev":({18,2,}),"level":56,]),"prospecting":(["stat":"intelligence","last dev":({18,2,}),"last use":1721949063,"level":74,]),"skin corpse":(["stat":"strength","last dev":({18,2,}),"level":76,]),"inscribe cutter":(["stat":"dexterity","last dev":({18,2,}),"level":10,]),"dual attack":(["stat":"dexterity","last dev":({18,3,}),"level":58,]),"repair weapon":(["stat":"dexterity","last dev":({18,2,}),"level":80,]),"inscribe anck athin":(["stat":"dexterity","last dev":({18,2,}),"level":64,]),"swimming":(["stat":"constitution","last dev":({18,2,}),"level":77,]),"woodwork weapon":(["stat":"dexterity","last dev":({18,2,}),"level":70,]),"engrave":(["stat":"dexterity","last dev":({18,2,}),"level":79,]),"inscribe malsa xen":(["stat":"dexterity","last dev":({18,2,}),"level":56,]),"rune lore":(["stat":"wisdom","last dev":({18,2,}),"level":48,]),"combat awareness":(["stat":"intelligence","last dev":({18,2,}),"level":33,]),"forge armour":(["stat":"dexterity","last dev":({18,2,}),"level":70,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"inscribe cutta":(["stat":"dexterity","last dev":({18,2,}),"level":10,]),"inscribe malsa bonnes":(["stat":"dexterity","last dev":({18,2,}),"level":68,]),"perception":(["stat":"intelligence","last dev":({18,2,}),"level":76,]),"blade":(["stat":"dexterity","last dev":({18,3,}),"level":87,]),"blacksmith":(["stat":"dexterity","last dev":({18,2,}),"level":82,]),"leather craft":(["stat":"dexterity","last dev":({18,2,}),"level":79,]),"inscribe zalm lit":(["stat":"dexterity","last dev":({18,2,}),"level":76,]),"whirlwind attack":(["stat":"constitution","last dev":({18,2,}),"last use":1722062570,"level":73,]),"inscribe malsa koren":(["stat":"dexterity","last dev":({18,2,}),"level":74,]),"inscribe strika":(["stat":"dexterity","last dev":({18,2,}),"level":20,]),"offhand training":(["stat":"dexterity","last dev":({18,3,}),"level":75,]),"forge weapon":(["stat":"dexterity","last dev":({18,2,}),"level":70,]),"minning":(["stat":"strength","last dev":({18,2,}),"last use":1721948860,"level":79,]),"inscribe crusher":(["stat":"dexterity","last dev":({18,2,}),"level":20,]),"dodge":(["stat":"dexterity","last dev":({18,3,}),"level":77,]),"inscribe aldara zet":(["stat":"dexterity","last dev":({18,2,}),"level":74,]),"trade lore":(["stat":"charisma","last dev":({18,2,}),"level":70,]),"parry":(["stat":"dexterity","last dev":({18,3,}),"level":87,]),"inscribe xen mora":(["stat":"dexterity","last dev":({18,2,}),"level":72,]),"attack":(["stat":"dexterity","last dev":({18,3,}),"max":0,"points":0,"level":87,]),])
+spells ([])
+wimpy 30
+wimpydir "out"
+i 1
+j 2
+k -1
+num_attacks 1
+defendflag 1
+num_rounds 2
+skill -3
+env_var (["start":"/d/standard/square","TITLE":"Forge Master $N the High-man","LINES":"70","TERM":"xterm-256","SCORE":"off",])
+money ([])
+ok_to_heal 413109
+player_age 413104
+sight_bonus 1
+gender "male"
+state "stand"
+stats (["wisdom":35,"dexterity":104,"intelligence":35,"constitution":115,"strength":129,"charisma":46,])
+languages (["common":10,"middle-english":10,])
+primary_language "common"
+language_exp (["goblinish":({3,0,}),"zebber":({7,0,}),])
+xp_to_next_dev 9923916
+alias (["n":"north","bio":"biography","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","exa":"look at $*","sw":"southwest","e":"east","u":"up","d":"down","se":"southeast","s":"south",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+zexp 9762419
+znexp 11407507
+zlexp 1645088
+znlevel 19
+zlevel 18
+auto_load ({})
+level 18
+ghost 1
+birth 1721710585
+blocked ([])
+exp_log ([1721863158:24001,1722061966:189897,])
+keep ({"/d/damned/guilds/war-priest/gm_ankh",})
+snatch "on"
+inf_block ({})
+real_name "Unknown"
+email "jeremy.w.gilley@gmail.com"
+ip "68.32.199.4"
+last_on "Fri Aug 16 11:25:46 2024"
+password "$6$2C/DTyn/4oml/.6w$P8X8746IXR30Zqy/gO.JRQl2syUDCXCvKYT2mfgVcQ5EEW5HMUKZhZJyS2CSw2.iS/kU3NzYTRnc12L.nM9t31"
+race "high-man"
+original_site "68.32.199.4"
+position "player"
+primary_start "/d/damned/guilds/tinker/forge_room"
+quests ({})

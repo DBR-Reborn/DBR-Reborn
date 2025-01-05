@@ -1,0 +1,7 @@
+#/d/damned/virtual/battle-axe_5.weapon.c
+encumbrance 210
+props (["material_name":"catoetine","value":204,"material_type":"metal","extra long":"level[19] catoetine Battle Axe","new desc":"level[19] catoetine Battle Axe",])
+true_name "battle axe"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/catoetine"
+__Weapon (["original wc":(["crushing":55,"cutting":10,]),"quality":5,"type":"axe","ac":(["infernal":4,"disruption":4,"stress":4,"crushing":4,"unholy":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"cold":4,"fire":4,"strike":4,"impact":4,"electricity":4,"aether":4,]),"verb":"chop","wc":(["crushing":55,"cutting":10,]),"short desc":"level[19] catoetine Battle Axe","decay rate":200,"parry bonus":-20,])

@@ -1,0 +1,7 @@
+#/d/damned/virtual/hooded-cloak.armour.c
+encumbrance 4
+props (["material_name":"Snotling","value":10,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"progress inscribe_malsa_bonnes_trent":0,"material_type":"leather","extra long":({"Crafted by: Trent with A Level [1] Snotling leather","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,])
+true_name "hooded cloak"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Snotling"
+armour_save (["short desc":"A cloak","ac":(["infernal":211,"disruption":210,"stress":205,"crushing":239,"unholy":211,"cutting":235,"vacuum":207,"plasma":209,"impaling":234,"holy":210,"cold":222,"fire":216,"strike":227,"impact":236,"electricity":213,"aether":211,]),])

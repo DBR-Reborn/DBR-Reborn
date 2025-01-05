@@ -1,0 +1,7 @@
+#/d/1tlny/loot/hooded_robe.c
+encumbrance 100
+props (["material_name":"cloth","value":400,"extra long":"level[89] Rare Robe of crushing and plasma protection","material_type":"none","new desc":"level[89] Rare Robe of crushing and plasma protection",])
+true_name "hooded robe"
+creator "/d/areas/ork/mon/1wildboyz#94227"
+material "/cloth"
+armour_save (["short desc":"level[89] Rare Robe of crushing and plasma protection","ac":(["infernal":229,"disruption":229,"stress":229,"unholy":229,"crushing":618,"cutting":229,"vacuum":229,"plasma":536,"impaling":229,"holy":229,"fire":229,"cold":229,"strike":229,"impact":229,"aether":229,"electricity":229,]),])

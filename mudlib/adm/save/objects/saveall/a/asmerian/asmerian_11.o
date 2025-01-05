@@ -1,0 +1,14 @@
+#/std/obj/mon_corpse.c
+encumbrance 100
+props ([])
+true_name "Kobold girl"
+creator "/d/areas/kobold/mon/girl#93734"
+name "Kobold girl"
+decay 2
+level 1
+old_hp 138
+fingers 5
+body (["torso":(["damage":72,"limb_ref":"FATAL","max_dam":70,"ac":0,]),"left leg":(["damage":0,"limb_ref":"left foot","max_dam":46,"ac":0,]),"head":(["damage":0,"limb_ref":"FATAL","max_dam":69,"ac":0,]),"right leg":(["damage":0,"limb_ref":"right foot","max_dam":46,"ac":0,]),"right foot":(["damage":0,"limb_ref":"","max_dam":34,"ac":0,]),"right hand":(["damage":0,"limb_ref":"","max_dam":34,"ac":0,]),"left arm":(["damage":0,"limb_ref":"left hand","max_dam":46,"ac":0,]),"left foot":(["damage":0,"limb_ref":"","max_dam":34,"ac":0,]),"right arm":(["damage":12,"limb_ref":"right hand","max_dam":46,"ac":0,]),"left hand":(["damage":0,"limb_ref":"","max_dam":34,"ac":0,]),])
+wielding_limbs ({"right hand","left hand",})
+race "kobold"
+gender "female"

@@ -1,0 +1,8 @@
+#/d/damned/virtual/studded-leather-glove.armour
+#/d/damned/virtual/studded-leather-glove.armour.c
+encumbrance 1
+props (["progress inscribe_malsa_sen_zora_creg":0,"runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"value":6,"extra long":({"Crafted by: Creg with A Level [90] Mekboyz leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress inscribe_aldara_zet_creg":0,"progress true_armour_creg":0,"progress inscribe_malsa_bonnes_creg":0,"material_name":"Mekboyz","true armour":1,"pow true_armour_creg":0,])
+true_name "studded leather glove"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Mekboyz"
+armour_save (["enhance critical":-4,"short desc":"A studded leather glove","ac":(["infernal":1011,"disruption":1041,"stress":1046,"crushing":1045,"unholy":1012,"cutting":1022,"vacuum":1023,"plasma":1024,"impaling":1064,"holy":1035,"cold":1073,"fire":1067,"strike":1020,"impact":1013,"electricity":1039,"aether":1034,]),])

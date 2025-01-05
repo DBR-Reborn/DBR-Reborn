@@ -1,0 +1,7 @@
+#/d/1tlny/loot/hooded_robe.c
+encumbrance 100
+props (["pow true_armour_rihcter":0,"value":400,"material_type":"none","extra long":({"level[44] Rare Robe of plasma and cutting protection",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress extreme_fortification_rihcter":0,"progress true_armour_rihcter":0,"new desc":"EXTRA {robe}","pow extreme_fortification_rihcter":0,"material_name":"cloth","true armour":1,"progress engrave_thromax":0,"enchantment":100,])
+true_name "hooded robe"
+creator "/d/areas/dragon/mon/skinny_dragon#443537"
+material "/cloth"
+armour_save (["enhance critical":-6,"short desc":"EXTRA {robe}","ac":(["infernal":49,"disruption":49,"stress":49,"unholy":49,"crushing":49,"cutting":146,"vacuum":49,"plasma":166,"impaling":49,"holy":49,"fire":49,"cold":49,"strike":49,"impact":49,"aether":49,"electricity":49,]),])

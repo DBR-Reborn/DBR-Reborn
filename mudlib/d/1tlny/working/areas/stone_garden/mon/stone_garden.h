@@ -1,0 +1,5 @@
+#define PATH "/wizards/shade/stone_garden/rooms/"
+#define MON_PATH "/wizards/shade/stone_garden/mon/"
+#define MISC_PATH "/wizards/shade/stone_garden/misc/"
+#define ARMOR_PATH "/wizards/shade/stone_garden/armor/"
+#define WEAP_PATH "/wizards/shade/stone_garden/weapon/"

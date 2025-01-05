@@ -1,0 +1,8 @@
+#/d/damned/virtual/studded-leather-pants.armour
+#/d/damned/virtual/studded-leather-pants.armour.c
+encumbrance 130
+props (["runes":({"malsa bonnes","malsa sen zora",}),"value":120,"extra long":({"Crafted by: Lore with A Level [27] Worker leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"leather","new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Absorption%^RESET%^ {pants}","material_name":"Worker","progress inscribe_malsa_sen_zora_lore":0,"progress engrave_lore":0,"progress inscribe_malsa_bonnes_lore":0,])
+true_name "studded leather pants"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Worker"
+armour_save (["short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Absorption%^RESET%^ {pants}","ac":(["infernal":155,"disruption":153,"stress":152,"crushing":150,"unholy":148,"cutting":151,"vacuum":148,"plasma":150,"impaling":164,"holy":154,"cold":146,"fire":158,"strike":173,"impact":182,"electricity":145,"aether":146,]),])

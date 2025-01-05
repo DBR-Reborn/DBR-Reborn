@@ -1,0 +1,8 @@
+#/d/damned/virtual/gauntlet.armour
+#/d/damned/virtual/gauntlet.armour.c
+encumbrance 6
+props (["material_name":"elrodnite","value":10,"material_type":"metal","extra long":"level[106] elrodnite gauntlet of holy and crushing protection","new desc":"level[106] elrodnite gauntlet of holy and crushing protection",])
+true_name "gauntlet"
+creator "/d/damned/virtual/armour_server"
+material "/metal/elrodnite"
+armour_save (["short desc":"level[106] elrodnite gauntlet of holy and crushing protection","ac":(["infernal":694,"disruption":694,"stress":694,"crushing":2663,"unholy":694,"cutting":694,"vacuum":694,"plasma":694,"impaling":694,"holy":2905,"cold":694,"fire":694,"strike":694,"impact":694,"electricity":694,"aether":694,]),])

@@ -1,0 +1,8 @@
+#/d/damned/virtual/tabard.armour
+#/d/damned/virtual/tabard.armour.c
+encumbrance 1
+props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"%^COLOR81%^Enchanted%^RESET%^ {tabard}","material_name":"Silver dragon","true armour":1,"pow enchanter_mark_rihcter":0,"pow true_armour_rihcter":0,"progress inscribe_malsa_bonnes_rihcter":0,"value":10,"material_type":"leather","extra long":({"Crafted by: Rihcter with A Level [100] Silver dragon leather",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),"A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress extreme_fortification_rihcter":0,"progress inscribe_aldara_zet_rihcter":0,"progress true_armour_rihcter":0,"pow extreme_fortification_rihcter":0,"progress enchanter_mark_rihcter":0,"progress inscribe_malsa_sen_zora_rihcter":0,"enchantment":100,])
+true_name "tabard"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Silver dragon"
+armour_save (["enhance critical":-7,"short desc":"%^COLOR81%^Enchanted%^RESET%^ {tabard}","ac":(["infernal":984,"disruption":994,"stress":980,"unholy":1027,"crushing":1048,"cutting":1050,"vacuum":1010,"plasma":1019,"impaling":1085,"holy":985,"fire":1083,"cold":1090,"strike":1042,"impact":1040,"aether":1023,"electricity":1011,]),])

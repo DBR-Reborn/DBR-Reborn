@@ -1,0 +1,7 @@
+#/d/1tlny/loot/hooded_robe.c
+encumbrance 100
+props (["new desc":"%^COLOR81%^Enchanted%^RESET%^ {robe}","material_name":"cloth","true armour":1,"pow enchanter_mark_rihcter":0,"pow true_armour_rihcter":0,"value":400,"extra long":({"level[90] Rare Robe of vacuum and cutting protection",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"none","progress extreme_fortification_rihcter":0,"progress true_armour_rihcter":0,"pow extreme_fortification_rihcter":0,"progress enchanter_mark_rihcter":0,"enchantment":100,])
+true_name "hooded robe"
+creator "/d/areas/ork/mon/3painboyz#205562"
+material "/cloth"
+armour_save (["enhance critical":-7,"short desc":"%^COLOR81%^Enchanted%^RESET%^ {robe}","ac":(["infernal":442,"disruption":442,"stress":442,"crushing":442,"unholy":442,"cutting":768,"vacuum":761,"plasma":442,"impaling":442,"holy":442,"cold":442,"fire":442,"strike":442,"impact":442,"electricity":442,"aether":442,]),])

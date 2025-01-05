@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-boots.armour
+#/d/damned/virtual/leather-boots.armour.c
+encumbrance 30
+props (["progress major_fortification_cranston":0,"value":30,"runes":({"malsa bonnes","malsa sen zora",}),"progress inscribe_malsa_sen_zora_kharne":0,"material_type":"leather","extra long":({"Crafted by: Kharne with A Level [11] Troll leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"progress inscribe_malsa_bonnes_kharne":0,"material_name":"Troll","pow major_fortification_cranston":0,"enchantment":40,])
+true_name "leather boots"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Troll"
+armour_save (["short desc":"A pair of leather boots","ac":(["infernal":282,"disruption":281,"stress":279,"crushing":260,"unholy":277,"cutting":263,"vacuum":283,"plasma":288,"impaling":270,"holy":282,"cold":293,"fire":286,"strike":257,"impact":265,"electricity":286,"aether":280,]),])

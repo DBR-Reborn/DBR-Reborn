@@ -1,0 +1,7 @@
+#/d/damned/virtual/large-shield.armour.c
+encumbrance 150
+props (["material_name":"iysaughton","value":75,"extra long":"level[43] iysaughton shield of crushing and electricity protection","material_type":"metal","new desc":"level[43] iysaughton shield of crushing and electricity protection",])
+true_name "large shield"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iysaughton"
+armour_save (["short desc":"level[43] iysaughton shield of crushing and electricity protection","ac":(["infernal":52,"disruption":52,"stress":52,"unholy":52,"crushing":134,"cutting":52,"vacuum":52,"plasma":52,"impaling":52,"holy":52,"fire":52,"cold":52,"strike":52,"impact":52,"aether":52,"electricity":156,]),])

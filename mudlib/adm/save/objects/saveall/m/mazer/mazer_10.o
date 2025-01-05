@@ -1,0 +1,8 @@
+#/d/damned/virtual/great-helm.armour
+#/d/damned/virtual/great-helm.armour.c
+encumbrance 100
+props (["material_name":"boernerine","value":45,"extra long":"level[15] boernerine Great Helm","material_type":"metal","new desc":"level[15] boernerine Great Helm",])
+true_name "great helm"
+creator "/d/damned/virtual/armour_server"
+material "/metal/boernerine"
+armour_save (["short desc":"level[15] boernerine Great Helm","ac":(["infernal":41,"disruption":41,"stress":41,"unholy":41,"crushing":41,"cutting":41,"vacuum":41,"plasma":41,"impaling":41,"holy":41,"fire":41,"cold":41,"strike":41,"impact":41,"aether":41,"electricity":41,]),])

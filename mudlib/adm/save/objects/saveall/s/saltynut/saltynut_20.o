@@ -1,0 +1,8 @@
+#/d/damned/virtual/hooded-cloak.armour
+#/d/damned/virtual/hooded-cloak.armour.c
+encumbrance 50
+props (["runes":({"malsa bonnes","malsa sen zora",}),"value":10,"extra long":({"Crafted by: Lore with A Level [29] Slayer leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"leather","new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Absorption%^RESET%^ {cloak}","material_name":"Slayer","progress inscribe_malsa_sen_zora_lore":0,"progress engrave_lore":0,"progress inscribe_malsa_bonnes_lore":0,])
+true_name "hooded cloak"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Slayer"
+armour_save (["short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Absorption%^RESET%^ {cloak}","ac":(["infernal":139,"disruption":145,"stress":149,"crushing":154,"unholy":137,"cutting":147,"vacuum":143,"plasma":135,"impaling":153,"holy":137,"cold":146,"fire":150,"strike":167,"impact":158,"electricity":139,"aether":143,]),])

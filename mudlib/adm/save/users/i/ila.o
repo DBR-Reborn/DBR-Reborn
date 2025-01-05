@@ -1,0 +1,49 @@
+#/std/user.c
+encumbrance 500
+props (["light":0,"sp points":0,"old exp":10149,"hp advance":30,"melee damage":(["crushing":5,]),"base mp regen":6,"handedness":"right hand","ambidextry":0,"last reinc":1670763178,"base hp regen":6,"dev point base":70,"mp advance":25,"combat color":"%^BOLD%^","last read news":1670763178,"dev points":70,"dev cost":-2,])
+true_name "ila"
+creator "/adm/obj/login#37585"
+max_internal_encumbrance 3510
+player_data (["general":(["exp buffer":0,"sp":1,"max_hp":144,"max_sp":0,"hp":144,]),])
+magic (["max points":132,"points":132,])
+severed ([])
+healing ([])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":144,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":48,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":36,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":48,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":72,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":36,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":36,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":48,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":36,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":48,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 2
+char_class "chaotic-lord"
+skills (["trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"attack":(["stat":"dexterity","last dev":({0,0,}),"max":0,"points":0,"level":5,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),])
+spells ([])
+wimpydir "out"
+env_var (["start":"/d/damned/guilds/chaotic-lord/chaotic-lord_treas","TITLE":"Novice $N the High-man","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money (["silver":292,"gold":54,"copper":3680,])
+ok_to_heal 7581
+player_age 7570
+sight_bonus 1
+gender "female"
+state "stand"
+stats (["wisdom":50,"dexterity":80,"strength":117,"constitution":104,"intelligence":98,"charisma":60,])
+languages (["common":10,"middle-english":10,])
+primary_language "middle-english"
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+birth 1670763178
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "amanda.blackstone923@gmail.com"
+ip "68.41.203.137"
+last_on "Sun Dec 11 12:52:58 2022"
+password "$6$Sd8zKn7uSSJ2BrSP$pJFChaLPoDKPMTt31E04ZloAeX/e8aPU7MzVHmwATMQQJxMfETlWJBcT32SNjQWJhBXTc71E6ANq1zlHjIzO30"
+race "high-man"
+original_site "68.41.203.137"
+position "player"
+quests ({})

@@ -1,0 +1,7 @@
+#/d/damned/virtual/two-handed-sword_6.weapon.c
+encumbrance 425
+props (["material_name":"catoetine","value":1966,"material_type":"metal","extra long":"level[40] catoetine two-handed-sword of crushing and impact","new desc":"level[40] catoetine two-handed-sword of crushing and impact",])
+true_name "two handed sword"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/catoetine"
+__Weapon (["original wc":(["impact":57,"impaling":9,"crushing":66,"cutting":18,]),"quality":6,"type":"two handed blade","ac":(["infernal":4,"disruption":4,"stress":4,"crushing":4,"unholy":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"cold":4,"fire":4,"strike":4,"impact":4,"electricity":4,"aether":4,]),"verb":"slice","wc":(["impact":57,"impaling":9,"crushing":78,"cutting":18,]),"short desc":"level[40] catoetine two-handed-sword of crushing and impact","decay rate":200,"parry bonus":-5,])

@@ -1,0 +1,7 @@
+#/d/damned/virtual/bokken_5.weapon.c
+encumbrance 90
+props (["brittle":10,"runes":({"malsa koren",}),"value":409,"material_type":"wood","extra long":({"Crafted by: Trent","A %^GREEN%^%^BOLD%^Malsa Koren%^RESET%^ rune is inscribed on the weapon.",}),"material_name":"dogwood","progress inscribe_malsa_koren_trent":0,"hit bonus":25,])
+true_name "bokken"
+creator "/d/damned/virtual/weapon_server"
+material "/wood/dogwood"
+__Weapon (["original wc":(["impaling":6,"cutting":10,]),"quality":5,"type":"blade","ac":(["infernal":4,"disruption":4,"stress":4,"crushing":4,"unholy":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"cold":4,"fire":4,"strike":4,"impact":4,"electricity":4,"aether":4,]),"verb":"bonk","wc":(["impaling":6,"cutting":10,]),"decay status":381,"short desc":"bokken","decay rate":19000,"parry bonus":5,])

@@ -1,0 +1,7 @@
+#/d/damned/virtual/broad-sword_4.weapon.c
+encumbrance 100
+props (["progress inscribe_anck_athin_trent":0,"brittle":33,"runes":({"harah lit","xen mora","malsa xen","anck athin",}),"value":1184,"auto critical":(["speed B":15,]),"extra long":({"This weapon was forged by: Trent with catoetine [36] weapon blank","A %^MAGENTA%^%^BOLD%^Harah Lit%^RESET%^ rune is inscribed on the weapon.","A %^CYAN%^Xen Mora%^RESET%^ rune is inscribed on the weapon.","A %^BLUE%^%^BOLD%^Malsa Xen%^RESET%^ rune is inscribed on the weapon.","A %^YELLOW%^Anck Athin%^RESET%^ rune is inscribed on the weapon.",}),"material_type":"metal","progress inscribe_malsa_xen_trent":0,"progress inscribe_harah_lit_trent":0,"material_name":"catoetine","progress inscribe_xen_mora_trent":0,])
+true_name "broad sword"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/catoetine"
+__Weapon (["original wc":(["stress":142,"crushing":103,"cutting":12,"impact":103,"impaling":4,"electricity":142,]),"quality":4,"type":"blade","ac":(["infernal":3,"disruption":3,"stress":3,"unholy":3,"crushing":3,"cutting":3,"vacuum":3,"plasma":3,"impaling":3,"holy":3,"fire":3,"cold":3,"strike":3,"impact":3,"aether":3,"electricity":3,]),"verb":"slice","wc":(["stress":142,"crushing":103,"cutting":164,"impact":103,"impaling":172,"electricity":142,]),"short desc":"broad sword","decay rate":11000,"parry bonus":5,])

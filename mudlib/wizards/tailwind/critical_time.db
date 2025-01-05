@@ -1,0 +1,65 @@
+# Time Critical Table: for material "metal/eonmite" 
+# Wiz: Deathurge
+
+(A):
+1..5:$T $V slightly as time elements warp around $(TO):glow:NO_EFFECT
+6..15:$T looks a bit pale as $A $V a stream of time energy through $(TPP) arm.:send:DAMAGE 8
+16..25:$A $V $(TN) arm to go numb from lack of blood as a time acceleration bubble engulfs it briefly:cause:STAT_MOD dexterity -30 3:DAMAGE 3 
+26..35:$A $V $(TP) leg in a blue nimbus of static time energy:encase:DAMAGE 10:DAMAGE 10:STAT_MOD dexterity -40 4:SKILL_MOD dodge -40 4
+36..45:A shimmer of darkness surrounds $(TP) body as $A $V a bolt of chrono energy.:unleash:DAMAGE 20:STUN 3:STAT_MOD strength -10 5
+46..55:A look of horror crosses $(TP) face as $(AP) attack $V $(TPP) leg in a time acceleration bubble:encase:LIMB_LOSS leg cripple:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c dust_limb:DAMAGE 20
+56..65:$T looks on in amazement as time slows around $(TO):SPECIAL_RESULT /daemon/db/crit_funs/time_results.c slow_fun:DAMAGE 20
+66..75:$T is held momentarily as a static time bubble $V $T as $(AP) attack strikes him.:enshroud:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c hold_fun:DAMAGE 25
+76..85:$(TP) eyes go wide as $(AP) time acceleration bubble $V $(TPP) legs, decaying them to piles of dust!:surround:DAMAGE 50:LIMB_LOSS leg:LIMB_LOSS leg:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c dust_limb:SPECIAL RESULT /daemon/db/crit_funs/time_results.c dust_limb
+86..95:A stunned look crosses $(TP) face as time reverses itself around $(TO), returning $(TO) to a time before $(TN) learned to fight!:SKILL_MOD attack -200 20:SKILL_MOD parry -200 20:SKILL_MOD block -200 20:DAMAGE 25:STUN 1
+96..100:$A $V $(AP) destructive power over time to reach into the past to remove $T from the time stream.:use:KILL
+
+(B):
+1..5:$A $V a wave of time distortion at $T.:send:DAMAGE 3
+6..15:$A $V a time distortion field around $T, causing $(TPP) bloodstream to pause and in some cases run backward. PINS AND NEEDLES!:create:STAT_MOD dexterity -10 5:DAMAGE 10:STAT_MOD strength -10 5
+16..25:Energies of the time continuum issue forth as $A cause time to roll back around $(TP) arm, leaving a pile of pre-cellular goo!:LIMB_LOSS arm:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c goo_fun:DAMAGE 25
+26..35:$(APP) attack causes time to slow around $T temporarily.:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c slow_fun:DAMAGE 15
+36..45:A globe of static time shrounds $T as $(APP) attack bites deeply into $(TO).:DAMAGE 30:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c hold_fun2
+46..55:$A $V $T with a wave of accelerated chrono energy, causing parts of $(TO) to move to the place they were 2 minutes ago!:strike:LIMB_LOSS non_fatal:LIMB_LOSS non_fatal:DAMAGE 50
+56..65:A blast of energy from $(APP) attack rebounds around $A, speeding up time around $A.:DAMAGE 15:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c haste_fun
+66..75:Motes of dust float to the ground as parts of $(TP) body age by a millenium instantly!:STUN 4:LIMB_LOSS non_fatal:LIMB_LOSS non_fatal:DAMAGE 55
+76..85:Time accelerates around $A briefly as the energies of $(AP) attack coalesce.:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c haste_fun:DAMAGE 20
+86..100:A vortex of time from $(APP) attack summons a voracious lesser time elemental!:DAMAGE 10:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c less_elem
+
+(C):
+1..5:$A $V a chrono field toward $T, barely hitting $(TO).:send:DAMAGE 5
+6..15:$A suddenly $V a bubble of fast-time, moving in for a precise strike:hit:SKILL_MOD dodge -100 1:SKILL_MOD parry -130 1:SKILL_MOD block -120 1:STAT_MOD dexterity -80 1
+16..25:$A look into the future, anticipating $(TP) every move!:SKILL_MOD parry -100 3:SKILL_MOD dodge -100 3:SKILL_MOD block -100 3:STAT_MOD dexterity -100 3:STAT_MOD strength -100 3
+26..35:$(APP) attack slams into $(TN) midsection, aging parts of $(TPP) armour by millenia!:DAMAGE 30:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c dest_armour:STUN 2
+36..45:$A $V open the very fabric of time, engulfing $T in a time stasis field!:rip:DAMAGE 35:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c hold_fun2:STUN 1
+46..55:$A $V some of $(TN) limbs in a powerful time acceleration field, reducing them to aged dust.:shroud:LIMB_LOSS non_fatal:LIMB_LOSS non_fatal:LIMB_LOSS non_fatal:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c dust_limb:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c dust_limb:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c dust_limb
+56..65:$A $V a time portal, releasing a powerful time elemental!:open:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c grtr_elem
+66..75:$(AP) attack slams into $T and $V time to slow around $T as $A strike $(TO) forcefully.:cause:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c slow_fun:DAMAGE 45 
+76..85:$(TPP) eyes bug out as streamers of $(AP) time vortex slip through $(TPP) body.:DAMAGE 70:STUN 6:SKILL_MOD attack parry -20 5
+86..95:$(TP) eyes glaze over as $(TN) looks into the future and sees $(TPP) own death, driving $(TO) quite insane:STUN 10:STAT_MOD wisdom -80 10:STAT_MOD intelligence -80 10:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c insanity_fun
+96..100:$(AP) attack causes a bubble of time acceleration to engulf $T, where many years pass as $(TN) dies and turns to nothing more than a pile of dust!:SPECIAL RESULT /daemon/db/crit_funs/time_results.c dust_corpse 
+
+(D):
+1..5:$A $V to encase $T in a time field but instead make a pretty glow around $(TO).:attempt:DAMAGE 8
+6..15:A beam of chrono energy lashes out from $(AP) weapon to strike $T square in the chest.:STUN 5:DAMAGE 20:STAT_MOD strength -20 5:STAT_MOD dexterity -20 5
+16..25:$T is frozen in time for the moment and $(TN) $(VT) on helplessly as $A batter $(TO) senseless.:look:STUN 6:SKILL_MOD parry -150 6:SKILL_MOD dodge -150 6:SKILL_MOD block -150 6
+26..35:The world slows to a standstill around $A as time aids $(AP) lightning attack on $T.:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c haste_fun:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c slow_fun
+36..45:$(AP) attack $V parts of $(TP) body in a field of time reversal, reducing them to protoplasmic goo!:encase:LIMB_LOSS non_fatal:LIMB_LOSS non_fatal:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c goo_fun:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c goo_fun
+46..50:A swirling vortex opens and a denizen of the future erupts forth at $(AP) command!:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c future_warrior
+51..59:$T $(VT) pale as blood flow stops and gangrene sets in on $(TPP) rapidly aging internal organs.:turn:DAMAGE 90:STUN 5:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c poison_fun
+60..65:A tear opens in the fabric of time-space as $A $V $T, and a denizen of the past steps through curiously.:strike:DAMAGE 60:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c past_warrior
+66..75:$A $V $T and strange energies erupt around $(TO), simultaneously aging some limbs and reversing time for other parts of $(TPP) body!:strike:DAMAGE 100:LIMB_LOSS non_fatal:LIMB_LOSS non_fatal:LIMB_LOSS non_fatal:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c goo_fun:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c dust_limb:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c dust_limb
+76..89:$T sees into $(TPP) future briefly, and goes insane as $(TN) sees $(TPP) own doom!:DAMAGE 150:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c insanity_fun
+90..100:A beam of extreme time acceleration strikes $T in the center of $(TPP) chest, leaving a hole a foot wide and a pile of dust.:DAMAGE 350:STUN 12
+
+(E):
+1..5:Hot Sparks fly at $T as $(AP) feeble attack sputters.:DAMAGE 10
+6..15:A red globe encases part of $T as $(AP) attack summons time accelerating energies!:DAMAGE 25:LIMB_LOSS non_fatal:STUN 2:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c dust_limb
+16..25:As $A $V $T, a rip in time opens and a being of focused time energies erupts forth.:strike:DAMAGE 30:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c less_elem
+26..35:The fabric of Space-Time %^GREEN%^boils%^RESET%^ as $A $V a burst of energy at $(TP) vitals.:focus:DAMAGE 60:STUN 6:STAT_MOD strength -60 10:STAT_MOD dexterity -60 10
+36..45:$A release a horrific time beast from it's imprisonment in time as $(AP) attack rushes toward $T.:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c grtr_elem
+46..55:$A $V $T with a burst of chrono energy, crumbling $(TPP) armour to nothingness.:strike:DAMAGE 40:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c dest_armour
+56..65:$A suddenly $V a burst of energy, whirling about like a possesed madman, as $T seems to stand motionless:find:SKILL_MOD parry -200 20:SKILL_MOD dodge -150 20:SKILL_MOD block -200 20:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c haste_fun:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c hold_fun3
+66..75:he face turns first %^BLUE%^blue%^RESET%^ then %^GRAY%^black%^RESET%^ as blood flow to $(TPP) head becomes too little to compensate for the hours of time passing within the red globe enveloping it.:DAMAGE 600:STUN 20:STAT_MOD intelligence -90 50:STAT_MOD strength -90 40:STAT_MOD dexterity -80 40
+75..85:$T watches in astonishment as several of $(TPP) favorite limbs are reduced to %^RED%^dust%^RESET%^ by $(AP) time accelerating attack!:DAMAGE 200:LIMB_LOSS non_fatal:LIMB_LOSS non_fatal:LIMB_LOSS non_fatal:LIMB_LOSS non_fatal:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c dust_limb:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c dust_limb:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c dust_limb:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c dust_limb:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c dust_limb
+85..100:$T is trapped in a large red globe of accelerated time!  $A $V in satisfaction as days and months pass within and $T dies of starvation, finally decaying to nothing but dust in the span of a few seconds.:watch:SPECIAL_RESULT /daemon/db/crit_funs/time_results.c dust_corpse

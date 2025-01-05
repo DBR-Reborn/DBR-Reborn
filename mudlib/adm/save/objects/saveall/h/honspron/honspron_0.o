@@ -1,0 +1,7 @@
+#/wizards/honspron/obj/honspron_robe.c
+encumbrance 90
+props (["progress master_fortification_honspron":0,"value":99999,"material_type":"none","progress minor_fortification_honspron":0,"extra long":({({"Fortification: %^CYAN%^+100%","detect magic",}),}),"pow master_fortification_honspron":0,"pow extreme_fortification_honspron":0,"progress extreme_fortification_honspron":0,"pow major_fortification_honspron":0,"material_name":"leather","pow minor_fortification_honspron":0,"extra ac":5000,"enchantment":100,"armour bonus":1000,"progress major_fortification_honspron":0,])
+true_name "jedi robe"
+creator "/cmds/system/_clone"
+material "/leather"
+armour_save (["enhance critical":-500,"short desc":"%^BLUE%^Jedi Robe%^RESET%^","ac":(["infernal":5000,"disruption":5000,"stress":5000,"unholy":5000,"crushing":5000,"cutting":5000,"vacuum":5000,"plasma":5000,"impaling":5000,"holy":5000,"fire":5000,"cold":5000,"strike":5000,"impact":5000,"aether":5000,"electricity":5000,]),])

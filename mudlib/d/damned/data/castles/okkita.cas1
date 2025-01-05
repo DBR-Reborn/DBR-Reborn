@@ -1,0 +1,15 @@
+light:::2
+indoors:::1
+short:::Dark Rocky Path
+long:::This path is about eight feet wide, with tall gnarled trees lining it to    
+either side. A thin fog hangs over the area that appears to thicken         
+noticeably to the north, giving the area a rather eerie appearance.         
+Underfoot the ground is very rocky, creating an uneven and slightly         
+difficult surface on which to travel.                                       
+no scry:::0
+no summon:::0
+no teleport:::0
+special exits:::0
+healing room:::0
+exit:::out:/d/damned/virtual/room_25_60.world
+exit:::north:/d/damned/virtual/okkita_room_2.castle:door:16:vault door

@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-helmet.armour
+#/d/damned/virtual/leather-helmet.armour.c
+encumbrance 60
+props (["material_name":"Elemental overlord","progress inscribe_malsa_sen_zora_kharne":0,"runes":({"malsa bonnes","malsa sen zora",}),"value":45,"material_type":"leather","extra long":({"Crafted by: Kharne with A Level [75] Elemental overlord leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_malsa_bonnes_kharne":0,])
+true_name "leather helmet"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Elemental overlord"
+armour_save (["short desc":"A leather helmet","ac":(["infernal":475,"disruption":486,"stress":473,"crushing":494,"unholy":475,"cutting":505,"vacuum":484,"plasma":478,"impaling":498,"holy":480,"cold":494,"fire":489,"strike":483,"impact":475,"electricity":481,"aether":484,]),])

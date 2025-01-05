@@ -1,0 +1,3 @@
+#/adm/daemon/bboard_d.c
+posts ({(["size":6,"title":"First","date":1722221763,"owner":"upstart","message":"First","level":63,]),})
+read_by ({({"upstart",}),})

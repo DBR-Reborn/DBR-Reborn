@@ -1,0 +1,27 @@
+Plant Name          Toxicity Range   Rarity        Crit Result
+-----------------------------------------------------------------
+Purple Grass        5 - 7            1 - 4
+Yellow Grass        9 - 13           6 - 10
+Yithki Weeds        15 - 17          11 - 15
+Pine Needles        20 - 22          16 - 20
+Jerup Weeds         25 - 27          21 - 25
+Faerie Blossoms     29 - 32          81 - 85       Blindness A
+Fulma Leaves        30 - 31          26 - 30       Paralysis A
+Koji Mushrooms      35 - 38          31 - 35       Paralysis B
+Nagasik Leaves      40 - 43          36 - 40       Blindness B
+Jumbu Sprouts       43 - 46          56 - 60
+Marsig Mushrooms    44 - 48          46 - 50       Blindness C
+Durdin Seeds        45 - 47          41 - 45       Blindness C
+Geckin Twigs        55 - 58          51 - 55
+Pixie Winks         55 - 59          71 - 75       Paralysis C
+Polkin Buds         65 - 68          66 - 70       Blindness C
+Lotus Blossoms      70 - 72          76 - 80
+Gangus Root         75 - 79          61 - 65       Blindness D
+Blood Root          90 - 93          86 - 90       Paralysis D
+Draco Thorns        92 - 95          91 - 95       Paralysis E
+Demon Horns         97 - 100         96 - 100      Blindness E
+ 
+The following plants exist, but cannot be found in the plains:
+ 
+Choker Vine         60 - 63                        Paralysis E
+Elven Ash           70 - 73                        Blindness E

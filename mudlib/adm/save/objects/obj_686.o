@@ -1,0 +1,7 @@
+#/d/damned/virtual/breast-plate.armour.c
+encumbrance 500
+props (["material_name":"inniculmoid","value":350,"extra long":"level[21] inniculmoid Breast Plate of cold protection","material_type":"metal","new desc":"level[21] inniculmoid Breast Plate of cold protection",])
+true_name "breast plate"
+creator "/d/damned/virtual/armour_server"
+material "/metal/inniculmoid"
+armour_save (["short desc":"level[21] inniculmoid Breast Plate of cold protection","ac":(["infernal":55,"disruption":1,"stress":1,"unholy":55,"crushing":55,"cutting":55,"vacuum":1,"plasma":8,"impaling":55,"holy":1,"fire":15,"cold":44,"strike":35,"impact":55,"aether":1,"electricity":1,]),])

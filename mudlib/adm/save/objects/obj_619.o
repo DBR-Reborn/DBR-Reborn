@@ -1,0 +1,7 @@
+#/d/damned/virtual/great-helm.armour.c
+encumbrance 100
+props (["material_name":"laen","value":45,"extra long":"level[49] laen helm of plasma and impaling protection","material_type":"metal","new desc":"level[49] laen helm of plasma and impaling protection",])
+true_name "great helm"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"level[49] laen helm of plasma and impaling protection","ac":(["infernal":88,"disruption":88,"stress":88,"unholy":88,"crushing":88,"cutting":88,"vacuum":88,"plasma":155,"impaling":152,"holy":88,"fire":88,"cold":88,"strike":88,"impact":88,"aether":88,"electricity":88,]),])

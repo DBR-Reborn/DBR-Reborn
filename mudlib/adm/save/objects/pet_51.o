@@ -1,0 +1,32 @@
+#/std/diewarzau/obj/pet/greater_familiar.c
+props (["melee damage":(["impact":45,"crushing":45,]),"magic resistance":40,"base mp regen":42,"ambidextry":1,"enhance criticals":-1,"base hp regen":48,"stable":1,])
+true_name "dragon"
+creator "/std/spells/summon_greater_familiar#481971"
+max_internal_encumbrance 3540
+player_data (["general":(["exp buffer":0,"sp":1,"experience":20,"max_hp":1060,"max_sp":1,"hp":1060,]),])
+magic (["max points":1580,"points":1580,])
+severed ([])
+healing ([])
+body (["head":(["damage":0,"armour_ob":({}),"max_dam":530,"weapons":0,"ac":35,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":530,"weapons":0,"ac":35,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":530,"weapons":0,"ac":35,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":530,"weapons":0,"ac":35,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":530,"weapons":0,"ac":35,"limb_ref":"","armour":({}),]),"torso":(["damage":0,"armour_ob":({}),"max_dam":530,"weapons":0,"ac":70,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":530,"weapons":0,"ac":35,"limb_ref":"left foot","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":530,"wieldable":1,"weapons":0,"ac":35,"limb_ref":"","armour":({}),]),"right wing":(["damage":0,"armour_ob":({}),"max_dam":530,"weapons":0,"ac":35,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":530,"weapons":0,"ac":35,"limb_ref":"right hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":530,"wieldable":1,"weapons":0,"ac":35,"limb_ref":"","armour":({}),]),"left wing":(["damage":0,"armour_ob":({}),"max_dam":530,"weapons":0,"ac":35,"limb_ref":"","armour":({}),]),])
+limbs ({"head","right leg","right foot","left arm","left foot","left leg","torso","right hand","right wing","left hand","right arm","left wing",})
+all_my_fingers 4
+heal_rate 48
+skills (["sorcery":(["stat":"intelligence","level":75,]),"concentrate":(["stat":"intelligence","level":100,]),"body block":(["stat":"strength","level":100,]),"magery":(["stat":"intelligence","level":80,]),"reverse stroke":(["stat":"dexterity","level":21,]),"melee":(["stat":"strength","max":0,"points":0,"level":107,]),"knife":(["stat":"dexterity","level":113,]),"perception":(["stat":"intelligence","level":100,]),"blade":(["stat":"dexterity","level":105,]),"two handed blade":(["stat":"dexterity","level":107,]),"conjuration":(["stat":"intelligence","level":65,]),"swimming":(["stat":"constitution","level":100,]),"defense":(["level":78,]),"blunt":(["stat":"dexterity","level":109,]),"resist stun":(["stat":"constitution","level":55,]),"illusionism":(["stat":"intelligence","level":75,]),"dodge":(["stat":"dexterity","level":92,]),"parry":(["stat":"dexterity","level":107,]),"two handed staff":(["stat":"dexterity","level":109,]),"projectile":(["level":102,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":95,]),])
+spells (["mirror image":(["level":4,]),"blizzard":(["level":4,]),"mana drain":(["level":5,]),"hold monster":(["level":4,]),"lightning bolt":(["level":6,]),"fireball":(["level":3,]),])
+wimpydir "out"
+ok_to_heal 301622
+player_age 301618
+gender "male"
+stats (["wisdom":102,"dexterity":112,"intelligence":93,"strength":118,"constitution":95,"charisma":95,])
+languages (["yin":10,"grken":10,"elvish":10,"stormspeak":10,"drow":10,"dragonish":10,"common":10,"serra":10,"treefolk":10,"catfolk":10,"dwarvish":10,])
+primary_language "common"
+combat_chance 100
+level 18
+emotes ([])
+speech ([])
+spell_chance (["mirror image":"$(ME)","blizzard":"$A","mirror image delay":300,"mana drain":"$A","hold monster":"$A","lightning bolt":"$A","fireball":"$A",])
+body_type "winged-humanoid"
+combat_spells ({"mirror image",})
+register_idx 51
+Pet_data (["aggr status":0,"carry":0,"owner":"upstart","change aggr":1,"save":1,"attack":1,])
+f_level 6

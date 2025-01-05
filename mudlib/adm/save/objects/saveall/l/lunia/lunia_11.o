@@ -1,0 +1,8 @@
+#/d/damned/virtual/great-helm.armour
+#/d/damned/virtual/great-helm.armour.c
+encumbrance 100
+props (["progress inscribe_malsa_sen_zora_kigus":0,"runes":({"fira","malsa sen zora","malsa bonnes","disrupta","vacumma",}),"value":45,"extra long":({"level[89] mithril Helm of fire and plasma protection","A %^RED%^%^BOLD%^Fira%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^MAGENTA%^%^BOLD%^Disrupta%^RESET%^ rune is inscribed on the armour.","A %^WHITE%^Vacumma%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","progress engrave_kigus":0,"progress inscribe_malsa_bonnes_kigus":0,"progress inscribe_disrupta_kigus":0,"new desc":"Noob helmet {helmet}","progress inscribe_vacumma_kigus":0,"progress inscribe_fira_kigus":0,"material_name":"mithril",])
+true_name "great helm"
+creator "/d/damned/virtual/armour_server"
+material "/metal/mithril"
+armour_save (["short desc":"Noob helmet {helmet}","ac":(["infernal":511,"disruption":643,"stress":511,"unholy":511,"crushing":517,"cutting":517,"vacuum":650,"plasma":681,"impaling":517,"holy":511,"fire":919,"cold":517,"strike":511,"impact":511,"aether":511,"electricity":517,]),])

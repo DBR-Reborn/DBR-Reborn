@@ -1,0 +1,7 @@
+#/d/damned/guilds/nethermancer/misc/ancient_staff.c
+encumbrance 80
+props (["brittle":145,"progress cyclone_weapon_marne":0,"no decay":1,"material_name":"an unknown wood","pow cyclone_weapon_marne":6,"firestorm blade":8,"progress master_puissance_marne":0,"lightning blade":8,"value":20000,"material_type":"none","extra long":({({"This weapon has %^COLOR120%^%^BOLD%^Cyclone%^RESET%^ Weapon.","detect magic",}),({"This weapon has %^YELLOW%^%^BOLD%^Lightning%^RESET%^ Blade.","detect magic",}),({"This weapon has %^RED%^%^RED%^Firestorm%^RESET%^ Blade.","detect magic",}),({"Puissance: %^CYAN%^++70%","detect magic",}),}),"progress lightning_blade_marne":0,"pow lightning_blade_marne":0,"progress firestorm_blade_marne":0,"cyclone weapon":9,"pow master_puissance_marne":0,"pow firestorm_blade_marne":0,"enchantment":70,])
+true_name "staff"
+creator "/d/areas/zoo/mon/netherlord#389332"
+material "/an unknown wood"
+__Weapon (["original wc":(["infernal":130,"fire":166,"stress":146,"unholy":130,"crushing":150,"cutting":154,"vacuum":176,"impact":146,"electricity":166,]),"wielded":0,"quality":6,"limb string":" (wielded in right hand and left hand)","type":"two handed staff","ac":(["infernal":0,"disruption":0,"stress":0,"crushing":0,"unholy":0,"cutting":0,"vacuum":0,"plasma":0,"impaling":0,"holy":0,"cold":0,"fire":0,"strike":0,"impact":0,"electricity":0,"aether":0,]),"verb":"hit","wc":(["infernal":130,"fire":166,"stress":146,"unholy":130,"crushing":150,"cutting":154,"vacuum":176,"impact":146,"electricity":166,]),"short desc":"An ancient staff","decay rate":200,])

@@ -1,0 +1,13 @@
+#/d/damned/guilds/join_rooms/fighter_join.c
+props (["light":2,"num_rounds":3,"hp advance":50,"base mp regen":3,"base hp regen":15,"guild mods":(["constitution":10,"strength":10,]),"mp advance":15,"num rounds":4,"indoors":1,])
+__Smells ([])
+__Listens ([])
+__Searches ([])
+destinations (["north":"/d/damned/guilds/fighter/train_room","east":"/d/daybreak/room/dbvl2",])
+invis_exits ([])
+pre_exit_func ([])
+post_exit_func ([])
+tracks ({})
+__Items (["blue moon":0,"sky":0,"ankh":0,"moon":0,"red moon":0,"sun":0,"warzau":0,"green moon":0,"moons":0,"luna":0,])
+guild_list (["damon":(["status":"member",]),"shy":(["status":"member",]),"tresnog":(["status":"member",]),"deleteme":(["status":"member",]),"foobar":(["status":"member",]),"skragna":(["status":"member",]),"tarune":(["status":"member",]),"sigzil":(["status":"member",]),"boomrz":(["status":"member",]),"mornus":(["status":"member",]),"meddie":(["status":"member",]),"jocko":(["status":"member",]),"zorgan":(["status":"member",]),"manishtushu":(["status":"member",]),"xog":(["status":"member",]),"kyzeer":(["status":"member",]),"nazhk":(["status":"member",]),"yoshi":(["status":"member",]),"chen":(["status":"member",]),"krunk":(["status":"member",]),"xypora":(["status":"member",]),"fobar":(["status":"member",]),"thorax":(["status":"member",]),"darkson":(["status":"member",]),"warrior":(["status":"member",]),"maxer":(["status":"member",]),"rodria":(["status":"member",]),"markos":(["status":"member",]),"masool":(["status":"member",]),"gorbad":(["status":"member",]),"shinjiro":(["status":"member",]),"betelgeuse":(["status":"member",]),"fang":(["status":"member",]),"vagren":(["status":"member",]),"flatulence":(["status":"member",]),"delander":(["status":"member",]),"fubar":(["status":"member",]),"ansuil":(["status":"member",]),"druss":(["status":"member",]),"jai":(["status":"member",]),"sirkathuul":(["status":"member",]),"dummy":(["status":"member",]),"kraugel":(["status":"member",]),"mirir":(["status":"member",]),"argon":(["status":"member",]),"randomredmage":(["status":"member",]),"redeye":(["status":"member",]),"kisama":(["status":"member",]),"nox":(["status":"member",]),])
+banish ([])

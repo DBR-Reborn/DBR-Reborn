@@ -1,0 +1,7 @@
+#/d/damned/virtual/war-hammer_6.weapon.c
+encumbrance 310
+props (["material_name":"iron","value":786,"extra long":"level[42] iron war-hammer of plasma and cold","material_type":"metal","new desc":"level[42] iron war-hammer of plasma and cold",])
+true_name "war hammer"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/iron"
+__Weapon (["original wc":(["cold":72,"plasma":84,"crushing":20,]),"quality":6,"type":"two handed blunt","ac":(["infernal":4,"disruption":4,"stress":4,"unholy":4,"crushing":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"fire":4,"cold":4,"strike":4,"impact":4,"aether":4,"electricity":4,]),"verb":"pound","wc":(["cold":72,"plasma":84,"crushing":64,]),"short desc":"level[42] iron war-hammer of plasma and cold","decay rate":200,"parry bonus":-25,])

@@ -1,0 +1,30 @@
+#/wizards/diewarzau/obj/pet/elder_seraph.c
+props (["melee damage":(["impact":39,"crushing":39,]),"magic resistance":25,"base mp regen":75,"ambidextry":1,"enhance criticals":-1,"base hp regen":75,])
+true_name "seraph"
+creator "/adm/daemon/save_items_d"
+max_internal_encumbrance 3210
+player_data (["general":(["exp buffer":0,"sp":1,"experience":15000,"max_hp":1439,"max_sp":1,"hp":1439,]),])
+magic (["max points":2288,"points":2288,])
+severed ([])
+healing ([])
+body (["head":(["damage":0,"armour_ob":({}),"max_dam":719,"weapons":0,"ac":15,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":479,"weapons":0,"ac":15,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":359,"weapons":0,"ac":15,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":479,"weapons":0,"ac":15,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":359,"weapons":0,"ac":15,"limb_ref":"","armour":({}),]),"torso":(["damage":0,"armour_ob":({}),"max_dam":1439,"weapons":0,"ac":30,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":479,"weapons":0,"ac":15,"limb_ref":"left foot","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":359,"wieldable":1,"weapons":0,"ac":15,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":479,"weapons":0,"ac":15,"limb_ref":"right hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":359,"wieldable":1,"weapons":0,"ac":15,"limb_ref":"","armour":({}),]),])
+limbs ({"left leg","torso","right foot","right leg","head","right hand","left foot","left arm","left hand","right arm",})
+all_my_fingers 5
+heal_rate 75
+skills (["concentrate":(["stat":"intelligence","level":100,]),"body block":(["stat":"strength","level":100,]),"reverse stroke":(["stat":"dexterity","level":15,]),"melee":(["stat":"strength","max":0,"points":0,"level":89,]),"knife":(["stat":"dexterity","level":102,]),"perception":(["stat":"intelligence","level":78,]),"blade":(["stat":"dexterity","level":99,]),"two handed blade":(["stat":"dexterity","level":94,]),"swimming":(["stat":"constitution","level":100,]),"defense":(["level":62,]),"blunt":(["stat":"dexterity","level":98,]),"resist stun":(["stat":"constitution","level":40,]),"dodge":(["stat":"dexterity","level":82,]),"parry":(["stat":"dexterity","level":108,]),"two handed staff":(["stat":"dexterity","level":99,]),"projectile":(["level":97,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":85,]),])
+wimpydir "out"
+ok_to_heal 2002274
+player_age 2002262
+gender "male"
+stats (["wisdom":83,"dexterity":111,"intelligence":98,"strength":107,"constitution":89,"charisma":98,])
+languages (["common":10,"elvish":10,"stormspeak":10,"serra":10,"treefolk":10,"catfolk":10,"dwarvish":10,"drow":10,])
+primary_language "serra"
+combat_chance 80
+level 15
+emotes ([])
+speech ([])
+spell_chance ([])
+body_type "human"
+casting_chance 4
+register_idx 8
+Pet_data (["aggr status":0,"carry":0,"change aggr":1,"save":1,"attack":1,])

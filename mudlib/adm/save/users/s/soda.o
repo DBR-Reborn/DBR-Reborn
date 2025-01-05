@@ -1,0 +1,48 @@
+#/std/user.c
+encumbrance 500
+props (["melee damage":(["crushing":10,]),"natural ac":4,"extra hp regen":300,"ambidextry":0,"last reinc":1667849348,"enhance criticals":(["fire":1,]),"xp mod":-15,"sp points":0,"light":0,"combat color":"%^BOLD%^","limb regen":1,"last read news":1667849348,"corpse eating":1,])
+true_name "soda"
+creator "/adm/obj/login#1420"
+player_data (["general":(["exp buffer":0,"sp":1,"max_hp":50,"max_sp":0,"hp":31,]),])
+magic (["max points":0,"points":0,])
+severed ([])
+healing ([])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":50,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":16,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":12,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":16,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":25,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":12,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":12,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":16,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":12,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":16,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+char_class "child"
+skills (["attack":(["max":0,"points":0,"level":0,]),"melee":(["max":0,"points":0,"level":0,]),])
+spells ([])
+wimpydir "out"
+env_var (["TITLE":"Novice $N the Troll","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 436
+player_age 430
+sight_bonus -1
+gender "male"
+state "stand"
+stats ([])
+languages (["zebber":10,])
+primary_language "zebber"
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+verbose_moves 1
+birth 1667849348
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "bankosworkshop@gmail.com"
+ip "3.128.186.25"
+last_on "Mon Nov  7 19:29:08 2022"
+password "$6$1bYX5Z2zz/iResl3$JgDmZXTZPrYa78oyzna3w9VBfYk3TuY96TBmGPQ6KJUJgmrmbv6omdGPKUhlD4xEgTGSfFf5431XRunYHro8f/"
+race "troll"
+original_site "3.128.186.25"
+position "player"
+quests ({})

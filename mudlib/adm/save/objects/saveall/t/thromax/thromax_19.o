@@ -1,0 +1,8 @@
+#/d/damned/virtual/studded-leather-pants.armour
+#/d/damned/virtual/studded-leather-pants.armour.c
+encumbrance 130
+props (["runes":({"malsa bonnes","malsa sen zora",}),"progress inscribe_malsa_bonnes_rihcter":0,"value":120,"extra long":({"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),}),"material_type":"misc","progress extreme_fortification_rihcter":0,"new desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {pants}","pow extreme_fortification_rihcter":0,"material_name":"leather","progress engrave_thromax":0,"progress inscribe_malsa_sen_zora_rihcter":0,"enchantment":100,])
+true_name "studded leather pants"
+creator "/d/damned/virtual/armour_server"
+material "/misc/leather"
+armour_save (["short desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {pants}","ac":(["infernal":167,"disruption":147,"stress":147,"crushing":112,"unholy":167,"cutting":125,"vacuum":147,"plasma":150,"impaling":125,"holy":147,"cold":152,"fire":152,"strike":209,"impact":227,"electricity":150,"aether":147,]),])

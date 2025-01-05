@@ -1,0 +1,7 @@
+#/wizards/excelsior/tinker/board.c
+encumbrance 28
+props (["material_name":"pine","value":70,"material_type":"wood",])
+true_name "board"
+creator "/std/skills/lumberjack#22854"
+material "/wood/pine"
+wood 5

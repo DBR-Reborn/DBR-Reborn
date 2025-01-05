@@ -1,0 +1,64 @@
+#/std/user.c
+encumbrance 500
+props (["light":0,"xp mod":0,"hp advance":30,"melee damage":(["crushing":5,]),"last reinc":1682526156,"handedness":"left hand","dev point base":69,"mp advance":20,"last read news":1705593362,"hand stamped":0,"dev cost":-2,"old exp":0,"sp points":56,"ambidextry":0,"base mp regen":32,"base hp regen":29,"combat color":"%^BOLD%^","dev points":358,])
+true_name "lunia"
+creator "/adm/obj/login#114558"
+max_internal_encumbrance 3150
+player_data (["kills":({21,118,42,0,1,18,20,136,143,102,251,252,303,319,104,105,2,32,33,34,36,35,29,202,200,107,201,298,203,117,193,192,195,109,141,194,}),"general":(["sp":1,"exp buffer":0,"alignment":1012,"max_hp":1202,"hp":1202,"max exp":43282883,"experience":43282884,"last adjust":1705595182,"max_sp":560,]),])
+magic (["max points":776,"points":776,])
+severed ([])
+healing (["stuffed":125,"quenched":400,])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({,,,,}),"max_dam":601,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"metal head","chain head","robe","leather head",}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({,,,,}),"max_dam":400,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"cloth legs","taces","metal legs","robe",}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":300,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots","metal foots","robe",}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":400,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm","chain torso","robe",}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":300,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots","metal foots","robe",}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({,,,,}),"max_dam":400,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"cloth legs","taces","metal legs","robe",}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({,,,,}),"max_dam":1202,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"chain torso","leather torso","metal torso","robe",}),]),"right hand":(["damage":0,"crippled":0,"weapon":0,"armour_ob":({,,}),"max_dam":300,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({"metal hand","robe",}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({,,,}),"max_dam":400,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"metal arm","chain torso","robe",}),]),"left hand":(["damage":0,"crippled":0,"weapon":0,"armour_ob":({,,,}),"max_dam":300,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({"metal hand","cloth hand","robe",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 46
+char_class "dark-paladin"
+skills (["concentrate":(["stat":"intelligence","last dev":({23,2,}),"level":78,]),"body block":(["stat":"strength","last dev":({19,4,}),"level":33,]),"melee":(["stat":"strength","last dev":({18,3,}),"max":0,"points":0,"level":15,]),"two handed polearm":(["stat":"dexterity","last dev":({2,2,}),"level":10,]),"shadow lore":(["stat":"intelligence","last dev":({24,4,}),"level":108,]),"two handed flail":(["stat":"dexterity","last dev":({2,2,}),"level":10,]),"perception":(["stat":"intelligence","last dev":({21,5,}),"level":62,]),"prospecting":(["stat":"intelligence","last dev":({16,1,}),"level":5,]),"spell sense":(["stat":"intelligence","last dev":({23,2,}),"level":66,]),"two handed blade":(["stat":"dexterity","last dev":({24,5,}),"level":112,]),"owedquar's weapon":(["stat":"none","last dev":({24,6,}),"level":50,]),"consider":(["stat":"intelligence","last dev":({19,3,}),"level":36,]),"empowerment":(["stat":"intelligence","last dev":({24,2,}),"level":106,]),"swimming":(["stat":"constitution","last dev":({23,3,}),"level":85,]),"focus casting":(["stat":"intelligence","last dev":({23,3,}),"level":64,]),"two handed blunt":(["stat":"dexterity","last dev":({2,1,}),"level":5,]),"dodge":(["stat":"dexterity","last dev":({24,4,}),"level":96,]),"trade lore":(["stat":"charisma","last dev":({23,3,}),"level":83,]),"owedquar's will":(["stat":"intelligence","last dev":({24,3,}),"level":107,]),"parry":(["stat":"dexterity","last dev":({24,2,}),"level":110,]),"attack":(["stat":"dexterity","last dev":({24,5,}),"max":0,"points":0,"level":118,]),])
+spells (["shadow edge":(["last dev":({13,1,}),"level":6,]),"anger charge":(["last dev":({12,1,}),"level":6,]),"curse vision":(["last dev":({12,1,}),"level":6,]),"holy ward":(["last dev":({10,1,}),"level":6,]),"summon holy bane":(["last dev":({24,1,}),"level":3,]),"black fire":(["last dev":({22,1,}),"level":6,]),"summon shadow weapon":(["last dev":({8,1,}),"level":6,]),"shadow field":(["last dev":({24,1,}),"level":5,]),"owedquar's fury":(["last dev":({20,1,}),"level":6,]),"owedquar's eyes":(["last dev":({8,1,}),"level":6,]),"lesser shadow field":(["last dev":({18,1,}),"level":6,]),"mist cloud":(["last dev":({8,1,}),"level":6,]),"dark weapon":(["last dev":({13,1,}),"level":6,]),"dark assault":(["last dev":({15,1,}),"level":6,]),"dark pact":(["last dev":({24,1,}),"level":5,]),"owedquar's might":(["last dev":({21,1,}),"level":6,]),"shadow bolt":(["last dev":({5,1,}),"level":6,]),"black edge":(["last dev":({21,1,}),"level":6,]),"summon black weapon":(["last dev":({18,1,}),"level":6,]),"black shroud":(["last dev":({16,1,}),"level":6,]),"unholy rage":(["last dev":({16,1,}),"level":6,]),])
+wimpydir "out"
+protection 219
+hits 5
+i 1
+j 1
+k 3
+num_attacks 1
+x 17
+num_rounds 1
+skill 283
+env_var (["TITLE":"Dark ArchKnight $N the High-man","start":"/d/damned/virtual/room_8_56.world","LINES":"70","TERM":"xterm-256","SCORE":"on",])
+money (["silver":7733,"gold":6907,"copper":3735,])
+ok_to_heal 167195
+player_age 167184
+sight_bonus 1
+gender "female"
+state "stand"
+stats (["wisdom":88,"dexterity":80,"intelligence":90,"constitution":105,"strength":105,"charisma":60,])
+languages (["ratish":1,"common":10,"middle-english":10,])
+primary_language "common"
+language_exp (["ratish":({0,1,}),"elfish":({3,0,}),])
+xp_to_next_dev 43286023
+alias (["n":"north","bio":"biography","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","exa":"look at $*","sw":"southwest","e":"east","u":"up","d":"down","se":"southeast","s":"south",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+zexp 43127090
+znexp 49637952
+zlexp 6510862
+znlevel 25
+zlevel 24
+auto_load ({})
+level 24
+birth 1682526156
+blocked (["chat":0,])
+exp_log ([1683058709:367878,1682556268:64894,1683059076:367878,1682737393:239500,1682540089:3530,])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "Guil"
+email "gucalle12@gmail.com"
+ip "96.234.21.162"
+last_on "Thu Jan 18 15:56:02 2024"
+password "$6$4npgqzwo3VPh63dQ$gLjz0iz9JBZZQPja0.E9YLoJ/rrzBnUlEn7IxuBIX6OSBKANaM43hleDaNBOQCjF.nkuly/xMGwrd4qwYIU4N0"
+race "high-man"
+original_site "108.53.40.203"
+position "player"
+primary_start "/d/damned/virtual/room_25_15.world"
+quests ({})

@@ -1,0 +1,31 @@
+#/std/tailwind/pets/mud_golem.c
+props (["melee damage":(["impact":21,"crushing":21,]),"physical resistance":(["default":20,"wood":20,"steel":20,"iron":20,]),"base mp regen":30,"ambidextry":1,"enhance criticals":(["impaling":-1,"holy":1,]),"base hp regen":30,])
+true_name "golem"
+creator "/std/spells/minor_life#22021"
+max_internal_encumbrance 3150
+player_data (["general":(["exp buffer":0,"sp":1,"experience":6000,"max_hp":330,"max_sp":1,"hp":330,]),])
+magic (["max points":210,"points":210,])
+severed ([])
+healing ([])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":165,"weapons":0,"ac":30,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":165,"weapons":0,"ac":15,"limb_ref":"left foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":165,"weapons":0,"ac":15,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":165,"weapons":0,"ac":15,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":165,"weapons":0,"ac":15,"limb_ref":"","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":165,"wieldable":1,"weapons":0,"ac":15,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":165,"weapons":0,"ac":15,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":165,"weapons":0,"ac":15,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":165,"weapons":0,"ac":15,"limb_ref":"right hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":165,"wieldable":1,"weapons":0,"ac":15,"limb_ref":"","armour":({}),]),])
+limbs ({"left leg","torso","right foot","right leg","head","right hand","left foot","left arm","left hand","right arm",})
+all_my_fingers 5
+heal_rate 30
+skills (["concentrate":(["stat":"intelligence","level":55,]),"two handed blade":(["stat":"dexterity","level":59,]),"melee":(["stat":"strength","max":0,"points":0,"level":190,]),"swimming":(["stat":"constitution","level":100,]),"defense":(["level":26,]),"blunt":(["stat":"dexterity","level":58,]),"knife":(["stat":"dexterity","level":69,]),"dodge":(["stat":"dexterity","level":95,]),"parry":(["stat":"dexterity","level":95,]),"two handed staff":(["stat":"dexterity","level":63,]),"projectile":(["level":58,]),"perception":(["stat":"intelligence","level":46,]),"blade":(["stat":"dexterity","level":60,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":115,]),])
+wimpydir "out"
+money ([])
+ok_to_heal 11699
+player_age 11698
+gender "neuter"
+stats (["wisdom":68,"dexterity":75,"intelligence":72,"strength":105,"constitution":69,"charisma":76,])
+languages (["yin":10,"elvish":10,"middle-english":10,"weredragonish":10,"undead-tongue":10,"common":10,"serra":10,"dwarvish":10,"treefolk":10,])
+primary_language "common"
+level 6
+emotes ([])
+speech ([])
+spell_chance ([])
+body_type "human"
+register_idx 24
+Pet_data (["aggr status":0,"carry":0,"ownership change":1,"bodyblock":1,"bodyguard":1,"owner":"beta","save":1,"attack":1,])
+g_skill 65
+g_power 1

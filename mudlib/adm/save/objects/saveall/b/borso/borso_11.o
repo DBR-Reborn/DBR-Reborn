@@ -1,0 +1,7 @@
+#/std/diewarzau/obj/misc/rations_pack.c
+encumbrance 50
+props (["value":14,])
+true_name "pack"
+creator "/d/newbieville/rooms/newbie2"
+picks_left 2
+ration_type 1

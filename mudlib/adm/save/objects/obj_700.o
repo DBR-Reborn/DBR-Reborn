@@ -1,0 +1,7 @@
+#/d/damned/virtual/military-pick_6.weapon.c
+encumbrance 120
+props (["material_name":"iron","value":2,"extra long":"This weapon was forged by: Trent with An iron weapon blank","material_type":"metal",])
+true_name "military pick"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/iron"
+__Weapon (["original wc":(["impaling":16,]),"quality":6,"type":"two handed polearm","ac":(["infernal":4,"disruption":4,"stress":4,"unholy":4,"crushing":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"fire":4,"cold":4,"strike":4,"impact":4,"aether":4,"electricity":4,]),"verb":"stab","wc":(["impaling":114,]),"short desc":"military pick","decay rate":4000,"parry bonus":-20,])

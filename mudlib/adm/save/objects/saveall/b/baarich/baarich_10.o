@@ -1,0 +1,8 @@
+#/d/damned/virtual/knife_6.weapon
+#/d/damned/virtual/knife_6.weapon.c
+encumbrance 30
+props (["brittle":51,"pow major_accuracy_trent":0,"pow dark_weapon_julian":3,"progress dark_weapon_julian":134,"new desc":"level[62] mabril knife of impact and impact","material_name":"mabril","progress true_weapon_trent":0,"progress major_puissance_trent":0,"pow major_puissance_trent":0,"float value":1.507328,"material_type":"metal","extra long":({"level[62] mabril knife of impact and impact",({"This weapon has %^BOLD%^%^BLUE%^Dark Weapon%^RESET%^.","detect magic",}),({"This weapon has %^BLUE%^%^BOLD%^True Weapon%^RESET%^.","detect magic",}),({"Accuracy: %^CYAN%^+40%","detect magic",}),({"Puissance: %^CYAN%^++40","detect magic",}),}),"dark weapon":6,"progress major_accuracy_trent":0,"pow true_weapon_trent":0,"true weapon":1,"enchantment":40,"hit bonus":40,])
+true_name "knife"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/mabril"
+__Weapon (["wielded":,"quality":6,"limb string":" (wielded in right hand)","verb":"stab","decay status":3,"wc":(["impact":90,"impaling":4,"unholy":36,"crushing":109,]),"throwable":1,"original wc":(["impact":116,"impaling":4,"unholy":14,"crushing":109,]),"enhance critical":5,"type":"knife","ac":(["infernal":1,"disruption":1,"stress":1,"unholy":1,"crushing":1,"cutting":1,"vacuum":1,"plasma":1,"impaling":1,"holy":1,"fire":1,"cold":1,"strike":1,"impact":1,"aether":1,"electricity":1,]),"short desc":"level[62] mabril knife of impact and impact","decay rate":200,"parry bonus":-15,])

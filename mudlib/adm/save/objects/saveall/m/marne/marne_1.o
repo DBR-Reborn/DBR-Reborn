@@ -1,0 +1,5 @@
+#/d/damned/guilds/nethermancer/misc/owedquarian_diamond.c
+encumbrance 200
+props (["eternal darkness diamond":1,"value":1000000,])
+true_name "owedquarian diamond"
+creator "/d/damned/guilds/nethermancer/magic_store"

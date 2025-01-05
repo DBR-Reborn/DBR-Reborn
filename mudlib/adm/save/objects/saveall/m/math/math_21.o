@@ -1,0 +1,8 @@
+#/d/damned/virtual/chain-coif.armour
+#/d/damned/virtual/chain-coif.armour.c
+encumbrance 80
+props (["value":35,"runes":({"malsa bonnes","malsa sen zora",}),"extra long":({"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"material_type":"metal","progress inscribe_malsa_sen_zora_maker":0,"progress major_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"progress minor_fortification_math":0,"material_name":"iron","pow major_fortification_math":0,"enchantment":40,"pow minor_fortification_math":0,])
+true_name "chain coif"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iron"
+armour_save (["short desc":"A chain coif","ac":(["infernal":167,"disruption":138,"stress":138,"unholy":167,"crushing":167,"cutting":187,"vacuum":138,"plasma":140,"impaling":160,"holy":138,"fire":144,"cold":144,"strike":156,"impact":183,"aether":138,"electricity":142,]),])

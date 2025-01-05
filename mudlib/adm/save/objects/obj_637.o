@@ -1,0 +1,7 @@
+#/d/damned/virtual/great-helm.armour.c
+encumbrance 100
+props (["material_name":"platnite","value":45,"extra long":"level[48] platnite helm of cold and vacuum protection","material_type":"metal","new desc":"level[48] platnite helm of cold and vacuum protection",])
+true_name "great helm"
+creator "/d/damned/virtual/armour_server"
+material "/metal/platnite"
+armour_save (["short desc":"level[48] platnite helm of cold and vacuum protection","ac":(["infernal":64,"disruption":64,"stress":64,"unholy":64,"crushing":64,"cutting":64,"vacuum":159,"plasma":64,"impaling":64,"holy":64,"fire":64,"cold":173,"strike":64,"impact":64,"aether":64,"electricity":64,]),])

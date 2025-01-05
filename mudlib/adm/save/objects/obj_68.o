@@ -1,0 +1,7 @@
+#/d/damned/virtual/shod-staff_6.weapon.c
+encumbrance 30
+props (["balanced":"azazel","balanced hit bonus":155,"brittle":17,"runes":({"balanced","aether",}),"value":2709,"extra long":({"This weapon was forged by: Azazel with iysaughton [244] weapon blank","This weapon is balanced by Azazel","A %^BOLD%^%^BLACK%^Aether%^RESET%^ rune is inscribed on the weapon.",}),"material_type":"metal","balanced wc bonus":49,"progress balance_weapon_azazel":0,"progress inscribe_aether_azazel":0,"material_name":"iysaughton","progress azazel":1,])
+true_name "shod staff"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/iysaughton"
+__Weapon (["original wc":(["disruption":336,"crushing":15,"aether":667,]),"quality":6,"type":"two handed staff","ac":(["infernal":6,"disruption":6,"stress":6,"crushing":6,"unholy":6,"cutting":6,"vacuum":6,"plasma":6,"impaling":6,"holy":6,"cold":6,"fire":6,"strike":6,"impact":6,"electricity":6,"aether":6,]),"verb":"bash","wc":(["disruption":336,"crushing":346,"aether":667,]),"decay status":359,"short desc":"metal shod staff","decay rate":17744,"parry bonus":10,])

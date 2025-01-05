@@ -1,0 +1,13 @@
+#/d/damned/guilds/join_rooms/shaman_join.c
+props (["base mp regen":6,"light":2,"base hp regen":3,"guild mods":(["wisdom":10,]),"mp advance":35,"indoors":1,"hp advance":20,])
+__Smells ([])
+__Listens ([])
+__Searches ([])
+destinations (["north":"/d/damned/guilds/shaman/shaman_train_room","south":"/d/daybreak/room/dblw5","west":"/d/damned/guilds/shaman/shamanarea/rooms/forest4",])
+invis_exits ([])
+pre_exit_func ([])
+post_exit_func ([])
+tracks ({})
+__Items (["blue moon":0,"sky":0,"ankh":0,"moon":0,"red moon":0,"sun":0,"warzau":0,"green moon":0,"moons":0,"luna":0,])
+guild_list ([])
+banish ([])

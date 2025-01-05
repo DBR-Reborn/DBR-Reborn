@@ -1,0 +1,7 @@
+#/d/damned/virtual/great-helm.armour.c
+encumbrance 30
+props (["material_name":"davistone","progress inscribe_malsa_bonnes_trent":0,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"value":1558,"material_type":"metal","extra long":({"Smithed by: Trent with davistone [28] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,])
+true_name "great helm"
+creator "/d/damned/virtual/armour_server"
+material "/metal/davistone"
+armour_save (["short desc":"A great helm","ac":(["infernal":206,"disruption":206,"stress":206,"crushing":229,"unholy":206,"cutting":229,"vacuum":206,"plasma":208,"impaling":229,"holy":206,"cold":209,"fire":209,"strike":225,"impact":225,"electricity":209,"aether":206,]),])

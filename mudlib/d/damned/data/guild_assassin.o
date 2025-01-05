@@ -1,0 +1,14 @@
+#/d/damned/guilds/join_rooms/assassin_join.c
+props (["base mp regen":5,"light":-1,"base hp regen":5,"guild mods":(["dexterity":7,"intelligence":7,]),"mp advance":25,"indoors":1,"hp advance":28,])
+__Smells ([])
+__Listens ([])
+__Searches ([])
+destinations (["north":"/d/damned/guilds/assassin/rooms/foyer_room","south":"/d/daybreak/room/db_slum",])
+invis_exits ([])
+pre_exit_func ([])
+post_exit_func ([])
+tracks ({})
+__Items (["blue moon":0,"sky":0,"ankh":0,"moon":0,"red moon":0,"sun":0,"warzau":0,"green moon":0,"moons":0,"luna":0,])
+guild_list (["katz":(["status":"member",]),"ashton":(["status":"member",]),"trook":(["status":"allow train",]),"celedrian":(["status":"member",]),"alanya":(["status":"member",]),"lazb":(["status":"member",]),])
+banish ([])
+master "nawara"

@@ -1,0 +1,7 @@
+#/d/damned/virtual/plate-greaves.armour.c
+encumbrance 450
+props (["material_name":"laen","value":430,"material_type":"metal","extra long":"level[42] laen greaves of stress and impact protection","new desc":"level[42] laen greaves of stress and impact protection",])
+true_name "plate greaves"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"level[42] laen greaves of stress and impact protection","ac":(["infernal":73,"disruption":73,"stress":146,"crushing":73,"unholy":73,"cutting":73,"vacuum":73,"plasma":73,"impaling":73,"holy":73,"cold":73,"fire":73,"strike":73,"impact":146,"electricity":73,"aether":73,]),])

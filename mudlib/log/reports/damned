@@ -1,0 +1,171 @@
+Bug reported by Rihcter:
+/d/damned/guilds/paladin/p_treas: paladin guild lockers multiplying. please
+dont nuke the good locker full of stuff
+Bug reported by Someone:
+/d/damned/guilds/tinker/special_room: gauge bug q  
+Bug reported by Marne:
+/d/damned/guilds/cleric/train_room: I tried to list the skills in this
+room, and all I got was what?
+Bug reported by Marne:
+/d/damned/guilds/cleric/train_room: ah, just looked at the room desc and
+noticed it says to list meditations, sorry.
+Bug reported by Rihcter:
+/d/damned/virtual/inn_103.inn: pets keep losing the owner
+Bug reported by Elof:
+/d/damned/guilds/tinker/train_room: malsa sen zora its a typ in the def, it
+says it inscribe a malsa bonnes when it should say malsa sen zora
+Bug reported by Marne:
+/d/damned/guilds/nethermancer/skill_room: I've noticed severl times in
+different spell and skill training rooms, if you don't do list skills or
+list spells first, when ti go to train something, nothing happens. jjfyi
+Typo reported by Ruck Sat Jun 20 19:29:26 2020
+/d/damned/guilds/dark-paladin/skill_room: (troll help file) mispelling of Limb in special abilities
+Typo reported by Upstart Sun Jun 21 17:47:20 2020
+/d/damned/guilds/dark-paladin/p_treas: (summon shadow weapon engraving) it has the color_tag attached to the name of the weapon "BlackThe Shadow Hammer of Owedquar'
+Typo reported by Elof Wed Jul  8 03:14:29 2020
+/d/damned/guilds/tinker/train_room: I believe the inscribe plasa rune should be inscribe plasma, the attack rune for that type is inscribe plasmer
+Bug reported by Elof:
+/d/damned/guilds/tinker/train_room: the strike runes here are so many
+levels apart, not sure if that is supposed to be like that, they are,
+inscribe strika and inscribe striker
+Bug reported by Marne:
+/d/damned/guilds/nethermancer/nexus_room: don't know if this is a bug or
+not, but, engrave doesn't have any effect on finalized orbs.
+Idea reported by Elof Fri Jul 10 21:27:25 2020
+/d/damned/guilds/tinker/forge_room: don't know how complicated it would be to do, but until you eventually get around to totally redoing leather work and skin corpse, may give any leather skinned the same qualities of either iron or steel, and have leather craft work the same way forge armour or blacksmith would work with those 2 items?
+Idea reported by Ruck Wed Jul 22 15:09:20 2020
+/d/damned/virtual/rihcter_room_2.castle: let people use your chest keys like you can for castles
+Bug reported by Sam:
+/d/damned/guilds/enchanter/train_room: when I cast vacid weapon at brass
+knuckles, it changed the crushing damage that the knuckles did down to what
+the spell applied instead of adding them together.
+Idea reported by Singe Thu May 13 15:15:24 2021
+/d/damned/virtual/singe_room_3.castle: make it so when you type 'wear belt' it doesnt ask you where you want to wear it if you only have 1 torso
+Idea reported by Randomredmage Thu May 20 04:31:31 2021
+/d/damned/guilds/fighter/train_room: help add topic for advance command
+Bug reported by Ruck:
+/d/damned/virtual/singe_room_4.castle: bug if you dont have enough lore
+trained to animate dragon scale : You must train 0 lore to 100 in order to
+use that element
+Bug reported by Singe:
+/d/damned/virtual/singe_room_3.castle: you cannot examine taces
+Bug reported by Upstart:
+/d/damned/virtual/singe_room_8.castle: please fix transport runes
+Idea reported by Ruck Fri Aug 12 02:15:06 2022
+/d/damned/virtual/singe_room_3.castle: More Castle features so we can spend more of our hard-earned Mithril
+Bug reported by Upstart:
+/d/damned/virtual/singe_room_6.castle: when you engrave a rapier, it
+changes the name to a 'raper'
+Idea reported by Singe Wed Aug 17 02:31:20 2022
+/d/damned/virtual/singe_room_3.castle: Guild GM's shoudl be able to set prices if their guild has a store, like tinker's, thief's, AM, etc.
+Idea reported by Singe Sat Aug 20 17:42:36 2022
+/d/damned/virtual/singe_room_3.castle: add Greater Forge room and Ingot Smelter as Castle Room Options
+Idea reported by Singe Sat Aug 20 19:06:48 2022
+/d/damned/virtual/singe_room_6.castle: have a meteroite crash onto random world map square.  have 5 minutes to find it and possibly get an ingot
+Typo reported by Upstart Wed Sep  7 13:45:36 2022
+/d/damned/virtual/singe_room_6.castle: when you cast prepare spell, it says "prepared at level 6%" instead of just "level 6"
+Idea reported by Singe Tue Sep 13 23:22:32 2022
+/d/damned/virtual/singe_room_3.castle: buff the mobs of the gate rune since player levels are insanely higher than they were when gate rune/trap was created
+Typo reported by Upstart Sat Sep 17 13:39:46 2022
+/d/damned/virtual/singe_room_6.castle: when you use enchanter mark :  You begin carve your markings into the item.
+Typo reported by Thuldrak Fri Sep 30 15:31:15 2022
+/d/damned/guilds/tinker/forge_room: When doing list skills, the skill "mining" has a typo. It's currently spelled minning.
+Bug reported by Gabriella:
+/d/damned/guilds/war-priest/hh2: I believe there is a bug with the "call
+divine plate" spell. When I cast it, it is acting like I'm already wearing
+armour and won't equip it. 
+Typo reported by Upstart Tue Oct  4 02:07:02 2022
+/d/damned/virtual/singe_room_7.castle: the name of the player needs to be capitalized when you block their scry attempt
+Idea reported by Upstart Tue Oct  4 02:40:34 2022
+/d/damned/virtual/singe_room_6.castle: after level 70, you start to die if you are dehyradted or starving.  then, have golg and shopkeepers, raise the price of all their food/drink
+Bug reported by Kythaela:
+/d/damned/guilds/join_rooms/elementalist_join: I am level 20, but on the
+who list, it still has me as a novice. I have logged and relogged with no
+change.
+Idea reported by Kythaela Sat Oct  8 13:31:31 2022
+/d/damned/guilds/elementalist/ele_train: Being that we got a pwipe, and even though the cross training has increased, I was wondering if it could be made that to cross traine, the player in question would have to get permission from the gm of the cross trained guild? Some of the players was talking about it the day before the pwipe.
+Bug reported by Upstart:
+/d/damned/virtual/inn_105.inn: when you finish a rotten rune, the message
+says you put down at summon rune
+Idea reported by Singe Wed Oct 12 17:23:23 2022
+/d/damned/virtual/room_8_12.world: nobody over level 20 should be able to use a daybreak scroll to teleport
+Bug reported by Ruck:
+/d/damned/guilds/cleric/cleric_shop: if you fill a blessed flask with wine,
+it says empty in inventory, but its full
+Idea reported by Ruck Wed Oct 19 01:52:29 2022
+/d/damned/virtual/inn_102.inn: rename Bob the Healer to something more lore friendly, like Apostle of Luna or something from the Clerics guild or the like
+Bug reported by Ruck:
+/d/damned/virtual/inn_102.inn: equip command does not equip 2nd set of wing
+guards correctly
+Bug reported by Singe:
+/d/damned/virtual/inn_102.inn: if you type exa sword and have a bokken, it
+examine the bokken
+Bug reported by Upstart:
+/d/damned/virtual/inn_102.inn: extreme accuracy does not display after your
+complete it on a Bokken weapon
+Idea reported by Upstart Wed Nov  2 13:15:04 2022
+/d/damned/virtual/inn_102.inn: trinkets you could forge, 1 per armour section i.e. torso, head, etc.   that possible raise your protection a little more or add bonus something?  +1 stat? +5% attack?
+Bug reported by Upstart:
+/d/damned/virtual/inn_102.inn: prepare spell says you did not respond to
+the 'allow',your spell fails, even though you did and the spell goes
+through fine
+Bug reported by Loralis:
+/d/damned/virtual/room_12_4.world: lifta rune is broke
+Bug reported by Loralis:
+/d/damned/virtual/room_12_4.world: clone is broke
+Bug reported by Loralis:
+/d/damned/virtual/room_12_4.world: lock enchantment wont work for elemental
+spells
+Bug reported by Loralis:
+/d/damned/virtual/room_12_4.world: some mobs seems to develope immunity
+from any damage melee or spells
+Bug reported by Lilund:
+/d/damned/guilds/tinker/train_room: so i dont know if this qualifies as a
+bug, or a balance issue. could be either so let me explain. the game has many
+different aoe spells from many different guilds (area of effect). however,
+only a few work. by that i mean only a few are capable of casting and not
+being fully resisted by the enemy mobs. a good example is wog (wrath of god),
+its a warpriest guild aoe spell. when casting at enemy mobs near my level
+(like 10 levels + or -) it gets fully resisted every time bt all the mobs (as
+far as ive noticed). essentially its useless and i cannot use it when
+edventuring and sometimes really need an aoe spell lol. for example i was
+fighting a mob (a dragon) that spawns baby dragons. well my buffs had dropped
+dt,bok,boa and when that happened my stats fell low enough i could no longer
+strike the mob woth my weapon because my skill was to low vs the dragons.
+well rhe dragon doesnt let you leave the room its a boss of sorts, and so
+there i was. i could t recast buffs because of the shadow buff bug (wich you
+may have just fixed) and my aoe spell is fully resisted by everything
+so....lol next thing i knew there were 100 dragons on me and i started to lag
+the whole server. thankfully tlny was on and he cleared the room for me..
+like insaid notnsure if thisnisnyour realm as im not sure its a bug. may in
+fact just be a balance issue. but its worth looking into because this
+(affects Most Players). it affects guilds that are mele focused like tinker
+and warrior, thief, etc. we dont have alot of spell options that we can
+afford and otherwise we dont have aoe and can get stuck as mentioned above.
+hit me up if theres anything you can do about thos because i know several
+spells that act in this manner. and could discuss with you the intended power
+of each of them (from a lore/ logical perspective). would affect many guilds
+and players positively if its your area of expertise 
+Bug reported by Singe:
+/d/damned/virtual/singe_room_4.castle: if you remove a exit in a castle
+that had a door, the door does not return as usable again, just poofs
+Bug reported by Singe:
+/d/damned/virtual/room_6_35.world: 'A darke forest path' area does not have
+an 'A" indicator on the map
+Bug reported by Singe:
+/d/damned/guilds/cleric/cleric_shop: Samual's shop sells two differenly
+priced alabaster figurines.   why
+Bug reported by Ruck:
+/d/damned/virtual/singe_room_4.castle: communion sometimes does not work
+even if you have bread, blessed flask, bottle of wine, everything possible
+on you.  Just says 'You must have bread and win to perform...."
+Idea reported by Singe Thu Jul 25 23:44:56 2024
+/d/damned/akkad/mine_shop: let players have more than 1 mine, but increase the upkeep and pay for each one after #1
+Idea reported by Ariella Fri Jul 26 12:22:04 2024
+/d/damned/guilds/war-priest/hh3: Any chance the call divine plate spell can be perm until reboot like the call weapon spells are? a couple of minutes doesn't make the spell seem worthwhile to actually train if your armour is going to disappear in the middle of combat.
+Bug reported by Yorik:
+/d/damned/guilds/join_rooms/war-priest_join: The help file for heavenly blade
+says it can be stacked twice. However, after casting it once, if I cast it
+again, i get the message You may not imbue this weapon with any more evil
+power. This is a paladin spell, NOt sure why it says evil, and not sure why I
+can't cast it twice per the help file. 

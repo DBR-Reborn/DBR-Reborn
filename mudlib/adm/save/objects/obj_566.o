@@ -1,0 +1,7 @@
+#/d/damned/guilds/nethermancer/misc/black_shield.c
+encumbrance 250
+props (["value":100,"extra long":({({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"none","progress enchanter_mark_okkita":0,"new desc":"%^B_BLACK%^RESET%^ {black shield}","material_name":"darkened steel","pow enchanter_mark_okkita":0,"true armour":1,"pow true_armour_okkita":0,"progress true_armour_okkita":0,])
+true_name "black shield"
+creator "/d/areas/zoo/mon/darkknight#190259"
+material "/darkened steel"
+armour_save (["enhance critical":-4,"short desc":"%^B_BLACK%^RESET%^ {black shield}","ac":(["infernal":100,"disruption":100,"stress":100,"crushing":100,"unholy":100,"cutting":100,"vacuum":100,"plasma":100,"impaling":100,"holy":100,"cold":100,"fire":100,"strike":100,"impact":100,"electricity":100,"aether":100,]),])

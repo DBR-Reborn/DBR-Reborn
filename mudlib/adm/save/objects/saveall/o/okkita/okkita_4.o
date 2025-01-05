@@ -1,0 +1,8 @@
+#/d/damned/virtual/chain-coif.armour
+#/d/damned/virtual/chain-coif.armour.c
+encumbrance 80
+props (["value":49,"pow minor_fortification_okkita":0,"extra long":({"Smithed by: Celthric with A steel armour blank",({"Fortification: %^CYAN%^+20","detect magic",}),}),"material_type":"metal","progress minor_fortification_okkita":0,"progress enchanter_mark_okkita":0,"new desc":"%^COLOR232%^RESET%^ {coif}","material_name":"steel","pow enchanter_mark_okkita":0,"enchantment":20,])
+true_name "chain coif"
+creator "/d/damned/virtual/armour_server"
+material "/metal/steel"
+armour_save (["short desc":"%^COLOR232%^RESET%^ {coif}","ac":(["infernal":109,"disruption":109,"stress":109,"unholy":109,"crushing":109,"cutting":109,"vacuum":109,"plasma":109,"impaling":109,"holy":109,"fire":109,"cold":109,"strike":109,"impact":109,"aether":109,"electricity":109,]),])

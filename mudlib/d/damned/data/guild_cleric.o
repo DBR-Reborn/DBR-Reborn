@@ -1,0 +1,13 @@
+#/d/damned/guilds/join_rooms/cleric_join.c
+props (["base mp regen":10,"light":2,"base hp regen":3,"guild mods":(["wisdom":10,]),"mp advance":40,"indoors":1,"hp advance":18,])
+__Smells ([])
+__Listens ([])
+__Searches ([])
+destinations (["north":"/d/damned/guilds/cleric/train_room","west":"/d/damned/guilds/cleric/confess",])
+invis_exits ([])
+pre_exit_func ([])
+post_exit_func ([])
+tracks ({})
+__Items (["blue moon":0,"sky":0,"ankh":0,"moon":0,"red moon":0,"sun":0,"warzau":0,"green moon":0,"moons":0,"luna":0,])
+guild_list (["skap":(["status":"member",]),"mazer":(["status":"member",]),"zal":(["status":"member",]),"ruby":(["status":"member",]),"glorfindel":(["status":"member",]),"rustybanjo":(["status":"member",]),"serilla":(["status":"member",]),"gabriella":(["status":"member",]),"thromax":(["status":"member",]),"alyssa":(["status":"member",]),"cadderly":(["status":"member",]),"angelica":(["status":"member",]),])
+banish ([])

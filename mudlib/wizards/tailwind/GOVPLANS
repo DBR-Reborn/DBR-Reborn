@@ -1,0 +1,59 @@
+Government Systems in DBR MUD
+
+As per the history, the continent of Lomdin has two major governments
+on it - the Kingdom, of which Daybreak Ridge town is a part of, and
+the Empire, which the (unimplemented) city of Klatch is in.
+
+Every player on the MUD will have the option of joining either
+of the two systems as a citizen. Citizenship offers some
+benefits, namely that citizens can vote (when applicable)
+and buy land for towns/villages (with the new system). Players may
+also elect to _not_ join a system, if they feel it is not in
+their best interests.
+
+The Kingdom, as can be inferred from the name, is a constitutional
+monarchy. The King is a "hereditary" office - the first one is
+selected by the admin (or player vote), and he chooses his
+sucessor from then on. One of the large benefits of kingship
+is your own palace - a hand-coded area, probably quite large,
+by Tailwind.
+
+The House of Aristocracy, though, generally makes all the laws
+of the Kingdom. The House is composed of all town-owning people.
+The King may be a part of the House if he owns his own town.
+He also has veto powers that may be over-ridden by 3/4s vote of
+the House.
+
+The Empire, on the other hand, is best described as a democracy.
+The government is composed of a Prime Minister, and a Congress
+of the People. Both the PM and the members of Congress are
+voted in directly by the citizens of the Empire (not just
+land-owners, but all of them).
+
+Like the Kingdom, the Congress has most of the power. The PM
+wields slightly more power than the King of the Kingdom, but
+does not have the veto power. He also only has a mere office
+in the governmental building of Klatch.
+
+Congress has the ability to impeach the PM with a 90% vote.
+The Kingdom has no real way of removing the King, except
+through revolution (King suicides). In case of revolution,
+the new King is picked by popular vote.
+
+Both systems share the appointed positions of sheriff and
+tax collector. The sheriff gets the special ability to
+arrest criminals anywhere in _towns or the capital city_.
+The tax collector makes his rounds to the various towns
+and player stores, and collects tax money.
+
+Both governments require money to pay for guards, equip them, maintain
+the city, and buy additions to the city when asked for. The
+governments can vote in tax increases and decreases, and adjust
+weekly salaries for the various positions.
+
+That's about it. It'll be a good coding project, but in reality,
+shouldn't be really all that hard.
+
+All comments welcome.
+
+-TW

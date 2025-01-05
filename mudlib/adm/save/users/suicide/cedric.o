@@ -1,0 +1,63 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":50,"extra hp regen":30,"light":0,"xp mod":-50,"hp advance":30,"melee damage":(["crushing":5,]),"handedness":"left hand","last reinc":1665229206,"dev point base":69,"mp advance":20,"last read news":1665529452,"old exp":0,"sp points":0,"base mp regen":5,"ambidextry":1,"base hp regen":8,"combat color":"%^BOLD%^","dev points":26,])
+true_name "cedric"
+creator "/adm/obj/login#32400"
+max_internal_encumbrance 3000
+player_data (["kills":({118,135,21,136,}),"general":(["max exp":10202,"alignment":2,"exp buffer":0,"sp":1,"experience":14884,"max_hp":218,"max_sp":665,"hp":218,]),])
+magic (["max points":196,"points":196,])
+severed ([])
+healing (["quenched":800,"stuffed":625,])
+body (["right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":54,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":72,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":109,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":54,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":72,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":218,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":72,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"weapon":0,"max_dam":54,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"weapon":0,"max_dam":54,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":72,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 71
+char_class "paladin"
+skills (["concentrate":(["stat":"intelligence","last dev":({3,1,}),"level":5,]),"lay on hands":(["stat":"wisdom","last dev":({3,3,}),"level":30,]),"magery":(["stat":"intelligence","level":10,]),"prayer":(["stat":"wisdom","last dev":({3,3,}),"level":15,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"perception":(["stat":"intelligence","last dev":({3,2,}),"level":25,]),"blade":(["stat":"dexterity","last dev":({3,2,}),"level":30,]),"conjuration":(["stat":"intelligence","level":10,]),"repair weapon":(["stat":"dexterity","last dev":({3,2,}),"level":20,]),"woodland stealth":(["stat":"dexterity","level":10,]),"swimming":(["stat":"constitution","last dev":({3,1,}),"level":20,]),"focus casting":(["stat":"intelligence","level":10,]),"illusionism":(["stat":"intelligence","level":10,]),"parry":(["stat":"dexterity","last dev":({3,2,}),"level":25,]),"trade lore":(["stat":"charisma","last dev":({3,1,}),"level":20,]),"attack":(["stat":"dexterity","last dev":({3,2,}),"max":0,"points":0,"level":33,]),])
+spells (["holy word":(["last dev":({3,1,}),"level":1,]),"bless armour":(["last dev":({3,1,}),"level":1,]),"cure light wounds":(["last dev":({3,1,}),"level":1,]),"protection from chaos":(["last dev":({3,1,}),"level":1,]),"holy light":(["last dev":({3,1,}),"level":1,]),])
+wimpydir "out"
+protection 4
+hits 3
+i 2
+j 1
+k 3
+num_attacks 2
+x 12
+num_rounds 1
+skill 96
+env_var (["prompt":">","start":"/d/standard/square","TITLE":"Novice $N the Grey-elf","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 6052
+player_age 6046
+sight_bonus 3
+gender "male"
+state "stand"
+stats (["wisdom":90,"dexterity":95,"strength":100,"constitution":95,"intelligence":95,"charisma":36,])
+languages (["ratish":2,"common":10,"grey-elfish":10,])
+primary_language "grey-elfish"
+language_exp (["ratish":({9,1,}),"middle-english":({1,0,}),])
+xp_to_next_dev 10452
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+zexp 14884
+znexp 24999
+zlexp 10115
+znlevel 4
+zlevel 3
+auto_load ({})
+level 3
+ghost 1
+birth 1665229206
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "amanda.blackstone0923@gmail.com"
+ip "68.41.203.137"
+last_on "Tue Oct 11 23:04:12 2022"
+password "$6$VYRODRPrWgBIbHIA$HFGd/l1Rn7jf0H8lZiFk6y46eA5wk31NKNy250z7xVbRFlt0WeCSB3TZW6YJQu1OL/m9MyfrJGRM2hgTV/TJ0/"
+race "grey-elf"
+original_site "68.41.203.137"
+position "player"
+primary_start "/d/damned/guilds/paladin/train_room"
+quests ({})

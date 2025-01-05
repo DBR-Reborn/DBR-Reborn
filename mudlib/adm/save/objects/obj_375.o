@@ -1,0 +1,7 @@
+#/d/damned/virtual/shod-staff_5.weapon.c
+encumbrance 30
+props (["material_name":"steel","value":266,"material_type":"metal","extra long":"level[16] steel Shod Staff","new desc":"level[16] steel Shod Staff",])
+true_name "shod staff"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/steel"
+__Weapon (["original wc":(["crushing":15,]),"quality":5,"type":"two handed staff","ac":(["infernal":6,"disruption":6,"stress":6,"crushing":6,"unholy":6,"cutting":6,"vacuum":6,"plasma":6,"impaling":6,"holy":6,"cold":6,"fire":6,"strike":6,"impact":6,"electricity":6,"aether":6,]),"verb":"bash","wc":(["crushing":41,]),"short desc":"level[16] steel Shod Staff","decay rate":200,"parry bonus":10,])

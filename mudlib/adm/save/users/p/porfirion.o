@@ -1,0 +1,50 @@
+#/std/user.c
+encumbrance 500
+props (["physical resistance":(["cold":30,]),"old exp":10149,"light":0,"sp points":0,"xp mod":5,"melee damage":(["crushing":5,]),"base mp regen":3,"handedness":"left hand","ambidextry":0,"last reinc":1666903346,"base hp regen":3,"dev point base":44,"combat color":"%^BOLD%^","last read news":1666903346,"dev points":44,"dev cost":-2,])
+true_name "porfirion"
+creator "/adm/obj/login#251420"
+max_internal_encumbrance 1800
+player_data (["general":(["exp buffer":0,"sp":1,"max_hp":90,"max_sp":0,"hp":90,]),])
+magic (["max points":84,"points":60,])
+severed ([])
+healing ([])
+body (["torso":(["damage":0,"armour_ob":({,}),"max_dam":90,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"leather torso",}),]),"left leg":(["damage":0,"armour_ob":({,}),"max_dam":30,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"leather legs",}),]),"right foot":(["damage":0,"armour_ob":({,}),"max_dam":22,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"right leg":(["damage":0,"armour_ob":({,}),"max_dam":30,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"leather legs",}),]),"head":(["damage":0,"armour_ob":({,}),"max_dam":45,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"chain head",}),]),"right hand":(["damage":0,"armour_ob":({,,}),"max_dam":22,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"left foot":(["damage":0,"armour_ob":({,}),"max_dam":22,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"left arm":(["damage":0,"armour_ob":({,}),"max_dam":30,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm",}),]),"left hand":(["damage":0,"armour_ob":({,,}),"max_dam":22,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"right arm":(["damage":0,"armour_ob":({,}),"max_dam":30,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"metal arm",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 1
+char_class "child"
+skills (["trade lore":(["stat":"charisma","level":5,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":5,]),"melee":(["max":0,"points":0,"level":0,]),])
+spells ([])
+wimpydir "out"
+env_var (["start":"/d/newbieville/rooms/newbie2","TITLE":"Novice $N the North-man","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money ([])
+ok_to_heal 1734
+player_age 1726
+sight_bonus 1
+gender "male"
+state "stand"
+stats (["wisdom":45,"dexterity":50,"strength":60,"constitution":55,"intelligence":50,"charisma":50,])
+languages (["common":10,"north-manish":10,])
+primary_language "north-manish"
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+verbose_moves 1
+birth 1666903346
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Porfirion"
+email "mikhailvitsen@gmail.com"
+ip "159.203.67.128"
+last_on "Thu Oct 27 20:42:26 2022"
+password "$6$5k8I4M.RIep81hLX$WKmwQcFDWTbzDIJlu1TgFN1N9r2Fo/UGp5PKvW/SNS8PIg4mUBcBR55cecG/9cY3T9.r06WWrA4kiVg1VTzfB/"
+race "north-man"
+original_site "159.203.67.128"
+position "player"
+quests ({})

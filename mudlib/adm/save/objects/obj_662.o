@@ -1,0 +1,6 @@
+#/d/areas/dwarf_mine/obj/mithril_ingot.c
+encumbrance 70
+props (["material_name":"mithril","value":150,"material_type":"metal",])
+true_name "ingot"
+creator "/d/areas/dwarf_mine/obj/metal#194429"
+material "/metal/mithril"

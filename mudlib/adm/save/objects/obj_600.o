@@ -1,0 +1,7 @@
+#/d/damned/virtual/great-axe_6.weapon.c
+encumbrance 320
+props (["material_name":"iysaughton","value":786,"extra long":"level[46] iysaughton great-axe of vacuum and cold","material_type":"metal","new desc":"level[46] iysaughton great-axe of vacuum and cold",])
+true_name "great axe"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/iysaughton"
+__Weapon (["original wc":(["cold":77,"crushing":68,"cutting":20,"vacuum":93,]),"quality":6,"type":"two handed polearm","ac":(["infernal":4,"disruption":4,"stress":4,"unholy":4,"crushing":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"fire":4,"cold":4,"strike":4,"impact":4,"aether":4,"electricity":4,]),"verb":"chop","wc":(["cold":77,"crushing":68,"cutting":20,"vacuum":93,]),"short desc":"level[46] iysaughton great-axe of vacuum and cold","decay rate":200,"parry bonus":-30,])

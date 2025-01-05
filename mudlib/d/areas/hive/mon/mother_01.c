@@ -1,0 +1,56 @@
+//  Wizard:   Myrddin
+//  Monster:  Mother
+//  File:        mother.c
+//  June 97
+
+inherit "/std/monster";
+
+create() {
+  object money;
+  ::create();
+    set_name("mother");
+    set_id( ({ "mother","mom"}) );
+    set_level(1);
+    set_short("mother");
+    set_long("The mother is keeping a close on her tired children." 
+      );
+    set("race", "human");
+    set_gender("female");
+    set_body_type("human");
+    set_wielding_limbs( ({ "right hand" }) );
+    set_property("melee damage", ([ "crushing" : 3]));
+    set_skill("melee", 5);
+    set_skill("dodge", 5);
+    set_stats("dexterity", 20);
+    set_stats("intelligence", 50);
+    set_stats("strength",30);
+    set("gang bang",1);
+    set_wimpy(0);
+    new("d/damned/virtual/leather-jacket.armour")->
+                 move(this_object());
+             force_me("wear jacket");
+    new("d/damned/virtual/cloth-pants.armour")->
+                 move(this_object());
+             force_me("wear pants");
+    money=new("std/obj/coins");
+    money->set_money("silver",(random(10)+5));
+    money->move(this_object());
+    set_languages(({ "common" }));
+    set_lang_prof("common",10);
+    set_emotes(2, ({
+	  "The mother keeps a close watch on her children.",
+	  "The mother tries to look brave for her children, but fails.",
+	  "The mother weeps quietly as she walks.",
+             }),0);
+	set_speech(2,"common",({ 
+	  "Stick together children, you don't want to get lost!",
+	  "Just a little bit farther, then we can rest.",
+	  "Yes, we will be getting there soon.",
+	  "How many were killed?  Where did those insects come "
+                "from?",
+	}),0);
+	set_speech(1,"common",({ 
+	  "Not the children!",
+	}),1);
+}
+

@@ -1,0 +1,8 @@
+#/d/damned/virtual/chain-mail.armour
+#/d/damned/virtual/chain-mail.armour.c
+encumbrance 180
+props (["material_name":"laen","progress engrave_dalton":0,"value":150,"extra long":"level[48] laen mail of fire and crushing protection","material_type":"metal","new desc":"%^B_BLUE%^Angelic%^RESET%^ {mail}",])
+true_name "chain mail"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"%^B_BLUE%^Angelic%^RESET%^ {mail}","ac":(["infernal":90,"disruption":90,"stress":90,"unholy":90,"crushing":163,"cutting":90,"vacuum":90,"plasma":90,"impaling":90,"holy":90,"fire":147,"cold":90,"strike":90,"impact":90,"aether":90,"electricity":90,]),])

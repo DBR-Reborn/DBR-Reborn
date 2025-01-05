@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-pants.armour
+#/d/damned/virtual/leather-pants.armour.c
+encumbrance 1
+props (["runes":({"malsa bonnes","malsa sen zora","lifta",}),"progress inscribe_malsa_sen_zora_lilund":0,"pow master_fortification_lilund":0,"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Absorption%^RESET%^ {pants}","progress engrave_lilund":0,"progress inscribe_malsa_bonnes_lilund":0,"material_name":"Elemental overlord","true armour":1,"progress master_fortification_lilund":0,"pow true_armour_lilund":0,"progress true_armour_lilund":0,"value":95,"extra long":({"Crafted by: Lilund with A Level [75] Elemental overlord leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Lifta%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress inscribe_lifta_lilund":0,"enchantment":70,])
+true_name "leather pants"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Elemental overlord"
+armour_save (["enhance critical":-4,"short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Absorption%^RESET%^ {pants}","ac":(["infernal":693,"disruption":689,"stress":690,"crushing":750,"unholy":698,"cutting":757,"vacuum":690,"plasma":697,"impaling":728,"holy":704,"cold":730,"fire":730,"strike":733,"impact":738,"electricity":714,"aether":698,]),])

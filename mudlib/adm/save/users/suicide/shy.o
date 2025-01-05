@@ -1,0 +1,62 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":25,"extra hp regen":25,"light":0,"xp mod":-15,"hp advance":50,"melee damage":(["cutting":5,]),"natural ac":4,"handedness":"left hand","last reinc":1734663821,"dev point base":71,"mp advance":15,"last read news":1734663821,"old exp":0,"sp points":0,"base mp regen":3,"ambidextry":0,"base hp regen":18,"combat color":"%^BOLD%^","dev points":45,])
+true_name "shy"
+creator "/adm/obj/login#33906"
+max_internal_encumbrance 3660
+player_data (["kills":({21,45,}),"general":(["alignment":0,"max exp":11780,"exp buffer":0,"sp":1,"experience":11781,"last adjust":1734667210,"max_hp":318,"max_sp":735,"hp":318,]),])
+magic (["max points":120,"points":120,])
+severed ([])
+healing (["stuffed":625,"quenched":1000,])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":159,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":106,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":79,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":106,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":79,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":318,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":106,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"weapon":0,"max_dam":79,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({}),]),"right wing":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":106,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"weapon":0,"max_dam":79,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":106,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left wing":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":106,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"head","right leg","right foot","left arm","left foot","left leg","torso","right hand","right wing","right arm","left hand","left wing",})
+all_my_fingers 5
+heal_rate 90
+char_class "fighter"
+skills (["melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"swimming":(["stat":"constitution","last dev":({3,3,}),"level":30,]),"knife":(["stat":"dexterity","last dev":({3,6,}),"level":46,]),"dodge":(["stat":"dexterity","last dev":({3,2,}),"level":10,]),"fast attack":(["stat":"constitution","last dev":({3,2,}),"level":10,]),"parry":(["stat":"dexterity","last dev":({3,2,}),"level":15,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"perception":(["stat":"intelligence","last dev":({2,2,}),"level":10,]),"attack":(["stat":"dexterity","last dev":({3,4,}),"max":0,"points":0,"level":44,]),])
+spells ([])
+wimpydir "out"
+i 1
+j 2
+k -1
+num_attacks 1
+x 1
+defendflag 1
+num_rounds 2
+skill 96
+env_var (["TITLE":"Snotling Slayer $N the Gromek","start":"/d/standard/square","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money ([])
+ok_to_heal 56362
+player_age 56356
+sight_bonus 3
+gender "male"
+state "stand"
+stats (["wisdom":50,"dexterity":105,"strength":122,"constitution":117,"intelligence":55,"charisma":35,])
+languages (["draconian":10,"common":10,])
+primary_language "common"
+language_exp (["middle-english":({3,0,}),])
+xp_to_next_dev 12004
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 3
+ghost 1
+verbose_moves 1
+birth 1734610076
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "jasonyoshikawa1406@gmail.com"
+ip "67.202.121.34"
+last_on "Fri Dec 20 03:03:41 2024"
+password "$6$Nm2dE0rxJzqu.w3e$AuAeJTC4hbZuYC7R0D.q0d4JEW0nPAUYLhVAPWnl627lHsU0cl5S5s6cR/xoZ8VdZjsxlZQgEFEOf3rkh7b6H1"
+race "gromek"
+original_site "66.8.215.218"
+position "player"
+primary_start "/d/daybreak/room/db_square"
+quests ({})

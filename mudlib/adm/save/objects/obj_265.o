@@ -1,0 +1,7 @@
+#/d/damned/virtual/leather-helmet.armour.c
+encumbrance 60
+props (["material_name":"Eternal darkness","value":45,"material_type":"leather","extra long":"Crafted by: Someone with A Level [100] Eternal darkness leather",])
+true_name "leather helmet"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Eternal darkness"
+armour_save (["short desc":"A leather helmet","ac":(["infernal":594,"disruption":595,"stress":619,"crushing":625,"unholy":611,"cutting":627,"vacuum":614,"plasma":604,"impaling":610,"holy":586,"cold":625,"fire":588,"strike":614,"impact":606,"electricity":598,"aether":597,]),])

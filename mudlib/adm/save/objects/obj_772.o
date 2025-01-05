@@ -1,0 +1,7 @@
+#/d/damned/virtual/leather-boots.armour.c
+encumbrance 30
+props (["material_name":"iron","value":30,"extra long":({({"Fortification: %^CYAN%^+40","detect magic",}),}),"pow major_fortification_math":0,"material_type":"metal","progress major_fortification_math":0,"enchantment":40,])
+true_name "leather boots"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iron"
+armour_save (["short desc":"A pair of leather boots","ac":(["infernal":14,"disruption":1,"stress":1,"crushing":10,"unholy":14,"cutting":14,"vacuum":1,"plasma":1,"impaling":14,"holy":1,"cold":3,"fire":3,"strike":2,"impact":10,"electricity":1,"aether":1,]),])

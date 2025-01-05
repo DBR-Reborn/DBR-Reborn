@@ -1,0 +1,64 @@
+#/std/user.c
+encumbrance 500
+props (["light":0,"xp mod":15,"hp advance":18,"melee damage":(["crushing":6,]),"handedness":"left hand","last reinc":1734371713,"dev point base":69,"mp advance":40,"last read news":1735026799,"dev cost":-2,"allow_over_max":0,"hand uses":7,"sp points":5,"old exp":0,"base mp regen":19,"ambidextry":1,"base hp regen":15,"combat color":"%^BOLD%^","dev points":109,])
+true_name "mazer"
+creator "/adm/obj/login#47719"
+max_internal_encumbrance 2700
+player_data (["kills":({21,}),"general":(["alignment":0,"exp buffer":0,"sp":1,"max_hp":407,"hp":407,"max exp":1252228,"experience":1252229,"last adjust":1734739179,"max_sp":595,]),])
+magic (["max points":693,"points":693,])
+severed ([])
+healing (["quenched":800,"stuffed":470,])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":203,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":135,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":101,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":135,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":101,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":135,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":407,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":101,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":135,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":101,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 57
+char_class "cleric"
+skills (["lay on hands":(["stat":"wisdom","last dev":({12,3,}),"last use":1734715946,"level":15,]),"prayer":(["stat":"wisdom","last dev":({12,3,}),"level":60,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"two handed flail":(["stat":"dexterity","last dev":({12,7,}),"level":33,]),"body alteration":(["stat":"wisdom","last dev":({12,3,}),"level":15,]),"communion":(["stat":"wisdom","last dev":({12,3,}),"last use":0,"level":15,]),"attack":(["stat":"dexterity","last dev":({12,5,}),"max":0,"points":0,"level":30,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),])
+spells (["bless armour":(["last dev":({12,1,}),"level":5,]),"heal":(["last dev":({10,3,}),"level":3,]),"holy armour":(["last dev":({9,4,}),"level":4,]),"cure serious wounds":(["last dev":({10,3,}),"level":3,]),"resurrect":(["last dev":({12,2,}),"level":2,]),"cure light wounds":(["last dev":({10,1,}),"level":4,]),"preserve corpse":(["last dev":({12,3,}),"level":3,]),"blessing of knowledge":(["last dev":({12,1,}),"level":5,]),"combat healing":(["last dev":({7,3,}),"level":3,]),"summon aerial servant":(["last dev":({5,3,}),"level":3,]),"blessing of agility":(["last dev":({12,1,}),"level":4,]),"cure critical wounds":(["last dev":({10,3,}),"level":3,]),"summon guardian angel":(["last dev":({11,3,}),"level":3,]),"bless weapon":(["last dev":({12,3,}),"level":6,]),"summon ethereal entity":(["last dev":({6,3,}),"level":3,]),"armour of faith":(["last dev":({9,4,}),"level":4,]),"protection from chaos":(["last dev":({3,3,}),"level":3,]),])
+wimpydir "out"
+i 1
+j 1
+k -1
+num_attacks 1
+defendflag 1
+num_rounds 1
+has_shield 1
+skill -13
+env_var (["prompt":"HP:%^RED%^$h/$H%^RESET%^ MP:%^CYAN%^$m/$M%^RESET%^ D:%^GREEN%^$dp%^RESET%^ [%^BOLD%^%^RED%^$A%^RESET%^][%^BOLD%^$a%^RESET%^]>","TITLE":"Maker of the Holy $N the China-man","start":"/d/damned/guilds/cleric/c_treas","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money (["silver":102,"gold":63,"copper":2590,])
+ok_to_heal 228538
+player_age 228534
+sight_bonus -1
+gender "male"
+state "stand"
+stats (["wisdom":91,"dexterity":85,"strength":90,"constitution":90,"intelligence":81,"charisma":43,])
+languages (["common":10,"china-manish":10,])
+primary_language "common"
+language_exp (["middle-english":({1,0,}),])
+xp_to_next_dev 1252844
+alias (["nw":"northwest","df":"drink fountain","w":"west","exa":"look at $*","sw":"southwest","u":"up","4":"cast *3 bless weapon at sword","3":"cast *2 resurrect at mazer","s":"south","ss":"say shopkeeper, $*","2":"cast *3 summon guardian angel","1":"cast *5 blessing of knowledge at mazer","0":"cast *4 bless armour at $*","bio":"biography","n":"north","m":"meditate $*","l":"look $*","k":"kill $*","ne":"northeast","i":"inventory","lm":"list meditations","e":"east","se":"southeast","d":"down","sc":"score","gcc":"get coins from corpse $*",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+zexp 1252229
+znexp 1620222
+zlexp 367993
+znlevel 13
+zlevel 12
+auto_load ({})
+level 12
+verbose_moves 1
+birth 1734371713
+blocked ([])
+exp_log ([1734483290:24001,])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "Daniel"
+email "daniel.mcc@gmail.com"
+ip "192.168.65.1"
+last_on "Sun Jan  5 02:31:04 2025"
+password "$6$ws0iYsSgDbYUnUuu$O.fYNN4OYHrXcBdNsIzsn.43fPuPN.TMkNeiyL9OUwDH99goOIimLuZaiz4t8oMrHrcwu8890uZJTSabnjcwo1"
+race "china-man"
+original_site "73.127.55.186"
+position "superuser"
+primary_start "/d/damned/guilds/cleric/c_treas"
+quests ({})

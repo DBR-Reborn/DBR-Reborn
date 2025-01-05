@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-pants.armour
+#/d/damned/virtual/leather-pants.armour.c
+encumbrance 110
+props (["runes":({"malsa sen zora","malsa bonnes",}),"new desc":"%^B_BLUE%^%^RESET%^ {pants}","progress engrave_inikhida":0,"progress engrave_lilund":0,"progress engrave_boric":0,"material_name":"Dragon","true armour":1,"progress engrave_nawara":0,"progress enchanter_mark_nawara":0,"pow enchanter_mark_nawara":0,"progress extreme_fortification_azazel":0,"progress engrave_angelica":0,"progress inscribe_malsa_sen_zora_azazel":0,"value":95,"extra long":({"Crafted by: Azazel with A Level [50] Dragon leather",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),"A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.",}),"material_type":"leather","progress engrave_skye":0,"progress inscribe_malsa_bonnes_azazel":0,"progress engrave_azazel":0,"pow extreme_fortification_azazel":0,"pow true_armour_azazel":0,"progress true_armour_azazel":0,"enchantment":100,])
+true_name "leather pants"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Dragon"
+armour_save (["enhance critical":-4,"short desc":"%^B_BLUE%^%^RESET%^ {pants}","ac":(["infernal":691,"disruption":689,"stress":695,"crushing":694,"unholy":691,"cutting":706,"vacuum":360,"plasma":693,"impaling":701,"holy":691,"cold":706,"fire":704,"strike":678,"impact":679,"electricity":703,"aether":691,]),])

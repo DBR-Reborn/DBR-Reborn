@@ -1,0 +1,8 @@
+#/d/damned/virtual/long-sword_2.weapon
+#/d/damned/virtual/long-sword_2.weapon.c
+encumbrance 90
+props (["material_name":"mithril","value":100,"material_type":"metal",])
+true_name "long sword"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/mithril"
+__Weapon (["quality":2,"verb":"slice","decay status":9,"wc":(["impaling":6,"cutting":10,]),"original wc":(["impaling":6,"cutting":10,]),"auto critical":({"fire A",}),"type":"blade","ac":(["infernal":4,"fire":4,"cold":4,"disruption":4,"stress":4,"unholy":4,"crushing":4,"cutting":4,"strike":4,"vacuum":4,"plasma":4,"impact":4,"impaling":4,"holy":4,"aether":4,"electricity":4,]),"short desc":"longsword","decay rate":1000,"parry bonus":50,"hit bonus":50,])

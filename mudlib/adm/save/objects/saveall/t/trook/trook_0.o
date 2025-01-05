@@ -1,0 +1,5 @@
+#/wizards/diewarzau/obj/misc/temp_key.c
+encumbrance 2
+props (["new ids":"key 100","value":10,"new desc":"A key to door 100","uses":1,])
+true_name "key"
+creator "/std/skills/lock_smithing#1055"

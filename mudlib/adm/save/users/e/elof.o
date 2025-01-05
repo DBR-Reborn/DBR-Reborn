@@ -1,0 +1,52 @@
+#/std/user.c
+encumbrance 500
+props (["xp mod":15,"light":0,"hp advance":40,"melee damage":(["crushing":6,]),"last reinc":1667563767,"handedness":"left hand","dev point base":70,"mp advance":18,"last read news":1673144448,"dev cost":-2,"old exp":0,"sp points":0,"ambidextry":1,"base mp regen":6,"base hp regen":13,"combat color":"%^BOLD%^","dev points":26,])
+true_name "elof"
+creator "/adm/obj/login#389796"
+max_internal_encumbrance 3510
+player_data (["general":(["sp":1,"exp buffer":0,"max exp":10148,"experience":10149,"max_hp":223,"hp":223,"max_sp":840,]),])
+magic (["max points":114,"points":114,])
+severed ([])
+healing ([])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":111,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":74,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":55,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":74,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":55,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":74,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":223,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":55,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":74,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":55,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 4
+char_class "tinker"
+skills (["blacksmith":(["stat":"dexterity","last dev":({3,5,}),"level":44,]),"prospecting":(["stat":"intelligence","last dev":({3,2,}),"level":20,]),"repair weapon":(["stat":"dexterity","last dev":({3,2,}),"level":30,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"swimming":(["stat":"constitution","last dev":({3,2,}),"level":20,]),"minning":(["stat":"strength","last dev":({3,3,}),"level":25,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"attack":(["stat":"dexterity","last dev":({0,0,}),"max":0,"points":0,"level":5,]),])
+spells ([])
+wimpydir "out"
+env_var (["TITLE":"Thumb Striker $N the China-man","prompt":"%","start":"/d/damned/guilds/join_rooms/tinker_join","LINES":"70","TERM":"unknown","SCORE":"off",])
+money (["silver":330,"gold":63,"copper":2950,])
+ok_to_heal 1341
+player_age 1330
+sight_bonus -1
+gender "male"
+state "stand"
+stats (["wisdom":45,"dexterity":120,"intelligence":45,"constitution":83,"strength":117,"charisma":55,])
+languages (["common":10,"china-manish":10,])
+primary_language "china-manish"
+xp_to_next_dev 10398
+alias (["n":"north","bio":"biography","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","exa":"look at $*","sw":"southwest","e":"east","u":"up","d":"down","se":"southeast","s":"south",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+zexp 10149
+znexp 24999
+zlexp 14850
+znlevel 4
+zlevel 3
+auto_load ({})
+level 3
+birth 1667563767
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Bill"
+email "ardvarq2000@gmail.com"
+ip "184.20.215.150"
+last_on "Sun Jan  8 02:20:48 2023"
+password "$6$sZ4vZRG.k3cTIKLD$4TNl.pyjsveYfGCToBo8aklRLj1GOTh575ZcAQInlvSnXb67sT85V6cV1X9W4UgNIwX7h4It28Onp137Y9BSU."
+race "china-man"
+original_site "172.243.79.9"
+position "player"
+primary_start "/d/damned/guilds/tinker/forge_room"
+quests ({})

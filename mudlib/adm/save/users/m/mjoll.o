@@ -1,0 +1,48 @@
+#/std/user.c
+encumbrance 500
+props (["melee damage":(["vacuum":15,]),"natural ac":5,"magic resistance":10,"extra mp regen":20,"extra hp regen":5,"flying":1,"ambidextry":0,"last reinc":1679603625,"xp mod":-35,"enhance criticals":(["cold":-1,"fire":1,]),"sp points":0,"light":1,"combat color":"%^BOLD%^","last read news":1679603625,])
+true_name "mjoll"
+creator "/adm/obj/login#105615"
+player_data (["general":(["exp buffer":0,"sp":1,"max_hp":50,"max_sp":0,"hp":50,]),])
+magic (["max points":0,"points":0,])
+severed ([])
+healing ([])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":50,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":25,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":12,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":16,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":12,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":16,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"torso","head","right hand","left arm","right arm","left hand",})
+all_my_fingers 5
+char_class "child"
+skills (["air lore":(["stat":"intelligence","level":20,]),"elementalism":(["stat":"intelligence","level":10,]),"attack":(["max":0,"points":0,"level":0,]),"melee":(["max":0,"points":0,"level":0,]),])
+spells (["lesser elemental bolt":(["level":1,]),])
+wimpydir "out"
+env_var (["start":"/d/standard/waiting_room","TITLE":"Novice $N the Dinjinni","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 1372
+player_age 1366
+sight_bonus 1
+gender "female"
+state "stand"
+stats ([])
+languages (["dinjinniish":10,])
+primary_language "dinjinniish"
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+verbose_moves 1
+birth 1679603625
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "browngator09@gmail.com"
+ip "3.128.186.25"
+last_on "Thu Mar 23 20:33:45 2023"
+password "$6$7apV0foXmRO3JYaO$AmwyRj0msuT.ChFmuUBnZ6imw235jDCH3PMkXSzRci3Bd6xDBi8o3OnkUbUWhNldhVuCamYLSWoWLRF5EyTsf."
+race "dinjinni"
+original_site "3.128.186.25"
+position "player"
+quests ({})

@@ -1,0 +1,13 @@
+#/d/damned/guilds/join_rooms/elemental-mage_join.c
+props (["base mp regen":15,"light":2,"base hp regen":3,"guild mods":(["intelligence":10,]),"mp advance":50,"indoors":1,"hp advance":15,])
+__Smells ([])
+__Listens ([])
+__Searches ([])
+destinations (["north":"/d/daybreak/room/dbvl3","south":"/d/damned/guilds/elemental-mage/skill_room",])
+invis_exits ([])
+pre_exit_func ([])
+post_exit_func ([])
+tracks ({})
+__Items (["items":"They are very valuable, but well protected.","magi":"Several of them wear ornate robes and jewelry.","blue moon":,"sky":,"ankh":,"moon":,"red moon":,"sun":,"warzau":,"green moon":,"moons":,"luna":,])
+guild_list (["phlagg":(["status":"member",]),"ashley":(["status":"member",]),"morgana":(["status":"member",]),"kyrene":(["status":"member",]),])
+banish ([])

@@ -1,0 +1,7 @@
+#/d/damned/virtual/chain-mail.armour.c
+encumbrance 180
+props (["material_name":"mithril","value":150,"material_type":"metal","extra long":"level[86] mithril Mail of fire and disruption protection","new desc":"level[86] mithril Mail of fire and disruption protection",])
+true_name "chain mail"
+creator "/d/damned/virtual/armour_server"
+material "/metal/mithril"
+armour_save (["short desc":"level[86] mithril Mail of fire and disruption protection","ac":(["infernal":413,"disruption":773,"stress":413,"crushing":413,"unholy":413,"cutting":413,"vacuum":413,"plasma":413,"impaling":413,"holy":413,"cold":413,"fire":713,"strike":413,"impact":413,"electricity":413,"aether":413,]),])

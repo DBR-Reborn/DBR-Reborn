@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-jacket.armour
+#/d/damned/virtual/leather-jacket.armour.c
+encumbrance 60
+props (["material_name":"Undead dragon","value":45,"pow enchanter_mark_rihcter":0,"extra long":"Crafted by: Rihcter with A Level [100] Undead dragon leather","material_type":"leather","progress enchanter_mark_rihcter":0,"progress engrave_thromax":0,"new desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {jacket}",])
+true_name "leather jacket"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Undead dragon"
+armour_save (["short desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {jacket}","ac":(["infernal":464,"disruption":507,"stress":523,"unholy":462,"crushing":494,"cutting":553,"vacuum":496,"plasma":462,"impaling":536,"holy":476,"fire":523,"cold":491,"strike":456,"impact":460,"aether":461,"electricity":482,]),])

@@ -1,0 +1,7 @@
+#/d/damned/virtual/cloak.armour.c
+encumbrance 50
+props (["runes":({"malsa bonnes","malsa sen zora",}),"value":10,"progress inscribe_malsa_sen_zora_maker":0,"extra long":({"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"material_type":"metal","progress major_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"material_name":"iron","pow major_fortification_math":0,"enchantment":40,])
+true_name "cloak"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iron"
+armour_save (["short desc":"A cloak","ac":(["infernal":156,"disruption":156,"stress":156,"crushing":176,"unholy":156,"cutting":176,"vacuum":156,"plasma":159,"impaling":176,"holy":156,"cold":160,"fire":160,"strike":172,"impact":172,"electricity":160,"aether":156,]),])

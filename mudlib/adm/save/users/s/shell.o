@@ -1,0 +1,60 @@
+#/std/user.c
+encumbrance 500
+props (["magic resistance":15,"extra mp regen":40,"old exp":10149,"light":0,"sp points":0,"xp mod":-60,"melee damage":(["crushing":5,]),"base mp regen":3,"handedness":"right hand","ambidextry":1,"last reinc":1691591825,"base hp regen":3,"dev point base":69,"combat color":"%^BOLD%^","last read news":1691591825,"dev points":70,])
+true_name "shell"
+creator "/adm/obj/login#93824"
+max_internal_encumbrance 2700
+player_data (["kills":({21,}),"general":(["alignment":0,"max exp":54,"exp buffer":0,"sp":1,"experience":55,"last adjust":1691593368,"max_hp":132,"max_sp":0,"hp":132,]),])
+magic (["max points":139,"points":139,])
+severed ([])
+healing (["stuffed":125,"quenched":900,])
+body (["torso":(["damage":0,"armour_ob":({,}),"max_dam":132,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"leather torso",}),]),"left leg":(["damage":0,"armour_ob":({,}),"max_dam":44,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"leather legs",}),]),"right foot":(["damage":0,"armour_ob":({,}),"max_dam":33,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"right leg":(["damage":0,"armour_ob":({,}),"max_dam":44,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"leather legs",}),]),"head":(["damage":0,"armour_ob":({,,}),"max_dam":66,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"chain head","metal head",}),]),"right hand":(["damage":0,"armour_ob":({,,}),"max_dam":33,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"left foot":(["damage":0,"armour_ob":({,}),"max_dam":33,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"left arm":(["damage":0,"armour_ob":({,}),"max_dam":44,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm",}),]),"left hand":(["damage":0,"armour_ob":({,}),"max_dam":33,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"right arm":(["damage":0,"armour_ob":({,}),"max_dam":44,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"metal arm",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 4
+heal_rate 37
+char_class "child"
+skills (["trade lore":(["stat":"charisma","level":5,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":5,]),"melee":(["max":0,"points":0,"level":0,]),])
+spells ([])
+wimpydir "out"
+protection 4
+hits 3
+i 1
+j 1
+k 3
+num_attacks 1
+x 18
+num_rounds 1
+skill 37
+env_var (["TITLE":"Novice $N the Blood-elf","start":"/d/newbieville/rooms/newbie3_u","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money (["silver":10,])
+ok_to_heal 4178
+player_age 4170
+sight_bonus 4
+gender "male"
+state "stand"
+stats (["wisdom":96,"dexterity":110,"strength":90,"constitution":90,"intelligence":96,"charisma":65,])
+languages (["common":10,"blood-elfish":10,])
+primary_language "blood-elfish"
+xp_to_next_dev 254
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+verbose_moves 1
+birth 1691591825
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "hoseop"
+email "hoseop.shine@gmail.com"
+ip "3.128.186.25"
+last_on "Wed Aug  9 14:37:05 2023"
+password "$6$JPijeM4IZ9Bq.7Rt$NXyN.pquhbnyLkxGxBGjQDUIIpIYAoBLzQsY.7isxQVNDJEDLawm4zYkrfkkDGz3Z5AeFqEj3VB2mGONlJJIm."
+race "blood-elf"
+original_site "3.128.186.25"
+position "player"
+quests ({})

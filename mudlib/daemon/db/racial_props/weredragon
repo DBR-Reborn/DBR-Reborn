@@ -1,0 +1,12 @@
+melee damage:::(["crushing":5])
+lycanthrope mods:::(["strength":35, "constitution":30, "intelligence":-25,"dexterity":20, "wisdom":-25, "charisma":-30])
+lycanthrope moon:::"warzau"
+extra hp regen:::100
+physical resistance:::(["iron":30, "default":30, "wood":30, "steel":30,"silver":-30])
+xp mod:::-35
+l melee damage:::(["cutting":15, "crushing":15, "impaling":15])
+l right wing:0:3:0
+l left wing:0:3:0
+l flying:::1
+innate skills:::(["control change":5])
+

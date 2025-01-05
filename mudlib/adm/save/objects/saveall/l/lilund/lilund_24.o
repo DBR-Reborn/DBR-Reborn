@@ -1,0 +1,8 @@
+#/d/damned/virtual/taces.armour
+#/d/damned/virtual/taces.armour.c
+encumbrance 1
+props (["runes":({"malsa bonnes","malsa sen zora","lifta",}),"progress inscribe_malsa_sen_zora_lilund":0,"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Protection%^RESET%^ {taces}","pow master_fortification_lilund":0,"progress inscribe_malsa_bonnes_lilund":0,"progress engrave_lilund":0,"material_name":"laen","true armour":1,"progress master_fortification_lilund":0,"pow true_armour_lilund":0,"progress true_armour_lilund":0,"value":2355,"material_type":"metal","extra long":({"Smithed by: Lilund with laen [196] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Lifta%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_lifta_lilund":0,"enchantment":70,])
+true_name "taces"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-5,"short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Protection%^RESET%^ {taces}","ac":(["infernal":778,"disruption":787,"stress":802,"crushing":915,"unholy":791,"cutting":819,"vacuum":794,"plasma":833,"impaling":866,"holy":762,"cold":776,"fire":857,"strike":886,"impact":828,"electricity":772,"aether":848,]),])

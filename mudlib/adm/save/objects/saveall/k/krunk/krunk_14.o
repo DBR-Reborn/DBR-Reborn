@@ -1,0 +1,8 @@
+#/d/damned/virtual/gauntlet.armour
+#/d/damned/virtual/gauntlet.armour.c
+encumbrance 6
+props (["material_name":"laen","value":10,"material_type":"metal","extra long":"level[44] laen gauntlet of crushing and impaling protection","new desc":"level[44] laen gauntlet of crushing and impaling protection",])
+true_name "gauntlet"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"level[44] laen gauntlet of crushing and impaling protection","ac":(["infernal":51,"disruption":51,"stress":51,"crushing":160,"unholy":51,"cutting":51,"vacuum":51,"plasma":51,"impaling":166,"holy":51,"cold":51,"fire":51,"strike":51,"impact":51,"electricity":51,"aether":51,]),])

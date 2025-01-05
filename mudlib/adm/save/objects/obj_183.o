@@ -1,0 +1,7 @@
+#/d/mines/objects/weapons/pick_hammer.c
+encumbrance 160
+props (["material_name":"Dwarven Steel","value":165,"material_type":"none",])
+true_name "pick-hammer"
+creator "/cmds/system/_clone"
+material "/Dwarven Steel"
+__Weapon (["original wc":(["crushing":14,]),"quality":3,"type":"blunt","wield":"You can feel the balanced pick-hammer in your hands.","hit":0,"ac":(["infernal":5,"disruption":5,"stress":5,"crushing":5,"unholy":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"cold":5,"fire":5,"strike":5,"impact":5,"electricity":5,"aether":5,]),"verb":"crush","wc":(["crushing":14,]),"short desc":"sharp steel pick-hammer","decay rate":200,"parry bonus":-15,])

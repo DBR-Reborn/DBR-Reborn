@@ -1,0 +1,42 @@
+#/std/user.c
+encumbrance 500
+props (["last reinc":1690812679,"light":0,"last read news":1690812679,])
+true_name "alda"
+creator "/adm/obj/login#17891"
+player_data (["general":(["exp buffer":0,"sp":1,"max_hp":50,"max_sp":0,"hp":39,]),])
+magic (["points":0,])
+severed ([])
+healing ([])
+body ([])
+limbs ({})
+skills (["attack":(["max":0,"points":0,"level":0,]),"melee":(["max":0,"points":0,"level":0,]),])
+spells ([])
+wimpydir "out"
+env_var (["start":"/d/standard/setter","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 494
+player_age 494
+gender "female"
+state "stand"
+stats ([])
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+verbose_moves 1
+birth 1690812679
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "kpaquette52@gmail.com"
+ip "99.145.177.19"
+last_on "Mon Jul 31 14:11:19 2023"
+password "$6$Su6Cr6QTWc9blzIM$xwwunBPJEUHKYwrXiaELS.dkB8uzEllII2fs5MVDsrhnj4/dTh13L5jCydl28oq99qWxho1SMwIMXrOPFay2R/"
+original_site "99.145.177.19"
+position "player"
+quests ({})

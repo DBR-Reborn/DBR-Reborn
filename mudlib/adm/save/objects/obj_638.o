@@ -1,0 +1,7 @@
+#/d/damned/virtual/chain-mail.armour.c
+encumbrance 180
+props (["material_name":"boernerine","value":150,"extra long":"level[44] boernerine mail of fire and plasma protection","material_type":"metal","new desc":"level[44] boernerine mail of fire and plasma protection",])
+true_name "chain mail"
+creator "/d/damned/virtual/armour_server"
+material "/metal/boernerine"
+armour_save (["short desc":"level[44] boernerine mail of fire and plasma protection","ac":(["infernal":75,"disruption":75,"stress":75,"unholy":75,"crushing":75,"cutting":75,"vacuum":75,"plasma":156,"impaling":75,"holy":75,"fire":168,"cold":75,"strike":75,"impact":75,"aether":75,"electricity":75,]),])

@@ -1,0 +1,8 @@
+#/d/damned/virtual/chain-greaves.armour
+#/d/damned/virtual/chain-greaves.armour.c
+encumbrance 1
+props (["pow master_fortification_baarich":0,"value":5654,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"pow true_armour_baarich":0,"material_type":"metal","extra long":({"Smithed by: Trent with laen [100] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_aldara_zet_trent":0,"new desc":"fat chain greaves {greaves}","progress inscribe_malsa_sen_zora_trent":0,"progress true_armour_baarich":0,"material_name":"laen","true armour":1,"progress master_fortification_baarich":0,"progress inscribe_malsa_bonnes_trent":0,"pow enchanter_mark_baarich":0,"enchantment":70,"progress enchanter_mark_baarich":0,])
+true_name "chain greaves"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-4,"short desc":"fat chain greaves {greaves}","ac":(["infernal":482,"disruption":476,"stress":456,"unholy":448,"crushing":484,"cutting":491,"vacuum":469,"plasma":480,"impaling":474,"holy":459,"fire":493,"cold":469,"strike":450,"impact":459,"aether":454,"electricity":465,]),])

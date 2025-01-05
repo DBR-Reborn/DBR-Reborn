@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-glove.armour
+#/d/damned/virtual/leather-glove.armour.c
+encumbrance 2
+props (["runes":({"malsa bonnes","malsa sen zora","lifta",}),"progress inscribe_malsa_sen_zora_lilund":0,"pow master_fortification_lilund":0,"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Absorption%^RESET%^ {leather glove}","progress engrave_lilund":0,"progress inscribe_malsa_bonnes_lilund":0,"material_name":"Elemental overlord","true armour":1,"progress master_fortification_lilund":0,"pow true_armour_lilund":0,"progress true_armour_lilund":0,"value":3,"material_type":"leather","extra long":({"Crafted by: Lilund with A Level [75] Elemental overlord leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Lifta%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_lifta_lilund":0,"enchantment":70,])
+true_name "leather glove"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Elemental overlord"
+armour_save (["enhance critical":-4,"short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Absorption%^RESET%^ {leather glove}","ac":(["infernal":559,"disruption":569,"stress":566,"unholy":559,"crushing":701,"cutting":686,"vacuum":561,"plasma":577,"impaling":713,"holy":563,"fire":577,"cold":573,"strike":693,"impact":693,"aether":561,"electricity":581,]),])

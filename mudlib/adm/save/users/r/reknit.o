@@ -1,0 +1,49 @@
+#/std/user.c
+encumbrance 500
+props (["extra hp regen":40,"light":0,"sp points":0,"xp mod":-15,"corpse eating":1,"natural ac":6,"melee damage":(["crushing":15,]),"last reinc":1671225622,"ambidextry":0,"last read news":1671225622,"combat color":"%^BOLD%^",])
+true_name "reknit"
+creator "/adm/obj/login#2644"
+player_data (["general":(["sp":1,"exp buffer":0,"max_hp":50,"hp":50,"max_sp":0,]),])
+magic (["max points":0,"points":0,])
+severed ([])
+healing ([])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":25,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":16,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":12,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":16,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":12,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":16,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":50,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":12,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":16,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":12,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+char_class "child"
+skills (["melee":(["max":0,"points":0,"level":0,]),"attack":(["max":0,"points":0,"level":0,]),])
+spells ([])
+wimpydir "out"
+env_var (["TITLE":"Novice $N the Minotaur","start":"/d/standard/waiting_room","LINES":"70","TERM":"xterm-256","SCORE":"off",])
+money ([])
+ok_to_heal 514
+player_age 508
+sight_bonus 4
+gender "male"
+state "stand"
+stats ([])
+languages (["minotaurish":10,])
+primary_language "minotaurish"
+alias (["n":"north","bio":"biography","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","exa":"look at $*","sw":"southwest","e":"east","u":"up","d":"down","se":"southeast","s":"south",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+verbose_moves 1
+birth 1671225461
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "jason"
+email "almightyruler66@gmail.com"
+ip "67.45.96.148"
+last_on "Fri Dec 16 21:20:22 2022"
+password "$6$PminitFBpdOMb9Ph$jRZ1d7BdN2hd9dK1xt7JGko6HHYXrrclcHpTupTPYGd4VcM27vOTZMu.scH8zKJlbC5Hw/mLD.AQxW0j8r3VM0"
+race "minotaur"
+original_site "67.45.96.148"
+position "player"
+primary_start "/d/standard/waiting_room"
+quests ({})

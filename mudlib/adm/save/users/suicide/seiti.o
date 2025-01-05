@@ -1,0 +1,51 @@
+#/std/user.c
+encumbrance 500
+props (["sp points":0,"light":0,"old exp":10149,"melee damage":(["crushing":0,]),"last reinc":1676163144,"ambidextry":0,"handedness":"right hand","base mp regen":3,"dev point base":73,"base hp regen":3,"luck":5,"last read news":1676163144,"combat color":"%^BOLD%^","dev points":24,])
+true_name "seiti"
+creator "/adm/obj/login#5848"
+max_internal_encumbrance 2850
+player_data (["general":(["sp":1,"exp buffer":0,"max_hp":138,"hp":138,"max_sp":798,]),])
+magic (["max points":90,"points":90,])
+severed ([])
+healing (["stuffed":625,"quenched":900,])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":69,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":34,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":34,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":138,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":34,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":34,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 53
+char_class "child"
+skills (["pick locks":(["stat":"dexterity","level":5,]),"pick pocket":(["stat":"dexterity","last dev":({0,0,}),"level":5,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"stealth":(["stat":"dexterity","level":5,]),"melee":(["max":0,"points":0,"level":0,]),"attack":(["stat":"dexterity","last dev":({1,1,}),"max":0,"points":0,"level":10,]),])
+spells ([])
+wimpydir "out"
+env_var (["prompt":">","TITLE":"Novice $N the Halfling","start":"/d/standard/square","LINES":"70","TERM":"xterm-256","SCORE":"on",])
+money ([])
+ok_to_heal 3274
+player_age 3272
+sight_bonus 2
+gender "male"
+state "stand"
+stats (["wisdom":50,"dexterity":114,"intelligence":55,"constitution":95,"strength":95,"charisma":41,])
+languages (["pix":10,"common":10,])
+primary_language "pix"
+alias (["n":"north","bio":"biography","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","exa":"look at $*","sw":"southwest","e":"east","u":"up","d":"down","se":"southeast","s":"south",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+ghost 1
+birth 1676149558
+blocked ([])
+snatch "on"
+inf_block ({})
+real_name "Seiti"
+email "Theft101@gmail.com"
+ip "68.41.203.137"
+last_on "Sun Feb 12 00:52:24 2023"
+password "$6$WF1vTeiLhUbWeEv9$n0HFYKHaMPFIOCIJxcnlD1Rzf6IMbpFdCBrrsImDHgtr4Tod7HIpWwS5HUxMKS9ArXCUpz7/crDXv2krqMsHH/"
+race "halfling"
+original_site "68.41.203.137"
+position "player"
+primary_start "/d/newbieville/rooms/newbie0"
+quests ({})

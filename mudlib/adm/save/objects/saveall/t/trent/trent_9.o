@@ -1,0 +1,8 @@
+#/d/damned/virtual/metal-boots.armour
+#/d/damned/virtual/metal-boots.armour.c
+encumbrance 70
+props (["runes":({"aldara zet","malsa bonnes","malsa sen zora","cutta",}),"new desc":"fat boots {boots}","progress inscribe_malsa_sen_zora_trent":0,"progress inscribe_cutta_trent":0,"material_name":"laen","true armour":1,"progress master_fortification_baarich":0,"pow enchanter_mark_baarich":0,"pow master_fortification_baarich":0,"value":4240,"pow true_armour_baarich":0,"material_type":"metal","extra long":({"Smithed by: Trent with laen [92] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BOLD%^Cutta%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_aldara_zet_trent":0,"progress true_armour_baarich":0,"progress inscribe_malsa_bonnes_trent":0,"enchantment":70,"progress enchanter_mark_baarich":0,])
+true_name "metal boots"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-5,"short desc":"fat boots {boots}","ac":(["infernal":432,"disruption":450,"stress":434,"unholy":427,"crushing":499,"cutting":643,"vacuum":474,"plasma":467,"impaling":460,"holy":428,"fire":440,"cold":454,"strike":472,"impact":453,"aether":436,"electricity":431,]),])

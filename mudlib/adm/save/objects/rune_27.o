@@ -1,0 +1,9 @@
+#/std/obj/misc/h_rune.c
+props (["progress preserve_rune_nawara":0,"non-combat":1,"preserved":1,"pow preserve_rune_nawara":0,"can resist":1,])
+true_name "rune"
+creator "/std/spells/healing_rune#20239"
+register_idx 27
+caster "nawara"
+my_file "rune_0"
+non_active ({})
+level 6

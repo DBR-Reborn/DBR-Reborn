@@ -1,0 +1,65 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":50,"light":0,"xp mod":-30,"hp advance":15,"melee damage":(["crushing":5,]),"handedness":"right hand","last reinc":1665453263,"dev point base":72,"mp advance":50,"last read news":1665661844,"allow_over_max":0,"magic resistance":15,"old exp":0,"sp points":0,"base mp regen":23,"ambidextry":1,"base hp regen":11,"combat color":"%^BOLD%^","dev points":1538,])
+true_name "flagg"
+creator "/adm/obj/login#7666"
+max_internal_encumbrance 2550
+player_data (["kills":({118,10,11,13,14,42,43,298,335,}),"general":(["max exp":10228,"alignment":11,"exp buffer":0,"sp":1,"experience":529103,"max_hp":308,"max_sp":630,"hp":349,]),])
+magic (["max points":945,"points":945,])
+severed ([])
+healing (["stuffed":625,"quenched":700,])
+body (["right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":77,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":102,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":154,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":77,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":102,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":308,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":102,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"weapon":0,"max_dam":77,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"weapon":0,"max_dam":77,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":102,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 55
+char_class "necromancer"
+skills (["concentrate":(["stat":"intelligence","last dev":({9,1,}),"level":20,]),"magery":(["stat":"intelligence","level":5,]),"melee":(["stat":"strength","last dev":({9,2,}),"max":0,"points":0,"level":39,]),"prepare corpse":(["stat":"intelligence","last dev":({9,1,}),"level":50,]),"knife":(["stat":"dexterity","last dev":({9,2,}),"level":54,]),"black magic":(["stat":"intelligence","last dev":({9,3,}),"level":60,]),"perception":(["stat":"intelligence","last dev":({9,2,}),"level":48,]),"necromancy":(["stat":"intelligence","last dev":({9,3,}),"level":62,]),"detect magic":(["stat":"intelligence","last dev":({9,1,}),"level":10,]),"control undead":(["stat":"wisdom","last dev":({9,2,}),"level":61,]),"repair weapon":(["stat":"dexterity","last dev":({9,2,}),"level":25,]),"swimming":(["stat":"constitution","last dev":({9,2,}),"level":42,]),"focus casting":(["stat":"intelligence","last dev":({9,1,}),"level":20,]),"illusionism":(["stat":"intelligence","level":5,]),"dodge":(["stat":"dexterity","last dev":({9,2,}),"level":36,]),"trade lore":(["stat":"charisma","last dev":({9,2,}),"level":42,]),"attack":(["stat":"dexterity","last dev":({9,2,}),"max":0,"points":0,"level":54,]),])
+spells (["undead dimension":(["last dev":({9,1,}),"level":4,]),"decay":(["last dev":({9,1,}),"level":2,]),"freeze skin":(["last dev":({9,1,}),"level":4,]),"chilling touch":(["last dev":({9,1,}),"level":3,]),"animate skeleton":(["last dev":({8,1,}),"level":6,]),"curse":(["last dev":({9,1,}),"level":3,]),"hex":(["last dev":({9,1,}),"level":3,]),"darkness":(["level":1,]),"ball of darkness":(["last dev":({9,1,}),"level":3,]),"embalm corpse":(["last dev":({9,1,}),"level":3,]),"nether sight":(["last dev":({9,1,}),"level":3,]),"faerie fire":(["level":1,]),"drain life":(["last dev":({9,1,}),"level":3,]),"cold blast":(["last dev":({9,1,}),"level":2,]),"animate ghast":(["last dev":({8,1,}),"level":1,]),"animate ghoul":(["last dev":({8,1,}),"level":3,]),"animate zombie":(["last dev":({8,1,}),"level":4,]),"levitation":(["level":1,]),"transport undead":(["last dev":({9,1,}),"level":3,]),])
+wimpy 50
+wimpydir "out"
+protection 9
+hits 1
+i 1
+j 7
+k 12
+num_attacks 2
+x 119
+num_rounds 1
+has_shield 1
+skill 187
+env_var (["start":"/d/standard/square","TITLE":"Novice $N the Drow-elf","prompt":">","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 242475
+player_age 242474
+sight_bonus 4
+gender "male"
+state "stand"
+stats (["wisdom":85,"dexterity":90,"strength":85,"constitution":87,"intelligence":125,"charisma":16,])
+languages (["common":10,"middle-english":1,"drow":10,])
+primary_language "common"
+language_exp (["middle-english":({0,0,}),])
+xp_to_next_dev 10478
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+zexp 529103
+znexp 748574
+zlexp 219471
+znlevel 11
+zlevel 10
+auto_load ({})
+level 10
+ghost 1
+birth 1665453263
+blocked ([])
+snatch "on"
+inf_block ({})
+real_name "Unknown"
+email "amanda.blackstone0923@gmail.com"
+ip "68.41.203.137"
+last_on "Thu Oct 13 11:50:44 2022"
+password "$6$UDvyuW3wfGaVSpjP$vgYhIBRxnqduX35pWC.yaFP6W0bLoq3B8rSG1Du3xI4rue9h4nos4gKgqsqLpB2e1VQ3rBd1GkTq6BwUDFAP//"
+race "drow-elf"
+original_site "68.41.203.137"
+position "player"
+primary_start "/d/damned/guilds/necromancer/n_treas"
+quests ({})

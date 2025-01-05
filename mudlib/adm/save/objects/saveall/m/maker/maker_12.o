@@ -1,0 +1,8 @@
+#/d/damned/virtual/long-sword_4.weapon
+#/d/damned/virtual/long-sword_4.weapon.c
+encumbrance 90
+props (["brittle":54,"value":256,"progress minor_puissance_math":0,"progress icy_weapon_math":0,"extra long":({({"This weapon has %^YELLOW%^Electric%^RESET%^ Blade.","detect magic",}),({"This weapon has %^CYAN%^%^BOLD%^Icy Weapon%^RESET%^.","detect magic",}),({"Puissance: %^CYAN%^+20","detect magic",}),}),"material_type":"metal","pow electric_blade_math":0,"material_name":"iron","electric blade":4,"pow minor_puissance_math":0,"progress electric_blade_math":0,"icy weapon":24,"pow icy_weapon_math":0,"enchantment":20,])
+true_name "long sword"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/iron"
+__Weapon (["original wc":(["cold":70,"impaling":6,"cutting":10,"electricity":70,]),"wielded":,"quality":4,"limb string":" (wielded in left hand)","type":"blade","ac":(["infernal":4,"disruption":4,"stress":4,"crushing":4,"unholy":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"cold":4,"fire":4,"strike":4,"impact":4,"electricity":4,"aether":4,]),"verb":"slice","wc":(["cold":176,"impaling":6,"cutting":10,"electricity":152,]),"short desc":"longsword","decay rate":4205,"parry bonus":5,])

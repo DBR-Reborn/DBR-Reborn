@@ -1,0 +1,7 @@
+#/d/1tlny/loot/hooded_robe.c
+encumbrance 100
+props (["material_name":"cloth","value":400,"material_type":"none","extra long":"level[57] Rare Robe of stress and cold protection","new desc":"level[57] Rare Robe of stress and cold protection",])
+true_name "hooded robe"
+creator "/d/areas/dragon/mon/elder_dragon#551481"
+material "/cloth"
+armour_save (["short desc":"level[57] Rare Robe of stress and cold protection","ac":(["infernal":66,"disruption":66,"stress":205,"crushing":66,"unholy":66,"cutting":66,"vacuum":66,"plasma":66,"impaling":66,"holy":66,"cold":201,"fire":66,"strike":66,"impact":66,"electricity":66,"aether":66,]),])

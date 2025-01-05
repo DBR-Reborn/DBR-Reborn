@@ -1,0 +1,5 @@
+#define PATH "/d/areas/catacombs/rooms/"
+#define MON_PATH "/d/areas/catacombs/mon/"
+#define MISC_PATH "/d/areas/catacombs/misc/"
+#define ARMOR_PATH "/d/areas/catacombs/armor/"
+#define WEAP_PATH "/d/areas/catacombs/weapon/"

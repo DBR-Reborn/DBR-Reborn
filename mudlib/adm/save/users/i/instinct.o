@@ -1,0 +1,64 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":30,"light":0,"hp advance":30,"melee damage":(["crushing":5,]),"last reinc":1730155856,"handedness":"left hand","dev point base":70,"mp advance":24,"last read news":1730304033,"sp points":0,"old exp":10149,"ambidextry":1,"base mp regen":10,"base hp regen":16,"combat color":"%^BOLD%^","dev points":453,])
+true_name "instinct"
+creator "/adm/obj/login#47996"
+max_internal_encumbrance 3000
+player_data (["kills":({21,0,1,0,0,0,0,0,0,0,0,0,0,0,61,15,0,0,45,131,130,132,76,77,85,78,134,86,175,0,0,4,82,6,5,54,91,9,53,3,10,0,0,75,0,0,0,156,0,69,148,71,173,151,152,150,70,7,119,}),"general":(["sp":1,"exp buffer":0,"alignment":28,"max_hp":558,"hp":558,"max exp":566225,"experience":555514,"last adjust":1730304552,"max_sp":735,]),])
+magic (["max points":378,"points":378,])
+severed ([])
+healing (["quenched":1000,"stuffed":450,])
+body (["right foot":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":139,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":186,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"leather legs",}),]),"head":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":279,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"chain head","metal head",}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":139,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":186,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm",}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":558,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"cloth back","leather torso",}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":186,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"leather legs",}),]),"right hand":(["damage":0,"armour_ob":({,,}),"weapon":0,"max_dam":139,"weapons":,"wieldable":1,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"left hand":(["damage":0,"armour_ob":({,,}),"weapon":0,"max_dam":139,"weapons":,"wieldable":1,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":186,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"metal arm",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 64
+char_class "sword-mage"
+skills (["sorcery":(["stat":"intelligence","level":5,]),"concentrate":(["stat":"intelligence","last dev":({8,1,}),"level":5,]),"magery":(["stat":"intelligence","last dev":({10,2,}),"level":46,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"perception":(["stat":"intelligence","last dev":({10,1,}),"level":10,]),"blade":(["stat":"dexterity","last dev":({10,4,}),"level":92,]),"conjuration":(["stat":"intelligence","last dev":({10,1,}),"level":36,]),"woodland stealth":(["stat":"dexterity","level":5,]),"swimming":(["stat":"constitution","last dev":({10,1,}),"level":15,]),"illusionism":(["stat":"intelligence","last dev":({10,1,}),"level":33,]),"dodge":(["stat":"dexterity","last dev":({10,2,}),"level":36,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"parry":(["stat":"dexterity","last dev":({10,3,}),"level":67,]),"attack":(["stat":"dexterity","last dev":({10,3,}),"max":0,"points":0,"level":86,]),])
+spells (["lesser plasma blade":(["last dev":({10,1,}),"level":5,]),"ice dagger":(["last dev":({10,1,}),"level":4,]),"killing cloud":(["last dev":({10,1,}),"level":2,]),])
+wimpydir "out"
+protection 1
+hits 3
+i 2
+j 1
+k 3
+num_attacks 2
+x 9
+num_rounds 1
+skill 120
+env_var (["TITLE":"Blade Apprentice $N .","start":"/d/khojem/new/room/hill1","LINES":"70","TERM":"ansi","SCORE":"on",])
+money (["silver":14654,"gold":11642,"copper":7356,])
+ok_to_heal 60880
+player_age 60868
+sight_bonus 4
+gender "male"
+state "stand"
+stats (["wisdom":55,"dexterity":105,"intelligence":75,"constitution":105,"strength":100,"charisma":55,])
+languages (["goblinish":2,"common":10,"elvish":10,])
+primary_language "elvish"
+language_exp (["goblinish":({11,0,}),"orcish":({12,0,}),"elfish":({1,0,}),"middle-english":({2,0,}),])
+xp_to_next_dev 566588
+alias (["super":"cast *5 lesser plasma blade at sword $*","kg":"kill goblin","nw":"northwest","kc":"cast *2 killing cloud at $*","df":"drink fountain","w":"west","sw":"southwest","exa":"look at $*","u":"up","s":"south","ss":"say shopkeeper, $*","kz":"kill zombie","id":"cast *4 ice dagger at $*","n":"north","bio":"biography","l":"look $*","ne":"northeast","k":"kill $*","ks":"kill skeleton","i":"inventory","h":"status","gc":"get all from corpse $*","e":"east","d":"down","se":"southeast","ga":"get all","kk":"kill kobold","gcc":"get coins from corpse $*",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+zexp 550296
+znexp 748574
+zlexp 198278
+znlevel 11
+zlevel 10
+auto_load ({})
+level 10
+birth 1730155856
+blocked ([])
+exp_log ([1730210718:1750,1730211188:1750,1730212074:3530,1730210794:1750,1730230928:16572,])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "whatever@here.com"
+ip "72.229.12.174"
+last_on "Wed Oct 30 16:00:33 2024"
+password "$6$78.ABHOS.XbJByp/$hj6pOrh/2H.kVXELMKOK5Y3bb9KzpopmXVYIR0GeHGEawyaE66dqCyKt4VVNvmNuOwBvMVbGHPl9bOylccOlv/"
+race "wood-elf"
+original_site "72.229.12.174"
+position "player"
+primary_start "/d/areas/goblin/areas/gates"
+quests ({})

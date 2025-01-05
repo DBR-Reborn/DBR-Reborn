@@ -1,0 +1,7 @@
+#/d/damned/virtual/plate-bracer.armour.c
+encumbrance 45
+props (["material_name":"mithril","value":60,"extra long":"level[41] mithril bracer of cold and electricity protection","material_type":"metal","new desc":"level[41] mithril bracer of cold and electricity protection",])
+true_name "plate bracer"
+creator "/d/damned/virtual/armour_server"
+material "/metal/mithril"
+armour_save (["short desc":"level[41] mithril bracer of cold and electricity protection","ac":(["infernal":57,"disruption":57,"stress":57,"unholy":57,"crushing":57,"cutting":57,"vacuum":57,"plasma":57,"impaling":57,"holy":57,"fire":57,"cold":160,"strike":57,"impact":57,"aether":57,"electricity":151,]),])

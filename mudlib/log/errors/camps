@@ -1,0 +1,245 @@
+/d/camps/goblin/items/ball_chain.c line 12: Bad type for argument 1 of set_wc ( int vs string ) before ;
+/d/camps/goblin/items/ball_chain.c line 12: Bad type for argument 2 of set_wc ( string vs int ) before ;
+/d/camps/goblin/items/ball_chain.c line 12: Bad type for argument 1 of set_wc ( int vs string ) before ;
+/d/camps/goblin/items/ball_chain.c line 12: Bad type for argument 2 of set_wc ( string vs int ) before ;
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/kobold/rooms/trail01.c line 31: Undefined variable 'PATH' before "trail02",
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/kobold/rooms/trail01.c line 31: Undefined variable 'PATH' before "trail02",
+/d/camps/kobold/rooms/trail01.c line 31: Undefined variable 'PATH' before "trail02",
+/d/camps/kobold/rooms/trail01.c line 31: Undefined variable 'PATH' before "trail02",
+/d/camps/kobold/rooms/trail01.c line 31: Undefined variable 'PATH' before "trail02",
+/d/camps/kobold/rooms/trail01.c line 31: Undefined variable 'PATH' before "trail02",
+/d/camps/kobold/rooms/trail01.c line 31: Undefined variable 'PATH' before "trail02",
+/d/camps/kobold/rooms/trail02.c line 32: Undefined variable 'PATH' before "trail03",
+/d/camps/kobold/rooms/camp01.c line 77: Undefined variable 'PATH' before "camp02",
+/d/camps/kobold/mon/boy.c line 37: Undefined variable 'WEAP_PATH' before "dagger")->move(this
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/catacombs/rooms/forst000.c line 27: Undefined variable 'PATH' before "catac000",
+/d/camps/catacombs/rooms/forst000.c line 27: Undefined variable 'PATH' before "catac000",
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/catacombs/rooms/forst000.c line 27: Undefined variable 'PATH' before "catac000",
+/d/camps/catacombs/rooms/catac000.c line 34: Undefined variable 'PATH' before "forst000",
+/d/camps/catacombs/rooms/catac000.c line 39: Undefined variable 'MISC_PATH' before "coffin")->move(this
+/d/camps/catacombs/rooms/catac000.c line 34: Undefined variable 'PATH' before "forst000",
+/d/camps/catacombs/rooms/catac000.c line 39: Undefined variable 'MISC_PATH' before "coffin")->move(this
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/catacombs/weapon/bonedggr.c line 30: Warning: Unused local variable 'str' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/catacombs/weapon/lichdggr.c line 34: Warning: Unused local variable 'str' before the end of line
+/d/camps/catacombs/weapon/bonedggr.c line 30: Warning: Unused local variable 'str' before the end of line
+/d/camps/catacombs/weapon/bonedggr.c line 30: Warning: Unused local variable 'str' before the end of line
+/d/camps/catacombs/weapon/lichdggr.c line 34: Warning: Unused local variable 'str' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/catacombs/weapon/lichdggr.c line 34: Warning: Unused local variable 'str' before the end of line
+/d/camps/catacombs/weapon/lichdggr.c line 34: Warning: Unused local variable 'str' before the end of line
+/d/camps/goblin/monsters/idol.c line 47: Warning: Unused local variable 'ob' before the end of line
+/d/camps/kobold/rooms/camp13.c line 74: Redeclaration of function reset. before the end of line
+/d/camps/kobold/mon/boy.c line 8: Reserved type name unexpected. before ;
+/d/camps/kobold/mon/boy.c line 8: syntax error before ;
+/d/camps/kobold/mon/boy.c line 10: Illegal LHS before ("kobold boy");
+/d/camps/kobold/mon/woman.c line 40: syntax error before the end of file
+/d/camps/goblin/monsters/idol.c line 48: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/rat.c line 29: Warning: Unused local variable 'xskill' before the end of line
+/d/camps/goblin/monsters/rat.c line 29: Warning: Unused local variable 'xchange' before the end of line
+/d/camps/goblin/monsters/rat.c line 30: syntax error before (zlevel=4)
+/d/camps/goblin/monsters/rat.c line 45: syntax error before ;
+/d/camps/goblin/monsters/rat.c line 38: Reserved type name unexpected. before the end of line
+/d/camps/goblin/monsters/rat.c line 38: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 40: Illegal LHS before (x=4)
+/d/camps/goblin/monsters/rat.c line 40: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 42: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 44: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 39: syntax error before (x=4)
+/d/camps/goblin/monsters/rat.c line 39: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 41: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 43: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 45: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 38: syntax error before 4
+/d/camps/goblin/monsters/rat.c line 39: Illegal LHS before ("[4]rat");
+/d/camps/goblin/monsters/rat.c line 41: Illegal LHS before ("[3]rat");
+/d/camps/goblin/monsters/rat.c line 43: Illegal LHS before ("[2]rat");
+/d/camps/goblin/monsters/rat.c line 45: Illegal LHS before ("[1]rat");
+/d/camps/goblin/monsters/rat.c line 38: Illegal lvalue before  4 ) set_short("[4]r
+/d/camps/goblin/monsters/rat.c line 48: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 38: Illegal lvalue before  4 ) set_short("[4]r
+/d/camps/goblin/monsters/rat.c line 48: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 38: Illegal lvalue before  4 ) set_short("[4]r
+/d/camps/goblin/monsters/rat.c line 48: Warning: Unused local variable 'x' before the end of line
+/d/camps/goblin/monsters/rat.c line 49: Warning: Unused local variable 'x' before the end of line
+/d/camps/goblin/monsters/rat.c line 49: Warning: Unused local variable 'x' before the end of line
+/d/camps/goblin/monsters/rat.c line 49: Warning: Unused local variable 'x' before the end of line
+/d/camps/goblin/monsters/rat.c line 49: Warning: Unused local variable 'x' before the end of line
+/d/camps/goblin/monsters/rat.c line 39: syntax error before ("[4]rat");
+/d/camps/goblin/monsters/rat.c line 49: Warning: Unused local variable 'x' before the end of line
+/d/camps/goblin/monsters/rat.c line 49: Warning: Unused local variable 'x' before the end of line
+/d/camps/goblin/monsters/rat.c line 51: Warning: Unused local variable 'x' before the end of line
+/d/camps/goblin/monsters/rat.c line 51: Warning: Unused local variable 'x' before the end of line
+/d/camps/goblin/monsters/rat.c line 51: Warning: Unused local variable 'x' before the end of line
+/d/camps/goblin/monsters/rat.c line 51: Warning: Unused local variable 'x' before the end of line
+/d/camps/goblin/monsters/rat.c line 45: Warning: Unused local variable 'x' before the end of line
+/d/camps/goblin/monsters/rat.c line 44: Warning: Unused local variable 'x' before the end of line
+/d/camps/goblin/monsters/rat.c line 44: Warning: Unused local variable 'x' before the end of line
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 28: Illegal LHS before =random(2);
+/d/camps/goblin/monsters/rat.c line 28: syntax error before =random(2);
+/d/camps/goblin/monsters/rat.c line 28: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 28: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 47: Warning: Unused local variable 'roll' before the end of line
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 28: Illegal LHS before =random(2);
+/d/camps/goblin/monsters/rat.c line 28: syntax error before =random(2);
+/d/camps/goblin/monsters/rat.c line 28: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 28: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 47: Warning: Unused local variable 'roll' before the end of line
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 27: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 27: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 47: Warning: Unused local variable 'roll' before the end of line
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 28: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 28: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 47: Warning: Unused local variable 'roll' before the end of line
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 28: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 28: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 47: Warning: Unused local variable 'roll' before the end of line
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 27: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 27: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 47: Warning: Unused local variable 'roll' before the end of line
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 27: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 27: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 47: Warning: Unused local variable 'roll' before the end of line
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 27: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 27: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 47: Warning: Unused local variable 'roll' before the end of line
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 27: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 27: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 47: Warning: Unused local variable 'roll' before the end of line
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 27: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 27: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 47: Warning: Unused local variable 'roll' before the end of line
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 27: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 27: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 28: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 28: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 13: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 13: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 12: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 12: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 12: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 12: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 43: Undefined variable 'xskill' before 4*zlevel;
+/d/camps/goblin/monsters/rat.c line 43: Illegal lvalue before 4*zlevel;
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 12: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 12: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 43: Undefined variable 'xskill' before 4*zlevel;
+/d/camps/goblin/monsters/rat.c line 43: Illegal lvalue before 4*zlevel;
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 12: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 12: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 43: Undefined variable 'xskill' before 4*zlevel;
+/d/camps/goblin/monsters/rat.c line 43: Illegal lvalue before 4*zlevel;
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 12: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 12: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 43: Undefined variable 'xskill' before 4*zlevel;
+/d/camps/goblin/monsters/rat.c line 43: Illegal lvalue before 4*zlevel;
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 12: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 12: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 9: syntax error before create();
+/d/camps/goblin/monsters/rat.c line 12: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 12: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 7: syntax error before the end of line
+/d/camps/goblin/monsters/rat.c line 12: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 12: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 48: Warning: Unused local variable 'roll' before the end of line
+/d/camps/goblin/monsters/rat.c line 48: Warning: Unused local variable 'roll' before the end of line
+/d/camps/goblin/monsters/rat.c line 13: break statement outside loop before the end of line
+/d/camps/goblin/monsters/rat.c line 12: Reserved type name unexpected. before ;
+/d/camps/goblin/monsters/rat.c line 12: syntax error before ;
+/d/camps/goblin/monsters/rat.c line 13: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 13: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 14: Undefined variable 'zlevel' before  5) set_short("[5]ra
+/d/camps/goblin/monsters/rat.c line 25: Undefined variable 'xchange' before random(2);
+/d/camps/goblin/monsters/rat.c line 25: Illegal lvalue before random(2);
+/d/camps/goblin/monsters/rat.c line 12: Reserved type name unexpected. before ;
+/d/camps/goblin/monsters/rat.c line 12: syntax error before ;
+/d/camps/goblin/monsters/rat.c line 13: Illegal LHS before the end of line
+/d/camps/goblin/monsters/rat.c line 13: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/goblin/monsters/rat.c line 14: Undefined variable 'zlevel' before  5) set_short("[5]ra
+/d/camps/goblin/monsters/rat.c line 25: Undefined variable 'xchange' before random(2);
+/d/camps/goblin/monsters/rat.c line 25: Illegal lvalue before random(2);
+/d/camps/goblin/monsters/idol.c line 48: Warning: Unused local variable 'ob' before the end of line
+/d/camps/catacombs/mon/giant_mummy.c line 10: Reserved type name unexpected. before ;	
+/d/camps/catacombs/mon/giant_mummy.c line 10: syntax error before ;	
+/d/camps/catacombs/mon/giant_mummy.c line 15: Undefined function rando before );
+/d/camps/catacombs/mon/giant_mummy.c line 15: Invalid argument types to '+' ( int vs unknown ) before ;
+/d/camps/catacombs/mon/giant_mummy.c line 15: Illegal LHS before the end of line
+/d/camps/catacombs/mon/giant_mummy.c line 15: Warning: Expression has no side effects, and the value is unused before the end of line
+/d/camps/catacombs/mon/giant_mummy.c line 16: Undefined variable 'zlevel' before  5) set_short("[5]gi
+/d/camps/catacombs/mon/giant_mummy.c line 16: Undefined function rando before );
+/d/camps/catacombs/mon/giant_mummy.c line 16: Invalid argument types to '+' ( int vs unknown ) before ;
+/d/camps/catacombs/mon/giant_mummy.c line 16: Undefined function rando before );
+/d/camps/catacombs/mon/giant_mummy.c line 16: Invalid argument types to '+' ( int vs unknown ) before ;
+/d/camps/catacombs/weapon/lichdggr.c line 34: Warning: Unused local variable 'str' before the end of line
+/d/camps/goblin/monsters/idol.c line 48: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/areas/idolroom.c line 62: Undefined variable 'UNTHIEF' before "thief_du","You hear
+/d/camps/goblin/areas/s/m1.c line 114: Warning: Unused local variable 'gld' before the end of line
+/d/camps/goblin/areas/s/m2.c line 68: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/areas/s/m2.c line 65: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/areas/s/m2.c line 66: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/areas/s/m1.c line 114: Warning: Unused local variable 'gld' before the end of line
+/d/camps/goblin/areas/s/m1.c line 114: Warning: Unused local variable 'gld' before the end of line
+/d/camps/catacombs/weapon/lichdggr.c line 34: Warning: Unused local variable 'str' before the end of line
+/d/camps/goblin/monsters/idol.c line 48: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/areas/s/m1.c line 109: Warning: Unused local variable 'gld' before the end of line
+/d/camps/goblin/areas/s/m1.c line 109: Warning: Unused local variable 'gld' before the end of line
+/d/camps/goblin/areas/s/m2.c line 66: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 48: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/areas/s/m1.c line 109: Warning: Unused local variable 'gld' before the end of line
+/d/camps/goblin/monsters/idol.c line 48: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 48: Warning: Unused local variable 'ob' before the end of line
+/d/camps/catacombs/weapon/lichdggr.c line 34: Warning: Unused local variable 'str' before the end of line
+/d/camps/catacombs/weapon/bonedggr.c line 30: Warning: Unused local variable 'str' before the end of line
+/d/camps/goblin/monsters/idol.c line 48: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 48: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 48: Warning: Unused local variable 'ob' before the end of line
+/d/camps/goblin/monsters/idol.c line 48: Warning: Unused local variable 'ob' before the end of line

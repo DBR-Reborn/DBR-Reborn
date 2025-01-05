@@ -1,0 +1,58 @@
+#/std/user.c
+encumbrance 500
+props (["melee damage":(["crushing":15,]),"natural ac":6,"base mp regen":3,"handedness":"left hand","extra hp regen":20,"ambidextry":0,"last reinc":1677653532,"base hp regen":3,"dev point base":69,"old exp":10149,"xp mod":-30,"sp points":0,"light":0,"combat color":"%^BOLD%^","last read news":1677653532,"dev points":11,])
+true_name "tweak"
+creator "/adm/obj/login#92"
+max_internal_encumbrance 3750
+player_data (["general":(["exp buffer":0,"sp":1,"max_hp":153,"max_sp":0,"hp":153,]),])
+magic (["max points":102,"points":101,])
+severed ([])
+healing ([])
+body (["torso":(["damage":113,"armour_ob":({}),"max_dam":153,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":51,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":38,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":51,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":76,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":38,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":38,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":51,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":38,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":51,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 6
+heal_rate 1
+char_class "child"
+skills (["trade lore":(["stat":"charisma","level":5,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":5,]),"melee":(["max":0,"points":0,"level":0,]),])
+spells (["magic missile":(["last dev":({1,1,}),"level":1,]),"burning hands":(["last dev":({1,1,}),"level":1,]),])
+wimpydir "out"
+i 1
+j 1
+k -1
+num_attacks 1
+defendflag 1
+num_rounds 1
+skill -13
+env_var (["TITLE":"Novice $N the Hill-giant","start":"/d/standard/square","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money ([])
+ok_to_heal 3974
+player_age 3970
+sight_bonus 1
+gender "male"
+state "stand"
+stats (["wisdom":65,"dexterity":86,"strength":125,"constitution":108,"intelligence":65,"charisma":55,])
+languages (["common":10,"mountainspeak":10,])
+primary_language "mountainspeak"
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+ghost 1
+verbose_moves 1
+birth 1677653532
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Jay"
+email "Jermico007@msn.com"
+ip "97.84.89.239"
+last_on "Wed Mar  1 06:52:12 2023"
+password "$6$J1gE9o1HJiguf6P.$l2SAFpEFxwK5Lc9MLIfcFtq5Kzh3OAnhegBcYFu/hEa6BvBw2Gwk3AOZbIFpBWjP9jvDKSUkrrlIcPiUi5a7J1"
+race "hill-giant"
+original_site "97.84.89.239"
+position "player"
+quests ({})

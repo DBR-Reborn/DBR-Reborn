@@ -1,0 +1,50 @@
+#/std/user.c
+encumbrance 500
+props (["extra hp regen":40,"light":0,"sp points":0,"xp mod":-15,"old exp":10149,"hp advance":50,"corpse eating":1,"melee damage":(["crushing":15,]),"natural ac":6,"base mp regen":3,"handedness":"left hand","ambidextry":0,"last reinc":1684251251,"base hp regen":15,"dev point base":67,"mp advance":15,"combat color":"%^BOLD%^","last read news":1684251251,"dev points":67,])
+true_name "vagren"
+creator "/adm/obj/login#352040"
+max_internal_encumbrance 4200
+player_data (["general":(["exp buffer":0,"sp":1,"max_hp":156,"max_sp":0,"hp":156,]),])
+magic (["max points":84,"points":83,])
+severed ([])
+healing ([])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":156,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":39,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":78,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":39,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":39,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":39,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 7
+char_class "fighter"
+skills (["trade lore":(["stat":"charisma","level":5,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":5,]),"melee":(["max":0,"points":0,"level":0,]),])
+spells ([])
+wimpydir "out"
+env_var (["start":"/d/damned/guilds/fighter/train_room","TITLE":"Novice $N the Minotaur","LINES":"70","SCORE":"on","TERM":"unknown",])
+money (["silver":416,"gold":40,"copper":3270,])
+ok_to_heal 675
+player_age 674
+sight_bonus 4
+gender "male"
+state "stand"
+stats (["wisdom":30,"dexterity":90,"strength":140,"constitution":120,"intelligence":50,"charisma":57,])
+languages (["common":10,"minotaurish":10,])
+primary_language "minotaurish"
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+verbose_moves 1
+birth 1684251251
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Guil"
+email "gucalle12@gmail.com"
+ip "108.53.40.203"
+last_on "Tue May 16 15:34:11 2023"
+password "$6$UP4X/JyVvX4rtNyD$Gooz1ZRG8GBbBDDNmZH5/R/UjW5Yx9zstuFYoz0fTpWnv/tO7M1hd2i6UMaMeNj6gE2dlPOHUXGPYCzqGuVYO0"
+race "minotaur"
+original_site "108.53.40.203"
+position "player"
+quests ({})

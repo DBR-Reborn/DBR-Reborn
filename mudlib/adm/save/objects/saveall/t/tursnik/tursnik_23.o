@@ -1,0 +1,7 @@
+#/d/1tlny/loot/hooded_robe.c
+encumbrance 100
+props (["new desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {robe}","material_name":"cloth","true armour":1,"pow enchanter_mark_rihcter":0,"progress engrave_thromax":0,"pow true_armour_rihcter":0,"value":400,"progress engrave_tursnik":0,"extra long":({"level[80] Rare Robe of fire and cutting protection",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"none","progress extreme_fortification_rihcter":0,"progress true_armour_rihcter":0,"pow extreme_fortification_rihcter":0,"progress enchanter_mark_rihcter":0,"enchantment":100,])
+true_name "hooded robe"
+creator "/d/areas/ork/mon/1wildboyz#72825"
+material "/cloth"
+armour_save (["enhance critical":-5,"short desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {robe}","ac":(["infernal":299,"disruption":299,"stress":299,"crushing":299,"unholy":299,"cutting":540,"vacuum":299,"plasma":299,"impaling":299,"holy":299,"cold":299,"fire":421,"strike":299,"impact":299,"electricity":299,"aether":299,]),])

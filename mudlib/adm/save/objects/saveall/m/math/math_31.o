@@ -1,0 +1,8 @@
+#/d/damned/virtual/iron-bracer.armour
+#/d/damned/virtual/iron-bracer.armour.c
+encumbrance 35
+props (["value":50,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"metal","extra long":({"Smithed by: Maker with An iron armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress major_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"material_name":"iron","progress minor_fortification_math":0,"pow major_fortification_math":0,"enchantment":40,"pow minor_fortification_math":0,])
+true_name "iron bracer"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iron"
+armour_save (["short desc":"A iron bracer","ac":(["infernal":260,"disruption":260,"stress":260,"crushing":280,"unholy":260,"cutting":280,"vacuum":260,"plasma":262,"impaling":280,"holy":260,"cold":264,"fire":264,"strike":276,"impact":276,"electricity":264,"aether":260,]),])

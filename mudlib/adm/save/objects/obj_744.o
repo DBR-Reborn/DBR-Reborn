@@ -1,0 +1,7 @@
+#/d/damned/virtual/knife_5.weapon.c
+encumbrance 30
+props (["float value":0.942080,"material_name":"boernerine","extra long":"level[15] boernerine Knife","material_type":"metal","new desc":"level[15] boernerine Knife",])
+true_name "knife"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/boernerine"
+__Weapon (["original wc":(["impaling":4,"crushing":33,]),"quality":5,"type":"knife","ac":(["infernal":1,"disruption":1,"stress":1,"unholy":1,"crushing":1,"cutting":1,"vacuum":1,"plasma":1,"impaling":1,"holy":1,"fire":1,"cold":1,"strike":1,"impact":1,"aether":1,"electricity":1,]),"verb":"stab","wc":(["impaling":4,"crushing":33,]),"short desc":"level[15] boernerine Knife","decay rate":200,"parry bonus":-15,"throwable":1,])

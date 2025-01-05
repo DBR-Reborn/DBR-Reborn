@@ -1,0 +1,6 @@
+#/std/diewarzau/obj/misc/ingot.c
+encumbrance 103
+props (["material_name":"iysaughton","value":50,"material_type":"metal",])
+true_name "ingot"
+creator "/d/damned/guilds/paladin/proom/p_mithskel#32781"
+material "/metal/iysaughton"

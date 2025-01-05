@@ -1,0 +1,65 @@
+#/std/user.c
+encumbrance 500
+props (["physical resistance":(["default":20,"silver":-30,"wood":20,"steel":20,"iron":20,]),"extra hp regen":100,"xp mod":-20,"light":0,"hp advance":50,"melee damage":(["crushing":5,]),"lycanthrope moon":"luna","handedness":"right hand","last reinc":1679951009,"dev point base":71,"mp advance":15,"l melee damage":(["impaling":15,"cutting":10,]),"last read news":1679964935,"hand stamped":0,"allow_over_max":0,"sp points":8,"old exp":0,"ambidextry":0,"base mp regen":11,"lycanthrope mods":(["wisdom":-30,"dexterity":30,"strength":20,"constitution":15,"intelligence":-30,"charisma":-30,]),"base hp regen":26,"combat color":"%^BOLD%^","dev points":21,])
+true_name "mornus"
+creator "/adm/obj/login#3133"
+max_internal_encumbrance 3390
+deaths ({({"ranger",1679984405,}),})
+player_data (["kills":({45,131,76,85,79,161,162,164,165,78,134,80,6,228,174,5,81,158,91,9,53,7,83,84,1,75,42,157,119,133,0,15,145,168,13,169,129,127,128,137,18,19,20,155,154,181,139,138,147,146,178,140,177,231,43,124,170,2,126,167,}),"general":(["sp":1,"exp buffer":0,"alignment":35,"max_hp":1062,"hp":1062,"max exp":1641957,"experience":1594443,"last adjust":1680038976,"max_sp":791,]),])
+magic (["max points":258,"points":258,])
+severed ([])
+healing (["quenched":1100,"stuffed":680,])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":1062,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":354,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":265,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":354,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":531,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":265,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":265,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":354,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":265,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":354,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 170
+char_class "fighter"
+skills (["reverse punch":(["stat":"dexterity","last dev":({13,3,}),"last use":1680038409,"level":66,]),"body block":(["stat":"strength","last dev":({13,3,}),"level":54,]),"combat awareness":(["stat":"intelligence","last dev":({10,1,}),"level":5,]),"compare":(["stat":"intelligence","last dev":({13,2,}),"level":46,]),"kick":(["stat":"strength","last dev":({13,4,}),"last use":1680038413,"level":76,]),"melee":(["stat":"strength","last dev":({13,4,}),"max":0,"points":0,"level":105,]),"control change":(["stat":"constitution","last use":1680036154,"level":22,]),"knife":(["stat":"dexterity","last dev":({10,1,}),"level":5,]),"fast attack":(["stat":"constitution","last dev":({13,2,}),"last use":1679954438,"level":60,]),"perception":(["stat":"intelligence","last dev":({13,3,}),"level":67,]),"martial arts":(["stat":"dexterity","last dev":({13,5,}),"level":86,]),"bash lock":(["stat":"strength","last dev":({13,1,}),"last use":1679986349,"level":15,]),"block":(["stat":"strength","last dev":({2,1,}),"level":5,]),"prospecting":(["stat":"intelligence","last dev":({13,1,}),"level":46,]),"whirlwind attack":(["stat":"constitution","last dev":({13,2,}),"level":42,]),"consider":(["stat":"intelligence","last dev":({13,2,}),"level":54,]),"swimming":(["stat":"constitution","last dev":({13,2,}),"level":58,]),"head butt":(["stat":"dexterity","last dev":({13,3,}),"last use":1680038445,"level":66,]),"sweep":(["stat":"dexterity","last dev":({13,2,}),"last use":1680038427,"level":30,]),"resist stun":(["stat":"constitution","last dev":({13,2,}),"level":42,]),"dodge":(["stat":"dexterity","last dev":({13,2,}),"level":62,]),"trade lore":(["stat":"charisma","last dev":({13,3,}),"level":56,]),"parry":(["stat":"dexterity","last dev":({13,4,}),"level":81,]),"attack":(["stat":"dexterity","last dev":({0,0,}),"max":0,"points":0,"level":5,]),])
+spells ([])
+wimpy 40
+wimpydir "out"
+i 2
+j 2
+k -1
+num_attacks 2
+defendflag 1
+num_rounds 2
+skill 99
+env_var (["start":"/d/daybreak/room/db_square","TITLE":"Hound Master $N the Weretiger","LINES":"70","TERM":"xterm-256","SCORE":"on",])
+money (["silver":13750,"gold":5465,"copper":8771,])
+ok_to_heal 53784
+player_age 53774
+sight_bonus 4
+gender "male"
+state "stand"
+stats (["wisdom":45,"dexterity":113,"intelligence":45,"constitution":105,"strength":123,"charisma":50,])
+languages (["rachk":10,"common":10,"elvish":1,])
+primary_language "common"
+language_exp (["goblinish":({6,0,}),"wild-elfish":({9,0,}),"orcish":({13,0,}),"grken":({7,0,}),"elvish":({0,1,}),"middle-english":({1,0,}),])
+xp_to_next_dev 1642954
+alias (["swp":"use sweep at $*","hdb":"use head butt at $*","nw":"northwest","skh":"help skill $*","gac":"get all from corpse","w":"west","sw":"southwest","exa":"look at $*","u":"up","s":"south","sph":"help spell $*","ls":"list skills","n":"north","bio":"biography","kck":"use kick at $*","l":"look $*","ne":"northeast","k":"kill $*","i":"inventory","cons":"use consider at $*","e":"east","d":"down","se":"southeast","gam":"get coins from corpse","chn":"use control change","rvp":"use reverse punch at $*",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+zexp 136535
+znexp 139693
+zlexp 3158
+znlevel 7
+zlevel 6
+auto_load ({})
+level 13
+verbose_moves 1
+birth 1679951009
+blocked ([])
+exp_log ([1679969021:11270,1679959820:3530,1680039032:47515,1679971784:16572,1679984486:24001,1679966739:5146,1679959250:3530,1679968961:11270,1680037952:34110,])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "gam@gmail.com"
+ip "198.147.25.50"
+last_on "Tue Mar 28 00:55:35 2023"
+password "$6$6m/QTPOCxRR3Sv.6$8vITPhDC9QBlrWzJ8v5p9soTE14Bu7iGyipqbMEGgsUWtw95giNSi4RaCPHr3HgUQdeY64euwzzIJ2lIZ1mTv1"
+race "weretiger"
+original_site "198.147.25.50"
+position "player"
+primary_start "/wizards/excelsior/rooms/level3/building3"
+quests ({})

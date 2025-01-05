@@ -1,0 +1,7 @@
+#/d/1tlny/loot/hooded_robe.c
+encumbrance 100
+props (["value":400,"progress true_armour_zurr":0,"extra long":({({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"none","new desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Manteau Robe%^RESET%^ {robe}","progress engrave_julian":0,"material_name":"cloth","true armour":1,"pow true_armour_zurr":0,"pow extreme_fortification_zurr":0,"progress extreme_fortification_zurr":0,"enchantment":100,])
+true_name "hooded robe"
+creator "/d/areas/beholders/mon/shadowflamet#8643"
+material "/cloth"
+armour_save (["enhance critical":-4,"short desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Manteau Robe%^RESET%^ {robe}","ac":(["infernal":290,"disruption":290,"stress":290,"crushing":290,"unholy":290,"cutting":290,"vacuum":290,"plasma":290,"impaling":290,"holy":290,"cold":290,"fire":290,"strike":290,"impact":290,"electricity":290,"aether":290,]),])

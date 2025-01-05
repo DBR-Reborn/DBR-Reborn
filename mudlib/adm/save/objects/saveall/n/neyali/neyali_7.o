@@ -1,0 +1,5 @@
+#/d/areas/ancient_city/item/rat-man's_key.c
+encumbrance 1
+props (["value":0,])
+true_name "rat-man's key"
+creator "/d/areas/ancient_city/mon/rat_spear_key#91321"

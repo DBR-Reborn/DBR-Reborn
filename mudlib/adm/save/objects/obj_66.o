@@ -1,0 +1,7 @@
+#/d/damned/virtual/great-helm.armour.c
+encumbrance 100
+props (["material_name":"mithril","value":45,"extra long":"level[61] mithril helm of cold and aether protection","material_type":"metal","new desc":"level[61] mithril helm of cold and aether protection",])
+true_name "great helm"
+creator "/d/damned/virtual/armour_server"
+material "/metal/mithril"
+armour_save (["short desc":"level[61] mithril helm of cold and aether protection","ac":(["infernal":114,"disruption":114,"stress":114,"unholy":114,"crushing":114,"cutting":114,"vacuum":114,"plasma":114,"impaling":114,"holy":114,"fire":114,"cold":184,"strike":114,"impact":114,"aether":226,"electricity":114,]),])

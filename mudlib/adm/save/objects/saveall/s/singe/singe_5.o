@@ -1,0 +1,5 @@
+#/wizards/duridian/poison/plant_press.c
+encumbrance 30
+props (["value":15,])
+true_name "plant press"
+creator "/d/damned/guilds/thief/shop_store"

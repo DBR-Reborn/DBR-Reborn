@@ -1,0 +1,51 @@
+#/std/user.c
+encumbrance 500
+props (["magic resistance":15,"extra mp regen":40,"old exp":0,"light":0,"sp points":0,"xp mod":-60,"hp advance":15,"melee damage":(["crushing":5,]),"base mp regen":18,"handedness":"left hand","ambidextry":1,"last reinc":1721770551,"base hp regen":5,"dev point base":74,"mp advance":50,"combat color":"%^BOLD%^","last read news":1721770551,"dev points":616,])
+true_name "okkita"
+creator "/adm/obj/login#9469"
+max_internal_encumbrance 1950
+player_data (["general":(["max exp":25948,"exp buffer":0,"sp":1,"experience":25949,"last adjust":1721783082,"max_hp":153,"max_sp":0,"hp":153,]),])
+magic (["max points":448,"points":448,])
+severed ([])
+healing ([])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":153,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":51,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":38,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":51,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":76,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":38,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":38,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":51,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":38,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":51,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 4
+heal_rate 1
+char_class "nethermancer"
+skills (["nether magic":(["stat":"intelligence","last dev":({3,2,}),"level":25,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"orb manipulation":(["stat":"intelligence","last dev":({3,3,}),"level":25,]),"swimming":(["stat":"constitution","last dev":({3,2,}),"level":15,]),"undead suggestion":(["stat":"intelligence","last dev":({3,3,}),"level":30,]),"two handed staff":(["stat":"dexterity","last dev":({3,2,}),"level":30,]),"trade lore":(["stat":"charisma","last dev":({3,2,}),"level":20,]),"perception":(["stat":"intelligence","last dev":({3,2,}),"level":15,]),"attack":(["stat":"dexterity","last dev":({3,3,}),"max":0,"points":0,"level":33,]),])
+spells (["minor orb finalization":(["last dev":({3,1,}),"level":3,]),"rotted zombie infusion":(["last dev":({3,1,}),"level":1,]),"bone man infusion":(["last dev":({3,1,}),"level":3,]),"minor undead creation":(["last dev":({3,1,}),"level":3,]),"minor orb sacrifice":(["last dev":({3,1,}),"level":3,]),])
+wimpydir "out"
+env_var (["start":"/d/standard/square","TITLE":"Orb Manipulator $N the Blood-elf","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 25060
+player_age 25056
+sight_bonus 4
+gender "female"
+state "stand"
+stats (["wisdom":124,"dexterity":70,"strength":65,"constitution":65,"intelligence":134,"charisma":51,])
+languages (["common":10,"blood-elfish":10,])
+primary_language "common"
+xp_to_next_dev 26084
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 4
+ghost 1
+birth 1721770551
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Okkita"
+email "jeremy.w.gilley@gmail.com"
+ip "68.32.199.4"
+last_on "Tue Jul 23 21:35:51 2024"
+password "$6$i6kBkDs087dtr4ll$fg3HgBzwvxh5anxEQFqLfYCa0tq7EbE3dgxS1T2wm4C7sCURR.t6wowiTm4TNAzrCRg3lFCgrg4hPRTxwIJVc0"
+race "blood-elf"
+original_site "68.32.199.4"
+position "player"
+quests ({})

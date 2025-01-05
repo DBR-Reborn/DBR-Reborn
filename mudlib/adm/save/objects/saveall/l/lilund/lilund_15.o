@@ -1,0 +1,8 @@
+#/d/areas/dwarf_mine/obj/dwarven_armour.c
+encumbrance 110
+props (["value":800,"material_type":"metal","new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Imposition%^RESET%^ {mail}","progress engrave_lilund":0,"material_name":"mithril","progress engrave_lore":0,])
+true_name "dwarven mail"
+creator "/d/areas/dwarf_mine/mon/sentry#12295"
+material "/metal/mithril"
+armour_save (["short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Imposition%^RESET%^ {mail}","ac":(["infernal":65,"disruption":65,"stress":65,"crushing":65,"unholy":65,"cutting":65,"vacuum":65,"plasma":65,"impaling":65,"holy":65,"cold":65,"fire":65,"strike":65,"impact":65,"electricity":65,"aether":65,]),])
+mtlname "mithril"

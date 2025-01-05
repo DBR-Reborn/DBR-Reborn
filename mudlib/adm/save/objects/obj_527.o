@@ -1,0 +1,7 @@
+#/d/damned/virtual/plate-greaves.armour.c
+encumbrance 450
+props (["material_name":"laen","value":430,"extra long":"level[81] laen Greaves of vacuum and crushing protection","material_type":"metal","new desc":"level[81] laen Greaves of vacuum and crushing protection",])
+true_name "plate greaves"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"level[81] laen Greaves of vacuum and crushing protection","ac":(["infernal":167,"disruption":167,"stress":167,"unholy":167,"crushing":472,"cutting":167,"vacuum":425,"plasma":167,"impaling":167,"holy":167,"fire":167,"cold":167,"strike":167,"impact":167,"aether":167,"electricity":167,]),])

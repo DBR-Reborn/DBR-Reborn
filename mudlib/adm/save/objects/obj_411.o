@@ -1,0 +1,7 @@
+#/d/damned/virtual/great-helm.armour.c
+encumbrance 100
+props (["value":45,"runes":({"malsa bonnes","malsa sen zora",}),"extra long":({"level[15] neorolite Great Helm","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"material_type":"metal","progress inscribe_malsa_sen_zora_maker":0,"progress major_fortification_math":0,"new desc":"1 {helmet}","progress inscribe_malsa_bonnes_maker":0,"progress engrave_maker":0,"material_name":"neorolite","pow major_fortification_math":0,"enchantment":40,])
+true_name "great helm"
+creator "/d/damned/virtual/armour_server"
+material "/metal/neorolite"
+armour_save (["short desc":"1 {helmet}","ac":(["infernal":205,"disruption":205,"stress":205,"unholy":205,"crushing":230,"cutting":230,"vacuum":205,"plasma":208,"impaling":230,"holy":205,"fire":210,"cold":210,"strike":224,"impact":224,"aether":205,"electricity":210,]),])

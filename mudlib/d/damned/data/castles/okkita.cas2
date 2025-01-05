@@ -1,0 +1,13 @@
+light:::2
+indoors:::1
+short:::Okkita's Castle Room #2
+long:::This is Room #2 of Okkita's Castle.
+If you are Okkita, type 'help castle' for options.  
+
+
+no scry:::1
+no summon:::1
+no teleport:::1
+special exits:::0
+healing room:::0
+exit:::south:/d/damned/virtual/okkita_room_1.castle:door:16:vault door

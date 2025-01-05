@@ -1,0 +1,8 @@
+#/d/damned/virtual/tabard.armour
+#/d/damned/virtual/tabard.armour.c
+encumbrance 20
+props (["pow true_armour_rihcter":0,"runes":({"malsa bonnes","malsa sen zora",}),"value":10,"progress inscribe_malsa_sen_zora_lilund":0,"material_type":"leather","extra long":({"Crafted by: Rihcter with A Level [100] Silver dragon leather",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress extreme_fortification_rihcter":0,"progress inscribe_lifta_lilund":268,"progress true_armour_rihcter":0,"progress inscribe_malsa_bonnes_lilund":0,"pow extreme_fortification_rihcter":0,"material_name":"Silver dragon","true armour":1,"enchantment":100,])
+true_name "tabard"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Silver dragon"
+armour_save (["enhance critical":-6,"short desc":"A tabard","ac":(["infernal":754,"disruption":752,"stress":758,"unholy":751,"crushing":765,"cutting":777,"vacuum":758,"plasma":766,"impaling":765,"holy":753,"fire":772,"cold":776,"strike":753,"impact":752,"aether":754,"electricity":768,]),])

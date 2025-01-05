@@ -1,0 +1,58 @@
+#	This is the damage message database for DarkeMUD.  It is simple too.
+#	All entries are of the from <dmg-range>:<line>
+#	<dmg-range> is a range of damage of the form <low>..<hi>
+#	<line> has many variables, see the critical tables for
+#	the format, except the verb here is specified by the weapon,
+#	and the default is hit.
+#0..1:$A $V $T lightly.
+#2..3:$A $V $T.
+#4..5:$A $V $T rather hard.
+#6..8:$A $V $T skillfully.
+#9..11:$A $V $T very hard, leaving $(TO) bleeding.
+#12..15:With a mighty heave, $A $V $T, throwing $(TO) back several feet.
+#16..20:$A $V $T very violently, astonishing $(TO) immensely.
+#21..40:Leaping in the air and coming down swiftly, $A $V $T with unsuspected force.
+41..60:Letting out a monstrous battle cry, $A $V $T, slicing $(TO) nearly in twain.
+61..80:With unbelievable power, $A $V $T, nearly flattening $(TO)!
+81..10000:With a degree of violence never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+#Testing stuff TLNY2020
+0..1:$A $V $T 1.
+2..2:$A $V $T 2.
+3..3:$A $V $T 3.
+4..4:$A $V $T 4.
+5..5:$A $V $T 5.
+6..6:$A $V $T 6.
+7..7:$A $V $T 7.
+8..8:$A $V $T 8.
+9..9:$A $V $T 9.
+10..10:$A $V $T 10.
+11..11:$A $V $T 11.
+12..12:$A $V $T 12.
+13..13:$A $V $T 13.
+14..14:$A $V $T 14.
+15..15:$A $V $T 15.
+16..16:$A $V $T 16.
+17..17:$A $V $T 17.
+18..18:$A $V $T 18.
+19..19:$A $V $T 19.
+20..20:$A $V $T 20.
+21..21:$A $V $T 21.
+22..22:$A $V $T 22.
+23..23:$A $V $T 23.
+24..24:$A $V $T 24.
+25..25:$A $V $T 25.
+26..26:$A $V $T 26.
+27..27:$A $V $T 27.
+28..28:$A $V $T 28.
+29..29:$A $V $T 29.
+30..30:$A $V $T 30.
+31..31:$A $V $T 31.
+32..32:$A $V $T 32.
+33..33:$A $V $T 33.
+34..34:$A $V $T 34.
+35..35:$A $V $T 35.
+36..36:$A $V $T 36.
+37..37:$A $V $T 37.
+38..38:$A $V $T 38.
+39..39:$A $V $T 39.
+40..40:$A $V $T 40.

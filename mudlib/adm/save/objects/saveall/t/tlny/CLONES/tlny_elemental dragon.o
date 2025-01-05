@@ -1,0 +1,5 @@
+#/std/diewarzau/obj/misc/platinum_figurine.c
+encumbrance 40
+props (["value":32450,"pow summon_elemental_dragon_test":8,"progress summon_elemental_dragon_test":1500000,])
+true_name "figurine"
+creator "/d/daybreak/room/shop/magic_store"

@@ -1,0 +1,8 @@
+#/d/damned/guilds/nethermancer/misc/master_nexus.c
+encumbrance 1500
+props (["charge cap":1260000,"nexus class":3,"value":250000,"charge remaining":99312,])
+true_name "master nexus"
+creator "/std/skills/create_master_nexus#405809"
+register_idx 1
+level 8
+minutes 1655

@@ -1,0 +1,8 @@
+#/d/damned/virtual/taces.armour
+#/d/damned/virtual/taces.armour.c
+encumbrance 30
+props (["runes":({"malsa bonnes","malsa sen zora",}),"value":2355,"extra long":({"Smithed by: Lore","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Protection%^RESET%^ {taces}","material_name":"laen","progress inscribe_malsa_sen_zora_lore":0,"progress inscribe_malsa_bonnes_lore":0,"progress engrave_lore":0,])
+true_name "taces"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Protection%^RESET%^ {taces}","ac":(["infernal":247,"disruption":266,"stress":235,"crushing":241,"unholy":232,"cutting":245,"vacuum":230,"plasma":226,"impaling":233,"holy":240,"cold":263,"fire":255,"strike":253,"impact":276,"electricity":223,"aether":251,]),])

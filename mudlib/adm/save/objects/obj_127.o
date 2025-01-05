@@ -1,0 +1,7 @@
+#/d/damned/virtual/broad-sword_6.weapon.c
+encumbrance 100
+props (["material_name":"laen","value":655,"material_type":"metal","extra long":"level[49] laen broad-sword of stress and fire","new desc":"level[49] laen broad-sword of stress and fire",])
+true_name "broad sword"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/laen"
+__Weapon (["original wc":(["fire":90,"impaling":4,"stress":59,"crushing":90,"cutting":12,]),"quality":6,"type":"blade","ac":(["infernal":3,"disruption":3,"stress":3,"crushing":3,"unholy":3,"cutting":3,"vacuum":3,"plasma":3,"impaling":3,"holy":3,"cold":3,"fire":3,"strike":3,"impact":3,"electricity":3,"aether":3,]),"verb":"slice","decay status":15,"wc":(["fire":90,"impaling":4,"stress":59,"crushing":90,"cutting":12,]),"short desc":"level[49] laen broad-sword of stress and fire","decay rate":200,"parry bonus":5,])

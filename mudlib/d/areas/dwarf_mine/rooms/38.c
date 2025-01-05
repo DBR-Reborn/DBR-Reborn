@@ -1,0 +1,6 @@
+//#define NORTH "37"
+//#define WEST "31"
+//#define EAST "03"
+//#define SOUTH "29"
+#define SOUTHEAST "34"
+#include "base_miner.c"

@@ -1,0 +1,7 @@
+#/d/1tlny/loot/hooded_robe.c
+encumbrance 100
+props (["material_name":"cloth","value":400,"material_type":"none",])
+true_name "hooded robe"
+creator "/d/1tlny/complete/gob_boss_room/s/m2#95969"
+material "/cloth"
+armour_save (["ac":(["infernal":20,"disruption":20,"stress":20,"unholy":20,"crushing":20,"cutting":20,"vacuum":20,"plasma":20,"impaling":20,"holy":20,"fire":20,"cold":20,"strike":20,"impact":20,"aether":20,"electricity":20,]),])

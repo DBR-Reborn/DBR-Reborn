@@ -1,0 +1,8 @@
+#/d/damned/virtual/large-shield.armour
+#/d/damned/virtual/large-shield.armour.c
+encumbrance 1
+props (["value":75,"runes":({"aldara zet",}),"extra long":({"Crafted by: Tursnik with A wooden board of abachi [272]",({"Fortification: %^CYAN%^+100%","detect magic",}),"A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",}),"material_type":"wood","progress extreme_fortification_rihcter":0,"progress inscribe_aldara_zet_rihcter":0,"new desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {shield}","pow extreme_fortification_rihcter":0,"material_name":"abachi","progress engrave_thromax":0,"enchantment":100,])
+true_name "large shield"
+creator "/d/damned/virtual/armour_server"
+material "/wood/abachi"
+armour_save (["short desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {shield}","ac":(["infernal":482,"disruption":513,"stress":505,"crushing":484,"unholy":523,"cutting":489,"vacuum":511,"plasma":567,"impaling":464,"holy":529,"cold":555,"fire":554,"strike":501,"impact":452,"electricity":494,"aether":568,]),])

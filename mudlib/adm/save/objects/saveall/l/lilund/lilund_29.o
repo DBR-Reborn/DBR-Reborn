@@ -1,0 +1,8 @@
+#/d/damned/virtual/metal-boots.armour
+#/d/damned/virtual/metal-boots.armour.c
+encumbrance 1
+props (["runes":({"malsa bonnes","malsa sen zora","lifta",}),"progress inscribe_malsa_sen_zora_lilund":0,"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Protection%^RESET%^ {boots}","progress engrave_lilund":0,"progress inscribe_malsa_bonnes_lilund":0,"material_name":"laen","true armour":1,"pow true_armour_lilund":0,"progress true_armour_lilund":0,"progress extreme_fortification_azazel":0,"value":4240,"material_type":"metal","extra long":({"Smithed by: Lilund with laen [204] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Lifta%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_lifta_lilund":0,"pow extreme_fortification_azazel":0,"enchantment":100,])
+true_name "metal boots"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-4,"short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Protection%^RESET%^ {boots}","ac":(["infernal":810,"disruption":807,"stress":810,"unholy":774,"crushing":763,"cutting":797,"vacuum":735,"plasma":784,"impaling":762,"holy":782,"fire":781,"cold":802,"strike":772,"impact":785,"aether":762,"electricity":802,]),])

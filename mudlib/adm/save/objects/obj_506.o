@@ -1,0 +1,7 @@
+#/d/1tlny/loot/hooded_robe.c
+encumbrance 100
+props (["material_name":"cloth","value":400,"material_type":"none","extra long":"level[88] Rare Robe of cutting and stress protection","new desc":"level[88] Rare Robe of cutting and stress protection",])
+true_name "hooded robe"
+creator "/d/areas/ork/mon/2mekboyz#180221"
+material "/cloth"
+armour_save (["short desc":"level[88] Rare Robe of cutting and stress protection","ac":(["infernal":318,"disruption":318,"stress":878,"crushing":318,"unholy":318,"cutting":736,"vacuum":318,"plasma":318,"impaling":318,"holy":318,"cold":318,"fire":318,"strike":318,"impact":318,"electricity":318,"aether":318,]),])

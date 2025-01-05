@@ -1,0 +1,14 @@
+#/d/damned/guilds/join_rooms/necromancer_join.c
+props (["base mp regen":15,"light":3,"base hp regen":3,"guild mods":(["intelligence":10,]),"mp advance":50,"indoors":1,"hp advance":15,])
+__Smells ([])
+__Listens ([])
+__Searches ([])
+destinations (["south":"/d/damned/guilds/necromancer/train_room","north":"/d/nocte/kuril/rooms/entrance",])
+invis_exits ([])
+pre_exit_func ([])
+post_exit_func ([])
+tracks ({})
+__Items (["blue moon":0,"sky":0,"ankh":0,"moon":0,"red moon":0,"sun":0,"warzau":0,"green moon":0,"moons":0,"luna":0,])
+guild_list (["lilith":(["status":"member",]),"sorrow":(["status":"member",]),"hawpun":(["status":"member",]),"vazbol":(["status":"member",]),"darkrose":(["status":"member",]),"sanibak":(["status":"member",]),"luna":(["status":"member",]),"morgause":(["status":"member",]),"phealon":(["status":"member",]),"mortis":(["status":"member",]),"hamira":(["status":"member",]),"bellatrix":(["status":"member",]),"flagg":(["status":"member",]),"exashnecro":(["status":"member",]),"dummy":(["status":"allow train",]),"doomsy":(["status":"member",]),])
+banish ([])
+master "hawpun"

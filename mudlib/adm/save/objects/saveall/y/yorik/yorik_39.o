@@ -1,0 +1,8 @@
+#/d/damned/virtual/hooded-cloak.armour
+#/d/damned/virtual/hooded-cloak.armour.c
+encumbrance 50
+props (["runes":({"malsa bonnes","malsa sen zora",}),"new desc":"%^B_BLUE%^Divine blue%^RESET%^ {cloak}","progress engrave_inikhida":0,"progress engrave_lilund":0,"material_name":"Dragon","progress engrave_boric":0,"true armour":1,"progress engrave_nawara":0,"progress enchanter_mark_nawara":0,"progress engrave_aartos":0,"pow enchanter_mark_nawara":0,"progress extreme_fortification_azazel":0,"progress engrave_angelica":0,"progress inscribe_malsa_sen_zora_azazel":0,"value":10,"extra long":({"Crafted by: Azazel with A Level [50] Dragon leather",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"leather","progress engrave_skye":0,"progress inscribe_malsa_bonnes_azazel":0,"progress engrave_azazel":0,"pow extreme_fortification_azazel":0,"progress enchanter_mark_okkita":0,"progress engrave_yorik":0,"pow enchanter_mark_okkita":0,"pow true_armour_azazel":0,"progress true_armour_azazel":0,"enchantment":100,])
+true_name "hooded cloak"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Dragon"
+armour_save (["enhance critical":-4,"short desc":"%^B_BLUE%^Divine blue%^RESET%^ {cloak}","ac":(["infernal":687,"disruption":695,"stress":698,"crushing":649,"unholy":688,"cutting":653,"vacuum":359,"plasma":696,"impaling":654,"holy":694,"cold":712,"fire":707,"strike":641,"impact":646,"electricity":708,"aether":687,]),])

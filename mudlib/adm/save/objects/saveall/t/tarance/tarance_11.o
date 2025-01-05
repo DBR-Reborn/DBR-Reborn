@@ -1,0 +1,7 @@
+#/d/damned/guilds/nethermancer/misc/lord_hood.c
+encumbrance 50
+props (["material_name":"leather","value":4900,"material_type":"none",])
+true_name "hood"
+creator "/d/areas/zoo/mon/netherlord#389332"
+material "/leather"
+armour_save (["short desc":"A %^RED%^red%^RESET%^ and %^BOLD%^%^BLACK%^black%^RESET%^ hood","ac":(["infernal":100,"disruption":100,"stress":100,"crushing":100,"unholy":100,"cutting":100,"vacuum":100,"plasma":100,"impaling":100,"holy":100,"cold":100,"fire":100,"strike":100,"impact":100,"electricity":100,"aether":100,]),])

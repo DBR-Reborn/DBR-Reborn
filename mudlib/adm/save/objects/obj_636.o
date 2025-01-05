@@ -1,0 +1,7 @@
+#/d/damned/virtual/plate-greaves.armour.c
+encumbrance 450
+props (["material_name":"iysaughton","value":430,"material_type":"metal","extra long":"level[40] iysaughton greaves of electricity and plasma protection","new desc":"level[40] iysaughton greaves of electricity and plasma protection",])
+true_name "plate greaves"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iysaughton"
+armour_save (["short desc":"level[40] iysaughton greaves of electricity and plasma protection","ac":(["infernal":53,"disruption":53,"stress":53,"crushing":53,"unholy":53,"cutting":53,"vacuum":53,"plasma":125,"impaling":53,"holy":53,"cold":53,"fire":53,"strike":53,"impact":53,"electricity":159,"aether":53,]),])

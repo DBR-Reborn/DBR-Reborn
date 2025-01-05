@@ -1,0 +1,7 @@
+#/d/damned/virtual/breast-plate.armour.c
+encumbrance 170
+props (["material_name":"davistone","progress inscribe_malsa_bonnes_trent":0,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"value":12124,"extra long":({"Smithed by: Trent with davistone [36] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,])
+true_name "breast plate"
+creator "/d/damned/virtual/armour_server"
+material "/metal/davistone"
+armour_save (["short desc":"A breast plate","ac":(["infernal":229,"disruption":229,"stress":229,"unholy":229,"crushing":226,"cutting":226,"vacuum":229,"plasma":231,"impaling":226,"holy":229,"fire":232,"cold":232,"strike":223,"impact":223,"aether":229,"electricity":232,]),])

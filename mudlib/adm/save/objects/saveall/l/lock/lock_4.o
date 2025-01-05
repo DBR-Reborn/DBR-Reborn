@@ -1,0 +1,8 @@
+#/d/damned/virtual/power-armour.armour
+#/d/damned/virtual/power-armour.armour.c
+encumbrance 1500
+props (["material_name":"laen","value":150,"material_type":"metal","extra long":"%^BOLD%^Power%^RESET%^ armour","new desc":"%^BOLD%^Power%^RESET%^ armour",])
+true_name "power armour"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"%^BOLD%^Power%^RESET%^ armour","ac":(["infernal":200,"disruption":200,"stress":200,"crushing":200,"unholy":200,"cutting":200,"vacuum":200,"plasma":200,"impaling":200,"holy":200,"cold":200,"fire":200,"strike":200,"impact":200,"electricity":200,"aether":200,]),])

@@ -1,0 +1,7 @@
+#/d/areas/tyranid/obj/flamespitter.c
+encumbrance 30
+props (["material_name":"chitin","value":100,"material_type":"misc",])
+true_name "flamespitter"
+creator "/d/areas/tyranid/mon/tergoyle2#77016"
+material "/misc/chitin"
+armour_save (["ac":(["infernal":5,"disruption":5,"stress":5,"crushing":5,"unholy":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"cold":5,"fire":25,"strike":5,"impact":5,"electricity":5,"aether":5,]),])

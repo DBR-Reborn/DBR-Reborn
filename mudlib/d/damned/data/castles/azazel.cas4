@@ -1,0 +1,22 @@
+light:::2
+indoors:::1
+short:::This is Mythicos's room.
+long:::This is Mythicos's room.                                                    
+
+
+
+
+
+
+
+
+
+
+no scry:::1
+no summon:::0
+no teleport:::0
+special exits:::1
+healing room:::0
+exit:::square:/d/daybreak/room/db_square
+exit:::west:/d/damned/virtual/azazel_room_2.castle
+exit:::portal:/d/daybreak/room/N1

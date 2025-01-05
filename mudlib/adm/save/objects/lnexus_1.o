@@ -1,0 +1,6 @@
+#/d/damned/guilds/nethermancer/misc/lesser_nexus.c
+encumbrance 1500
+props (["charge cap":7200,"value":150000,"nexus class":1,"charge remaining":0,])
+true_name "lesser nexus"
+creator "/std/skills/create_lesser_nexus#15163"
+register_idx 1

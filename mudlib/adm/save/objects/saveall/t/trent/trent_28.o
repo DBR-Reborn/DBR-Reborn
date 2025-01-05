@@ -1,0 +1,8 @@
+#/d/damned/virtual/plate-greaves.armour
+#/d/damned/virtual/plate-greaves.armour.c
+encumbrance 77
+props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"slim greaves {greaves}","progress inscribe_malsa_sen_zora_trent":0,"material_name":"laen","true armour":1,"progress master_fortification_baarich":0,"pow enchanter_mark_baarich":0,"pow master_fortification_baarich":0,"value":20260,"pow true_armour_baarich":0,"material_type":"metal","extra long":({"Smithed by: Trent with laen [36] armour blank","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_aldara_zet_trent":0,"progress true_armour_baarich":0,"progress inscribe_malsa_bonnes_trent":0,"enchantment":70,"progress enchanter_mark_baarich":0,])
+true_name "plate greaves"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-5,"short desc":"slim greaves {greaves}","ac":(["infernal":312,"disruption":300,"stress":304,"unholy":331,"crushing":345,"cutting":357,"vacuum":302,"plasma":331,"impaling":363,"holy":331,"fire":327,"cold":334,"strike":332,"impact":329,"aether":311,"electricity":337,]),])

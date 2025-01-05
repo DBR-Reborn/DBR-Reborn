@@ -1,0 +1,7 @@
+#/d/damned/virtual/gauntlet.armour.c
+encumbrance 6
+props (["material_name":"inniculmoid","value":10,"material_type":"metal","extra long":"level[47] inniculmoid gauntlet of fire and stress protection","new desc":"level[47] inniculmoid gauntlet of fire and stress protection",])
+true_name "gauntlet"
+creator "/d/damned/virtual/armour_server"
+material "/metal/inniculmoid"
+armour_save (["short desc":"level[47] inniculmoid gauntlet of fire and stress protection","ac":(["infernal":66,"disruption":66,"stress":156,"crushing":66,"unholy":66,"cutting":66,"vacuum":66,"plasma":66,"impaling":66,"holy":66,"cold":66,"fire":147,"strike":66,"impact":66,"electricity":66,"aether":66,]),])

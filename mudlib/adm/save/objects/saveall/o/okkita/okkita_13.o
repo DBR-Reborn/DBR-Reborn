@@ -1,0 +1,8 @@
+#/d/damned/virtual/taces.armour
+#/d/damned/virtual/taces.armour.c
+encumbrance 1
+props (["progress inscribe_aldara_zet_nawara":0,"progress true_armour_nawara":0,"runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"value":2355,"extra long":({"Smithed by: Azazel with laen [172] armour blank","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"metal","progress inscribe_malsa_sen_zora_nawara":0,"material_name":"laen","progress inscribe_malsa_bonnes_nawara":0,"true armour":1,"pow true_armour_nawara":0,])
+true_name "taces"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-4,"short desc":"A pair of taces","ac":(["infernal":870,"disruption":740,"stress":849,"crushing":830,"unholy":770,"cutting":1007,"vacuum":705,"plasma":692,"impaling":924,"holy":714,"cold":726,"fire":784,"strike":957,"impact":988,"electricity":833,"aether":850,]),])

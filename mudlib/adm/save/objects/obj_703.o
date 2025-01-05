@@ -1,0 +1,7 @@
+#/d/damned/virtual/leather-pants.armour.c
+encumbrance 44
+props (["material_name":"iron","runes":({"aldara zet","malsa bonnes",}),"value":95,"progress inscribe_malsa_bonnes_trent":0,"extra long":({"A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","progress inscribe_aldara_zet_trent":0,])
+true_name "leather pants"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iron"
+armour_save (["short desc":"A pair of leather pants","ac":(["infernal":14,"disruption":1,"stress":1,"crushing":114,"unholy":14,"cutting":123,"vacuum":1,"plasma":1,"impaling":123,"holy":1,"cold":3,"fire":3,"strike":108,"impact":108,"electricity":1,"aether":1,]),])

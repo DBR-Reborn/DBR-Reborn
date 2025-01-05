@@ -1,0 +1,58 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":20,"magic resistance":10,"flying":1,"extra hp regen":5,"old exp":10149,"light":1,"sp points":0,"xp mod":-35,"melee damage":(["vacuum":15,]),"natural ac":5,"base mp regen":3,"handedness":"left hand","ambidextry":0,"last reinc":1671660654,"base hp regen":3,"dev point base":68,"enhance criticals":(["cold":-1,"fire":1,]),"combat color":"%^BOLD%^","last read news":1671660654,"dev points":68,])
+true_name "dinjinni"
+creator "/adm/obj/login#169160"
+max_internal_encumbrance 3150
+player_data (["kills":({118,}),"general":(["max exp":46,"alignment":2,"exp buffer":0,"sp":1,"experience":47,"last adjust":1671660769,"max_hp":147,"max_sp":0,"hp":147,]),])
+magic (["max points":90,"points":8,])
+severed ([])
+healing ([])
+body (["torso":(["damage":19,"armour_ob":({}),"max_dam":147,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"head":(["damage":18,"armour_ob":({}),"max_dam":73,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":36,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":49,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":36,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":10,"armour_ob":({}),"max_dam":49,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"torso","head","right hand","left arm","right arm","left hand",})
+all_my_fingers 5
+heal_rate 1
+char_class "child"
+skills (["trade lore":(["stat":"charisma","level":5,]),"air lore":(["stat":"intelligence","level":20,]),"elementalism":(["stat":"intelligence","level":10,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":5,]),"melee":(["max":0,"points":0,"level":0,]),])
+spells (["lesser elemental bolt":(["level":1,]),])
+wimpydir "out"
+i 1
+j 1
+k -1
+num_attacks 1
+defendflag 1
+num_rounds 1
+skill -13
+env_var (["start":"/d/standard/square","TITLE":"Novice $N the Dinjinni","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 309
+player_age 306
+sight_bonus 1
+gender "male"
+state "stand"
+stats (["wisdom":50,"dexterity":110,"strength":105,"constitution":103,"intelligence":55,"charisma":55,])
+languages (["common":10,"dinjinniish":10,])
+primary_language "dinjinniish"
+xp_to_next_dev 296
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+ghost 1
+birth 1671660654
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "@earthlink.net"
+ip "68.41.203.137"
+last_on "Wed Dec 21 22:10:54 2022"
+password "$6$lEl5NlupBOYA7jcb$O19aoNaWhgmmm6ipQT8PTZOFxQWKEKLwiK3cCgaSzVCGaWPdCXABEpqDlFy/t/iZycDAdPOMl3Xvcg9o3/KAo1"
+race "dinjinni"
+original_site "68.41.203.137"
+position "player"
+quests ({})

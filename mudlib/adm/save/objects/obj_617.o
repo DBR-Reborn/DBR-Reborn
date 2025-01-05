@@ -1,0 +1,7 @@
+#/d/damned/virtual/plate-greaves.armour.c
+encumbrance 450
+props (["material_name":"boernerine","value":430,"material_type":"metal","extra long":"level[49] boernerine greaves of cold and impaling protection","new desc":"level[49] boernerine greaves of cold and impaling protection",])
+true_name "plate greaves"
+creator "/d/damned/virtual/armour_server"
+material "/metal/boernerine"
+armour_save (["short desc":"level[49] boernerine greaves of cold and impaling protection","ac":(["infernal":63,"disruption":63,"stress":63,"crushing":63,"unholy":63,"cutting":63,"vacuum":63,"plasma":63,"impaling":168,"holy":63,"cold":165,"fire":63,"strike":63,"impact":63,"electricity":63,"aether":63,]),])

@@ -1,0 +1,67 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":50,"extra hp regen":30,"xp mod":-50,"light":0,"hp advance":30,"melee damage":(["crushing":5,]),"last reinc":1666106856,"handedness":"left hand","dev point base":69,"mp advance":24,"last read news":1666127024,"sp points":0,"old exp":0,"ambidextry":1,"base mp regen":9,"base hp regen":6,"combat color":"%^BOLD%^","dev points":83,])
+true_name "lithdhorian"
+creator "/adm/obj/login#75113"
+max_internal_encumbrance 2850
+player_data (["kills":({1,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,156,129,127,128,137,167,}),"general":(["sp":1,"exp buffer":0,"alignment":0,"max_hp":304,"hp":304,"max exp":58729,"experience":58730,"last adjust":1666109757,"max_sp":700,]),])
+magic (["max points":268,"points":268,])
+severed ([])
+healing (["quenched":900,"stuffed":540,])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":152,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":101,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":76,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":101,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":76,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":101,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":304,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":76,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left hand":(["damage":0,"crippled":0,"weapon":0,"armour_ob":({}),"max_dam":76,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":101,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","left arm","left hand","right arm","right hand","left foot",})
+all_my_fingers 5
+heal_rate 70
+char_class "sword-mage"
+skills (["concentrate":(["stat":"intelligence","last dev":({5,1,}),"level":25,]),"magery":(["stat":"intelligence","last dev":({5,1,}),"level":25,]),"compare":(["stat":"intelligence","last dev":({5,1,}),"level":15,]),"melee":(["stat":"strength","last dev":({5,2,}),"max":0,"points":0,"level":30,]),"perception":(["stat":"intelligence","last dev":({5,2,}),"level":36,]),"blade":(["stat":"dexterity","last dev":({5,3,}),"level":46,]),"conjuration":(["stat":"intelligence","last dev":({5,1,}),"level":25,]),"repair weapon":(["stat":"dexterity","last dev":({5,2,}),"level":36,]),"woodland stealth":(["stat":"dexterity","level":10,]),"swimming":(["stat":"constitution","last dev":({5,2,}),"level":33,]),"focus casting":(["stat":"intelligence","level":10,]),"illusionism":(["stat":"intelligence","last dev":({5,1,}),"level":25,]),"trade lore":(["stat":"charisma","last dev":({5,1,}),"level":30,]),"parry":(["stat":"dexterity","last dev":({5,3,}),"level":44,]),"attack":(["stat":"dexterity","last dev":({5,3,}),"max":0,"points":0,"level":46,]),])
+spells (["darkness":(["last dev":({5,1,}),"level":3,]),"magic missile":(["last dev":({5,1,}),"level":3,]),"light":(["last dev":({5,1,}),"level":3,]),"clairvoyance":(["last dev":({5,1,}),"level":1,]),"living weapon":(["last dev":({5,1,}),"level":2,]),"faerie fire":(["last dev":({5,1,}),"level":3,]),"dark vision":(["last dev":({5,1,}),"level":1,]),])
+wimpy 50
+wimpydir "out"
+protection 13
+hits 9
+i 1
+j 3
+k -1
+num_attacks 3
+x 39
+defendflag 1
+num_rounds 1
+skill 109
+env_var (["TITLE":"$N","start":"/d/standard/square","LINES":"70","TERM":"xterm-256","SCORE":"off",])
+money ([])
+ok_to_heal 10492
+player_age 10480
+sight_bonus 4
+gender "male"
+state "stand"
+stats (["wisdom":85,"dexterity":100,"intelligence":95,"constitution":95,"strength":95,"charisma":36,])
+languages (["common":10,"grey-elfish":10,])
+primary_language "common"
+language_exp (["goblinish":({4,0,}),"elfish":({0,0,}),])
+xp_to_next_dev 58861
+alias (["n":"north","bio":"biography","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","exa":"look at $*","sw":"southwest","e":"east","u":"up","d":"down","se":"southeast","s":"south",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+zexp 58730
+znexp 86751
+zlexp 28021
+znlevel 6
+zlevel 5
+auto_load ({})
+level 5
+ghost 1
+birth 1666106856
+blocked ([])
+exp_log ([1666108975:298,])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "amanda.blackstone0923@gmail.com"
+ip "68.41.203.137"
+last_on "Tue Oct 18 21:03:44 2022"
+password "$6$sdRHzyS9sXsl307.$0eSDL9U3dfn53WCsvANwaEMM7WJ5R6NQq/g0j8RE47wCChKZR9XM6tBiFeDnlqQcE5cLrcH.wOC1Ja4SVxAmp."
+race "grey-elf"
+original_site "68.41.203.137"
+position "player"
+primary_start "/d/damned/guilds/nethermancer/skill_room"
+quests ({})

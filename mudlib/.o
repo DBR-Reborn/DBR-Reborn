@@ -1,0 +1,4 @@
+#/daemon/localpost.c
+__Forward ""
+__MyGroups ([])
+__BoxInfo ({(["date":1594092379,"to":({"ruck",}),"cc":({".",}),"id":"1594092385","read":1,"from":"ruck","subject":"train",]),(["date":1595298603,"to":({"ruck",}),"cc":({"upstart",}),"id":"1595298616","subject":"PAY FOR MINE BEFORE 11 days from now","from":"ruck","read":1,]),(["date":1595362978,"to":({"ruck",}),"cc":({}),"id":"1595362987","subject":"train necro","from":"ruck","read":0,]),(["date":1615143832,"to":({"ruck",}),"cc":({".",}),"id":"1615143836","subject":"RE: PAY FOR MINE BEFORE 11 days from now","from":"upstart","read":0,]),})

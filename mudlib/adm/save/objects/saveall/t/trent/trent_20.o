@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-jacket.armour
+#/d/damned/virtual/leather-jacket.armour.c
+encumbrance 8
+props (["runes":({"aldara zet","malsa bonnes","malsa sen zora","cutta",}),"value":45,"extra long":({"Crafted by: Trent with A Level [16] Constable leather","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BOLD%^Cutta%^RESET%^ rune is inscribed on the armour.",}),"material_type":"leather","progress inscribe_aldara_zet_trent":0,"progress inscribe_malsa_sen_zora_trent":0,"progress inscribe_cutta_trent":0,"material_name":"Constable","progress inscribe_malsa_bonnes_trent":0,])
+true_name "leather jacket"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Constable"
+armour_save (["short desc":"A leather jacket","ac":(["infernal":225,"disruption":221,"stress":224,"crushing":246,"unholy":221,"cutting":384,"vacuum":223,"plasma":226,"impaling":246,"holy":223,"cold":232,"fire":225,"strike":246,"impact":249,"electricity":231,"aether":226,]),])

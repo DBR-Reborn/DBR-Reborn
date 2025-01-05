@@ -1,0 +1,61 @@
+#/std/user.c
+encumbrance 500
+props (["magic resistance":15,"extra mp regen":40,"old exp":0,"light":0,"sp points":0,"xp mod":-60,"hp advance":40,"melee damage":(["crushing":5,]),"base mp regen":5,"handedness":"right hand","ambidextry":1,"last reinc":1726430807,"base hp regen":11,"dev point base":71,"mp advance":18,"combat color":"%^BOLD%^","last read news":1726430807,"dev points":92,])
+true_name "aartos"
+creator "/adm/obj/login#455360"
+max_internal_encumbrance 3450
+player_data (["kills":({21,118,1,61,0,15,}),"general":(["alignment":3,"max exp":21734,"exp buffer":0,"sp":1,"experience":21735,"last adjust":1726432891,"max_hp":234,"max_sp":0,"hp":234,]),])
+magic (["max points":212,"points":212,])
+severed (["left leg":"left foot","left foot":"","left hand":"",])
+healing (["stuffed":875,"quenched":900,])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":234,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":58,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":78,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":117,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":58,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":78,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":78,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"torso","head","right leg","right foot","right hand","left arm","right arm",})
+all_my_fingers 4
+heal_rate -3
+char_class "tinker"
+skills (["blacksmith":(["stat":"dexterity","last dev":({3,2,}),"level":25,]),"prospecting":(["stat":"intelligence","last dev":({3,2,}),"level":30,]),"leather craft":(["stat":"dexterity","last dev":({3,2,}),"level":10,]),"skin corpse":(["stat":"strength","last dev":({3,2,}),"level":10,]),"repair weapon":(["stat":"dexterity","last dev":({3,2,}),"level":25,]),"melee":(["stat":"strength","last dev":({3,2,}),"max":0,"points":0,"level":10,]),"swimming":(["stat":"constitution","last dev":({3,2,}),"level":20,]),"knife":(["stat":"dexterity","last dev":({3,2,}),"level":25,]),"minning":(["stat":"strength","last dev":({3,2,}),"level":25,]),"dodge":(["stat":"dexterity","last dev":({3,2,}),"level":10,]),"parry":(["stat":"dexterity","last dev":({3,3,}),"level":25,]),"trade lore":(["stat":"charisma","last dev":({3,2,}),"level":25,]),"perception":(["stat":"intelligence","last dev":({3,2,}),"level":20,]),"attack":(["stat":"dexterity","last dev":({3,2,}),"max":0,"points":0,"level":25,]),])
+spells ([])
+wimpydir "out"
+protection 4
+hits 8
+i 1
+j 1
+k 2
+num_attacks 1
+x 17
+num_rounds 1
+skill 125
+env_var (["start":"/d/standard/square","TITLE":"Thumb Striker $N the Blood-elf","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 3718
+player_age 3718
+sight_bonus 4
+gender "male"
+state "stand"
+stats (["wisdom":50,"dexterity":115,"strength":115,"constitution":89,"intelligence":110,"charisma":51,])
+languages (["common":10,"blood-elfish":10,])
+primary_language "blood-elfish"
+language_exp (["goblinish":({2,0,}),])
+xp_to_next_dev 21752
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 3
+ghost 1
+birth 1726430807
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "amanda.blackstone@gmail.com"
+ip "68.32.199.4"
+last_on "Sun Sep 15 20:06:47 2024"
+password "$6$majklpe/kkNFX/Dr$wpNwL.hezxJLnuxQMXk7gwiC5lUIVKIPhPOnAWHf509YxD1QDDmNw3L.51TXPuBCG8Z8UGSHghkimbLxQI8ZQ0"
+race "blood-elf"
+original_site "68.32.199.4"
+position "player"
+quests ({})

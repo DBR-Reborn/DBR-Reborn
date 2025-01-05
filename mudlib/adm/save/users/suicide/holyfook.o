@@ -1,0 +1,61 @@
+#/std/user.c
+encumbrance 500
+props (["light":0,"sp points":0,"xp mod":15,"old exp":0,"hp advance":28,"melee damage":(["crushing":6,]),"base mp regen":7,"handedness":"right hand","ambidextry":1,"last reinc":1668027577,"base hp regen":11,"dev point base":74,"mp advance":25,"combat color":"%^BOLD%^","last read news":1668027577,"dev points":592,"dev cost":-2,])
+true_name "holyfook"
+creator "/adm/obj/login#277321"
+max_internal_encumbrance 2940
+player_data (["kills":({21,1,}),"general":(["alignment":0,"max exp":72879,"exp buffer":0,"sp":1,"experience":72880,"last adjust":1668032514,"max_hp":271,"max_sp":0,"hp":271,]),])
+magic (["max points":273,"points":273,])
+severed ([])
+healing (["poisoning":0,"quenched":900,"stuffed":875,])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":271,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":90,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":67,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":90,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":135,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":67,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":67,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":90,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":67,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":90,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 70
+char_class "nightblade"
+skills (["concentrate":(["stat":"intelligence","last dev":({5,1,}),"level":15,]),"prospecting":(["stat":"intelligence","last dev":({5,1,}),"level":25,]),"magery":(["stat":"intelligence","last dev":({5,1,}),"level":25,]),"repair weapon":(["stat":"dexterity","last dev":({5,1,}),"level":20,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"swimming":(["stat":"constitution","last dev":({5,2,}),"level":39,]),"knife":(["stat":"dexterity","last dev":({5,7,}),"level":60,]),"minning":(["stat":"strength","last dev":({5,1,}),"level":20,]),"illusionism":(["stat":"intelligence","last dev":({5,1,}),"level":25,]),"parry":(["stat":"dexterity","last dev":({5,4,}),"level":46,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"perception":(["stat":"intelligence","last dev":({5,2,}),"level":39,]),"engrave":(["stat":"dexterity","last dev":({5,1,}),"level":10,]),"attack":(["stat":"dexterity","last dev":({5,4,}),"max":0,"points":0,"level":48,]),])
+spells (["dark vision":(["last dev":({5,1,}),"level":4,]),])
+wimpydir "out"
+hits 7
+i 2
+j 1
+k 2
+num_attacks 2
+x 9
+num_rounds 1
+skill 86
+env_var (["start":"/d/standard/square","TITLE":"Scholar of shadows $N the China-man","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money ([])
+ok_to_heal 9854
+player_age 9854
+sight_bonus -1
+gender "male"
+state "stand"
+stats (["wisdom":30,"dexterity":110,"strength":98,"constitution":83,"intelligence":95,"charisma":47,])
+languages (["goblinish":1,"common":10,"china-manish":10,])
+primary_language "china-manish"
+language_exp (["goblinish":({3,1,}),])
+xp_to_next_dev 72975
+alias (["vil":"village","tper":"train perception","kg":"kill goblin","nw":"northwest","tpro":"train prospecting","pl":"pull lever","lsp":"list spells","tswi":"train swimming","sco":"score","ent":"enter","w":"west","tow":"town","exa":"look at $*","sw":"southwest","lsk":"list skills","lad":"ladder","u":"up","tmag":"train magery","tatt":"train attack","st":"status","s":"south","teng":"train engrave","roa":"road","bio":"biography","n":"north","pla":"plains","till":"train illusionism","l":"look $*","dw":"doorway","tpar":"train parry","ne":"northeast","dv":"cast *4 dark vision at Holyfook","i":"inventory","tcon":"train concentrate","rw2":"use repair weapon at dagger 2","rw1":"use repair weapon at dagger","gc":"get coins from corpse","tkni":"train knife","mou":"mountains","trw":"train repair weapon","e":"east","tmin":"train minning","se":"southeast","d":"down","cas":"castle",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 5
+ghost 1
+verbose_moves 1
+birth 1668027577
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "howard"
+email "plsdonthackme123@hotmail.com"
+ip "174.240.176.9"
+last_on "Wed Nov  9 20:59:37 2022"
+password "$6$NfJacmpx2tz6.3jw$rN4tb9tWm73UeeU53lXhfj.2p9PPhZXrgS9d6sI7jsWVSoeY1Q2kJBycO2le.Z0FnzumkiYskgzLRP95MOqxj/"
+race "china-man"
+original_site "174.240.176.9"
+position "player"
+quests ({})

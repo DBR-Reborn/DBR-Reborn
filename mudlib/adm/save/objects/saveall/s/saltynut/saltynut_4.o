@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-helmet.armour
+#/d/damned/virtual/leather-helmet.armour.c
+encumbrance 60
+props (["value":45,"runes":({"malsa bonnes","malsa sen zora",}),"extra long":({"Crafted by: Lore with A Level [31] Slayer leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"leather","new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Absorption%^RESET%^ {leather helmet}","material_name":"Slayer","progress inscribe_malsa_sen_zora_lore":0,"progress inscribe_malsa_bonnes_lore":0,"progress engrave_lore":0,])
+true_name "leather helmet"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Slayer"
+armour_save (["short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Absorption%^RESET%^ {leather helmet}","ac":(["infernal":152,"disruption":145,"stress":153,"crushing":153,"unholy":144,"cutting":147,"vacuum":146,"plasma":148,"impaling":151,"holy":152,"cold":152,"fire":143,"strike":174,"impact":176,"electricity":141,"aether":148,]),])

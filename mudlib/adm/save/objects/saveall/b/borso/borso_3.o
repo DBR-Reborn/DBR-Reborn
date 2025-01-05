@@ -1,0 +1,8 @@
+#/d/damned/virtual/padded-glove.armour
+#/d/damned/virtual/padded-glove.armour.c
+encumbrance 2
+props (["material_name":"iron","value":2,"material_type":"metal",])
+true_name "padded glove"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iron"
+armour_save (["short desc":"A padded glove","ac":(["infernal":1,"fire":1,"cold":1,"disruption":1,"stress":1,"unholy":1,"crushing":1,"cutting":1,"strike":1,"vacuum":1,"plasma":1,"impact":1,"impaling":1,"holy":1,"aether":1,"electricity":1,]),])

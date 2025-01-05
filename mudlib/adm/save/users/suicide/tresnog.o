@@ -1,0 +1,59 @@
+#/std/user.c
+encumbrance 500
+props (["extra hp regen":20,"light":0,"sp points":0,"xp mod":-60,"old exp":0,"hp advance":50,"melee damage":(["crushing":8,"electricity":8,]),"natural ac":6,"base mp regen":5,"handedness":"right hand","ambidextry":0,"last reinc":1666491001,"base hp regen":19,"dev point base":69,"mp advance":15,"combat color":"%^BOLD%^","last read news":1666491001,"dev points":42,])
+true_name "tresnog"
+creator "/adm/obj/login#308068"
+max_internal_encumbrance 4230
+player_data (["kills":({0,1,61,0,75,76,77,85,78,86,144,161,164,165,79,80,135,21,136,139,}),"general":(["alignment":-56,"max exp":28701,"exp buffer":0,"sp":1,"experience":28702,"last adjust":1666494780,"max_hp":465,"max_sp":0,"hp":465,]),])
+magic (["max points":105,"points":105,])
+severed ([])
+healing (["stuffed":1125,"quenched":1100,])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":465,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":155,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":116,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":155,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":232,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":116,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":116,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":155,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":116,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":155,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 6
+heal_rate 111
+char_class "fighter"
+skills (["swimming":(["stat":"constitution","last dev":({4,2,}),"level":30,]),"compare":(["stat":"intelligence","last dev":({4,1,}),"level":15,]),"dodge":(["stat":"dexterity","last dev":({4,2,}),"level":20,]),"kick":(["stat":"strength","last dev":({4,3,}),"level":15,]),"fast attack":(["stat":"constitution","last dev":({4,2,}),"level":20,]),"parry":(["stat":"dexterity","last dev":({4,3,}),"level":33,]),"trade lore":(["stat":"charisma","last dev":({4,1,}),"level":25,]),"perception":(["stat":"intelligence","last dev":({4,2,}),"level":33,]),"martial arts":(["stat":"dexterity","last dev":({4,3,}),"level":42,]),"attack":(["stat":"dexterity","last dev":({4,3,}),"max":0,"points":0,"level":42,]),"melee":(["stat":"strength","last dev":({4,3,}),"max":0,"points":0,"level":39,]),])
+spells ([])
+wimpydir "out"
+i 1
+j 2
+k -1
+num_attacks 1
+defendflag 1
+num_rounds 2
+skill 45
+env_var (["start":"/d/standard/square","TITLE":"$N","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 7611
+player_age 7604
+sight_bonus 1
+gender "male"
+state "stand"
+stats (["wisdom":35,"dexterity":103,"strength":141,"constitution":140,"intelligence":35,"charisma":26,])
+languages (["ratish":1,"common":10,"stormspeak":10,])
+primary_language "common"
+language_exp (["ratish":({13,0,}),"goblinish":({1,0,}),])
+xp_to_next_dev 28768
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 4
+ghost 1
+birth 1666491001
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "amanda.blackstone0923@gmail.com"
+ip "68.41.203.137"
+last_on "Sun Oct 23 02:10:01 2022"
+password "$6$ooX3ko5j5eKhNqrY$clfiNLHfmEdFu.KSXpKfGUo/D7Ea1IxvDk2qp./.uUwlof469P88n.VCeLvMcHBBfwHvL80cxW3r9IN7MB1rR0"
+race "storm-giant"
+original_site "68.41.203.137"
+position "player"
+quests ({})

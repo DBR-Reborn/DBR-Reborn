@@ -1,0 +1,6 @@
+#/d/areas/dwarf_mine/obj/metal.c
+encumbrance 30
+props (["value":50,])
+true_name "metal"
+creator "/d/areas/dwarf_mine/mon/miner#82025"
+mtlname "platnite"

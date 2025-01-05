@@ -1,0 +1,58 @@
+#	This is the damage message database for DarkeMUD.  It is simple too.
+#	All entries are of the from <dmg-range>:<line>
+#	<dmg-range> is a range of damage of the form <low>..<hi>
+#	<line> has many variables, see the critical tables for
+#	the format, except the verb here is specified by the weapon,
+#	and the default is hit.
+#0..1:$A $V $T lightly.
+#2..3:$A $V $T.
+#4..5:$A $V $T rather hard.
+#6..8:$A $V $T skillfully.
+#9..11:$A $V $T very hard, leaving $(TO) bleeding.
+#12..15:With a mighty heave, $A $V $T, throwing $(TO) back several feet.
+#16..20:$A $V $T very violently, astonishing $(TO) immensely.
+#21..40:Leaping in the air and coming down swiftly, $A $V $T with unsuspected force.
+41..60:Letting out a monstrous battle cry, $A $V $T, slicing $(TO) nearly in twain.
+61..80:With unbelievable power, $A $V $T, nearly flattening $(TO)!
+81..10000:With a degree of violence never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+#Testing stuff TLNY2020
+0..1:$A $V $T barely.
+2..2:$A $V $T gently.
+3..3:$A $V $T softly.
+4..4:$A $V $T faintly.
+5..5:$A $V $T timidly.
+6..6:$A $V $T slightly.
+7..7:$A $V $T sparingly.
+8..8:$A $V $T moderately.
+9..9:$A $V $T gingerly.
+10..10:$A $V $T easily.
+11..11:$A $V $T rather hard.
+12..12:$A $V $T quite hard.
+13..13:$A $V $T a bit hard.
+14..14:$A $V $T fairly hard.
+15..15:$A $V $T slightly harder.
+16..16:$A $V $T somewhat harder.
+17..17:$A $V $T relatively harder.
+18..18:$A $V $T skillfully.
+19..19:$A $V $T adeptly.
+20..20:$A $V $T skillfully hard.
+21..21:$A $V $T adeptly hard.
+22..22:$A $V $T very hard, leaving $(TO) bleeding.
+23..23:$A $V $T firmly, leaving $(TO) in pain.
+24..24:$A $V $T very hard, leaving $(TO) disfigured.
+25..25:$A $V $T very hard, leaving $(TO) traumatized.
+26..26:With a mighty heave, $A $V $T, leaving $(TO) unbalanced.
+27..27:With a mighty heave, $A $V $T, leaving $(TO) disorganized.
+28..28:With a mighty heave, $A $V $T, leaving $(TO) confused.
+29..29:With a mighty heave, $A $V $T, throwing $(TO) back several feet.
+30..30:$A $V $T very violently, staggering $(TO) immensely.
+31..31:$A $V $T very violently, bewildering $(TO) excessively.
+32..32:$A $V $T very violently, astonishing $(TO) extremely.
+33..33:Leaping in the air and coming down swiftly, $A $V $T with unsuspected force.
+34..34:Surging through the air and descending swiftly, $A $V $T with unsuspected force.
+35..35:Letting out a monstrous battle cry, $A $V $T, forcing $(TO) on the defensive.
+36..36:With unbelievable power, $A $V $T, nearly flattening $(TO)!
+37..37:With unimaginable power, $A $V $T, practically flattening $(TO)!
+38..38:With unthinkable power, $A $V $T, virtually flattening $(TO)!
+39..39:With a degree of violence never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+40..40:With a power never seen before in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.

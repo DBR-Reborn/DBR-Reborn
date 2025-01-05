@@ -1,0 +1,7 @@
+#/d/areas/keep/armour/bone_mask.c
+encumbrance 150
+props (["material_name":"bone","value":150,"material_type":"none",])
+true_name "bone mask"
+creator "/d/areas/keep/mon/undead_warrior#314710"
+material "/bone"
+armour_save (["short desc":"A bone crafted skull mask","ac":(["infernal":75,"disruption":75,"stress":75,"unholy":75,"crushing":75,"cutting":75,"vacuum":75,"plasma":75,"impaling":75,"holy":75,"fire":75,"cold":75,"strike":75,"impact":75,"aether":75,"electricity":75,]),])

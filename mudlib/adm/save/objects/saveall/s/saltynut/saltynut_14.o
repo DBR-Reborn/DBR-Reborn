@@ -1,0 +1,8 @@
+#/d/damned/virtual/great-helm.armour
+#/d/damned/virtual/great-helm.armour.c
+encumbrance 100
+props (["progress bless_armour_saltynut":1541,"value":2120,"runes":({"malsa bonnes","malsa sen zora",}),"extra long":({"Smithed by: Lore","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","pow bless_armour_saltynut":2,"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Protection%^RESET%^ {helmet}","material_name":"laen","progress inscribe_malsa_sen_zora_lore":0,"progress engrave_lore":0,"progress inscribe_malsa_bonnes_lore":0,])
+true_name "great helm"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR39%^ Protection%^RESET%^ {helmet}","ac":(["infernal":240,"disruption":247,"stress":258,"crushing":265,"unholy":253,"cutting":247,"vacuum":248,"plasma":241,"impaling":234,"holy":256,"cold":262,"fire":255,"strike":255,"impact":284,"electricity":241,"aether":264,]),])

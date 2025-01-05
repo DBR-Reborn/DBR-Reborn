@@ -1,0 +1,8 @@
+#/d/damned/virtual/breast-plate.armour
+#/d/damned/virtual/breast-plate.armour.c
+encumbrance 500
+props (["material_name":"laen","value":16490,"runes":({"malsa bonnes","malsa sen zora",}),"progress inscribe_malsa_sen_zora_kharne":0,"extra long":({"Smithed by: Kharne with laen [140] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"material_type":"metal","progress inscribe_malsa_bonnes_kharne":0,])
+true_name "breast plate"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"A breast plate","ac":(["infernal":488,"disruption":488,"stress":499,"unholy":522,"crushing":530,"cutting":493,"vacuum":501,"plasma":513,"impaling":523,"holy":532,"fire":534,"cold":503,"strike":511,"impact":493,"aether":482,"electricity":527,]),])

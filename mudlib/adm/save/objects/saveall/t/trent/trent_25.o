@@ -1,0 +1,9 @@
+#/std/obj/lantern.c
+encumbrance 200
+props (["float value":1,])
+true_name "lantern"
+creator "/d/daybreak/room/shop/general_store_store"
+lit 1
+fuel 3600000000000
+light_time 1734496879
+shadow 

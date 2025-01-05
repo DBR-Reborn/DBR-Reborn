@@ -1,0 +1,54 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":40,"extra hp regen":25,"light":0,"xp mod":-50,"hp advance":18,"melee damage":(["holy":5,"crushing":5,]),"handedness":"right hand","last reinc":1722553299,"dev point base":66,"enhance criticals":(["disruption":1,"holy":-1,]),"mp advance":32,"last read news":1722636440,"old exp":0,"sp points":0,"base mp regen":8,"ambidextry":0,"base hp regen":8,"combat color":"%^BOLD%^","dev points":9,])
+true_name "fiera"
+creator "/adm/obj/login#168317"
+max_internal_encumbrance 3000
+player_data (["general":(["max exp":10148,"exp buffer":0,"sp":1,"experience":10149,"max_hp":171,"max_sp":665,"hp":171,]),])
+magic (["max points":240,"points":240,])
+severed ([])
+healing (["quenched":900,])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":85,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":57,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":42,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":57,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":42,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":171,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":57,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"weapon":0,"max_dam":42,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({}),]),"right wing":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":57,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"weapon":0,"max_dam":42,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":57,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left wing":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":57,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"head","right leg","right foot","left arm","left foot","left leg","torso","right hand","right wing","right arm","left hand","left wing",})
+all_my_fingers 5
+heal_rate 47
+char_class "war-priest"
+skills (["concentrate":(["stat":"intelligence","last dev":({3,1,}),"level":5,]),"worship of k'thach":(["stat":"wisdom","last dev":({3,2,}),"level":25,]),"prayer":(["stat":"wisdom","last dev":({3,2,}),"level":25,]),"repair weapon":(["stat":"dexterity","last dev":({3,2,}),"level":15,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"parry":(["stat":"dexterity","last dev":({3,2,}),"level":10,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"perception":(["stat":"intelligence","last dev":({3,2,}),"level":20,]),"body alteration":(["stat":"wisdom","last dev":({3,2,}),"level":20,]),"blade":(["stat":"dexterity","last dev":({3,2,}),"level":25,]),"attack":(["stat":"dexterity","last dev":({3,2,}),"max":0,"points":0,"level":30,]),])
+spells (["call divine plate":(["last dev":({3,1,}),"level":3,]),"divine might":(["last dev":({3,1,}),"level":2,]),"holy word":(["last dev":({3,1,}),"level":3,]),"cure light wounds":(["level":1,]),"preserve corpse":(["last dev":({3,1,}),"level":1,]),"holy light":(["last dev":({3,1,}),"level":3,]),])
+wimpydir "out"
+env_var (["start":"/d/standard/square","TITLE":"Holy Initiate $N the Seraph","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 9204
+player_age 9204
+sight_bonus 3
+gender "female"
+state "stand"
+stats (["wisdom":110,"dexterity":95,"strength":100,"constitution":88,"intelligence":100,"charisma":61,])
+languages (["common":10,"serra":10,])
+primary_language "serra"
+language_exp (["middle-english":({4,0,}),])
+xp_to_next_dev 10398
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+zexp 10149
+znexp 24999
+zlexp 14850
+znlevel 4
+zlevel 3
+auto_load ({})
+level 3
+ghost 1
+birth 1722553299
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Fiera"
+email "jeremy.w.gilley@gmail.com"
+ip "68.32.199.4"
+last_on "Fri Aug  2 22:07:20 2024"
+password "$6$RutF/FjNRWVxlELy$grvqLQtpvAPrP/JuippcPNv2ZVXSc86rGj2a7pbPOBKCrnX.MLL/3EF/dvk6XpA9C3RncwP6pbZqIyswXOKaJ0"
+race "seraph"
+original_site "68.32.199.4"
+position "player"
+primary_start "/d/damned/akkad/suggestions"
+quests ({})

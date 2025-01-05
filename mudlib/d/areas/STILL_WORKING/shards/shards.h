@@ -1,0 +1,10 @@
+#define DBDIR "/d/areas/shards"
+
+#define ROOMS DBDIR+"/rooms/"
+#define INN DBDIR+"/rooms/inn/"
+#define INNROOM DBDIR+"/virtual/"
+#define MON DBDIR+"/mon/"
+#define OBJ DBDIR+"/obj/"
+#define WEAP DBDIR+"/weapon/"
+#define ARM DBDIR+"/armour/"
+#define STORE DBDIR+"/rooms/shops/"

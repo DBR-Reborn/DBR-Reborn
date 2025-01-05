@@ -1,0 +1,61 @@
+#/std/user.c
+encumbrance 500
+props (["allow_over_max":0,"xp mod":0,"light":0,"sp points":0,"old exp":0,"hp advance":15,"melee damage":(["crushing":5,]),"base mp regen":16,"handedness":"left hand","ambidextry":0,"last reinc":1672177804,"base hp regen":8,"dev point base":69,"mp advance":40,"combat color":"%^BOLD%^","last read news":1672177804,"dev points":1,"dev cost":-2,])
+true_name "malachi"
+creator "/adm/obj/login#127632"
+max_internal_encumbrance 2700
+player_data (["kills":({129,127,128,138,126,137,167,}),"general":(["alignment":0,"max exp":144823,"exp buffer":0,"sp":1,"experience":144824,"last adjust":1672195241,"max_hp":258,"max_sp":0,"hp":447,]),])
+magic (["max points":492,"points":492,])
+severed ([])
+healing (["stuffed":1000,"quenched":1000,])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":258,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":86,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":64,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":86,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":129,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":64,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":64,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":86,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":64,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":86,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 74
+char_class "enchanter"
+skills (["concentrate":(["stat":"intelligence","last dev":({7,1,}),"level":5,]),"lumberjack":(["stat":"strength","last dev":({7,1,}),"level":30,]),"compare":(["stat":"intelligence","last dev":({6,1,}),"level":20,]),"forge armour":(["stat":"dexterity","last dev":({7,1,}),"level":5,]),"install lock":(["stat":"dexterity","last dev":({7,1,}),"level":15,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"energy manipulation":(["stat":"intelligence","last dev":({7,2,}),"level":46,]),"carpentry":(["stat":"dexterity","last dev":({7,1,}),"level":30,]),"repair wood weapon":(["stat":"dexterity","last dev":({7,1,}),"level":33,]),"perception":(["stat":"intelligence","last dev":({6,1,}),"level":25,]),"detect magic":(["stat":"intelligence","last dev":({7,1,}),"level":5,]),"blacksmith":(["stat":"dexterity","last dev":({7,1,}),"level":30,]),"prospecting":(["stat":"intelligence","last dev":({7,1,}),"level":33,]),"leather craft":(["stat":"dexterity","last dev":({7,1,}),"level":25,]),"skin corpse":(["stat":"strength","last dev":({7,1,}),"level":25,]),"inscribe malsa koren":(["stat":"dexterity","last dev":({7,1,}),"level":15,]),"whirlwind attack":(["stat":"constitution","last dev":({7,1,}),"level":15,]),"inscribe zalm lit":(["stat":"dexterity","last dev":({7,1,}),"level":20,]),"repair weapon":(["stat":"dexterity","last dev":({7,1,}),"level":33,]),"swimming":(["stat":"constitution","last dev":({7,1,}),"level":36,]),"forge weapon":(["stat":"dexterity","last dev":({7,1,}),"level":5,]),"focus casting":(["stat":"intelligence","last dev":({5,1,}),"level":5,]),"blunt":(["stat":"dexterity","last dev":({7,1,}),"level":39,]),"minning":(["stat":"strength","last dev":({7,1,}),"level":30,]),"inscribe aldara zet":(["stat":"dexterity","last dev":({7,1,}),"level":15,]),"dodge":(["stat":"dexterity","last dev":({4,1,}),"level":15,]),"parry":(["stat":"dexterity","last dev":({7,2,}),"level":46,]),"trade lore":(["stat":"charisma","last dev":({6,1,}),"level":33,]),"inscribe xen mora":(["stat":"dexterity","last dev":({7,1,}),"level":5,]),"enchantment":(["stat":"intelligence","last dev":({7,2,}),"level":46,]),"engrave":(["stat":"dexterity","last dev":({7,1,}),"level":20,]),"attack":(["stat":"dexterity","last dev":({7,1,}),"max":0,"points":0,"level":44,]),])
+spells (["minor fortification":(["last dev":({7,1,}),"level":5,]),"poison rune":(["last dev":({7,1,}),"level":5,]),"flame blade":(["last dev":({7,1,}),"level":6,]),"minor puissance":(["last dev":({7,1,}),"level":6,]),"minor accuracy":(["last dev":({7,1,}),"level":2,]),"electric blade":(["last dev":({7,1,}),"level":1,]),"exploding rune":(["last dev":({7,1,}),"level":1,]),"icy weapon":(["last dev":({7,1,}),"level":4,]),"claimed weapon":(["last dev":({7,1,}),"level":3,]),])
+wimpy 50
+wimpydir "out"
+protection 13
+hits 4
+i 2
+j 1
+k 2
+num_attacks 1
+x 20
+num_rounds 2
+skill 100
+env_var (["start":"/d/standard/square","TITLE":"$N","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 36762
+player_age 36760
+sight_bonus 1
+gender "male"
+state "stand"
+stats (["wisdom":90,"dexterity":95,"strength":90,"constitution":90,"intelligence":100,"charisma":77,])
+languages (["common":10,"middle-english":10,])
+primary_language "common"
+xp_to_next_dev 144889
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 7
+ghost 1
+birth 1672177804
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "jeremy.w.gilley@gmail.com"
+ip "68.41.203.137"
+last_on "Tue Dec 27 21:50:04 2022"
+password "$6$7pJchA.xPJ429b/6$L/aTqxMAjuq1TicuKonafO2acdUotUloKFQZ93xJnKlAlsDKj1AVhQUKDVG7aillki9TAsHjmzpwoZMV66vCM1"
+race "high-man"
+original_site "68.41.203.137"
+position "player"
+quests ({})

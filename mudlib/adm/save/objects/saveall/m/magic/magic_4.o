@@ -1,0 +1,8 @@
+#/d/damned/virtual/chain-coif.armour
+#/d/damned/virtual/chain-coif.armour.c
+encumbrance 80
+props (["progress true_armour_math":0,"progress bless_armour_magic":0,"value":1649,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"metal","extra long":({"Smithed by: Maker with laen [56] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+70%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress master_fortification_math":0,"new desc":"O {coif}","pow true_armour_math":0,"progress engrave_maker":0,"progress inscribe_malsa_bonnes_maker":0,"pow master_fortification_math":0,"material_name":"laen","true armour":1,"enchantment":70,"pow bless_armour_magic":0,])
+true_name "chain coif"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-5,"short desc":"O {coif}","ac":(["infernal":658,"fire":652,"cold":643,"disruption":570,"stress":629,"unholy":583,"crushing":644,"cutting":620,"strike":598,"vacuum":548,"plasma":576,"impact":664,"impaling":673,"holy":624,"aether":564,"electricity":605,]),])

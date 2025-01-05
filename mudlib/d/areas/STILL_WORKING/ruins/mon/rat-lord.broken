@@ -1,0 +1,167 @@
+
+#include "../ruins.h"
+#include <std.h>
+inherit MONSTER;
+ 
+void create() {
+   object ob;
+
+   ::create();
+   set_name("rat lord");
+   set("id", ({"rat", "lord", "rat_to_start_invasion"}) );
+   set_level(30);
+   set_property("enhance criticals",-5);
+   set_max_hp(3000);
+   set_hp(3000);
+   set("short", "rat-lord");
+   set("long", "The horrible creature before you is the most feared of all rat-man, the rat-lord.  The rat-lord is a powerful magical being who has all the rat's of the realm under his spells.  All the rat-lord wants is to take over the world.");
+   set("race", "rat");
+   set_gender("male");
+   set_money("mithril", 100+(random(25)));
+   set_body_type("rat");
+   set_overall_ac(70);
+   set_overall_ac(70);
+   set_skill("illusionism", 175);
+   set_skill("conjuration", 175);
+   set_skill("elementalism", 175);
+   set_skill("chaos lore", 175);
+   set_skill("necromancy", 175);
+   set_skill("blade", 100);
+   set_skill("concentrate", 175);
+   set_languages( ({"common", "ratish"}) );
+   set_combat_chance(90);
+   add_spell("elemental bane", "$A");
+   set_spell_level("elemental bane", 6);
+   add_spell("fireball", "$A");
+   set_spell_level("fireball", 6);
+   add_spell("greater elemental bolt", "$A");
+   set_spell_level("greater elemental bolt", 6);
+   add_spell("lightning bolt", "$A");
+   set_spell_level("lightning bolt", 6);
+   add_spell("decay", "$A");
+   set_spell_level("decay", 6);
+   add_spell("curse", "$A");
+   set_spell_level("curse", 6);
+   set_emotes(5, ({
+               "The rat-lord eyes you suspiciously.",
+               "The rat-lord sniffs you up and down.",
+               "The rat-lord puts his nose to the air and laughs.",
+               "The rat-lord mutters, \"Foolish mortal...\"",
+                   }), 0);
+   set_achats(20, ({
+     "The rat-lord shouts, \"Your death will be like a thousand deaths, foolish mortal!\"",
+     "The rat-lord shouts, \"You will suffer the fate of all who are not rats!\"",
+     "The rat-lord shouts, \"You cannot defeat me!  I am the RAT-LORD!\"",
+                   }) );
+//   new(ITEM+"poison_sw.c")->move(this_object());
+//    force_me("wield sword in right hand");
+   force_me("use concentrate");
+}
+
+varargs die(object ob) {
+   object ob1;
+
+message("shout", "%^BOLD%^%^GREEN%^Rat-lord shouts:%^RESET%^ "+
+"Curse upon the mortal races. I will get my revenge upon all of you. Go forth my rat-man legions. Infest the cities of the world. Don't leave a single house standing. You shall feel my wraith!", users());
+  
+new(MON+"rat_raider")->move(find_object_or_load("/wizards/khojem/port/room/s16"));
+new(MON+"rat_raider")->move(find_object_or_load("/wizards/khojem/port/room/s03"));
+new(MON+"rat_raider")->move(find_object_or_load("/wizards/khojem/port/room/s05"));
+new(MON+"rat_raider")->move(find_object_or_load("/wizards/khojem/port/room/s09"));
+new(MON+"rat_demon")->move(find_object_or_load("/wizards/khojem/port/room/s16"));
+new(MON+"rat_demon")->move(find_object_or_load("/wizards/khojem/port/room/s03"));
+new(MON+"rat_demon")->move(find_object_or_load("/wizards/khojem/port/room/s05"));
+new(MON+"rat_demon")->move(find_object_or_load("/wizards/khojem/port/room/s09"));
+new(MON+"rat_raider")->move(find_object_or_load("/wizards/khojem/port/room/s04"));
+new(MON+"rat_raider")->move(find_object_or_load("/wizards/khojem/port/room/s08"));
+new(MON+"rat_raider")->move(find_object_or_load("/wizards/khojem/port/room/s25"));
+new(MON+"rat_raider")->move(find_object_or_load("/wizards/khojem/port/room/s14"));
+new(MON+"rat_demon")->move(find_object_or_load("/wizards/khojem/port/room/ngate"));
+new(MON+"rat_demon")->move(find_object_or_load("/wizards/khojem/port/room/wgate"));
+new(MON+"rat_demon")->move(find_object_or_load("/wizards/khojem/port/room/s25"));
+new(MON+"rat_demon")->move(find_object_or_load("/wizards/khojem/port/room/s14"));
+new(MON+"rat_raider")->move(find_object_or_load("/d/damned/akkad/ak_marknw"));
+new(MON+"rat_raider")->move(find_object_or_load("/d/damned/akkad/ak_markne"));
+new(MON+"rat_raider")->move(find_object_or_load("/d/damned/akkad/ak_marksw"));
+new(MON+"rat_raider")->move(find_object_or_load("/d/damned/akkad/ak_markse"));
+new(MON+"rat_demon")->move(find_object_or_load("/d/damned/akkad/ak_marknw"));
+new(MON+"rat_demon")->move(find_object_or_load("/d/damned/akkad/ak_markne"));
+new(MON+"rat_demon")->move(find_object_or_load("/d/damned/akkad/ak_marksw"));
+new(MON+"rat_demon")->move(find_object_or_load("/d/damned/akkad/ak_markse"));
+new(MON+"rat_raider")->move(find_object_or_load("/d/damned/akkad/ak_victory8"));
+new(MON+"rat_raider")->move(find_object_or_load("/d/damned/akkad/ak_ak_haven1"));
+new(MON+"rat_raider")->move(find_object_or_load("/d/damned/akkad/ak_egate"));
+new(MON+"rat_raider")->move(find_object_or_load("/d/damned/akkad/ak_sgate"));
+new(MON+"rat_demon")->move(find_object_or_load("/d/damned/akkad/ak_ngate"));
+new(MON+"rat_demon")->move(find_object_or_load("/d/damned/akkad/ak_wgate"));
+new(MON+"rat_demon")->move(find_object_or_load("/d/damned/akkad/ak_egate"));
+new(MON+"rat_demon")->move(find_object_or_load("/d/damned/akkad/ak_sgate"));
+   ob1 = new(MON+"rat_adv_guard");
+   ob1->set_moving(1);
+   ob1->set_speed(10);
+   ob1->move(find_object_or_load("/d/damned/akkad/ak_ngate"));
+   ob1 = new(MON+"rat_adv_guard");
+   ob1->set_moving(1);
+   ob1->set_speed(10);
+   ob1->move(find_object_or_load("/d/damned/akkad/ak_wgate"));
+   ob1 = new(MON+"rat_adv_guard");
+   ob1->set_moving(1);
+   ob1->set_speed(10);
+   ob1->move(find_object_or_load("/d/damned/akkad/ak_egate"));
+   ob1 = new(MON+"rat_adv_guard");
+   ob1->set_moving(1);
+   ob1->set_speed(10);
+   ob1->move(find_object_or_load("/d/damned/akkad/ak_sgate"));
+   ob1 = new(MON+"rat_adv_guard");
+   ob1->set_moving(1);
+   ob1->set_speed(10);
+   ob1->move(find_object_or_load("/d/damned/akkad/ak_haven4"));
+   ob1 = new(MON+"rat_adv_guard");
+   ob1->set_moving(1);
+   ob1->set_speed(10);
+   ob1->move(find_object_or_load("/d/damned/akkad/ak_haven5"));
+   ob1 = new(MON+"rat_adv_guard");
+   ob1->set_moving(1);
+   ob1->set_speed(10);
+   ob1->move(find_object_or_load("/d/damned/akkad/ak_victory4"));
+   ob1 = new(MON+"rat_adv_guard");
+   ob1->set_moving(1);
+   ob1->set_speed(10);
+   ob1->move(find_object_or_load("/d/damned/akkad/ak_victory5"));
+   ob1 = new(MON+"rat_adv_guard");
+   ob1->set_moving(1);
+   ob1->set_speed(10);
+   ob1->move(find_object_or_load("/d/damned/akkad/ak_ngate"));
+   ob1 = new(MON+"rat_adv_guard");
+   ob1->set_moving(1);
+   ob1->set_speed(10);
+   ob1->move(find_object_or_load("/wizards/khojem/port/room/wgate"));
+   ob1 = new(MON+"rat_adv_guard");
+   ob1->set_moving(1);
+   ob1->set_speed(10);
+   ob1->move(find_object_or_load("/wizards/khojem/port/room/s25"));
+   ob1 = new(MON+"rat_adv_guard");
+   ob1->set_moving(1);
+   ob1->set_speed(10);
+   ob1->move(find_object_or_load("/wizards/khojem/port/room/s14"));
+   ob1 = new(MON+"rat_adv_guard");
+   ob1->set_moving(1);
+   ob1->set_speed(10);
+   ob1->move(find_object_or_load("/wizards/khojem/port/room/s08"));
+   ob1 = new(MON+"rat_adv_guard");
+   ob1->set_moving(1);
+   ob1->set_speed(10);
+   ob1->move(find_object_or_load("/wizards/khojem/port/room/s10"));
+   ob1 = new(MON+"rat_adv_guard");
+   ob1->set_moving(1);
+   ob1->set_speed(10);
+   ob1->move(find_object_or_load("/wizards/khojem/port/room/s04"));
+   ob1 = new(MON+"rat_adv_guard");
+   ob1->set_moving(1);
+   ob1->set_speed(10);
+   ob1->move(find_object_or_load("/wizards/khojem/port/room/s17"));
+
+   write_file("/d/camps/azura/ruins/logs/rat-lord.log",
+      "Rat-Lord died "+ctime(time())+".\n");
+   ::die();
+}

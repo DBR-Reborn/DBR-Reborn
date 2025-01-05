@@ -1,0 +1,7 @@
+#/d/damned/virtual/leather-glove.armour.c
+encumbrance 2
+props (["value":3,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"leather","extra long":({"Crafted by: Azazel with A Level [59] Dragon leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress engrave_azazel":0,"progress enchanter_mark_okkita":0,"progress engrave_inikhida":0,"new desc":"%^B_BLUE%^RESET%^ {leather glove}","progress engrave_lilund":0,"progress engrave_boric":0,"material_name":"Dragon","pow enchanter_mark_okkita":0,"progress inscribe_malsa_sen_zora_lore":0,"progress inscribe_malsa_bonnes_lore":0,])
+true_name "leather glove"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Dragon"
+armour_save (["short desc":"%^B_BLUE%^RESET%^ {leather glove}","ac":(["infernal":447,"disruption":444,"stress":443,"unholy":447,"crushing":468,"cutting":483,"vacuum":446,"plasma":453,"impaling":466,"holy":449,"fire":447,"cold":461,"strike":453,"impact":454,"aether":443,"electricity":452,]),])

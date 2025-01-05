@@ -1,0 +1,7 @@
+#/d/areas/arm_dealers/nalon/obj/sandals.c
+encumbrance 30
+props (["material_name":"leather","pow major_fortification_cranston":0,"value":40,"progress major_fortification_cranston":0,"material_type":"none","extra long":({({"Fortification: %^CYAN%^+40","detect magic",}),}),"enchantment":40,])
+true_name "A pair of sandals"
+creator "/d/areas/arm_dealers/nalon/mon/monk_boss#666"
+material "/leather"
+armour_save (["ac":(["infernal":7,"disruption":7,"stress":7,"crushing":7,"unholy":7,"cutting":7,"vacuum":7,"plasma":7,"impaling":7,"holy":7,"cold":7,"fire":7,"strike":7,"impact":7,"electricity":7,"aether":7,]),])

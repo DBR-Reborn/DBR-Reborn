@@ -1,0 +1,8 @@
+#/d/damned/virtual/great-helm.armour
+#/d/damned/virtual/great-helm.armour.c
+encumbrance 100
+props (["material_name":"laen","value":45,"material_type":"metal","extra long":"level[42] laen helm of disruption and electricity protection","new desc":"level[42] laen helm of disruption and electricity protection",])
+true_name "great helm"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"level[42] laen helm of disruption and electricity protection","ac":(["infernal":43,"disruption":167,"stress":43,"crushing":43,"unholy":43,"cutting":43,"vacuum":43,"plasma":43,"impaling":43,"holy":43,"cold":43,"fire":43,"strike":43,"impact":43,"electricity":136,"aether":43,]),])

@@ -1,0 +1,8 @@
+#/d/damned/virtual/stumps.armour
+#/d/damned/virtual/stumps.armour.c
+encumbrance 1
+props (["runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"%^COLOR57%^+SHROUDED+%^RESET%^ stumps {stumps}","material_name":"abachi","true armour":1,"progress engrave_mythicos":0,"progress extreme_fortification_azazel":0,"progress inscribe_malsa_sen_zora_azazel":0,"value":90,"extra long":({"Crafted by: Tursnik with A wooden board of abachi [256]","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"wood","progress engrave_azazel":0,"progress inscribe_malsa_bonnes_azazel":0,"pow extreme_fortification_azazel":0,"pow true_armour_azazel":0,"progress true_armour_azazel":0,"progress inscribe_aldara_zet_azazel":0,"enchantment":100,])
+true_name "stumps"
+creator "/d/damned/virtual/armour_server"
+material "/wood/abachi"
+armour_save (["enhance critical":-4,"short desc":"%^COLOR57%^+SHROUDED+%^RESET%^ stumps {stumps}","ac":(["infernal":1017,"disruption":964,"stress":938,"unholy":942,"crushing":1042,"cutting":1070,"vacuum":1033,"plasma":964,"impaling":1136,"holy":975,"fire":1038,"cold":1016,"strike":1101,"impact":1114,"aether":974,"electricity":1000,]),])

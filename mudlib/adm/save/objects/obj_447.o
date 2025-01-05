@@ -1,0 +1,6 @@
+#/std/diewarzau/obj/misc/ingot.c
+encumbrance 660
+props (["material_name":"catoetine","value":1650,"material_type":"metal",])
+true_name "ingot"
+creator "/std/skills/minning#2308"
+material "/metal/catoetine"

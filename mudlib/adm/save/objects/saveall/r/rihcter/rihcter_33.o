@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-boots.armour
+#/d/damned/virtual/leather-boots.armour.c
+encumbrance 1
+props (["runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"new desc":"%^COLOR81%^Enchanted%^RESET%^ {leather boots}","material_name":"Silver dragon","true armour":1,"pow enchanter_mark_rihcter":0,"pow true_armour_rihcter":0,"progress inscribe_malsa_bonnes_rihcter":0,"value":30,"material_type":"leather","extra long":({"Crafted by: Rihcter with A Level [100] Silver dragon leather",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",}),"progress extreme_fortification_rihcter":0,"progress inscribe_aldara_zet_rihcter":0,"progress true_armour_rihcter":0,"pow extreme_fortification_rihcter":0,"progress enchanter_mark_rihcter":0,"progress inscribe_malsa_sen_zora_rihcter":0,"enchantment":100,])
+true_name "leather boots"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Silver dragon"
+armour_save (["enhance critical":-6,"short desc":"%^COLOR81%^Enchanted%^RESET%^ {leather boots}","ac":(["infernal":1001,"disruption":1009,"stress":1040,"unholy":986,"crushing":1045,"cutting":1012,"vacuum":1020,"plasma":987,"impaling":1018,"holy":997,"fire":1071,"cold":1052,"strike":1042,"impact":1002,"aether":1011,"electricity":995,]),])

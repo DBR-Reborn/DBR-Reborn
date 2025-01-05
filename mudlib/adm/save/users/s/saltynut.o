@@ -1,0 +1,63 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":30,"light":0,"hp advance":15,"melee damage":(["crushing":5,]),"handedness":"right hand","last reinc":1672531117,"dev point base":73,"mp advance":40,"last read news":1707338204,"old exp":10149,"sp points":8,"base mp regen":19,"ambidextry":1,"base hp regen":15,"combat color":"%^BOLD%^","dev points":750,])
+true_name "saltynut"
+creator "/adm/obj/login#169149"
+max_internal_encumbrance 2850
+deaths ({({"undead hound",1672553665,}),})
+player_data (["kills":({21,118,0,1,0,0,0,0,0,0,0,0,15,0,0,0,45,0,203,117,200,201,202,142,204,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,85,0,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,129,127,128,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137,126,167,186,18,20,231,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,55,0,0,0,0,0,0,}),"general":(["alignment":17,"exp buffer":0,"sp":1,"max_hp":390,"hp":390,"max exp":2194405,"experience":2194406,"last adjust":1707338959,"max_sp":742,]),])
+magic (["max points":854,"points":854,])
+severed ([])
+healing (["quenched":700,"stuffed":855,])
+body (["right foot":(["damage":0,"weapon":0,"armour_ob":({,,,,}),"max_dam":97,"weapons":0,"ac":0,"limb_ref":"","armour":({"metal foots","metal torso","leather foots","robe",}),]),"right leg":(["damage":0,"crippled":0,"armour_ob":({,,,,,}),"weapon":0,"max_dam":130,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"leather legs","metal torso","metal legs","robe","taces",}),]),"head":(["damage":0,"weapon":0,"armour_ob":({,,,,,,}),"max_dam":195,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"leather head","metal face","metal head","cloth head","cloth back","robe",}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({,,,,}),"max_dam":97,"weapons":0,"ac":0,"limb_ref":"","armour":({"metal foots","metal torso","leather foots","robe",}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({,,,,}),"max_dam":130,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm","metal torso","robe","leather torso",}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({,,,,,,,}),"max_dam":390,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"tabard","belt","cloth back","metal torso","cloth torso","robe","leather torso",}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({,,,,,}),"max_dam":130,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"leather legs","metal torso","metal legs","robe","taces",}),]),"right hand":(["damage":0,"armour_ob":({,,,,,,}),"weapon":0,"max_dam":97,"weapons":,"wieldable":1,"ac":0,"limb_ref":"","armour":({"glove","leather hand","metal hand","metal torso","robe",}),]),"left hand":(["damage":0,"armour_ob":({,,,,,}),"weapon":0,"max_dam":97,"weapons":0,"wieldable":1,"ac":0,"limb_ref":"","armour":({"glove","leather hand","metal hand","metal torso","robe",}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({,,,,}),"max_dam":130,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"metal arm","metal torso","robe","leather torso",}),]),])
+limbs ({"left leg","torso","head","right leg","right hand","left arm","right arm","left hand","left foot","right foot",})
+all_my_fingers 5
+heal_rate 66
+char_class "enchanter"
+skills (["sorcery":(["stat":"intelligence","last dev":({0,0,}),"level":5,]),"concentrate":(["stat":"intelligence","last dev":({6,1,}),"level":5,]),"prayer":(["stat":"wisdom","last dev":({5,1,}),"level":5,]),"compare":(["stat":"intelligence","last dev":({10,4,}),"level":39,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"energy manipulation":(["stat":"intelligence","last dev":({5,1,}),"level":5,]),"repair wood weapon":(["stat":"dexterity","last dev":({1,1,}),"level":5,]),"body alteration":(["stat":"wisdom","last dev":({6,1,}),"level":15,]),"blade":(["stat":"dexterity","last dev":({13,3,}),"level":77,]),"detect magic":(["stat":"intelligence","last dev":({6,1,}),"level":5,]),"conjuration":(["stat":"intelligence","last dev":({0,0,}),"level":5,]),"dual attack":(["stat":"dexterity","last dev":({13,4,}),"level":25,]),"woodland stealth":(["stat":"dexterity","level":5,]),"repair weapon":(["stat":"dexterity","last dev":({8,2,}),"level":42,]),"swimming":(["stat":"constitution","last dev":({3,1,}),"level":15,]),"offhand training":(["stat":"dexterity","last dev":({12,4,}),"level":39,]),"focus casting":(["stat":"intelligence","last dev":({6,1,}),"level":5,]),"dodge":(["stat":"dexterity","last dev":({13,2,}),"level":10,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"enchantment":(["stat":"intelligence","last dev":({8,2,}),"level":20,]),"attack":(["stat":"dexterity","last dev":({12,4,}),"max":0,"points":0,"level":99,]),])
+spells (["divine might":(["last dev":({6,1,}),"level":2,]),"satisfy hunger":(["last dev":({5,1,}),"level":3,]),"bless armour":(["last dev":({6,1,}),"level":2,]),"flame blade":(["last dev":({6,2,}),"level":2,]),"holy armour":(["last dev":({7,1,}),"level":1,]),"cure serious wounds":(["last dev":({12,1,}),"level":1,]),"cure light wounds":(["last dev":({6,2,}),"level":2,]),"protection from chaos":(["last dev":({6,1,}),"level":1,]),"preserve corpse":(["last dev":({5,2,}),"level":2,]),])
+wimpydir "out"
+hits 4
+i 1
+k 4
+num_attacks 1
+num_rounds 1
+skill 197
+env_var (["TITLE":"Alchemist $N the Wood-elf","start":"/d/daybreak/room/db_square","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money (["silver":144,"gold":775,])
+ok_to_heal 475633
+player_age 475622
+sight_bonus 4
+gender "male"
+state "stand"
+stats (["wisdom":55,"dexterity":106,"strength":95,"constitution":95,"intelligence":102,"charisma":51,])
+languages (["goblinish":5,"common":10,"elvish":10,"middle-english":2,])
+primary_language "common"
+language_exp (["goblinish":({4,1,}),"pix":({1,0,}),"grken":({0,0,}),"middle-english":({3,0,}),])
+xp_to_next_dev 2195350
+alias (["asa":"all spells active","tt":"town","as":"all skills","w":"west","u":"up","lac":"look at corpse","s":"south","rw":"use repair weapon at sword","mm":"mountains","bio":"biography","n":"north","l":"look $*","rr":"road","ks":"kill skeleton","i":"inventory","ppll":"protection limbs","e":"east","d":"east","km":"kill monk","car":"caravan","a":"west","pp":"plains","kg":"kill goblin","nw":"northwest","sbboa":"say bob, boa at saltynut","sw":"southwest","exa":"look at $*","st":"status","ne":"northeast","asp":"all spells","gc":"get coins from corpse","se":"southeast","ksq":"kill squig","sc":"score","sbdt":"say bob, dt at saltynu","ksn":"kill snotling",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+zexp 2153298
+znexp 2332943
+zlexp 179645
+znlevel 14
+zlevel 13
+auto_load ({})
+level 13
+verbose_moves 1
+birth 1672454870
+blocked (["enchanter":0,])
+exp_log ([1672794367:883,1672724011:438,1672524538:-97,1672598617:-1163,1672723256:1750,1672693860:438,1672467970:-97,])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "jbinney07@icloud.com"
+email "jbinney07@icloud.com"
+ip "174.231.21.114"
+last_on "Wed Feb  7 20:36:44 2024"
+password "$6$3w6/vG4c.Ditzeze$2tC.L4tAHQSb5KQjkmP9S7/vVmfHXdQu68b.9kR9Ahx9dVcYs5icIYdzbrgRORsb01wv7ZoiOaIB6KlNu1b6.."
+race "wood-elf"
+original_site "159.203.67.128"
+position "player"
+primary_start "/d/standard/square"
+quests ({})

@@ -1,0 +1,7 @@
+#/d/1tlny/loot/hooded_robe.c
+encumbrance 100
+props (["material_name":"cloth","value":400,"extra long":"level[40] Rare Robe of cold and disruption protection","material_type":"none","new desc":"level[40] Rare Robe of cold and disruption protection",])
+true_name "hooded robe"
+creator "/d/areas/dragon/mon/skinny_dragon#182633"
+material "/cloth"
+armour_save (["short desc":"level[40] Rare Robe of cold and disruption protection","ac":(["infernal":72,"fire":72,"cold":157,"disruption":147,"stress":72,"unholy":72,"crushing":72,"cutting":72,"strike":72,"vacuum":72,"plasma":72,"impact":72,"impaling":72,"holy":72,"aether":72,"electricity":72,]),])

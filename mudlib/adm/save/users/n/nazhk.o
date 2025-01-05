@@ -1,0 +1,59 @@
+#/std/user.c
+encumbrance 500
+props (["allow_over_max":0,"extra hp regen":20,"light":0,"sp points":0,"xp mod":-60,"old exp":0,"hp advance":50,"melee damage":(["crushing":8,"electricity":8,]),"natural ac":6,"base mp regen":6,"handedness":"left hand","ambidextry":0,"last reinc":1668893662,"base hp regen":19,"dev point base":69,"mp advance":15,"combat color":"%^BOLD%^","last read news":1668893662,"dev points":127,])
+true_name "nazhk"
+creator "/adm/obj/login#815"
+max_internal_encumbrance 4050
+player_data (["kills":({118,21,129,127,128,138,0,1,137,167,149,140,}),"general":(["max exp":78398,"alignment":2,"exp buffer":0,"sp":1,"experience":78399,"last adjust":1668895713,"max_hp":528,"max_sp":0,"hp":528,]),])
+magic (["max points":160,"points":160,])
+severed ([])
+healing (["stuffed":625,"quenched":1000,])
+body (["torso":(["damage":0,"armour_ob":({,,}),"max_dam":528,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"leather torso","robe",}),]),"left leg":(["damage":0,"armour_ob":({,,}),"max_dam":176,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"leather legs","robe",}),]),"right foot":(["damage":0,"armour_ob":({,,}),"max_dam":132,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots","robe",}),]),"right leg":(["damage":0,"armour_ob":({,,}),"max_dam":176,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"leather legs","robe",}),]),"head":(["damage":0,"armour_ob":({,,,}),"max_dam":264,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"chain head","robe","metal head",}),]),"right hand":(["damage":0,"armour_ob":({,,}),"max_dam":132,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({"cloth hand","robe",}),]),"left foot":(["damage":0,"armour_ob":({,,}),"max_dam":132,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots","robe",}),]),"left arm":(["damage":0,"armour_ob":({,,}),"max_dam":176,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm","robe",}),]),"left hand":(["damage":0,"armour_ob":({,,}),"max_dam":132,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({"cloth hand","robe",}),]),"right arm":(["damage":0,"armour_ob":({,,}),"max_dam":176,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"metal arm","robe",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 6
+heal_rate 87
+char_class "fighter"
+skills (["block":(["stat":"strength","last dev":({4,2,}),"level":10,]),"whirlwind attack":(["stat":"constitution","last dev":({5,2,}),"level":10,]),"compare":(["stat":"intelligence","last dev":({5,1,}),"level":15,]),"kick":(["stat":"strength","last dev":({5,3,}),"level":30,]),"melee":(["stat":"strength","last dev":({5,4,}),"max":0,"points":0,"level":46,]),"shield bash":(["stat":"strength","last dev":({5,2,}),"level":25,]),"swimming":(["stat":"constitution","last dev":({5,2,}),"level":42,]),"dodge":(["stat":"dexterity","last dev":({5,2,}),"level":30,]),"fast attack":(["stat":"constitution","last dev":({5,3,}),"level":36,]),"parry":(["stat":"dexterity","last dev":({5,2,}),"level":44,]),"trade lore":(["stat":"charisma","last dev":({5,1,}),"level":20,]),"perception":(["stat":"intelligence","last dev":({5,2,}),"level":36,]),"martial arts":(["stat":"dexterity","last dev":({5,3,}),"level":48,]),"attack":(["stat":"dexterity","last dev":({5,3,}),"max":0,"points":0,"level":46,]),])
+spells ([])
+wimpydir "out"
+protection 11
+hits 9
+i 1
+j 2
+k 3
+num_attacks 1
+x 22
+num_rounds 2
+skill 100
+env_var (["start":"/d/areas/arm_dealers/nalon/rooms/room11","TITLE":"$N","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money (["silver":3472,"gold":67,"copper":2640,])
+ok_to_heal 4122
+player_age 4110
+sight_bonus 1
+gender "male"
+state "stand"
+stats (["wisdom":66,"dexterity":103,"strength":135,"constitution":130,"intelligence":60,"charisma":26,])
+languages (["common":10,"stormspeak":10,])
+primary_language "common"
+xp_to_next_dev 78565
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 5
+birth 1668893662
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "@comcast.net"
+ip "68.41.203.137"
+last_on "Sat Nov 19 21:34:22 2022"
+password "$6$43hfysVpvSe9dWc9$JS2rkBLQhnITk6i9a.oXwKkKXPWGk6MfDsXt.NHT7O/3XhCFYLxUpMfWGLUDmjZGoQeWd6gvxJKxwzMWGUwN/0"
+race "storm-giant"
+original_site "68.41.203.137"
+position "player"
+quests ({})

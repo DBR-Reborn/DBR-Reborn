@@ -1,0 +1,7 @@
+#/d/areas/tyranid/obj/bonesword.c
+encumbrance 100
+props (["material_name":"chitin","value":200,"material_type":"misc","no decay":1,"no add quality":1,])
+true_name "sword"
+creator "/d/areas/tyranid/mon/tyrant1#182530"
+material "/misc/chitin"
+__Weapon (["original wc":(["fire":114,"cold":114,"impaling":10,"stress":10,"cutting":15,]),"quality":5,"unwield":"After several seconds of effort you manage to tear your fingers awayfrom the tiny tentrils which then withdraw into their bony housings.Looking at your hands you notice rows of tiny bleeding holes onyour fingers...","type":"blade","wield":"Bony plates in the 'hilt' shift to accomdate your grip.  Tiny tendrilssnake out from the gaps and wrap themselves securely around your fingers.As the weapon begins to vibrate in your hand you are glad to have theextra support.","ac":(["infernal":3,"disruption":3,"stress":3,"crushing":3,"unholy":3,"cutting":3,"vacuum":3,"plasma":3,"impaling":3,"holy":3,"cold":3,"fire":3,"strike":3,"impact":3,"electricity":3,"aether":3,]),"verb":"slash","wc":(["fire":114,"cold":114,"impaling":10,"stress":10,"cutting":114,]),"decay rate":200,"parry bonus":5,])

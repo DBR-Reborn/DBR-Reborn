@@ -1,0 +1,8 @@
+#/d/damned/virtual/wooden-armour.armour
+#/d/damned/virtual/wooden-armour.armour.c
+encumbrance 1
+props (["value":150,"runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"progress inscribe_malsa_sen_zora_creg":0,"material_type":"wood","extra long":({"Crafted by: Creg with A wooden board of abachi [272]","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress true_armour_creg":0,"progress inscribe_aldara_zet_creg":0,"progress inscribe_malsa_bonnes_creg":0,"material_name":"abachi","true armour":1,"pow true_armour_creg":0,])
+true_name "wooden armour"
+creator "/d/damned/virtual/armour_server"
+material "/wood/abachi"
+armour_save (["enhance critical":-4,"short desc":"wooden armour","ac":(["infernal":1267,"disruption":1239,"stress":1201,"unholy":1234,"crushing":1224,"cutting":1224,"vacuum":1265,"plasma":1295,"impaling":1245,"holy":1245,"fire":1263,"cold":1234,"strike":1269,"impact":1227,"aether":1202,"electricity":1329,]),])

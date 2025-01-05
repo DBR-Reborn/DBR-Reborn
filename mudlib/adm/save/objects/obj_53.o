@@ -1,0 +1,7 @@
+#/d/1tlny/loot/hooded_robe.c
+encumbrance 100
+props (["progress engrave_dalton":0,"value":400,"extra long":({"level[47] Rare Robe of vacuum and stress protection",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),}),"material_type":"none","progress engrave_kigus":0,"progress engrave_azazel":0,"pow extreme_fortification_azazel":0,"new desc":"%^B_BLUE%^Angelic%^RESET%^ {robe}","material_name":"cloth","true armour":1,"pow true_armour_azazel":0,"progress true_armour_azazel":0,"progress extreme_fortification_azazel":0,"enchantment":100,])
+true_name "hooded robe"
+creator "/d/areas/dragon/mon/cursed_dragon#36900"
+material "/cloth"
+armour_save (["enhance critical":-4,"short desc":"%^B_BLUE%^Angelic%^RESET%^ {robe}","ac":(["infernal":55,"disruption":55,"stress":169,"crushing":55,"unholy":55,"cutting":55,"vacuum":183,"plasma":55,"impaling":55,"holy":55,"cold":55,"fire":55,"strike":55,"impact":55,"electricity":55,"aether":55,]),])

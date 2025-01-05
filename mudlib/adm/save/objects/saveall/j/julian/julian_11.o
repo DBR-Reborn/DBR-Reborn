@@ -1,0 +1,8 @@
+#/d/damned/virtual/plate-bracer.armour
+#/d/damned/virtual/plate-bracer.armour.c
+encumbrance 45
+props (["runes":({"aldara zet","malsa sen zora","malsa bonnes",}),"progress true_armour_zurr":0,"new desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Spaulders%^RESET%^ {bracer}","material_name":"laen","true armour":1,"progress inscribe_malsa_sen_zora_mort":0,"pow extreme_fortification_zurr":0,"progress extreme_fortification_zurr":0,"progress inscribe_aldara_zet_mort":0,"progress inscribe_malsa_bonnes_mort":0,"pow enchanter_mark_zurr":0,"value":60,"material_type":"metal","extra long":({"A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress enchanter_mark_zurr":0,"pow true_armour_zurr":0,"enchantment":100,])
+true_name "plate bracer"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-7,"short desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Spaulders%^RESET%^ {bracer}","ac":(["infernal":320,"disruption":311,"stress":325,"crushing":305,"unholy":314,"cutting":299,"vacuum":310,"plasma":310,"impaling":290,"holy":308,"cold":333,"fire":324,"strike":349,"impact":352,"electricity":321,"aether":302,]),])

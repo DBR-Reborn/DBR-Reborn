@@ -1,0 +1,8 @@
+#/d/damned/virtual/wood-hand-guard.armour
+#/d/damned/virtual/wood-hand-guard.armour.c
+encumbrance 6
+props (["material_name":"abachi","value":10,"progress engrave_tursnik":0,"extra long":"Crafted by: Tursnik with A wooden board of abachi [364]","material_type":"wood","new desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {wood hand guard}",])
+true_name "wood hand guard"
+creator "/d/damned/virtual/armour_server"
+material "/wood/abachi"
+armour_save (["short desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {wood hand guard}","ac":(["infernal":717,"disruption":764,"stress":785,"unholy":777,"crushing":613,"cutting":653,"vacuum":621,"plasma":647,"impaling":704,"holy":732,"fire":663,"cold":775,"strike":740,"impact":613,"aether":766,"electricity":773,]),])

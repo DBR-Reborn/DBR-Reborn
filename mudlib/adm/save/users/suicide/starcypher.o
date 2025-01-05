@@ -1,0 +1,61 @@
+#/std/user.c
+encumbrance 500
+props (["melee damage":(["crushing":10,]),"natural ac":4,"base mp regen":3,"handedness":"left hand","extra hp regen":300,"ambidextry":0,"last reinc":1700428729,"base hp regen":3,"dev point base":70,"old exp":10149,"enhance criticals":(["fire":1,]),"xp mod":-15,"sp points":0,"light":0,"combat color":"%^BOLD%^","limb regen":1,"last read news":1700428729,"dev points":70,"corpse eating":1,])
+true_name "starcypher"
+creator "/adm/obj/login#182814"
+max_internal_encumbrance 3510
+player_data (["general":(["max exp":54,"exp buffer":0,"sp":1,"experience":55,"last adjust":1700430762,"max_hp":164,"max_sp":0,"hp":164,]),])
+magic (["max points":72,"points":72,])
+severed ([])
+healing (["stuffed":205,"quenched":1000,])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":164,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":54,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":41,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":54,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":82,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":41,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":41,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":54,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":41,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":54,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 172
+char_class "child"
+skills (["trade lore":(["stat":"charisma","level":5,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":5,]),"melee":(["max":0,"points":0,"level":0,]),])
+spells ([])
+wimpydir "out"
+protection 4
+hits 7
+i 1
+j 1
+k 2
+num_attacks 1
+x 15
+num_rounds 1
+skill 7
+env_var (["start":"/d/standard/square","TITLE":"Novice $N the Troll","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money ([])
+ok_to_heal 34470
+player_age 34464
+sight_bonus -1
+gender "male"
+state "stand"
+stats (["wisdom":73,"dexterity":80,"strength":117,"constitution":117,"intelligence":40,"charisma":30,])
+languages (["zebber":10,"common":10,])
+primary_language "common"
+xp_to_next_dev 304
+alias (["bio":"biography","n":"north","nw":"northwest","fn":"follow ningimbly","lic":"look in corpse","l":"look $*","er":"eat ration","grfp":"get ration from pack","ne":"northeast","pj":"party join trolls","df":"drink fountain","i":"inventory","gac":"get all from corpse","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+ghost 1
+verbose_moves 1
+birth 1700428729
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "polysmashface27@gmail.com"
+ip "174.244.19.94"
+last_on "Sun Nov 19 21:18:49 2023"
+password "$6$aGU7rmxBwH.VibeL$e1ey.fD6V5J39Eb8niszv8JS30Lw21g1gZuoVTwNpXW/ZmTcC0wE3dn.NZU5uRd7C.OvoggpFaVWIyYYtAcgp/"
+race "troll"
+original_site "174.244.19.94"
+position "player"
+quests ({})

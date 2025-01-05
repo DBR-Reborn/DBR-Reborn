@@ -1,0 +1,27 @@
+#/std/spells/summon/nethergeist.c
+props (["melee damage":(["impact":79,"crushing":79,]),"physical resistance":(["silver":-20,"default":96,"wood":96,"steel":96,"iron":96,]),"magic resistance":125,"base mp regen":175,"ambidextry":1,"enhance criticals":-3,"base hp regen":175,])
+true_name "nethergeist"
+creator "/adm/daemon/save_items_d"
+max_internal_encumbrance 4980
+player_data (["general":(["exp buffer":0,"sp":1,"experience":35000,"max_hp":8140,"max_sp":1,"hp":8140,]),])
+magic (["max points":5288,"points":5288,])
+severed ([])
+healing ([])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":4070,"weapons":0,"ac":60,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":4070,"weapons":0,"ac":30,"limb_ref":"left foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":4070,"weapons":0,"ac":30,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":4070,"weapons":0,"ac":30,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":4070,"weapons":0,"ac":30,"limb_ref":"","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":4070,"wieldable":1,"weapons":0,"ac":30,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":4070,"weapons":0,"ac":30,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":4070,"weapons":0,"ac":30,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":4070,"weapons":0,"ac":30,"limb_ref":"right hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":4070,"wieldable":1,"weapons":0,"ac":30,"limb_ref":"","armour":({}),]),])
+limbs ({"left leg","torso","right foot","right leg","head","right hand","left foot","left arm","left hand","right arm",})
+all_my_fingers 5
+heal_rate 2
+skills (["concentrate":(["stat":"intelligence","level":200,]),"two handed blade":(["stat":"dexterity","level":173,]),"body block":(["stat":"strength","level":100,]),"reverse stroke":(["stat":"dexterity","level":55,]),"melee":(["stat":"strength","max":0,"points":0,"level":169,]),"swimming":(["stat":"constitution","level":100,]),"defense":(["level":142,]),"blunt":(["stat":"dexterity","level":170,]),"knife":(["stat":"dexterity","level":181,]),"resist stun":(["stat":"constitution","level":105,]),"dodge":(["stat":"dexterity","level":169,]),"parry":(["stat":"dexterity","level":181,]),"two handed staff":(["stat":"dexterity","level":174,]),"projectile":(["level":176,]),"perception":(["stat":"intelligence","level":157,]),"blade":(["stat":"dexterity","level":172,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":165,]),])
+wimpydir "out"
+gender "neuter"
+stats (["wisdom":134,"dexterity":158,"intelligence":137,"strength":166,"constitution":139,"charisma":123,])
+languages (["undeadish":10,"common":10,])
+primary_language "undeadish"
+combat_chance 100
+level 35
+emotes ([])
+speech ([])
+spell_chance ([])
+body_type "human"
+register_idx 18
+Pet_data (["aggr status":0,"carry":0,"save":1,"change aggr":1,"attack":1,])

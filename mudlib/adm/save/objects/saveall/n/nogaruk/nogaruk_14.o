@@ -1,0 +1,7 @@
+#/d/nocte/grounds/weapon/short_sword.c
+encumbrance 45
+props (["material_name":"iron","value":400,"material_type":"metal",])
+true_name "sword"
+creator "/d/nocte/grounds/mon/bandit4#226374"
+material "/metal/iron"
+__Weapon (["original wc":(["cutting":7,]),"wielded":,"quality":3,"unwield":"You feel almost relunctant to remove such a fine weapon.","limb string":" (wielded in right hand)","type":"blade","wield":"You brandish the short sword for battle.","ac":(["infernal":3,"disruption":3,"stress":3,"crushing":3,"unholy":3,"cutting":3,"vacuum":3,"plasma":3,"impaling":3,"holy":3,"cold":3,"fire":3,"strike":3,"impact":3,"electricity":3,"aether":3,]),"verb":"hit","wc":(["cutting":7,]),"decay status":577,"decay rate":3000,])

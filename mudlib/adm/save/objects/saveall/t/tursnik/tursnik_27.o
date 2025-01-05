@@ -1,0 +1,8 @@
+#/d/damned/virtual/wooden-armour.armour
+#/d/damned/virtual/wooden-armour.armour.c
+encumbrance 1
+props (["material_name":"abachi","runes":({"aldara zet",}),"value":150,"progress engrave_tursnik":0,"extra long":({"Crafted by: Tursnik with A wooden board of abachi [352]","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",}),"material_type":"wood","progress inscribe_aldara_zet_tursnik":0,"new desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {wooden armour}",])
+true_name "wooden armour"
+creator "/d/damned/virtual/armour_server"
+material "/wood/abachi"
+armour_save (["short desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {wooden armour}","ac":(["infernal":562,"disruption":714,"stress":565,"unholy":573,"crushing":689,"cutting":629,"vacuum":684,"plasma":599,"impaling":585,"holy":708,"fire":702,"cold":640,"strike":712,"impact":627,"aether":700,"electricity":569,]),])

@@ -1,0 +1,58 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":40,"extra hp regen":25,"old exp":0,"light":0,"sp points":0,"xp mod":-50,"hp advance":18,"melee damage":(["holy":5,"crushing":5,]),"base mp regen":6,"handedness":"left hand","ambidextry":0,"last reinc":1728092818,"base hp regen":5,"dev point base":67,"enhance criticals":(["disruption":1,"holy":-1,]),"mp advance":32,"combat color":"%^BOLD%^","last read news":1728092818,"dev points":1,])
+true_name "akaysia"
+creator "/adm/obj/login#984"
+max_internal_encumbrance 3030
+player_data (["kills":({21,118,}),"general":(["alignment":2,"max exp":10337,"exp buffer":0,"sp":1,"experience":10338,"last adjust":1728094198,"max_hp":175,"max_sp":0,"hp":175,]),])
+magic (["max points":140,"points":140,])
+severed ([])
+healing (["quenched":400,"stuffed":250,])
+body (["head":(["damage":0,"armour_ob":({,,}),"max_dam":87,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"metal head","robe",}),]),"right leg":(["damage":0,"armour_ob":({,,}),"max_dam":58,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"leather legs","robe",}),]),"right foot":(["damage":0,"armour_ob":({,,}),"max_dam":43,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots","robe",}),]),"left arm":(["damage":0,"armour_ob":({,,}),"max_dam":58,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm","robe",}),]),"left foot":(["damage":0,"armour_ob":({,,}),"max_dam":43,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots","robe",}),]),"torso":(["damage":0,"armour_ob":({,,}),"max_dam":175,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"leather torso","robe",}),]),"left leg":(["damage":0,"armour_ob":({,,}),"max_dam":58,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"leather legs","robe",}),]),"right hand":(["damage":0,"armour_ob":({,,,}),"max_dam":43,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"cloth hand","robe",}),]),"right wing":(["damage":0,"armour_ob":({}),"max_dam":58,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left hand":(["damage":0,"armour_ob":({,,,}),"max_dam":43,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"cloth hand","robe",}),]),"right arm":(["damage":0,"armour_ob":({,,}),"max_dam":58,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"metal arm","robe",}),]),"left wing":(["damage":0,"armour_ob":({}),"max_dam":58,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"head","right leg","right foot","left arm","left foot","left leg","torso","right hand","right wing","right arm","left hand","left wing",})
+all_my_fingers 5
+heal_rate 32
+char_class "war-priest"
+skills (["worship of k'thach":(["stat":"wisdom","last dev":({3,4,}),"level":20,]),"prayer":(["stat":"wisdom","last dev":({3,6,}),"level":33,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"attack":(["stat":"dexterity","last dev":({0,0,}),"max":0,"points":0,"level":5,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),])
+spells (["satisfy thirst":(["last dev":({3,1,}),"level":1,]),"divine might":(["last dev":({3,1,}),"level":1,]),"holy word":(["last dev":({3,1,}),"level":2,]),"cure light wounds":(["level":1,]),"preserve corpse":(["last dev":({3,1,}),"level":1,]),"holy light":(["last dev":({3,2,}),"level":2,]),])
+wimpydir "out"
+i 2
+j 1
+k -1
+num_attacks 2
+defendflag 1
+num_rounds 1
+skill -15
+env_var (["start":"/d/daybreak/room/dbns5","TITLE":"Novice $N the Seraph","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money (["silver":122,])
+ok_to_heal 4364
+player_age 4360
+sight_bonus 3
+gender "female"
+state "stand"
+stats (["wisdom":70,"dexterity":93,"strength":101,"constitution":106,"intelligence":77,"charisma":134,])
+languages (["common":10,"serra":10,])
+primary_language "common"
+xp_to_next_dev 10525
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 3
+verbose_moves 1
+birth 1728092818
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Amy"
+email "amybaldwin529@gmail.com"
+ip "3.144.170.89"
+last_on "Sat Oct  5 01:46:58 2024"
+password "$6$KpX4nr1Ey18qzJjb$qfz4OMxot2KDjK5ob9ukBqB4FcDi95xhCQTYlp.Q24iUL10G15bCICpVBwPr9ife8LCr3C6F0LH8zF5Fx3xwK0"
+race "seraph"
+original_site "3.144.170.89"
+position "player"
+quests ({})

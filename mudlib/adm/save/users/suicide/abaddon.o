@@ -1,0 +1,59 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":50,"extra hp regen":30,"old exp":5265,"light":0,"sp points":0,"xp mod":-50,"hp advance":30,"melee damage":(["disruption":5,"crushing":5,]),"base mp regen":6,"handedness":"right hand","ambidextry":0,"last reinc":1668449674,"base hp regen":6,"dev point base":66,"enhance criticals":(["disruption":-1,"holy":1,]),"mp advance":25,"combat color":"%^BOLD%^","last read news":1668449674,"dev points":86,])
+true_name "abaddon"
+creator "/adm/obj/login#93158"
+max_internal_encumbrance 3210
+player_data (["kills":({21,118,0,1,}),"general":(["alignment":2,"max exp":5788,"exp buffer":0,"sp":1,"experience":5789,"last adjust":1668450951,"max_hp":190,"max_sp":0,"hp":190,]),])
+magic (["max points":190,"points":190,])
+severed ([])
+healing (["stuffed":625,"quenched":800,])
+body (["head":(["damage":0,"armour_ob":({}),"max_dam":95,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":63,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":47,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":63,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":47,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"torso":(["damage":0,"armour_ob":({}),"max_dam":190,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":63,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":47,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right wing":(["damage":0,"armour_ob":({}),"max_dam":63,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":47,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":63,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left wing":(["damage":0,"armour_ob":({}),"max_dam":63,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"head","right leg","right foot","left arm","left foot","left leg","torso","right hand","right wing","right arm","left hand","left wing",})
+all_my_fingers 5
+heal_rate 68
+char_class "chaotic-lord"
+skills (["control demon":(["stat":"intelligence","last dev":({2,1,}),"level":10,]),"chaos magic":(["stat":"intelligence","last dev":({2,2,}),"level":15,]),"parry":(["stat":"dexterity","last dev":({2,1,}),"level":10,]),"trade lore":(["stat":"charisma","last dev":({2,2,}),"level":20,]),"perception":(["stat":"intelligence","last dev":({2,2,}),"level":15,]),"repair weapon":(["stat":"dexterity","last dev":({2,1,}),"level":10,]),"blade":(["stat":"dexterity","last dev":({2,3,}),"level":20,]),"attack":(["stat":"dexterity","last dev":({2,2,}),"max":0,"points":0,"level":20,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),])
+spells (["disruption bolt":(["level":1,]),"summon lesser demon":(["last dev":({2,1,}),"level":1,]),])
+wimpydir "out"
+hits 6
+i 3
+j 1
+k 3
+num_attacks 3
+x 22
+num_rounds 1
+skill 172
+env_var (["start":"/d/standard/square","TITLE":"Newbie $N the Sword-demon","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 2522
+player_age 2522
+sight_bonus 3
+gender "male"
+state "stand"
+stats (["wisdom":68,"dexterity":100,"strength":107,"constitution":104,"intelligence":113,"charisma":11,])
+languages (["common":10,"yin":10,])
+primary_language "yin"
+xp_to_next_dev 5881
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 2
+ghost 1
+birth 1668449674
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "amanda.s.white@gmail.com"
+ip "68.41.203.137"
+last_on "Mon Nov 14 18:14:34 2022"
+password "$6$/jd/ldLdXG7.k0Z1$5cXiCxlGQLMbVC/SeeJ1ItTgvxIi9AEgzqeFruz4zzcRiJrhqJK3se7Hz2KrGz37shRNs0ELpr0qt2E9cGEOS."
+race "sword-demon"
+original_site "68.41.203.137"
+position "player"
+quests ({})

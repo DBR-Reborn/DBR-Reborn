@@ -1,0 +1,7 @@
+#/d/damned/guilds/nethermancer/misc/lord_robe.c
+encumbrance 90
+props (["pow true_armour_honspron":0,"progress minor_fortification_honspron":0,"pow extreme_fortification_honspron":0,"pow major_fortification_honspron":0,"material_name":"leather","true armour":1,"pow minor_fortification_honspron":0,"progress master_fortification_honspron":0,"value":6666,"pow master_fortification_honspron":0,"extra long":({({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"none","progress extreme_fortification_honspron":0,"progress true_armour_honspron":0,"enchantment":100,"progress major_fortification_honspron":0,])
+true_name "robe"
+creator "/d/areas/zoo/mon/netherlord#24214"
+material "/leather"
+armour_save (["enhance critical":-7,"short desc":"A %^RED%^red%^RESET%^ and %^BOLD%^%^BLACK%^black%^RESET%^ robe","ac":(["infernal":100,"disruption":100,"stress":100,"crushing":100,"unholy":100,"cutting":100,"vacuum":100,"plasma":100,"impaling":100,"holy":100,"cold":100,"fire":100,"strike":100,"impact":100,"electricity":100,"aether":100,]),])

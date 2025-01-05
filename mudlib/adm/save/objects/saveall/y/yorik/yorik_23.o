@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-glove.armour
+#/d/damned/virtual/leather-glove.armour.c
+encumbrance 2
+props (["progress engrave_singe":0,"progress inscribe_malsa_bonnes_singe":0,"runes":({"aldara zet","malsa bonnes","malsa sen zora",}),"new desc":"%^B_BLUE%^Divine%^RESET%^ {leather glove}","material_name":"Guard","true armour":1,"progress inscribe_malsa_sen_zora_singe":0,"progress engrave_aartos":0,"progress enchanter_mark_osric":0,"pow true_armour_upstart":0,"value":3,"material_type":"leather","extra long":({"Crafted by: Singe with A Level [13] Guard leather","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),}),"progress extreme_fortification_upstart":0,"progress enchanter_mark_okkita":0,"progress true_armour_upstart":0,"pow enchanter_mark_osric":0,"progress engrave_yorik":0,"pow extreme_fortification_upstart":0,"pow enchanter_mark_okkita":0,"progress inscribe_aldara_zet_singe":0,"enchantment":100,])
+true_name "leather glove"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Guard"
+armour_save (["enhance critical":-6,"short desc":"%^B_BLUE%^Divine%^RESET%^ {leather glove}","ac":(["infernal":225,"disruption":243,"stress":228,"crushing":237,"unholy":243,"cutting":226,"vacuum":234,"plasma":227,"impaling":233,"holy":231,"cold":223,"fire":259,"strike":283,"impact":295,"electricity":235,"aether":244,]),])

@@ -1,0 +1,58 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":50,"xp mod":-30,"light":0,"hp advance":15,"melee damage":(["crushing":5,]),"last reinc":1672424467,"handedness":"left hand","dev point base":69,"mp advance":50,"last read news":1672424467,"magic resistance":15,"sp points":0,"old exp":10149,"ambidextry":1,"base mp regen":15,"base hp regen":3,"combat color":"%^BOLD%^","dev points":69,])
+true_name "darkrose"
+creator "/adm/obj/login#131813"
+max_internal_encumbrance 2700
+player_data (["general":(["sp":1,"exp buffer":0,"max_hp":129,"hp":129,"max_sp":630,]),])
+magic (["max points":144,"points":144,])
+severed ([])
+healing ([])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":64,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":43,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":4,"weapon":0,"armour_ob":({}),"max_dam":32,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":43,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":32,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left leg":(["damage":7,"weapon":0,"armour_ob":({}),"max_dam":43,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"torso":(["damage":6,"weapon":0,"armour_ob":({}),"max_dam":129,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":32,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":43,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left hand":(["damage":8,"weapon":0,"armour_ob":({}),"max_dam":32,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 1
+char_class "necromancer"
+skills (["magery":(["stat":"intelligence","level":5,]),"illusionism":(["stat":"intelligence","level":5,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"perception":(["stat":"intelligence","last dev":({0,0,}),"level":5,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"attack":(["stat":"dexterity","last dev":({0,0,}),"max":0,"points":0,"level":5,]),])
+spells (["darkness":(["level":1,]),"levitation":(["level":1,]),"faerie fire":(["level":1,]),])
+wimpydir "out"
+i 1
+j 1
+k -1
+num_attacks 1
+defendflag 1
+num_rounds 1
+skill -10
+env_var (["TITLE":"Novice $N the Drow-elf","start":"/d/standard/square","LINES":"70","TERM":"xterm-256","SCORE":"off",])
+money ([])
+ok_to_heal 3062
+player_age 3056
+sight_bonus 5
+gender "female"
+state "stand"
+stats (["wisdom":95,"dexterity":90,"intelligence":110,"constitution":88,"strength":90,"charisma":20,])
+languages (["common":10,"drow":10,])
+primary_language "common"
+alias (["n":"north","bio":"biography","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","exa":"look at $*","sw":"southwest","e":"east","u":"up","d":"down","se":"southeast","s":"south",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+ghost 1
+birth 1672423786
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "@comcast.net"
+ip "68.41.203.137"
+last_on "Fri Dec 30 18:21:07 2022"
+password "$6$z1aEKMi8PFSx.loz$UpzMP.U8GDm8pBNbxbUnWjmrPxayeFFWq0Rt3SNwXo7sMzDjGSZRj8d3FMw.7KwcduhyC8ruQfNCtTzzHtH1k."
+race "drow-elf"
+original_site "68.41.203.137"
+position "player"
+primary_start "/d/damned/guilds/necromancer/necromancer_spell_room"
+quests ({})

@@ -1,0 +1,64 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":30,"light":0,"hp advance":15,"melee damage":(["crushing":5,]),"last reinc":1669710775,"handedness":"left hand","dev point base":69,"mp advance":50,"last read news":1669710775,"allow_over_max":0,"sp points":0,"old exp":10149,"ambidextry":1,"base mp regen":16,"base hp regen":5,"combat color":"%^BOLD%^","dev points":107,])
+true_name "jenni"
+creator "/adm/obj/login#30875"
+max_internal_encumbrance 2580
+player_data (["kills":({21,118,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,}),"general":(["sp":1,"exp buffer":0,"alignment":4,"max_hp":167,"hp":341,"max exp":12019,"experience":12020,"last adjust":1669722413,"max_sp":672,]),])
+magic (["max points":283,"points":283,])
+severed ([])
+healing (["poisoning":0,"stuffed":785,"quenched":900,])
+body (["torso":(["damage":0,"armour_ob":({,,}),"max_dam":167,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"leather torso","robe",}),]),"left leg":(["damage":0,"armour_ob":({,,}),"max_dam":55,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"leather legs","robe",}),]),"right foot":(["damage":0,"armour_ob":({,,}),"max_dam":41,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots","robe",}),]),"right leg":(["damage":0,"armour_ob":({,,}),"max_dam":55,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"leather legs","robe",}),]),"head":(["damage":0,"armour_ob":({,,,}),"max_dam":83,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"chain head","robe","metal head",}),]),"right hand":(["damage":0,"armour_ob":({,,}),"max_dam":41,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({"cloth hand","robe",}),]),"left foot":(["damage":0,"armour_ob":({,,}),"max_dam":41,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots","robe",}),]),"left arm":(["damage":0,"armour_ob":({,,}),"max_dam":55,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm","robe",}),]),"left hand":(["damage":0,"armour_ob":({,,,}),"max_dam":41,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"cloth hand","robe",}),]),"right arm":(["damage":0,"armour_ob":({,,}),"max_dam":55,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"metal arm","robe",}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 61
+char_class "arch-mage"
+skills (["sorcery":(["stat":"intelligence","last dev":({0,0,}),"level":5,]),"magery":(["stat":"intelligence","last dev":({2,1,}),"level":5,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"knife":(["stat":"dexterity","last dev":({2,1,}),"level":5,]),"perception":(["stat":"intelligence","last dev":({2,3,}),"level":20,]),"prospecting":(["stat":"intelligence","last dev":({2,1,}),"level":5,]),"conjuration":(["stat":"intelligence","last dev":({2,2,}),"level":15,]),"consider":(["stat":"intelligence","last dev":({2,1,}),"level":5,]),"woodland stealth":(["stat":"dexterity","level":5,]),"swimming":(["stat":"constitution","last dev":({2,1,}),"level":5,]),"focus casting":(["stat":"intelligence","last dev":({2,1,}),"level":5,]),"illusionism":(["stat":"intelligence","last dev":({2,1,}),"level":5,]),"trade lore":(["stat":"charisma","last dev":({2,2,}),"level":15,]),"attack":(["stat":"dexterity","last dev":({0,0,}),"max":0,"points":0,"level":5,]),])
+spells (["magic missile":(["last dev":({2,1,}),"level":1,]),"cure light wounds":(["last dev":({3,1,}),"level":1,]),"burning hands":(["last dev":({2,1,}),"level":1,]),])
+wimpy 50
+wimpydir "out"
+hits 9
+i 1
+j 1
+k 2
+num_attacks 1
+x 16
+num_rounds 1
+skill 94
+env_var (["start":"/d/damned/guilds/war-priest/hh9","TITLE":"Pupil $N the Wood-elf","LINES":"70","TERM":"unknown","SCORE":"on",])
+money (["silver":342,"gold":476,"copper":3,])
+ok_to_heal 40342
+player_age 40332
+sight_bonus 4
+gender "female"
+state "stand"
+stats (["wisdom":91,"dexterity":96,"intelligence":101,"constitution":86,"strength":86,"charisma":55,])
+languages (["goblinish":4,"common":10,"elvish":10,])
+primary_language "common"
+language_exp (["goblinish":({3,2,}),"elfish":({18,0,}),])
+xp_to_next_dev 12129
+alias (["n":"north","bio":"biography","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","gac":"get all from corpse","w":"west","exa":"look at $*","sw":"southwest","e":"east","u":"up","d":"down","se":"southeast","s":"south",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+zexp 609
+znexp 4999
+zlexp 4390
+znlevel 2
+zlevel 1
+auto_load ({})
+level 3
+birth 1669703074
+blocked ([])
+exp_log ([1669707903:-388,1669710793:-1163,])
+keep ({})
+snatch "on"
+inf_block ({})
+real_name "jennifer Kent"
+email "jennipalmer@gmail.com"
+ip "173.23.174.96"
+last_on "Tue Nov 29 08:32:55 2022"
+password "$6$4tjrrqSXqhjTqAxo$F4fqTL29NaaiQeOZ7ADY1mSqHEvimiccSb7t7QiOhfDg2gT0nmreDCo9AYmvdrKpc8X5s/HU/1ArgUAHPOUqY1"
+race "wood-elf"
+original_site "173.23.174.96"
+position "player"
+primary_start "/d/standard/square"
+quests ({})

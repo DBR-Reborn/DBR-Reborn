@@ -1,0 +1,8 @@
+#/d/damned/virtual/hooded-cloak.armour
+#/d/damned/virtual/hooded-cloak.armour.c
+encumbrance 1
+props (["runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"pow major_fortification_rihcter":0,"new desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {cloak}","material_name":"leather","progress major_fortification_rihcter":0,"progress engrave_thromax":0,"value":10,"material_type":"misc","extra long":({"A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"progress inscribe_malsa_bonnes_tursnik":0,"progress engrave_tursnik":0,"progress inscribe_aldara_zet_tursnik":0,"progress bless_armour_thromax":0,"pow bless_armour_thromax":0,"enchantment":40,"progress inscribe_malsa_sen_zora_tursnik":0,])
+true_name "hooded cloak"
+creator "/d/damned/virtual/armour_server"
+material "/misc/leather"
+armour_save (["short desc":"%^BOLD%^%^BLACK%^Darkened%^RESET%^ {cloak}","ac":(["infernal":61,"disruption":61,"stress":61,"unholy":61,"crushing":47,"cutting":47,"vacuum":61,"plasma":64,"impaling":47,"holy":61,"fire":64,"cold":64,"strike":90,"impact":90,"aether":61,"electricity":64,]),])

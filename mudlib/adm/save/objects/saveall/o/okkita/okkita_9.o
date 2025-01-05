@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-belt.armour
+#/d/damned/virtual/leather-belt.armour.c
+encumbrance 2
+props (["runes":({"malsa bonnes","malsa sen zora",}),"new desc":"%^B_BLUE%^%^RESET%^ {leather belt}","progress engrave_inikhida":0,"progress engrave_lilund":0,"material_name":"Dragon","progress engrave_boric":0,"true armour":1,"progress engrave_nawara":0,"progress enchanter_mark_nawara":0,"pow enchanter_mark_nawara":0,"progress extreme_fortification_azazel":0,"progress engrave_angelica":0,"progress inscribe_malsa_sen_zora_azazel":0,"value":4,"material_type":"leather","extra long":({"Crafted by: Azazel with A Level [64] Dragon leather",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress engrave_skye":0,"progress engrave_azazel":0,"progress inscribe_malsa_bonnes_azazel":0,"pow extreme_fortification_azazel":0,"pow true_armour_azazel":0,"progress true_armour_azazel":0,"enchantment":100,])
+true_name "leather belt"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Dragon"
+armour_save (["enhance critical":-6,"short desc":"%^B_BLUE%^%^RESET%^ {leather belt}","ac":(["infernal":755,"disruption":746,"stress":747,"unholy":747,"crushing":772,"cutting":777,"vacuum":396,"plasma":755,"impaling":772,"holy":755,"fire":767,"cold":762,"strike":758,"impact":759,"aether":754,"electricity":767,]),])

@@ -1,0 +1,12 @@
+#/wizards/excelsior/rooms/faeriedust.c
+props (["light":1,"read news":({}),])
+__Smells ([])
+__Listens ([])
+__Searches ([])
+destinations (["out":"/d/damned/virtual/room_13_6.world","southwest":"/wizards/excelsior/rooms/square",])
+invis_exits ([])
+pre_exit_func ([])
+post_exit_func ([])
+tracks ({})
+__Items (["buildings":"A guy could really get lost in a city this huge.","blue moon":,"sky":,"ankh":,"sign":"It is very dirty. You wonder what it 'read's..","moon":,"city":"The city looks to be very run down.","gates":"They have been stripped of their gold plating.  The gold probably fed afamily of 4 for about 5 years.","red moon":,"sun":,"warzau":,"green moon":,"moons":,"luna":,])
+people ({})

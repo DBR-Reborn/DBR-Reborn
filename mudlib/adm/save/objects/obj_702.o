@@ -1,0 +1,7 @@
+#/d/damned/virtual/gauntlet.armour.c
+encumbrance 6
+props (["material_name":"catoetine","value":10,"extra long":"level[19] catoetine Gauntlet","material_type":"metal","new desc":"level[19] catoetine Gauntlet",])
+true_name "gauntlet"
+creator "/d/damned/virtual/armour_server"
+material "/metal/catoetine"
+armour_save (["short desc":"level[19] catoetine Gauntlet","ac":(["infernal":56,"disruption":56,"stress":56,"unholy":56,"crushing":56,"cutting":56,"vacuum":56,"plasma":56,"impaling":56,"holy":56,"fire":56,"cold":56,"strike":56,"impact":56,"aether":56,"electricity":56,]),])

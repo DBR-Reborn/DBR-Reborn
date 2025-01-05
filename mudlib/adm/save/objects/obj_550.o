@@ -1,0 +1,7 @@
+#/d/damned/virtual/plate-greaves.armour.c
+encumbrance 450
+props (["material_name":"catoetine","value":430,"extra long":"level[18] catoetine Plate Greaves","material_type":"metal","new desc":"level[18] catoetine Plate Greaves",])
+true_name "plate greaves"
+creator "/d/damned/virtual/armour_server"
+material "/metal/catoetine"
+armour_save (["short desc":"level[18] catoetine Plate Greaves","ac":(["infernal":39,"disruption":39,"stress":39,"unholy":39,"crushing":39,"cutting":39,"vacuum":39,"plasma":39,"impaling":39,"holy":39,"fire":39,"cold":39,"strike":39,"impact":39,"aether":39,"electricity":39,]),])

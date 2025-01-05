@@ -1,0 +1,50 @@
+#/std/user.c
+encumbrance 500
+props (["old exp":10149,"light":0,"sp points":0,"melee damage":(["crushing":0,]),"base mp regen":3,"handedness":"right hand","ambidextry":0,"last reinc":1675891830,"base hp regen":3,"dev point base":70,"luck":5,"combat color":"%^BOLD%^","last read news":1675891830,"dev points":70,])
+true_name "phain"
+creator "/adm/obj/login#55439"
+max_internal_encumbrance 2430
+player_data (["general":(["exp buffer":0,"sp":1,"max_hp":132,"max_sp":0,"hp":132,]),])
+magic (["max points":90,"points":38,])
+severed ([])
+healing ([])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":132,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":44,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":33,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":44,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":66,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":33,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":33,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":44,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":33,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":44,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 1
+char_class "child"
+skills (["pick locks":(["stat":"dexterity","level":5,]),"pick pocket":(["stat":"dexterity","level":5,]),"trade lore":(["stat":"charisma","level":5,]),"stealth":(["stat":"dexterity","level":5,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":5,]),"melee":(["max":0,"points":0,"level":0,]),])
+spells ([])
+wimpydir "out"
+env_var (["prompt":"setenv","start":"/d/standard/square","TITLE":"Novice $N the Halfling","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money ([])
+ok_to_heal 1342
+player_age 1332
+sight_bonus 2
+gender "male"
+state "stand"
+stats (["wisdom":50,"dexterity":130,"strength":81,"constitution":90,"intelligence":55,"charisma":55,])
+languages (["common":10,"pix":10,])
+primary_language "pix"
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+ghost 1
+birth 1675891830
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "@gmail.com"
+ip "68.41.203.137"
+last_on "Wed Feb  8 21:30:30 2023"
+password "$6$k74hNG7V/YzXz89M$U9xbv2FuCpQsR2/Svqk9DR0doQ2Cg8Nh1H15UnL4zvLJGJpMF1AsOBwVwEdbolG0qtUqH93ByfIR2nMgG8E3M."
+race "halfling"
+original_site "68.41.203.137"
+position "player"
+quests ({})

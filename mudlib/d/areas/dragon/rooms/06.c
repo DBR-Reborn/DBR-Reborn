@@ -1,0 +1,8 @@
+//#define NORTHEAST "03"
+//#define NORTHWEST "03"
+#define NORTH "07"
+#define SOUTH "03"
+//#define SOUTHEAST "04"
+//#define SOUTHWEST "02"
+//#define UP "entry"
+#include "base.c"

@@ -1,0 +1,118 @@
+#	This is the damage message database for DayBreak.  It is simple too.
+#	All entries are of the from <dmg-range>:<line>
+#	<dmg-range> is a range of damage of the form <low>..<hi>
+#	<line> has many variables, see the critical tables for
+#	the format, except the verb here is specified by the weapon,
+#	and the default is hit.
+0..1:$A $V $T lightly.
+2..3:$A $V $T.
+4..5:$A $V $T rather hard.
+6..8:$A $V $T skillfully.
+9..11:$A $V $T very hard, leaving $(TO) bleeding.
+12..15:With a mighty heave, $A $V $T, throwing $(TO) back several feet.
+16..20:$A $V $T very violently, astonishing $(TO) immensely.
+21..40:Leaping in the air and coming down swiftly, $A $V $T with unsuspected force.
+41..60:Letting out a monstrous battle cry, $A $V $T, slicing $(TO) nearly in twain.
+61..80:With unbelievable power, $A $V $T, nearly flattening $(TO)!
+81..90:With a degree of violence never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+91..100:With a degree of violence +10 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+101..200:With a degree of violence +100 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+201..300:With a degree of violence +200 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+301..400:With a degree of violence +300 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+401..500:With a degree of violence +400 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+501..600:With a degree of violence +500 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+601..700:With a degree of violence +600 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+701..800:With a degree of violence +700 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+801..900:With a degree of violence +800 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+901..1000:With a degree of violence +900 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+1001..1100:With a degree of violence +1000 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+1101..1200:With a degree of violence +1100 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+1201..1300:With a degree of violence +1200 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+1301..1400:With a degree of violence +1300 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+1401..1500:With a degree of violence +1400 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+1501..1600:With a degree of violence +1500 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+1601..1700:With a degree of violence +1600 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+1701..1800:With a degree of violence +1700 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+1801..1900:With a degree of violence +1800 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+1901..2000:With a degree of violence +1900 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+2001..2100:With a degree of violence +2000 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+2101..2200:With a degree of violence +2100 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+2201..2300:With a degree of violence +2200 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+2301..2400:With a degree of violence +2300 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+2401..2500:With a degree of violence +2400 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+2501..2600:With a degree of violence +2500 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+2601..2700:With a degree of violence +2600 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+2701..2800:With a degree of violence +2700 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+2801..2900:With a degree of violence +2800 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+2901..3000:With a degree of violence +2900 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+3001..3100:With a degree of violence +3000 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+3101..3200:With a degree of violence +3100 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+3201..3300:With a degree of violence +3200 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+3301..3400:With a degree of violence +3300 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+3401..3500:With a degree of violence +3400 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+3501..3600:With a degree of violence +3500 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+3601..3700:With a degree of violence +3600 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+3701..3800:With a degree of violence +3700 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+3801..3900:With a degree of violence +3800 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+3901..4000:With a degree of violence +3900 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+4001..4100:With a degree of violence +4000 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+4101..4200:With a degree of violence +4100 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+4201..4300:With a degree of violence +4200 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+4301..4400:With a degree of violence +4300 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+4401..4500:With a degree of violence +4400 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+4501..4600:With a degree of violence +4500 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+4601..4700:With a degree of violence +4600 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+4701..4800:With a degree of violence +4700 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+4801..4900:With a degree of violence +4800 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+4901..5000:With a degree of violence +4900 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+5001..5100:With a degree of violence +5000 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+5101..5200:With a degree of violence +5100 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+5201..5300:With a degree of violence +5200 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+5301..5400:With a degree of violence +5300 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+5401..5500:With a degree of violence +5400 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+5501..5600:With a degree of violence +5500 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+5601..5700:With a degree of violence +5600 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+5701..5800:With a degree of violence +5700 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+5801..5900:With a degree of violence +5800 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+5901..6000:With a degree of violence +5900 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+6001..6100:With a degree of violence +6000 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+6101..6200:With a degree of violence +6100 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+6201..6300:With a degree of violence +6200 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+6301..6400:With a degree of violence +6300 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+6401..6500:With a degree of violence +6400 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+6501..6600:With a degree of violence +6500 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+6601..6700:With a degree of violence +6600 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+6701..6800:With a degree of violence +6700 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+6801..6900:With a degree of violence +6800 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+6901..7000:With a degree of violence +6900 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+7001..7100:With a degree of violence +7000 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+7101..7200:With a degree of violence +7100 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+7201..7300:With a degree of violence +7200 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+7301..7400:With a degree of violence +7300 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+7401..7500:With a degree of violence +7400 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+7501..7600:With a degree of violence +7500 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+7601..7700:With a degree of violence +7600 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+7701..7800:With a degree of violence +7700 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+7801..7900:With a degree of violence +7800 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+7901..8000:With a degree of violence +7900 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+8001..8100:With a degree of violence +8000 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+8101..8200:With a degree of violence +8100 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+8201..8300:With a degree of violence +8200 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+8301..8400:With a degree of violence +8300 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+8401..8500:With a degree of violence +8400 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+8501..8600:With a degree of violence +8500 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+8601..8700:With a degree of violence +8600 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+8701..8800:With a degree of violence +8700 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+8801..8900:With a degree of violence +8800 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+8901..9000:With a degree of violence +8900 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+9001..9100:With a degree of violence +9000 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+9101..9200:With a degree of violence +9100 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+9201..9300:With a degree of violence +9200 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+9301..9400:With a degree of violence +9300 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+9401..9500:With a degree of violence +9400 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+9501..9600:With a degree of violence +9500 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+9601..9700:With a degree of violence +9600 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+9701..9800:With a degree of violence +9700 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+9801..9900:With a degree of violence +9800 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+9901..9999:With a degree of violence +9999 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+10000..10000:With a degree of violence +10000 never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.

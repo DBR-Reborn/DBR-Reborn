@@ -1,0 +1,7 @@
+# KDE Config File
+[Version]
+KDEVersionMajor=1
+KDEVersionMinor=1
+KDEVersionRelease=5
+[SM]
+URLs=

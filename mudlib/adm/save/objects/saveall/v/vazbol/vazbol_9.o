@@ -1,0 +1,8 @@
+#/d/damned/virtual/quarter-staff_1.weapon
+#/d/damned/virtual/quarter-staff_1.weapon.c
+encumbrance 20
+props (["material_name":"platnite","value":40,"material_type":"metal",])
+true_name "quarter staff"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/platnite"
+__Weapon (["wielded":,"quality":1,"limb string":" (wielded in right hand and left hand)","verb":"bash","decay status":73,"wc":(["crushing":8,]),"original wc":(["crushing":8,]),"type":"two handed staff","ac":(["infernal":6,"disruption":6,"stress":6,"crushing":6,"unholy":6,"cutting":6,"vacuum":6,"plasma":6,"impaling":6,"holy":6,"cold":6,"fire":6,"strike":6,"impact":6,"electricity":6,"aether":6,]),"short desc":"quarter staff","decay rate":1000,"parry bonus":50,"hit bonus":50,])

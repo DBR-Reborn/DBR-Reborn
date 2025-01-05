@@ -1,0 +1,6 @@
+#/wizards/diewarzau/obj/misc/familiar_fig.c
+encumbrance 40
+props (["value":57483,])
+true_name "figurine"
+creator "/std/spells/stabilize_familiar#857073"
+power 6

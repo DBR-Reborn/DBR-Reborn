@@ -1,0 +1,7 @@
+#/d/damned/virtual/wood-bracer.armour.c
+encumbrance 45
+props (["progress engrave_boric":0,"material_name":"abachi","value":60,"material_type":"wood","extra long":"Crafted by: Tursnik with A wooden board of abachi [184]","progress engrave_kigus":0,"new desc":"%^B_BROWN%^%^RESET%^ {wood bracer}",])
+true_name "wood bracer"
+creator "/d/damned/virtual/armour_server"
+material "/wood/abachi"
+armour_save (["short desc":"%^B_BROWN%^%^RESET%^ {wood bracer}","ac":(["infernal":401,"disruption":487,"stress":472,"crushing":431,"unholy":425,"cutting":351,"vacuum":389,"plasma":477,"impaling":489,"holy":435,"cold":366,"fire":435,"strike":475,"impact":359,"electricity":456,"aether":473,]),])

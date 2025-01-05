@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-helmet.armour
+#/d/damned/virtual/leather-helmet.armour.c
+encumbrance 60
+props (["value":45,"runes":({"malsa bonnes","malsa sen zora",}),"material_type":"leather","extra long":({"Crafted by: Maker with A Level [28] Sentry leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+40","detect magic",}),}),"progress inscribe_malsa_sen_zora_maker":0,"progress major_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"material_name":"Sentry","pow major_fortification_math":0,"enchantment":40,])
+true_name "leather helmet"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Sentry"
+armour_save (["short desc":"A leather helmet","ac":(["infernal":316,"disruption":314,"stress":313,"unholy":313,"crushing":331,"cutting":339,"vacuum":317,"plasma":320,"impaling":335,"holy":315,"fire":322,"cold":327,"strike":325,"impact":324,"aether":315,"electricity":323,]),])

@@ -1,0 +1,8 @@
+#/d/damned/virtual/robe.armour
+#/d/damned/virtual/robe.armour.c
+encumbrance 1
+props (["progress inscribe_malsa_sen_zora_creg":0,"runes":({"malsa bonnes","malsa sen zora","aldara zet",}),"value":10,"extra long":({"Crafted by: Creg with A Level [115] Carnifex leather","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"leather","progress inscribe_aldara_zet_creg":0,"progress true_armour_creg":0,"progress inscribe_malsa_bonnes_creg":0,"material_name":"Carnifex","true armour":1,"pow true_armour_creg":0,])
+true_name "robe"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Carnifex"
+armour_save (["enhance critical":-4,"short desc":"A Robe","ac":(["infernal":1170,"disruption":1341,"stress":1318,"crushing":1254,"unholy":1316,"cutting":1324,"vacuum":1273,"plasma":1295,"impaling":1255,"holy":1353,"cold":1253,"fire":1232,"strike":1247,"impact":1303,"electricity":1289,"aether":1239,]),])

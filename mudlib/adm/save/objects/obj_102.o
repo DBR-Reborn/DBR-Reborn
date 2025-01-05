@@ -1,0 +1,7 @@
+#/d/damned/virtual/broad-sword_6.weapon.c
+encumbrance 100
+props (["brittle":28,"value":655,"extra long":({"level[42] elrodnite broad-sword of plasma and cold",({"This weapon has %^BOLD%^%^CYAN%^Vacid%^RESET%^ Weapon.","detect magic",}),({"This weapon has %^COLOR255%^Vacuum%^RESET%^ Weapon.","detect magic",}),({"This weapon has %^YELLOW%^%^BOLD%^Lightning%^RESET%^ Blade.","detect magic",}),}),"material_type":"metal","pow vacuum_weapon_nawara":0,"new desc":"level[42] elrodnite broad-sword of plasma and cold","pow vacid_weapon_nawara":0,"material_name":"elrodnite","pow lightning_blade_nawara":0,"progress lightning_blade_nawara":0,"vacuum weapon":1,"progress vacid_weapon_nawara":0,"vacid weapon":6,"lightning blade":8,"progress vacuum_weapon_nawara":0,])
+true_name "broad sword"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/elrodnite"
+__Weapon (["original wc":(["cold":77,"stress":88,"crushing":57,"cutting":12,"vacuum":87,"plasma":70,"impaling":4,"electricity":108,]),"quality":6,"type":"blade","ac":(["infernal":3,"disruption":3,"stress":3,"crushing":3,"unholy":3,"cutting":3,"vacuum":3,"plasma":3,"impaling":3,"holy":3,"cold":3,"fire":3,"strike":3,"impact":3,"electricity":3,"aether":3,]),"verb":"slice","decay status":0,"wc":(["cold":168,"stress":88,"crushing":122,"cutting":12,"vacuum":87,"plasma":70,"impaling":4,"electricity":108,]),"short desc":"level[42] elrodnite broad-sword of plasma and cold","decay rate":200,"parry bonus":5,])

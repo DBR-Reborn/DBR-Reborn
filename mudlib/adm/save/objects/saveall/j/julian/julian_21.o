@@ -1,0 +1,7 @@
+#/d/areas/keep/armour/necklace.c
+encumbrance 50
+props (["progress true_armour_zurr":0,"new desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Amulet%^RESET%^ {necklace}","progress major_fortification_zurr":0,"progress master_fortification_zurr":0,"material_name":"dark steel","true armour":1,"pow extreme_fortification_zurr":0,"progress extreme_fortification_zurr":0,"pow enchanter_mark_zurr":0,"value":2000,"material_type":"none","extra long":({({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),}),"progress enchanter_mark_zurr":0,"pow true_armour_zurr":0,"pow master_fortification_zurr":0,"enchantment":100,"pow major_fortification_zurr":0,])
+true_name "skull necklace"
+creator "/d/areas/keep/mon/warlock#7597"
+material "/dark steel"
+armour_save (["enhance critical":-4,"short desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Amulet%^RESET%^ {necklace}","ac":(["infernal":5,"disruption":5,"stress":5,"unholy":5,"crushing":5,"cutting":5,"vacuum":5,"plasma":5,"impaling":5,"holy":5,"fire":5,"cold":5,"strike":5,"impact":5,"aether":5,"electricity":5,]),])

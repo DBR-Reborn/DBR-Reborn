@@ -1,0 +1,8 @@
+#/d/damned/virtual/gauntlet.armour
+#/d/damned/virtual/gauntlet.armour.c
+encumbrance 6
+props (["runes":({"malsa bonnes","malsa sen zora","lifta",}),"progress inscribe_malsa_sen_zora_lilund":0,"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Protection%^RESET%^ {gauntlet}","progress inscribe_malsa_bonnes_lilund":0,"progress engrave_lilund":0,"material_name":"laen","true armour":1,"pow true_armour_lilund":0,"progress true_armour_lilund":0,"progress extreme_fortification_azazel":0,"value":471,"extra long":({"Smithed by: Lilund with laen [208] armour blank","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Lifta%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"material_type":"metal","pow extreme_fortification_azazel":0,"progress inscribe_lifta_lilund":0,"enchantment":100,])
+true_name "gauntlet"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["enhance critical":-4,"short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^%^COLOR49%^ Protection%^RESET%^ {gauntlet}","ac":(["infernal":807,"disruption":854,"stress":845,"crushing":858,"unholy":913,"cutting":793,"vacuum":883,"plasma":832,"impaling":872,"holy":897,"cold":876,"fire":893,"strike":835,"impact":791,"electricity":898,"aether":907,]),])

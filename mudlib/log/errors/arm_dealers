@@ -1,0 +1,143 @@
+/d/arm_dealers/nalon/mon/monk_guard.c line 2: Cannot #include /wizards/shanus/defs/monk.h before #include <nevin.h>
+/d/arm_dealers/nalon/mon/monk_guard.c line 3: Cannot #include nevin.h before inherit MONSTER;
+/d/arm_dealers/nalon/mon/monk_guard.c line 45: Undefined variable 'MONKOBJ' before "robe.c")->move(this
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 2: Cannot #include /wizards/shanus/defs/monk.h before #include <nevin.h>
+/d/arm_dealers/nalon/mon/monk_guard.c line 3: Cannot #include nevin.h before inherit MONSTER;
+/d/arm_dealers/nalon/mon/monk_guard.c line 45: Undefined variable 'MONKOBJ' before "robe.c")->move(this
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 2: Cannot #include /wizards/shanus/defs/monk.h before #include <nevin.h>
+/d/arm_dealers/nalon/mon/monk_guard.c line 3: Cannot #include nevin.h before inherit MONSTER;
+/d/arm_dealers/nalon/mon/monk_guard.c line 45: Undefined variable 'MONKOBJ' before "robe.c")->move(this
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 2: Cannot #include /wizards/shanus/defs/monk.h before #include <nevin.h>
+/d/arm_dealers/nalon/mon/monk_guard.c line 3: Cannot #include nevin.h before inherit MONSTER;
+/d/arm_dealers/nalon/mon/monk_guard.c line 45: Undefined variable 'MONKOBJ' before "robe.c")->move(this
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 2: Cannot #include /wizards/shanus/defs/monk.h before #include <nevin.h>
+/d/arm_dealers/nalon/mon/monk_guard.c line 3: Cannot #include nevin.h before inherit MONSTER;
+/d/arm_dealers/nalon/mon/monk_guard.c line 45: Undefined variable 'MONKOBJ' before "robe.c")->move(this
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 2: Cannot #include /wizards/shanus/defs/monk.h before #include <nevin.h>
+/d/arm_dealers/nalon/mon/monk_guard.c line 3: Cannot #include nevin.h before inherit MONSTER;
+/d/arm_dealers/nalon/mon/monk_guard.c line 45: Undefined variable 'MONKOBJ' before "robe.c")->move(this
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 2: Cannot #include /wizards/shanus/defs/monk.h before #include <nevin.h>
+/d/arm_dealers/nalon/mon/monk_guard.c line 3: Cannot #include nevin.h before inherit MONSTER;
+/d/arm_dealers/nalon/mon/monk_guard.c line 45: Undefined variable 'MONKOBJ' before "robe.c")->move(this
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 2: Cannot #include /wizards/shanus/defs/monk.h before #include <nevin.h>
+/d/arm_dealers/nalon/mon/monk_guard.c line 3: Cannot #include nevin.h before inherit MONSTER;
+/d/arm_dealers/nalon/mon/monk_guard.c line 45: Undefined variable 'MONKOBJ' before "robe.c")->move(this
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 2: Cannot #include /wizards/shanus/defs/monk.h before #include <nevin.h>
+/d/arm_dealers/nalon/mon/monk_guard.c line 3: Cannot #include nevin.h before inherit MONSTER;
+/d/arm_dealers/nalon/mon/monk_guard.c line 45: Undefined variable 'MONKOBJ' before "robe.c")->move(this
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 2: Cannot #include /wizards/shanus/defs/monk.h before #include <nevin.h>
+/d/arm_dealers/nalon/mon/monk_guard.c line 3: Cannot #include nevin.h before inherit MONSTER;
+/d/arm_dealers/nalon/mon/monk_guard.c line 45: Undefined variable 'MONKOBJ' before "robe.c")->move(this
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 2: Cannot #include /wizards/shanus/defs/monk.h before #include <nevin.h>
+/d/arm_dealers/nalon/mon/monk_guard.c line 3: Cannot #include nevin.h before inherit MONSTER;
+/d/arm_dealers/nalon/mon/monk_guard.c line 45: Undefined variable 'MONKOBJ' before "robe.c")->move(this
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk2.c line 3: Cannot #include /wizards/shanus/defs/monk.h before inherit MONSTER;
+/d/arm_dealers/nalon/mon/monk2.c line 48: Undefined variable 'MONKOBJ' before "robe.c")->move(this
+/d/arm_dealers/nalon/mon/monk2.c line 50: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk2.c line 50: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk2.c line 50: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk2.c line 50: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk1.c line 53: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk1.c line 53: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_woman.c line 61: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_woman.c line 61: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/med_monk.c line 64: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/med_monk.c line 64: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/med_monk.c line 26: syntax error before "]"+var);
+/d/arm_dealers/nalon/mon/med_monk.c line 34: Illegal LHS before  break;
+/d/arm_dealers/nalon/mon/med_monk.c line 35: Illegal LHS before  break;
+/d/arm_dealers/nalon/mon/med_monk.c line 36: Illegal LHS before  break;
+/d/arm_dealers/nalon/mon/med_monk.c line 37: Illegal LHS before  break;
+/d/arm_dealers/nalon/mon/med_monk.c line 47: Illegal LHS before the end of line
+/d/arm_dealers/nalon/mon/med_monk.c line 64: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/med_monk.c line 64: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_woman.c line 63: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_woman.c line 63: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk2.c line 52: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk2.c line 52: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk2.c line 52: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk2.c line 52: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk1.c line 55: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk1.c line 55: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk1.c line 55: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk1.c line 55: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk2.c line 52: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk2.c line 52: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk1.c line 55: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk1.c line 55: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk2.c line 52: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk2.c line 52: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_woman.c line 63: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_woman.c line 63: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_woman.c line 63: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_woman.c line 63: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk1.c line 55: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk1.c line 55: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk3.c line 51: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk3.c line 51: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_gardener.c line 52: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_gardener.c line 52: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/wise_monk.c line 52: Warning: Unused local variable 'var' before the end of line
+/d/arm_dealers/nalon/mon/wise_monk.c line 52: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/wise_monk.c line 52: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/war_monk1.c line 52: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/war_monk1.c line 52: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_boss.c line 63: Warning: Unused local variable 'var' before the end of line
+/d/arm_dealers/nalon/mon/monk_boss.c line 63: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_boss.c line 63: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk1.c line 55: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk1.c line 55: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_gardener.c line 52: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_gardener.c line 52: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk2.c line 52: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk2.c line 52: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_woman.c line 63: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_woman.c line 63: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk3.c line 51: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk3.c line 51: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/war_monk1.c line 52: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/war_monk1.c line 52: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_guard.c line 56: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_boss.c line 63: Warning: Unused local variable 'var' before the end of line
+/d/arm_dealers/nalon/mon/monk_boss.c line 63: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_boss.c line 63: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/med_monk.c line 64: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/med_monk.c line 64: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk2.c line 52: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk2.c line 52: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk1.c line 55: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk1.c line 55: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/wise_monk.c line 52: Warning: Unused local variable 'var' before the end of line
+/d/arm_dealers/nalon/mon/wise_monk.c line 52: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/wise_monk.c line 52: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_gardener.c line 52: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_gardener.c line 52: Warning: Unused local variable 'wc' before the end of line
+/d/arm_dealers/nalon/mon/monk_woman.c line 63: Warning: Unused local variable 'ob' before the end of line
+/d/arm_dealers/nalon/mon/monk_woman.c line 63: Warning: Unused local variable 'wc' before the end of line

@@ -1,0 +1,5 @@
+#define NORTH "27"
+//#define WEST "05"
+//#define EAST "03"
+#define SOUTH "10"
+#include "base_slayer.c"

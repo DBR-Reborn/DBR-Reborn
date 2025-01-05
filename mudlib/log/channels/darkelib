@@ -1,0 +1,54 @@
+				%^RED%^Sat Jun  5 22:30:32 2021 !!
+[%^MAGENTA%^darkelib%^RESET%^ : Mactorg@DarkeMUDtest] test
+				%^RED%^Sat Jun  5 22:30:39 2021 !!
+[%^MAGENTA%^darkelib%^RESET%^ : Mactorg@DarkeMUD] test
+				%^RED%^Sun Jun  6 17:15:13 2021 !!
+[%^MAGENTA%^darkelib%^RESET%^ : Mactorg@DarkeMUD] test
+				%^RED%^Sun Jun  6 17:16:01 2021 !!
+[%^MAGENTA%^darkelib%^RESET%^ : Mactorg@DarkeMUD] test
+				%^RED%^Sun Jun  6 19:01:11 2021 **
+[%^MAGENTA%^darkelib%^RESET%^ : Exash] Cool, I accidentally crashed Nukemud :( at least noone was logged in
+				%^RED%^Sun Jun  6 19:02:14 2021 !!
+[%^MAGENTA%^darkelib%^RESET%^ : Mactorg@DarkeMUD] hehe.  happens.
+				%^RED%^Sun Jun  6 19:03:04 2021 **
+[%^MAGENTA%^darkelib%^RESET%^ : Exash] Lol yeah... I tried to "trace" add_action's by overriding it with a sefun and writing into a log file but I forgot that sefun is an object in itself
+				%^RED%^Sun Jun  6 19:29:21 2021 **
+[%^MAGENTA%^darkelib%^RESET%^ : Exash] Hmm but yeah long time until I can start my own project, first Nuke will have to run on FluffOS instead of MudOS 0.9... at the same time I'm doing some fixes/improvements here, then I'll make some improvements on Dreamverse to get maybe 1-2 players back, being alone logged in there for days is a bit boring, then I'd like to refactor Power Struggle, a bit Nukemud-like sister project resurrected after it went down in the end of the 90's and I accidentally got it's code a few months ago, and only after that comes my own project lol
+				%^RED%^Sun Jun  6 19:31:10 2021 !!
+[%^MAGENTA%^darkelib%^RESET%^ : Mactorg@DarkeMUD] %^GREEN%^<%^RED%^mt%^GREEN%^>%^RESET%^ yep.  with all those projects at least you won't be bored.  Getting players back is a great step to growth.
+				%^RED%^Sun Jun  6 19:32:29 2021 **
+[%^MAGENTA%^darkelib%^RESET%^ : Exash] I don't think we will have a high chance for that... my admin is super busy and logs in once in two weeks, Nightmare4 has some design bugs by default which could be fixed only if I would have write access to the most internal parts of the mudlib...
+				%^RED%^Sun Jun  6 19:33:42 2021 !!
+[%^MAGENTA%^darkelib%^RESET%^ : Mactorg@DarkeMUD] %^GREEN%^<%^RED%^mt%^GREEN%^>%^RESET%^ yea,  not having access to fix things is ruff.
+				%^RED%^Sun Jun  6 19:33:50 2021 **
+[%^MAGENTA%^darkelib%^RESET%^ : Exash] But with Power Struggle I have a few unique plans which I've already seen in other mud engines but not in LP: matrix computer system, vehicles (such as cars or vehicles with guns installed on them, so trying out vehicle combat), somehow incorporating resource system into a modern-day setting (although I have no idea how to fit it into the storyline lol) and then building factories for gun/armor/vehicle manufacturing
+				%^RED%^Sun Jun  6 19:34:24 2021 !!
+[%^MAGENTA%^darkelib%^RESET%^ : Mactorg@DarkeMUD] %^GREEN%^<%^RED%^mt%^GREEN%^>%^RESET%^ sweet ideas.
+				%^RED%^Sun Jun  6 19:34:55 2021 **
+[%^MAGENTA%^darkelib%^RESET%^ : Exash] My biggest problem is that I'm unfortunately quite not on the creative side... I can write code, but when it comes to designing any form of storyline/description I always fail, although I tried it lol
+				%^RED%^Sun Jun  6 19:35:45 2021 !!
+[%^MAGENTA%^darkelib%^RESET%^ : Mactorg@DarkeMUD] %^GREEN%^<%^RED%^mt%^GREEN%^>%^RESET%^ do not worry.  that is a problem for most coders.  that is why a team effort is needed.  one design and one code.  at the minimum is needed two people.
+				%^RED%^Sun Jun  6 19:36:05 2021 **
+[%^MAGENTA%^darkelib%^RESET%^ : Exash] So although I already planned technical details of these systems I have no idea what economy could I introduce there lol I don't think I've ever played a MUD with a well designed and quite complex economy, which would be interesting to experience to see what can be done
+				%^RED%^Sun Jun  6 19:36:12 2021 !!
+[%^MAGENTA%^darkelib%^RESET%^ : Mactorg@DarkeMUD] %^GREEN%^<%^RED%^mt%^GREEN%^>%^RESET%^ could even have a design person that can do multiple things but that can be a lot of work.  depending on the person.
+				%^RED%^Sun Jun  6 19:37:08 2021 **
+[%^MAGENTA%^darkelib%^RESET%^ : Exash] Haha usually I'm alone, all of these started out as maintenance positions, then I fellt there could be more potential in these stuff so...
+				%^RED%^Sun Jun  6 19:37:41 2021 !!
+[%^MAGENTA%^darkelib%^RESET%^ : Mactorg@DarkeMUD] %^GREEN%^<%^RED%^mt%^GREEN%^>%^RESET%^ need to have the players spend money on things.  like having a castle owned by one player can be crazy.  need to hire retainers and grounds people and other support staff.  I have a lot of RPG books that are paper base that have all the mechanics behind it.  just need to convert to the code.
+				%^RED%^Sun Jun  6 19:38:26 2021 **
+[%^MAGENTA%^darkelib%^RESET%^ : Exash] Something like I expanded my "maintenance" tasks when I remained alone and started to do more things than before lol
+				%^RED%^Sun Jun  6 19:38:37 2021 !!
+[%^MAGENTA%^darkelib%^RESET%^ : Mactorg@DarkeMUD] %^GREEN%^<%^RED%^mt%^GREEN%^>%^RESET%^ make it a game inside of a game.  if they want a castle they need to play the game to keep it up and not falling apart.
+				%^RED%^Sun Jun  6 19:38:50 2021 !!
+[%^MAGENTA%^darkelib%^RESET%^ : Mactorg@DarkeMUD] %^GREEN%^<%^RED%^mt%^GREEN%^>%^RESET%^ hehe.
+				%^RED%^Sun Jun  6 19:39:24 2021 !!
+[%^MAGENTA%^darkelib%^RESET%^ : Mactorg@DarkeMUD] %^GREEN%^<%^RED%^mt%^GREEN%^>%^RESET%^ we do what we can to keep things running.
+				%^RED%^Tue Jun  8 03:19:01 2021 !!
+[%^MAGENTA%^darkelib%^RESET%^ : Mactorg@DarkeMUD] %^GREEN%^<%^RED%^mt%^GREEN%^>%^RESET%^ Hey Exash,  found out that Madoc setup http://www.darkemud.com/www/i2listing.txt as well. shows are current i2 mudlist
+				%^RED%^Tue Jun  8 15:37:09 2021 !!
+[%^MAGENTA%^darkelib%^RESET%^ : Mactorg@DarkeMUD] %^GREEN%^<%^RED%^mt%^GREEN%^>%^RESET%^ good morning!
+				%^RED%^Fri Sep 30 16:25:18 2022 **
+[%^MAGENTA%^darkelib%^RESET%^ : Tlny] test
+				%^RED%^Sat Oct 15 02:13:07 2022 **
+[%^MAGENTA%^darkelib%^RESET%^ : Tlny] I have a question for other DarkeLIB mud does anyone know how to call back on the item for query_property("progress") in the /std/user/tsh.c file for prompt I spent many months and many code varations and still not able to get it.

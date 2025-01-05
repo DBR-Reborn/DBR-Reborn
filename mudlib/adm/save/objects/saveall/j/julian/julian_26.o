@@ -1,0 +1,8 @@
+#/d/damned/virtual/leather-helmet.armour
+#/d/damned/virtual/leather-helmet.armour.c
+encumbrance 15
+props (["runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"progress true_armour_zurr":0,"new desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Arming Cap%^RESET%^ {helmet}","progress major_fortification_zurr":0,"material_name":"leather","progress engrave_julian":0,"true armour":1,"pow extreme_fortification_zurr":0,"progress inscribe_malsa_sen_zora_mort":0,"progress extreme_fortification_zurr":0,"progress inscribe_aldara_zet_mort":0,"progress inscribe_malsa_bonnes_mort":0,"value":45,"material_type":"misc","extra long":({"A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),}),"pow true_armour_zurr":0,"enchantment":100,"pow major_fortification_zurr":0,])
+true_name "leather helmet"
+creator "/d/damned/virtual/armour_server"
+material "/misc/leather"
+armour_save (["enhance critical":-4,"short desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Arming Cap%^RESET%^ {helmet}","ac":(["infernal":51,"disruption":38,"stress":38,"unholy":51,"crushing":30,"cutting":39,"vacuum":38,"plasma":41,"impaling":39,"holy":38,"fire":43,"cold":43,"strike":50,"impact":50,"aether":38,"electricity":41,]),])

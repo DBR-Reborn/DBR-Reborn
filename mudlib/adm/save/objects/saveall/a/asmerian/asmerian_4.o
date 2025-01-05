@@ -1,0 +1,7 @@
+#/d/areas/kobold/weapon/stick.c
+encumbrance 45
+props (["material_name":"wood","value":0,"material_type":"wood","no add quality":1,])
+true_name "broken stick"
+creator "/d/areas/kobold/mon/girl#93781"
+material "/wood/wood"
+__Weapon (["original wc":(["crushing":4,]),"quality":0,"type":"blunt","verb":"tap","wc":(["crushing":4,]),"decay rate":200,"parry bonus":-25,"hit bonus":-15,])

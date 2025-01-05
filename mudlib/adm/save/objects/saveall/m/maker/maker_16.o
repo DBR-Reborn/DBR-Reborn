@@ -1,0 +1,6 @@
+#/wizards/diewarzau/obj/misc/leather2.c
+encumbrance 50
+props (["material_name":"Sinister goblin","value":25,"extra long":"Level [25] Sinister goblin","material_type":"leather","new desc":"Level [25] Sinister goblin",])
+true_name "leather"
+creator "/std/skills/skin_corpse#103275"
+material "/leather/Sinister goblin"

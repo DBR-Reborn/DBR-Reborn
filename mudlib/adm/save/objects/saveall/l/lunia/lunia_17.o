@@ -1,0 +1,7 @@
+#/wizards/maxwell/objects/armour/vest.c
+encumbrance 75
+props (["material_name":"iron","value":100,"material_type":"metal",])
+true_name "vest"
+creator "/d/mines/objects/mon/gwolf#146846"
+material "/metal/iron"
+armour_save (["ac":(["infernal":13,"disruption":13,"stress":13,"unholy":13,"crushing":13,"cutting":13,"vacuum":13,"plasma":13,"impaling":13,"holy":13,"fire":13,"cold":13,"strike":13,"impact":13,"aether":13,"electricity":13,]),])

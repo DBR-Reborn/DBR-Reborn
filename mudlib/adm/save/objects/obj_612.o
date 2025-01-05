@@ -1,0 +1,7 @@
+#/d/damned/virtual/metal-boots.armour.c
+encumbrance 70
+props (["material_name":"raysorite","value":90,"material_type":"metal","extra long":"level[19] raysorite Metal Boots","new desc":"level[19] raysorite Metal Boots",])
+true_name "metal boots"
+creator "/d/damned/virtual/armour_server"
+material "/metal/raysorite"
+armour_save (["short desc":"level[19] raysorite Metal Boots","ac":(["infernal":43,"disruption":43,"stress":43,"crushing":43,"unholy":43,"cutting":43,"vacuum":43,"plasma":43,"impaling":43,"holy":43,"cold":43,"fire":43,"strike":43,"impact":43,"electricity":43,"aether":43,]),])

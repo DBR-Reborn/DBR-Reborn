@@ -1,0 +1,7 @@
+#/d/1tlny/loot/hooded_robe.c
+encumbrance 100
+props (["value":400,"material_type":"none","extra long":({"level[42] Rare Robe of impact and disruption protection",({"Fortification: %^CYAN%^+40","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress true_armour_trent":0,"new desc":"level[42] Rare Robe of impact and disruption protection","material_name":"cloth","pow true_armour_trent":0,"progress major_fortification_trent":0,"true armour":1,"pow major_fortification_trent":0,"enchantment":40,])
+true_name "hooded robe"
+creator "/d/areas/dragon/mon/skinny_dragon#6879"
+material "/cloth"
+armour_save (["enhance critical":-4,"short desc":"level[42] Rare Robe of impact and disruption protection","ac":(["infernal":72,"disruption":157,"stress":72,"unholy":72,"crushing":72,"cutting":72,"vacuum":72,"plasma":72,"impaling":72,"holy":72,"fire":72,"cold":72,"strike":72,"impact":150,"aether":72,"electricity":72,]),])

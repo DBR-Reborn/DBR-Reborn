@@ -1,0 +1,7 @@
+#/d/1tlny/loot/hooded_robe.c
+encumbrance 100
+props (["value":400,"extra long":({"level[42] Rare Robe of electricity and plasma protection",({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),}),"material_type":"none","progress engrave_azazel":0,"pow extreme_fortification_azazel":0,"new desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^ {robe}","progress engrave_lilund":0,"material_name":"cloth","true armour":1,"pow true_armour_azazel":0,"progress true_armour_azazel":0,"progress extreme_fortification_azazel":0,"enchantment":100,])
+true_name "hooded robe"
+creator "/d/areas/dragon/mon/skinny_dragon#114396"
+material "/cloth"
+armour_save (["enhance critical":-5,"short desc":"%^COLOR3%^%^B_RED%^TNT%^RESET%^ {robe}","ac":(["infernal":48,"disruption":48,"stress":48,"crushing":48,"unholy":48,"cutting":48,"vacuum":48,"plasma":155,"impaling":48,"holy":48,"cold":48,"fire":48,"strike":48,"impact":48,"electricity":131,"aether":48,]),])

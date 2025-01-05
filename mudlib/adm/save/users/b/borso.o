@@ -1,0 +1,61 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":40,"extra hp regen":25,"old exp":0,"light":0,"sp points":0,"xp mod":-50,"hp advance":30,"melee damage":(["holy":5,"crushing":5,]),"base mp regen":5,"handedness":"right hand","ambidextry":0,"last reinc":1668353535,"base hp regen":8,"dev point base":61,"enhance criticals":(["disruption":1,"holy":-1,]),"mp advance":20,"combat color":"%^BOLD%^","last read news":1668353535,"dev points":29,])
+true_name "borso"
+creator "/adm/obj/login#399507"
+max_internal_encumbrance 3150
+player_data (["kills":({21,118,}),"general":(["alignment":2,"max exp":10332,"exp buffer":0,"sp":1,"experience":10154,"last adjust":1668354530,"max_hp":236,"max_sp":0,"hp":120,]),])
+magic (["max points":140,"points":70,])
+severed ([])
+healing ([])
+body (["head":(["damage":0,"armour_ob":({}),"max_dam":118,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":78,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":59,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":78,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":59,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"torso":(["damage":0,"armour_ob":({}),"max_dam":236,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":78,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":59,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right wing":(["damage":0,"armour_ob":({}),"max_dam":78,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":59,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":78,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left wing":(["damage":0,"armour_ob":({}),"max_dam":78,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"head","right leg","right foot","left arm","left foot","left leg","torso","right hand","right wing","right arm","left hand","left wing",})
+all_my_fingers 5
+heal_rate 3
+char_class "dark-paladin"
+skills (["prospecting":(["stat":"intelligence","last dev":({3,1,}),"level":5,]),"body block":(["stat":"strength","last dev":({3,1,}),"level":5,]),"prayer":(["stat":"wisdom","level":5,]),"empowerment":(["stat":"intelligence","last dev":({3,1,}),"level":5,]),"consider":(["stat":"intelligence","last dev":({3,1,}),"level":5,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"swimming":(["stat":"constitution","last dev":({3,1,}),"level":5,]),"two handed polearm":(["stat":"dexterity","last dev":({3,1,}),"level":5,]),"shadow lore":(["stat":"intelligence","last dev":({3,1,}),"level":5,]),"two handed blunt":(["stat":"dexterity","last dev":({3,1,}),"level":5,]),"dodge":(["stat":"dexterity","last dev":({3,2,}),"level":10,]),"two handed flail":(["stat":"dexterity","last dev":({3,1,}),"level":5,]),"owedquar's will":(["stat":"intelligence","last dev":({3,1,}),"level":5,]),"parry":(["stat":"dexterity","last dev":({3,4,}),"level":20,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"perception":(["stat":"intelligence","last dev":({3,1,}),"level":5,]),"attack":(["stat":"dexterity","last dev":({3,3,}),"max":0,"points":0,"level":20,]),])
+spells (["owedquar's eyes":(["last dev":({3,1,}),"level":1,]),"holy word":(["level":1,]),"summon shadow weapon":(["last dev":({3,2,}),"level":2,]),"shadow bolt":(["last dev":({3,3,}),"level":3,]),"cure light wounds":(["level":1,]),"mist cloud":(["last dev":({3,1,}),"level":1,]),])
+wimpydir "out"
+i 1
+j 1
+k -1
+num_attacks 1
+x 1
+defendflag 1
+num_rounds 1
+skill 48
+env_var (["start":"/d/areas/arm_dealers/nalon/rooms/room1","TITLE":"Dark Learner $N the Seraph","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money (["silver":727,"gold":41,"copper":3680,])
+ok_to_heal 2330
+player_age 2320
+sight_bonus 3
+gender "male"
+state "stand"
+stats (["wisdom":90,"dexterity":95,"strength":105,"constitution":105,"intelligence":60,"charisma":134,])
+languages (["common":10,"serra":10,])
+primary_language "serra"
+xp_to_next_dev 10504
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","k":"kill $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 3
+verbose_moves 1
+birth 1668353535
+blocked ([])
+exp_log ([1668355192:179,])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "Chris"
+email "chrisnottage1300@gmail.com"
+ip "3.128.186.25"
+last_on "Sun Nov 13 15:32:15 2022"
+password "$6$DlPDngX93GthyeO.$JcaH4liDwacF4BL369zdHyE4R8BcSEh9ifURsUEwkQozOQnTU00QMdE1DH3GijLYHIg/OW0Wt2ZM2s5MgHiRz."
+race "seraph"
+original_site "3.128.186.25"
+position "player"
+quests ({})

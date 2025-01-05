@@ -1,0 +1,7 @@
+#/d/areas/kobold/armor/boots.c
+encumbrance 200
+props (["material_name":"leather","value":50,"material_type":"misc",])
+true_name "kobold boots"
+creator "/d/areas/kobold/mon/fighter#61556"
+material "/misc/leather"
+armour_save (["ac":(["infernal":0,"fire":3,"cold":3,"disruption":0,"stress":1,"crushing":2,"strike":1,"cutting":5,"vacuum":1,"plasma":0,"impact":2,"impaling":5,"holy":0,"electricity":0,"aether":0,]),])

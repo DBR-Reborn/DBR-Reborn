@@ -1,0 +1,8 @@
+#/d/damned/virtual/robe.armour
+#/d/damned/virtual/robe.armour.c
+encumbrance 100
+props (["runes":({"malsa bonnes","malsa sen zora",}),"value":10,"progress inscribe_malsa_sen_zora_maker":0,"material_type":"leather","extra long":({"Crafted by: Maker with A Level [24] Hulking orc leather",({"Fortification: %^CYAN%^+40","detect magic",}),"A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.",}),"progress major_fortification_math":0,"progress inscribe_malsa_bonnes_maker":0,"material_name":"Hulking orc","pow major_fortification_math":0,"enchantment":40,])
+true_name "robe"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Hulking orc"
+armour_save (["short desc":"A Robe","ac":(["infernal":315,"disruption":312,"stress":314,"unholy":315,"crushing":331,"cutting":328,"vacuum":313,"plasma":318,"impaling":328,"holy":312,"fire":321,"cold":320,"strike":326,"impact":323,"aether":313,"electricity":322,]),])

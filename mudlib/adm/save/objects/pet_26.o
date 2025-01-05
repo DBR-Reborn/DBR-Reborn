@@ -1,0 +1,33 @@
+#/wizards/diewarzau/obj/pet/elemental_dragon.c
+props (["melee damage":(["impact":53,"disruption":73,"stress":73,"crushing":53,"aether":73,]),"magic resistance":60,"base mp regen":53,"ambidextry":1,"enhance criticals":-2,"base hp regen":57,])
+true_name "elemental"
+creator "/std/spells/summon_elemental_dragon#164205"
+max_internal_encumbrance 3480
+player_data (["general":(["exp buffer":0,"sp":1,"experience":400000,"max_hp":2240,"max_sp":1,"hp":2240,]),])
+magic (["max points":1900,"points":1900,])
+severed ([])
+healing ([])
+body (["head":(["damage":0,"armour_ob":({}),"max_dam":1120,"weapons":0,"ac":55,"limb_ref":"FATAL","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":1120,"weapons":0,"ac":55,"limb_ref":"right foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":1120,"weapons":0,"ac":55,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":1120,"weapons":0,"ac":55,"limb_ref":"left hand","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":1120,"weapons":0,"ac":55,"limb_ref":"","armour":({}),]),"torso":(["damage":0,"armour_ob":({}),"max_dam":1120,"weapons":0,"ac":110,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":1120,"weapons":0,"ac":55,"limb_ref":"left foot","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":1120,"wieldable":1,"weapons":0,"ac":55,"limb_ref":"","armour":({}),]),"right wing":(["damage":0,"armour_ob":({}),"max_dam":1120,"weapons":0,"ac":55,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":1120,"weapons":0,"ac":55,"limb_ref":"right hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":1120,"wieldable":1,"weapons":0,"ac":55,"limb_ref":"","armour":({}),]),"left wing":(["damage":0,"armour_ob":({}),"max_dam":1120,"weapons":0,"ac":55,"limb_ref":"","armour":({}),]),])
+limbs ({"head","right leg","right foot","left arm","left foot","left leg","torso","right hand","right wing","left hand","right arm","left wing",})
+all_my_fingers 4
+heal_rate 57
+skills (["concentrate":(["stat":"intelligence","level":135,]),"two handed blade":(["stat":"dexterity","level":125,]),"body block":(["stat":"strength","level":100,]),"reverse stroke":(["stat":"dexterity","level":29,]),"melee":(["stat":"strength","max":0,"points":0,"level":115,]),"swimming":(["stat":"constitution","level":100,]),"defense":(["level":92,]),"blunt":(["stat":"dexterity","level":119,]),"knife":(["stat":"dexterity","level":128,]),"resist stun":(["stat":"constitution","level":66,]),"dodge":(["stat":"dexterity","level":105,]),"parry":(["stat":"dexterity","level":110,]),"two handed staff":(["stat":"dexterity","level":118,]),"projectile":(["level":119,]),"perception":(["stat":"intelligence","level":103,]),"elementalism":(["stat":"intelligence","level":80,]),"blade":(["stat":"dexterity","level":126,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":114,]),])
+spells (["greater elemental storm":(["level":2,]),"elemental strike":(["level":6,]),"elemental storm":(["level":6,]),"elemental bolt":(["level":6,]),"lesser elemental strike":(["level":6,]),"lesser elemental bolt":(["level":6,]),])
+wimpydir "out"
+ok_to_heal 205500
+player_age 205496
+gender "neuter"
+stats (["wisdom":108,"dexterity":135,"intelligence":99,"strength":116,"constitution":111,"charisma":107,])
+languages (["common":10,"elementalish":10,])
+primary_language "common"
+combat_chance 100
+level 22
+emotes ([])
+speech ([])
+spell_chance (["greater elemental bolt":"$A","greater elemental storm":"","elemental strike":"$A","elemental storm":"","elemental bolt":"$A","lesser elemental strike":"$A","lesser elemental bolt":"$A",])
+body_type "winged-humanoid"
+combat_spells ({"greater elemental storm","elemental storm",})
+register_idx 26
+Pet_data (["aggr status":1,"carry":0,"non aggr":({"okkita",}),"owner":"ceinna","change aggr":1,"save":1,"attack":1,])
+elems ({"disruption","aether","stress",})
+power 7

@@ -1,0 +1,675 @@
+// Edited 072301 by ~Ophelia to fix bugs
+// And to make wiztimes 1 and wizcosts 0
+//    A lab.
+#include <move.h>
+#include <daemons.h>
+
+inherit "/std/Object";
+inherit "/std/locker_logic";
+
+int busy;
+string ing1, ing2, ing3, ing4, ing5, name;
+object ob1, ob2, ob3, ob4, ob5, blank, ob;
+
+int mud_cost=5;
+int clay_cost=10;
+int speed_potion_cost=50;
+int aura_flare_potion_cost=50;
+int prismatic_potion_cost=100;
+int poison_perfume_cost=50;
+int color_dyes_cost=75;
+int metal_golem_cost=500;
+
+
+
+void create() {
+    ::create();
+    set_property("no save", 1);
+    set_id( ({ "lab", "complete alchemy lab", "alchemy lab" }) );
+    set_name("lab");
+    set_short("A complete alchemy lab");
+    set_long("This is a complete alchemy lab, with test tubes, beakers, weird "
+      "instruments, and much, much more. It contains everything you'd need to use "
+      "an alchemist skill or spell. For more information on how to use it, type "
+      "'info'."
+    );
+    set_weight(1300);
+    set_value(100034);
+    return;
+}
+
+void init() {
+    ::init();
+    add_action("do_make","make");
+    add_action("melt_ingot","combine");
+    add_action("info_func","info");
+}
+
+
+int do_make(string str) {
+    name=this_player()->query_cap_name();
+    if(!str) { return 1;}
+
+    if(!this_player()->query_skill("alchemy")) {
+	write("You need to have at least some skill in alchemy before you can "
+	  "use this lab.");
+	return;
+    }
+
+    if(wizardp(this_player())) { busy = 0; }
+    if(str=="speed potion") {
+
+	if(busy==0) {
+	    busy=1;
+	    say(name+" begins to make a brew of some sort.\n",
+	      environment(this_player()));
+	    write("You begin to make a potion of speed.\n",
+	      environment(this_player())); 
+	    if(wizardp(this_player())) {
+		call_out("do_make_speed_potion", 1);
+		return 1;
+	    }
+	    call_out("do_make_speed_potion", 60);
+	    return 1;
+	}
+
+
+	else {
+	    write("You are already making something with your lab.\n");
+	    return 1;
+	}
+
+    }
+
+    if(str=="aura flare potion") {
+	if(busy==0) {
+	    busy=1;
+	    say(name+" begins to make a brew of some sort.\n",
+	      environment(this_player()));
+	    write("You begin to make an aura flare potion.\n",
+	      environment(this_player())); 
+	    if(wizardp(this_player())) {
+		call_out("do_make_aura_flare_potion", 1);
+		return 1;
+	    }
+	    call_out("do_make_aura_flare_potion", 60);
+	    return 1;
+	}
+
+	else {
+	    write("You are already making something with your lab.\n");
+	    return 1;
+	}
+
+    }
+
+    if(str=="prismatic potion") {
+
+	if(busy==0) {
+	    busy=1;
+	    say(name+" begins to make a brew of some sort.\n",
+	      environment(this_player()));
+	    write("You begin to make a prismatic potion.\n",
+	      environment(this_player())); 
+	    if(wizardp(this_player())) {
+		call_out("do_make_prismatic_potion", 1);
+		return 1;
+	    }
+	    call_out("do_make_prismatic_potion", 60);
+	    return 1;
+	}
+
+	else {
+	    write("You are already making something with your lab.\n");
+	    return 1;
+	}
+
+    }
+
+    if(str=="poison perfume") {
+
+	if(busy==0) {
+	    busy=1;
+	    say(name+" begins to make a brew of some sort.\n",
+	      environment(this_player()));
+	    write("You begin to make some poison perfume.\n",
+	      environment(this_player())); 
+	    if(wizardp(this_player())) {
+		call_out("do_make_poison_perfume", 1);
+		return 1;
+	    }
+	    call_out("do_make_poison_perfume", 60);
+	    return 1;
+	}
+
+	else {
+	    write("You are already making something with your lab.\n");
+	    return 1;
+	}
+
+    }
+
+    if(str=="color dyes") {
+
+	if(busy==0) {
+	    busy=1;
+	    say(name+" begins to make a brew of some sort.\n",
+	      environment(this_player()));
+	    write("You begin to make color dyes.\n",
+	      environment(this_player())); 
+	    if(wizardp(this_player())) {
+		call_out("do_make_color_dyes", 1);
+		return 1;
+	    }
+	    call_out("do_make_color_dyes", 120);
+	    return 1;
+	}
+
+	else {
+	    write("You are already making something with your lab.\n");
+	    return 1;
+	}
+
+    }
+
+
+    if(str=="mud") {
+
+	if(busy==0) {
+	    busy=1;
+	    say(name+" begins to make a brew of some sort.\n",
+	      environment(this_player()));
+	    write("You begin to make some mud.\n",
+	      environment(this_player())); 
+	    if(wizardp(this_player())) {
+		call_out("do_make_mud", 1);
+		return 1;
+	    }
+	    call_out("do_make_mud", 60);
+	    return 1;
+	}
+
+	else {
+	    write("You are already making something with your lab.\n");
+	    return 1;
+	}
+
+    }
+
+
+
+
+
+    if(str=="clay") {
+
+	if(busy==0) {
+	    busy=1;
+	    say(name+" begins to make a brew of some sort.\n",
+	      environment(this_player()));
+	    write("You begin to make some clay.\n",
+	      environment(this_player())); 
+	    if(wizardp(this_player())) {
+		call_out("do_make_clay", 1);
+		return 1;
+	    }
+	    call_out("do_make_clay", 60);
+	    return 1;
+	}
+
+	else {
+	    write("You are already making something with your lab.\n");
+	    return 1;
+	}
+
+    }
+}
+
+
+int do_make_speed_potion() {
+
+    if(!present("lab", environment(this_player()))) {
+	write("You must be in a room with a lab while making potions of "
+	  "speed.");
+	busy=0;
+	return;
+    }
+    name=this_player()->query_cap_name();
+
+
+    if(wizardp(this_player())) {
+	write("You finish making your potion of speed.", environment(this_player()));
+	ob = new("/std/tailwind/obj/speed_potion");
+	ob->move(this_player());
+	busy=0;
+	return;
+    }
+
+    if(this_player()->query_money("gold") < speed_potion_cost){
+	write("You do not have the "+speed_potion_cost+
+	  " gold coins required to create this.");
+	busy=0;
+	return;
+    }
+    say(name+" finishes making the brew.",
+      environment(this_player()));
+    write("You finish making your potion of speed.",
+      environment(this_player()));
+    write("It cost you "+speed_potion_cost+" gold.",
+      environment(this_player()));
+    this_player()->add_money("gold",speed_potion_cost*-1);
+    ob = new("/std/tailwind/obj/speed_potion");
+    ob->move(this_player());
+    busy=0;
+    return;
+}
+
+int do_make_prismatic_potion() {
+    if(!present("lab", environment(this_player()))) {
+	write("You must be in a room with a lab while making a prismatic potion.");
+	busy=0;
+	return;
+    }
+    name=this_player()->query_cap_name();
+    if(wizardp(this_player())) {
+	write("You finish making your prismatic potion.", environment(this_player()));
+	ob = new("/std/glen/obj/prismatic_potion");
+	ob->move(this_player());
+	busy=0;
+	return;
+    }
+
+    if(this_player()->query_money("gold") < prismatic_potion_cost){
+	write("You do not have the "+prismatic_potion_cost+
+	  " gold coins required to create this.");
+	busy=0;
+	return;
+    }
+
+    say(name+" finishes making the brew.\n",
+      environment(this_player()));
+    write("You finish making your prismatic potion.\n",
+      environment(this_player()));
+    write("It cost you "+prismatic_potion_cost+" gold.\n",
+      environment(this_player()));
+    this_player()->add_money("gold",prismatic_potion_cost*-1);
+    ob = new("/std/glen/obj/prismatic_potion");
+    ob->move(this_player());
+    busy=0;
+    return;
+}
+
+int do_make_aura_flare_potion() {
+    if(!present("lab", environment(this_player()))) {
+	write("You must be in a room with a lab while making an aura flare "
+	  "potion.");
+	busy=0;
+	return;
+    }
+    name=this_player()->query_cap_name();
+    if(wizardp(this_player())) {
+	write("You finish making your aura flare potion.", environment(this_player()));
+	ob = new("/std/tailwind/obj/aura_flare_potion");
+	ob->move(this_player());
+	busy=0;
+	return;
+    }
+
+    if(this_player()->query_money("gold") < aura_flare_potion_cost){
+	write("You do not have the "+aura_flare_potion_cost+
+	  " gold coins required to create this.");
+	busy=0;
+	return;
+    }
+
+    say(name+" finishes making the brew.\n",
+      environment(this_player()));
+    write("You finish making your aura flare potion.\n",
+      environment(this_player()));
+    write("It cost you "+aura_flare_potion_cost+" gold.\n",
+      environment(this_player()));
+    this_player()->add_money("gold",aura_flare_potion_cost*-1);
+    ob = new("/std/tailwind/obj/aura_flare_potion");
+    ob->move(this_player());
+    busy=0;
+    return;
+}
+int do_make_poison_perfume() {
+    if(!present("lab", environment(this_player()))) {
+	write("You must be in a room with a lab while making poison "
+	  "perfume.");
+	busy=0;
+	return;
+    }
+    name=this_player()->query_cap_name();
+    if(wizardp(this_player())) {
+	write("You finish making your poison perfume.", environment(this_player()));
+	ob = new("/std/tailwind/obj/poison_perfume");
+	ob->move(this_player());
+	busy=0;
+	return;
+    }
+
+    if(this_player()->query_money("gold") < poison_perfume_cost){
+	write("You do not have the "+poison_perfume_cost+
+	  " gold coins required to create this.");
+	busy=0;
+	return;
+    }
+
+    say(name+" finishes making the brew.\n",
+      environment(this_player()));
+    write("You finish making your poison perfume.\n",
+      environment(this_player()));
+    write("It cost you "+poison_perfume_cost+" gold.\n",
+      environment(this_player()));
+    this_player()->add_money("gold",poison_perfume_cost*-1);
+    ob = new("/std/tailwind/obj/poison_perfume");
+    ob->move(this_player());
+    busy=0;
+    return;
+}
+int do_make_color_dyes() {
+    if(!present("lab", environment(this_player()))) {
+	write("You must be in a room with a lab while making color dyes.");
+	busy=0;
+	return;
+    }
+    name=this_player()->query_cap_name();
+    if(wizardp(this_player())) {
+	write("You finish making your color dyes.", environment(this_player()));
+	ob = new("/std/tailwind/obj/color_dyes");
+	ob->move(this_player());
+	busy=0;
+	return;
+    }
+
+    if(this_player()->query_money("gold") < color_dyes_cost){
+	write("You do not have the "+color_dyes_cost+
+	  " gold coins required to create this.");
+	busy=0;
+	return;
+    }
+
+    say(name+" finishes making the brew.\n",
+      environment(this_player()));
+    write("You finish making your color dyes.\n",
+      environment(this_player()));
+    write("It cost you "+color_dyes_cost+" gold.\n",
+      environment(this_player()));
+    this_player()->add_money("gold",color_dyes_cost*-1);
+    ob = new("/std/tailwind/obj/color_dyes");
+    ob->move(this_player());
+    busy=0;
+    return;
+}
+int do_make_mud() {
+    if(!present("lab", environment(this_player()))) {
+	write("You must be in a room with a lab while making mud.");
+	busy=0;
+	return;
+    }
+    name=this_player()->query_cap_name();
+    if(wizardp(this_player())) {
+	write("You finish making your mud.", environment(this_player()));
+	ob = new("/std/tailwind/obj/mud");
+	ob->move(this_player());
+	busy=0;
+	return;
+    }
+
+    if(this_player()->query_money("gold") < mud_cost){
+	write("You do not have the "+mud_cost+
+	  " gold coins required to create this.");
+	busy=0;
+	return;
+    }
+
+    say(name+" finishes making the brew.\n",
+      environment(this_player()));
+    write("You finish making your mud.\n",
+      environment(this_player()));
+    write("It cost you "+mud_cost+" gold.\n", environment(this_player()));
+    this_player()->add_money("gold",mud_cost*-1);
+    ob = new("/std/tailwind/obj/mud");
+    ob->move(this_player());
+    busy=0;
+    return;
+}
+int do_make_clay() {
+    if(!present("lab", environment(this_player()))) {
+	write("You must be in a room with a lab while making clay.");
+	busy=0;
+	return;
+    }
+    name=this_player()->query_cap_name();
+    if(wizardp(this_player())) {
+	write("You finish making your clay.", environment(this_player()));
+	ob = new("/std/tailwind/obj/clay");
+	ob->move(this_player());
+	busy=0;
+	return;
+    }
+
+    if(this_player()->query_money("gold") < clay_cost){
+	write("You do not have the "+clay_cost+
+	  " gold coins required to create this.");
+	busy=0;
+	return;
+    }
+
+    say(name+" finishes making the brew.\n",
+      environment(this_player()));
+    write("You finish making your clay.\n",
+      environment(this_player()));
+    write("It cost you "+clay_cost+" gold.\n", environment(this_player()));
+    this_player()->add_money("gold",clay_cost*-1);
+    ob = new("/std/tailwind/obj/clay");
+    ob->move(this_player());
+    busy=0;
+    return;
+}
+
+
+
+
+int melt_ingot(string str) {
+    if(str) {
+	if(sscanf(str, "%s, %s, %s, %s, and %s into metal golem block", ing1,
+	    ing2,ing3, ing4, ing5) == 5) {
+
+	    if(busy==1){
+		write("You're already doing something with the lab.");
+		return;
+	    }
+
+	    if(!this_player()->query_skill("alchemy")) {
+		write("You need to have at least some skill in alchemy before you can "
+		  "use this lab for anything.");
+		return;
+	    }
+
+	    if(!this_player()->query_skill("construct metal golem")) {
+		write("You need to have at least some skill in 'construct metal "
+		  "golem' before you can use this lab for this particular purpose.");
+		return;
+	    }
+
+	    ob1 = present(ing1, this_player());
+	    if(!ob1) {
+		write("You do not have "+article(ing1)+".");
+		return;
+	    }
+	    if(!ob1->id("ingot")) {
+		write("This lab only combines ingots.\n");
+		return;
+	    }
+	    ob2 = present(ing2, this_player());
+	    if(!ob2) {
+		write("You do not have "+article(ing2)+".");
+		return;
+	    }
+	    if(!ob2->id("ingot")) {
+		write("This lab only combines ingots.\n");
+		return;
+	    }
+
+	    ob3 = present(ing3, this_player());
+	    if(!ob3) {
+		write("You do not have "+article(ing3)+".");
+		return;
+	    }
+	    if(!ob3->id("ingot")) {
+		write("This lab only combines ingots.\n");
+		return;
+	    }
+
+
+	    ob4 = present(ing4, this_player());
+	    if(!ob4) {
+		write("You do not have "+article(ing4)+".");
+		return;
+	    }
+	    if(!ob4->id("ingot")) {
+		write("This lab only combines ingots.\n");
+		return;
+	    }
+
+
+	    ob5 = present(ing5, this_player());
+	    if(!ob5) {
+		write("You do not have "+article(ing5)+".");
+		return;
+	    }
+	    if(!ob5->id("ingot")) {
+		write("This lab only combines ingots.\n");
+		return;
+	    }
+
+
+	    if(ob1 == ob2 || ob2 == ob3 || ob3 == ob4 || ob4 == ob5 || ob2 == ob5 || ob1 == ob3 || ob1 == ob4 || ob1 == ob5 || ob1 == ob3 || ob2 == ob4 || ob3 == ob5) {
+		write("A metal golem block requires five seperate " "ingots.");
+		return;
+	    }
+
+	    if((string)ob1->query_material()!=(string)ob2->query_material() 
+	      || (string)ob2->query_material()!=(string)ob3->query_material()
+	      || (string)ob3->query_material()!=(string)ob4->query_material()
+	      || (string)ob4->query_material()!=(string)ob5->query_material()
+	    ) {
+		write("The five ingots must be of the same material.");
+		return;
+	    }
+	    write("You begin to use various chemicals to combine the" "ingots and construct a metal golem block.");
+	    busy=1;
+	    if(wizardp(this_player())){
+		call_out("do_make_metal_block", 1);
+		return;
+	    }
+	    call_out("do_make_metal_block", 180);
+	    return;
+	}
+	write("Please type 'info' for more help.\n");
+	return;
+    }
+    write("Please type 'info' for more help.\n");
+    return;
+}
+
+int do_make_metal_block() {
+    if(!present("lab", environment(this_player()))) {
+	write("You must be in a room with a lab while making metal golem "
+	  "blocks.");
+	busy=0;
+	return;
+    }
+    blank = new("/std/tailwind/obj/metal_golem_body");
+    blank->set_material(replace_string((string)ob1->query_material(),
+	"/", "", 1));
+    blank->set_short("A " + ob1->query_material() + " golem block.");
+    if(wizardp(this_player())) {
+	write("You finish the ingots and construct a metal golem block.", environment(this_player()));
+	if((int)blank->move(this_player()) != MOVE_OK) {
+	    write("You cannot carry this new block, and you drop it.");
+	    blank->move(environment(this_player()));
+	}
+	busy=0;
+	return;
+    }
+
+    if(this_player()->query_money("gold") < metal_golem_cost){
+	write("You do not have the "+metal_golem_cost+
+	  " gold coins required to create this.");
+	busy=0;
+	return;
+    }
+
+    write("You finish using various chemicals to combine the ingots and "
+      "construct a metal golem block.");
+    write("It cost you "+metal_golem_cost+" gold to buy the chemicals needed "
+      "for the ingots to fuse.\n", environment(this_player()));
+    this_player()->add_money("gold",metal_golem_cost*-1);
+    if((int)blank->move(this_player()) != MOVE_OK) {
+	write("You cannot carry this new block, and you drop it.");
+	message("info", (string)this_player()->query_cap_name() +
+	  " drops "+(string)blank->query_short(),
+	  environment(this_player()), ({ this_player() }));
+	blank->move(environment(this_player()));
+    }
+
+    ob1->remove();
+    ob2->remove();
+    ob3->remove();
+    ob4->remove();
+    ob5->remove();
+    busy=0;
+    return;
+}
+
+
+int info_func() {
+    write("You can do the following things with an alchemist lab:");
+    write("'make aura flare potion': Makes an aura flare potion for use with
+the spell 'aura flare'. Costs "+aura_flare_potion_cost+" to make.");
+write("'make prismatic potion': Makes a prismatic potion for use with
+the spell 'imbue potion'. Costs "+prismatic_potion_cost+" to make.");
+write("'make speed potion': Makes a potion of speed for use with the spell
+'speed'. Costs "+speed_potion_cost+" to make.");
+write("'make poison perfume': Makes a jar of poison perfume for use with
+the spell 'poison fumes'. Costs "+poison_perfume_cost+" to make.");
+write("'make color dyes': Makes color dyes for use with the spell 'color
+change'. Costs "+color_dyes_cost+" to make.");
+write("'make mud': Makes mud for use with the skill 'construct mud golem'.
+Costs "+mud_cost+" to make.");
+write("'make clay': Makes clay for use with the skill 'construct clay
+golem'. Costs "+clay_cost+" to make.");
+write("'combine <ingot 1>, <ingot 2>, <ingot 3>, <ingot 4>, and <ingot 5>
+into metal golem block': Makes a metal golem block for use with the skill
+'construct metal golem'. Costs "+metal_golem_cost+" to make, and requires 5
+ingots of the same mineral type.");
+write("None of the lab uses are instant - you may be required to wait from
+one to three minutes. Moving away from the lab will abort whatever you're
+trying to do with it.");
+return;
+}
+
+
+string query_storage_key() { return "misc"; }
+
+int query_is_locker() { return 1; }
+string query_my_file() { return "misc"; }
+
+int move(mixed dest) {
+
+  if(query_property("no get") && objectp(dest) && living(dest))
+    return MOVE_NOT_ALLOWED;
+  return ::move(dest);
+}
+
+
+int restore_locker(string null) {
+  set_property("no get", 1);
+  return;
+}
+
+
+

@@ -1,0 +1,51 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":40,"extra hp regen":25,"xp mod":-50,"light":0,"melee damage":(["holy":5,"crushing":5,]),"last reinc":1667425477,"handedness":"left hand","enhance criticals":(["disruption":1,"holy":-1,]),"dev point base":66,"last read news":1667425477,"sp points":0,"old exp":10149,"ambidextry":0,"base mp regen":3,"base hp regen":3,"combat color":"%^BOLD%^","dev points":66,])
+true_name "isarrk"
+creator "/adm/obj/login#100516"
+max_internal_encumbrance 2550
+player_data (["general":(["sp":1,"exp buffer":0,"max_hp":126,"hp":126,"max_sp":665,]),])
+magic (["max points":144,"points":140,])
+severed ([])
+healing ([])
+body (["right foot":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":31,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":42,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({"leather legs",}),]),"head":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":63,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"chain head",}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":31,"weapons":0,"ac":0,"limb_ref":"","armour":({"leather foots",}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":42,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({"metal arm",}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":42,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({"leather legs",}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":126,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({"leather torso",}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":31,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"right wing":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":42,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":42,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({"metal arm",}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({,,}),"max_dam":31,"wieldable":1,"weapons":,"ac":0,"limb_ref":"","armour":({"cloth hand",}),]),"left wing":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":42,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"head","right leg","right foot","left arm","left foot","left leg","torso","right hand","right wing","right arm","left hand","left wing",})
+all_my_fingers 5
+heal_rate 1
+char_class "child"
+skills (["prayer":(["stat":"wisdom","level":5,]),"trade lore":(["stat":"charisma","level":5,]),"melee":(["max":0,"points":0,"level":0,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":5,]),])
+spells (["holy word":(["level":1,]),"cure light wounds":(["level":1,]),])
+wimpydir "out"
+env_var (["start":"/d/newbieville/rooms/newbie2","TITLE":"Novice $N the Seraph","LINES":"70","TERM":"xterm-256","SCORE":"on",])
+money ([])
+ok_to_heal 38886
+player_age 38876
+sight_bonus 3
+gender "male"
+state "stand"
+stats (["wisdom":115,"dexterity":95,"intelligence":100,"constitution":85,"strength":85,"charisma":65,])
+languages (["common":10,"serra":10,])
+primary_language "serra"
+alias (["n":"north","bio":"biography","nw":"northwest","l":"look","ne":"northeast","i":"inventory","w":"west","exa":"look at $*","sw":"southwest","e":"east","u":"up","d":"down","se":"southeast","s":"south","sc":"score",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+verbose_moves 1
+birth 1667410573
+blocked (["newbie":0,])
+snatch "off"
+inf_block ({})
+real_name "Andrew"
+email "gqxdrew@gmail.com"
+ip "3.128.186.25"
+last_on "Wed Nov  2 21:44:37 2022"
+password "$6$Q6so4s7n/yy/IvlA$Phas25IA4k8RbpICtDtmXXxS/qreqtURNrmnkkq6jA2QRWS7Mu4Li4lUSt3ExoqiqlSR5XUAzQxVPpjirfcmm."
+race "seraph"
+original_site "3.128.186.25"
+position "player"
+primary_start "/d/newbieville/rooms/newbie0"
+quests ({})

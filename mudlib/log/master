@@ -1,0 +1,4069 @@
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Wed Nov  6 01:50:04 2024 [TRACE] - socket_preload BEGIN
+Wed Nov  6 01:50:04 2024 [TRACE] - socket_preload - lines=2
+Wed Nov  6 01:50:04 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Wed Nov  6 01:50:04 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Wed Nov  6 01:50:04 2024 [TRACE] - socket_preload END
+Wed Nov 13 02:23:10 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Wed Nov 13 02:23:16 2024 [TRACE] - socket_preload BEGIN
+Wed Nov 13 02:23:16 2024 [TRACE] - socket_preload - lines=2
+Wed Nov 13 02:23:16 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Wed Nov 13 02:23:16 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Wed Nov 13 02:23:16 2024 [TRACE] - socket_preload END
+Wed Nov 20 02:53:33 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Wed Nov 20 02:53:39 2024 [TRACE] - socket_preload BEGIN
+Wed Nov 20 02:53:39 2024 [TRACE] - socket_preload - lines=2
+Wed Nov 20 02:53:39 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Wed Nov 20 02:53:39 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Wed Nov 20 02:53:39 2024 [TRACE] - socket_preload END
+Wed Nov 27 03:23:41 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Wed Nov 27 03:23:48 2024 [TRACE] - socket_preload BEGIN
+Wed Nov 27 03:23:48 2024 [TRACE] - socket_preload - lines=2
+Wed Nov 27 03:23:48 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Wed Nov 27 03:23:48 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Wed Nov 27 03:23:48 2024 [TRACE] - socket_preload END
+Wed Dec  4 03:53:54 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Wed Dec  4 03:54:00 2024 [TRACE] - socket_preload BEGIN
+Wed Dec  4 03:54:00 2024 [TRACE] - socket_preload - lines=2
+Wed Dec  4 03:54:00 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Wed Dec  4 03:54:00 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Wed Dec  4 03:54:00 2024 [TRACE] - socket_preload END
+Wed Dec 11 04:24:05 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Wed Dec 11 04:24:12 2024 [TRACE] - socket_preload BEGIN
+Wed Dec 11 04:24:12 2024 [TRACE] - socket_preload - lines=2
+Wed Dec 11 04:24:12 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Wed Dec 11 04:24:12 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Wed Dec 11 04:24:12 2024 [TRACE] - socket_preload END
+Thu Dec 12 03:36:37 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Thu Dec 12 03:36:43 2024 [TRACE] - socket_preload BEGIN
+Thu Dec 12 03:36:43 2024 [TRACE] - socket_preload - lines=2
+Thu Dec 12 03:36:43 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Thu Dec 12 03:36:43 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Thu Dec 12 03:36:43 2024 [TRACE] - socket_preload END
+Thu Dec 12 06:04:14 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Thu Dec 12 06:04:20 2024 [TRACE] - socket_preload BEGIN
+Thu Dec 12 06:04:20 2024 [TRACE] - socket_preload - lines=2
+Thu Dec 12 06:04:20 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Thu Dec 12 06:04:20 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Thu Dec 12 06:04:20 2024 [TRACE] - socket_preload END
+Thu Dec 12 07:25:23 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Thu Dec 12 07:25:29 2024 [TRACE] - socket_preload BEGIN
+Thu Dec 12 07:25:29 2024 [TRACE] - socket_preload - lines=2
+Thu Dec 12 07:25:29 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Thu Dec 12 07:25:29 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Thu Dec 12 07:25:29 2024 [TRACE] - socket_preload END
+Sat Dec 14 15:20:36 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Sat Dec 14 15:20:42 2024 [TRACE] - socket_preload BEGIN
+Sat Dec 14 15:20:42 2024 [TRACE] - socket_preload - lines=2
+Sat Dec 14 15:20:42 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Sat Dec 14 15:20:42 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Sat Dec 14 15:20:42 2024 [TRACE] - socket_preload END
+Wed Dec 18 16:33:23 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Wed Dec 18 16:33:29 2024 [TRACE] - socket_preload BEGIN
+Wed Dec 18 16:33:29 2024 [TRACE] - socket_preload - lines=2
+Wed Dec 18 16:33:29 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Wed Dec 18 16:33:29 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Wed Dec 18 16:33:29 2024 [TRACE] - socket_preload END
+Wed Dec 18 18:30:55 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Wed Dec 18 18:31:01 2024 [TRACE] - socket_preload BEGIN
+Wed Dec 18 18:31:01 2024 [TRACE] - socket_preload - lines=2
+Wed Dec 18 18:31:01 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Wed Dec 18 18:31:01 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Wed Dec 18 18:31:01 2024 [TRACE] - socket_preload END
+Thu Dec 19 01:10:31 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Thu Dec 19 01:10:38 2024 [TRACE] - socket_preload BEGIN
+Thu Dec 19 01:10:38 2024 [TRACE] - socket_preload - lines=2
+Thu Dec 19 01:10:38 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Thu Dec 19 01:10:38 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Thu Dec 19 01:10:38 2024 [TRACE] - socket_preload END
+Thu Dec 19 02:58:32 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Thu Dec 19 02:58:38 2024 [TRACE] - socket_preload BEGIN
+Thu Dec 19 02:58:38 2024 [TRACE] - socket_preload - lines=2
+Thu Dec 19 02:58:38 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Thu Dec 19 02:58:38 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Thu Dec 19 02:58:38 2024 [TRACE] - socket_preload END
+Thu Dec 19 19:06:31 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Thu Dec 19 19:06:38 2024 [TRACE] - socket_preload BEGIN
+Thu Dec 19 19:06:38 2024 [TRACE] - socket_preload - lines=2
+Thu Dec 19 19:06:38 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Thu Dec 19 19:06:38 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Thu Dec 19 19:06:38 2024 [TRACE] - socket_preload END
+Sat Dec 21 01:49:25 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Sat Dec 21 01:49:32 2024 [TRACE] - socket_preload BEGIN
+Sat Dec 21 01:49:32 2024 [TRACE] - socket_preload - lines=2
+Sat Dec 21 01:49:32 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Sat Dec 21 01:49:32 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Sat Dec 21 01:49:32 2024 [TRACE] - socket_preload END
+Sat Dec 21 22:24:08 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Sat Dec 21 22:24:15 2024 [TRACE] - socket_preload BEGIN
+Sat Dec 21 22:24:15 2024 [TRACE] - socket_preload - lines=2
+Sat Dec 21 22:24:15 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Sat Dec 21 22:24:15 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Sat Dec 21 22:24:15 2024 [TRACE] - socket_preload END
+Sat Dec 21 22:57:52 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Sat Dec 21 22:57:59 2024 [TRACE] - socket_preload BEGIN
+Sat Dec 21 22:57:59 2024 [TRACE] - socket_preload - lines=2
+Sat Dec 21 22:57:59 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Sat Dec 21 22:57:59 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Sat Dec 21 22:57:59 2024 [TRACE] - socket_preload END
+Sun Dec 22 03:35:25 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Sun Dec 22 03:35:32 2024 [TRACE] - socket_preload BEGIN
+Sun Dec 22 03:35:32 2024 [TRACE] - socket_preload - lines=2
+Sun Dec 22 03:35:32 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Sun Dec 22 03:35:32 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Sun Dec 22 03:35:32 2024 [TRACE] - socket_preload END
+Sun Dec 22 03:56:57 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Sun Dec 22 03:57:03 2024 [TRACE] - socket_preload BEGIN
+Sun Dec 22 03:57:03 2024 [TRACE] - socket_preload - lines=2
+Sun Dec 22 03:57:03 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Sun Dec 22 03:57:03 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Sun Dec 22 03:57:03 2024 [TRACE] - socket_preload END
+Sun Dec 22 15:17:41 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Sun Dec 22 15:17:48 2024 [TRACE] - socket_preload BEGIN
+Sun Dec 22 15:17:48 2024 [TRACE] - socket_preload - lines=2
+Sun Dec 22 15:17:48 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Sun Dec 22 15:17:48 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Sun Dec 22 15:17:48 2024 [TRACE] - socket_preload END
+Tue Dec 24 02:52:48 2024 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Tue Dec 24 02:52:54 2024 [TRACE] - socket_preload BEGIN
+Tue Dec 24 02:52:54 2024 [TRACE] - socket_preload - lines=2
+Tue Dec 24 02:52:54 2024 [TRACE] - socket_preload - [/daemon/network]->create()
+Tue Dec 24 02:52:54 2024 [TRACE] - socket_preload - [/daemon/services]->create()
+Tue Dec 24 02:52:54 2024 [TRACE] - socket_preload END
+Thu Jan  2 01:58:03 2025 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Thu Jan  2 01:58:10 2025 [TRACE] - socket_preload BEGIN
+Thu Jan  2 01:58:10 2025 [TRACE] - socket_preload - lines=2
+Thu Jan  2 01:58:10 2025 [TRACE] - socket_preload - [/daemon/network]->create()
+Thu Jan  2 01:58:10 2025 [TRACE] - socket_preload - [/daemon/services]->create()
+Thu Jan  2 01:58:10 2025 [TRACE] - socket_preload END
+Thu Jan  2 02:12:02 2025 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Thu Jan  2 02:12:08 2025 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Thu Jan  2 02:12:14 2025 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Thu Jan  2 02:12:20 2025 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Thu Jan  2 02:13:05 2025 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Thu Jan  2 02:13:11 2025 [TRACE] - socket_preload BEGIN
+Thu Jan  2 02:13:11 2025 [TRACE] - socket_preload - lines=2
+Thu Jan  2 02:13:11 2025 [TRACE] - socket_preload - [/daemon/network]->create()
+Thu Jan  2 02:13:11 2025 [TRACE] - socket_preload - [/daemon/services]->create()
+Thu Jan  2 02:13:11 2025 [TRACE] - socket_preload END
+Thu Jan  2 02:14:52 2025 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Thu Jan  2 02:14:58 2025 [TRACE] - socket_preload BEGIN
+Thu Jan  2 02:14:58 2025 [TRACE] - socket_preload - lines=2
+Thu Jan  2 02:14:58 2025 [TRACE] - socket_preload - [/daemon/network]->create()
+Thu Jan  2 02:14:58 2025 [TRACE] - socket_preload - [/daemon/services]->create()
+Thu Jan  2 02:14:58 2025 [TRACE] - socket_preload END
+Sun Jan  5 02:30:31 2025 [TRACE] - load_groups: result of groups ([ /* sizeof() == 24 */
+  "nfd" : ({ /* sizeof() == 1 */
+      "Nfd"
+    }),
+  "elder" : ({ /* sizeof() == 3 */
+      "exash",
+      "",
+      "exash"
+    }),
+  "caves" : ({ /* sizeof() == 2 */
+      "Caves",
+      "cyric"
+    }),
+  "illuminarae" : ({ /* sizeof() == 1 */
+      "Illuminarae"
+    }),
+  "ambassador" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "wizard" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "mudlib" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "admin" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+  "law" : ({ /* sizeof() == 2 */
+      "tlny",
+      "exash"
+    }),
+  "approval" : ({ /* sizeof() == 5 */
+      "tlny",
+      "tiny",
+      "test",
+      "bob",
+      "exash"
+    }),
+  "newbieville" : ({ /* sizeof() == 3 */
+      "Newbieville",
+      "tailwind",
+      "thrace"
+    }),
+  "siteadmin" : ({ /* sizeof() == 2 */
+      "tlny",
+      "honspron"
+    }),
+  "mines" : ({ /* sizeof() == 1 */
+      "Mines"
+    }),
+  "mentor" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "weavers" : ({ /* sizeof() == 1 */
+      "Weavers"
+    }),
+  "assist" : ({ /* sizeof() == 1 */
+      "exash"
+    }),
+  "nocte" : ({ /* sizeof() == 1 */
+      "Nocte"
+    }),
+  "superuser" : ({ /* sizeof() == 6 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash"
+    }),
+  "arch" : ({ /* sizeof() == 9 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob",
+      "honspron",
+      "exash",
+      "exash",
+      "tlny",
+      "exash"
+    }),
+  "arm_dealers" : ({ /* sizeof() == 1 */
+      "Arm_dealers"
+    }),
+  "advocate" : ({ /* sizeof() == 1 */
+      "noone"
+    }),
+  "camps" : ({ /* sizeof() == 1 */
+      "Camps"
+    }),
+  "standard" : ({ /* sizeof() == 1 */
+      "Standard"
+    }),
+  "god" : ({ /* sizeof() == 4 */
+      "tiny",
+      "tlny",
+      "test",
+      "bob"
+    }),
+])
+Preloading: /adm/daemon/delayed_function_d...
+Preloading: /adm/daemon/astronomy_d...
+Preloading: /daemon/castle_d...
+Preloading: /adm/daemon/guild_d...
+Preloading: /adm/daemon/race_d...
+ERROR: Preload failed no file found: /adm/daemon/inactivity_dPreloading: /adm/daemon/inactivity_d...
+
+Got error *call_other() couldn't find object
+ when loading /adm/daemon/inactivity_d.
+Preloading: /daemon/localpost...
+Preloading: /daemon/remotepost...
+Preloading: /daemon/letter...
+Preloading: /daemon/economy_d...
+Preloading: /daemon/events_d...
+Preloading: /adm/daemon/save_items_d...
+Preloading: /daemon/voter...
+Preloading: /daemon/terminal_d...
+Preloading: /d/damned/data/armour_db...
+Preloading: /d/damned/data/weapon_db...
+Preloading: /adm/daemon/wizchar_d...
+ERROR: Preload failed no file found: /d/damned/virtual/world_server.cPreloading: /d/damned/virtual/world_server.c...
+Preloading: /d/damned/virtual/server...
+Preloading: /adm/daemon/virtual_d...
+ERROR: Preload failed no file found: /d/damned/data/world_itemsPreloading: /d/damned/data/world_items...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_items.
+ERROR: Preload failed no file found: /d/damned/data/world_terrain.dbPreloading: /d/damned/data/world_terrain.db...
+
+Got error *call_other() couldn't find object
+ when loading /d/damned/data/world_terrain.db.
+ERROR: Preload failed no file found: /std/virtual/compile.cPreloading: /std/virtual/compile.c...
+Sun Jan  5 02:30:38 2025 [TRACE] - socket_preload BEGIN
+Sun Jan  5 02:30:38 2025 [TRACE] - socket_preload - lines=2
+Sun Jan  5 02:30:38 2025 [TRACE] - socket_preload - [/daemon/network]->create()
+Sun Jan  5 02:30:38 2025 [TRACE] - socket_preload - [/daemon/services]->create()
+Sun Jan  5 02:30:38 2025 [TRACE] - socket_preload END

@@ -1,0 +1,7 @@
+#/d/damned/virtual/tabard.armour.c
+encumbrance 20
+props (["value":10,"extra long":"Crafted by: Kigus with A Level [100] Eternal darkness leather","material_type":"leather","progress engrave_kigus":0,"progress engrave_inikhida":0,"new desc":"0 {tabard}","material_name":"Eternal darkness","progress engrave_arcadia":0,"pow enchanter_mark_upstart":0,"progress enchanter_mark_upstart":0,])
+true_name "tabard"
+creator "/d/damned/virtual/armour_server"
+material "/leather/Eternal darkness"
+armour_save (["short desc":"0 {tabard}","ac":(["infernal":347,"disruption":345,"stress":345,"crushing":346,"unholy":354,"cutting":349,"vacuum":355,"plasma":357,"impaling":345,"holy":350,"cold":361,"fire":345,"strike":345,"impact":351,"electricity":349,"aether":349,]),])

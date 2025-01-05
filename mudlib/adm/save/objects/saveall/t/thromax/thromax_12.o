@@ -1,0 +1,7 @@
+#/d/damned/guilds/paladin/proom/p_holy_badge.c
+encumbrance 120
+props (["value":5000,"material_type":"metal","extra long":({({"Fortification: %^CYAN%^+100%","detect magic",}),}),"progress extreme_fortification_rihcter":0,"new desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {holy}","pow extreme_fortification_rihcter":0,"material_name":"iron","progress engrave_thromax":0,"enchantment":100,])
+true_name "holy badge"
+creator "/d/damned/guilds/paladin/proom/p_knight#394243"
+material "/metal/iron"
+armour_save (["short desc":"%^COLOR195%^Holy%^RESET%^ %^COLOR62%^Avenger%^RESET%^ {holy}","ac":(["infernal":12,"disruption":12,"stress":12,"unholy":12,"crushing":12,"cutting":12,"vacuum":12,"plasma":12,"impaling":12,"holy":12,"fire":12,"cold":12,"strike":12,"impact":12,"aether":12,"electricity":12,]),])

@@ -1,0 +1,7 @@
+#/d/areas/arm_dealers/nalon/obj/sandals.c
+encumbrance 30
+props (["progress true_armour_zurr":0,"new desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Geta%^RESET%^ {pair}","progress major_fortification_zurr":0,"progress master_fortification_zurr":0,"material_name":"leather","true armour":1,"pow extreme_fortification_zurr":0,"progress extreme_fortification_zurr":0,"pow enchanter_mark_zurr":0,"value":40,"extra long":({({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),({"Fortification: %^CYAN%^+100%","detect magic",}),}),"material_type":"none","progress enchanter_mark_zurr":0,"pow true_armour_zurr":0,"progress engrave_elena":0,"pow master_fortification_zurr":0,"pow major_fortification_zurr":0,"enchantment":100,])
+true_name "A pair of sandals"
+creator "/d/areas/arm_dealers/nalon/mon/monk_boss#16661"
+material "/leather"
+armour_save (["enhance critical":-5,"short desc":"%^RED%^Daemonic%^RESET%^%^BOLD%^%^WHITE%^ Infused%^RESET%^%^BOLD%^%^BLACK%^ Geta%^RESET%^ {pair}","ac":(["infernal":7,"disruption":7,"stress":7,"crushing":7,"unholy":7,"cutting":7,"vacuum":7,"plasma":7,"impaling":7,"holy":7,"cold":7,"fire":7,"strike":7,"impact":7,"electricity":7,"aether":7,]),])

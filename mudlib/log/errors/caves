@@ -1,0 +1,12 @@
+/d/caves/rooms/cave001.c line 3: Cannot #include cyric.h before inherit "std/room";
+/d/caves/rooms/cave001.c line 28: Undefined variable 'LOGS' before "/church.log", TPQCN
+/d/caves/rooms/cave001.c line 62: Undefined variable 'ROOMS' before "cave002",
+/d/caves/rooms/cave001.c line 76: Undefined variable 'LOGS' before "/repel.log", TPQCN+
+/d/caves/rooms/cave001.c line 90: Undefined variable 'LOGS' before "/repel.log", TPQCN+
+/d/caves/rooms/cave001.c line 110: Undefined variable 'MON' before "mage")->move(TO);
+/d/caves/rooms/cave001.c line 3: Cannot #include cyric.h before inherit "std/room";
+/d/caves/rooms/cave001.c line 28: Undefined variable 'LOGS' before "/church.log", TPQCN
+/d/caves/rooms/cave001.c line 62: Undefined variable 'ROOMS' before "cave002",
+/d/caves/rooms/cave001.c line 76: Undefined variable 'LOGS' before "/repel.log", TPQCN+
+/d/caves/rooms/cave001.c line 90: Undefined variable 'LOGS' before "/repel.log", TPQCN+
+/d/caves/rooms/cave001.c line 110: Undefined variable 'MON' before "mage")->move(TO);

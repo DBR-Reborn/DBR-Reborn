@@ -1,0 +1,62 @@
+#/std/user.c
+encumbrance 500
+props (["light":0,"sp points":0,"xp mod":15,"old exp":0,"hp advance":38,"melee damage":(["crushing":6,]),"base mp regen":6,"handedness":"left hand","ambidextry":1,"last reinc":1734481235,"base hp regen":12,"dev point base":70,"mp advance":18,"combat color":"%^BOLD%^","last read news":1734481235,"dev points":161,"dev cost":-2,])
+true_name "trook"
+creator "/adm/obj/login#146918"
+max_internal_encumbrance 3270
+player_data (["kills":({118,45,130,132,76,77,85,78,1,}),"general":(["alignment":-1,"max exp":21180,"exp buffer":0,"sp":1,"experience":21181,"last adjust":1734483429,"max_hp":244,"max_sp":0,"hp":244,]),])
+magic (["max points":90,"points":90,])
+severed ([])
+healing (["stuffed":375,"quenched":450,])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":244,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":81,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":61,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":81,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":122,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":61,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":61,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":81,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":61,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":81,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 39
+char_class "thief"
+skills (["knife":(["stat":"dexterity","last dev":({3,8,}),"level":36,]),"trade lore":(["stat":"charisma","last dev":({0,0,}),"level":5,]),"attack":(["stat":"dexterity","last dev":({3,7,}),"max":0,"points":0,"level":36,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),])
+spells ([])
+wimpydir "out"
+protection 3
+hits 8
+i 1
+j 1
+k 2
+num_attacks 1
+x 13
+num_rounds 1
+skill 138
+env_var (["TITLE":"Paddedshoe $N the China-man","start":"/d/standard/square","LINES":"70","SCORE":"on","TERM":"xterm-256",])
+money ([])
+ok_to_heal 5560
+player_age 5556
+sight_bonus -1
+gender "male"
+state "stand"
+stats (["wisdom":30,"dexterity":120,"strength":109,"constitution":94,"intelligence":30,"charisma":51,])
+languages (["common":10,"china-manish":10,])
+primary_language "china-manish"
+language_exp (["orcish":({2,0,}),"middle-english":({3,0,}),])
+xp_to_next_dev 21257
+alias (["nw":"northwest","df":"drink fountain","w":"west","exa":"look at $*","sw":"southwest","u":"up","s":"south","bio":"biography","n":"north","l":"look $*","k":"kill $*","ne":"northeast","i":"inventory","e":"east","se":"southeast","d":"down","sc":"score","gcc":"get coins from corpse $*",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 3
+ghost 1
+verbose_moves 1
+birth 1734481235
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "daniel.mcc@gmail.com"
+ip "65.181.58.40"
+last_on "Wed Dec 18 00:20:35 2024"
+password "$6$UvJRhzdkT7Oh1nDh$LlXhI7LXQ4mh6au7qZeuqryfKs4jCX6Ri4SiVtQMvsvZtEmh85O6I.j1MRR2cGO1EDxAS9rIGTmyUoH1a58fU0"
+race "china-man"
+original_site "65.181.58.40"
+position "player"
+quests ({})

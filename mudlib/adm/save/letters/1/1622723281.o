@@ -1,0 +1,3 @@
+#/daemon/letter.c
+__Letter " think the port the darkelib listens too is 5567 which is +8 from the normal telnet port to login (5559)"
+__Undeleted ({"exash",})

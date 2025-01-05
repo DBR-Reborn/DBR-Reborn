@@ -1,0 +1,58 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":20,"old exp":10149,"light":0,"sp points":0,"melee damage":(["crushing":5,]),"base mp regen":3,"handedness":"right hand","ambidextry":0,"last reinc":1669014313,"base hp regen":3,"dev point base":73,"combat color":"%^BOLD%^","last read news":1669014313,"dev points":73,"dev cost":-2,])
+true_name "passionfruit"
+creator "/adm/obj/login#136590"
+max_internal_encumbrance 2850
+player_data (["general":(["exp buffer":0,"sp":1,"max_hp":156,"max_sp":0,"hp":156,]),])
+magic (["max points":108,"points":19,])
+severed ([])
+healing ([])
+body (["torso":(["damage":25,"armour_ob":({}),"max_dam":156,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":2,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":39,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":78,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":39,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":8,"armour_ob":({}),"max_dam":39,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":39,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":52,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 1
+char_class "child"
+skills (["magery":(["stat":"intelligence","level":5,]),"trade lore":(["stat":"charisma","level":5,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":5,]),"melee":(["max":0,"points":0,"level":0,]),])
+spells ([])
+wimpydir "out"
+i 1
+j 1
+k -1
+num_attacks 1
+defendflag 1
+num_rounds 1
+skill -13
+env_var (["start":"/d/standard/square","TITLE":"Novice $N the Half-elf","LINES":"70","SCORE":"on","TERM":"unknown",])
+money ([])
+ok_to_heal 572
+player_age 572
+sight_bonus 3
+gender "female"
+state "stand"
+stats (["wisdom":50,"dexterity":100,"strength":95,"constitution":110,"intelligence":70,"charisma":55,])
+languages (["common":10,"elfish":6,"middle-english":6,])
+primary_language "elfish"
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+ghost 1
+verbose_moves 1
+birth 1669014313
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "winnie077@mail.com"
+ip "73.202.44.178"
+last_on "Mon Nov 21 07:05:13 2022"
+password "$6$4mBH9EdkiU5v9pho$.rH4BTg3mPjiR/A37iWtR7aUN.pVrO7uaK/7bDxJ/QmmIxA3lCYs93iyaB8Id396uRSL7VQx3v2pR8SM4mfNb/"
+race "half-elf"
+original_site "73.202.44.178"
+position "player"
+quests ({})

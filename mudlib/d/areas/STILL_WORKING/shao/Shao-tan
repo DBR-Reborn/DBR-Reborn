@@ -1,0 +1,80 @@
+//City of Shao-tan
+//idea : Hood
+//name of city by : Lorthag
+
+Brief history: (cuz I haven't thought of the finer points yet)
+
+I'm working off of a map I have on graph paper, and will 
+put a map in this dir as soon as I've made one.
+
+size : 12roomsX19rooms
+levels:  will range from 5-HMish
+Quests:  I've got a few in mind, but will have
+	to be worked out and fine tuned with my
+	cabal leaders guidance.
+
+Shops:  basicly mirror those that exist in akkad,
+	except they will sell different stuff, and will
+	not include silas's place...
+
+More original type shit:
+
+Jail / City Hall / Cemetary / Stables / **Executioner** 
+
+* Guilds
+
+  -The guilds will kinda mimic those in akkad, but all of them
+won't be included, prolly have Thief, Fighter, Paladin, Necro
+etc... just the more traditional ones to start with...
+
+	-They will be filled with NPC guild members of
+different races, and levels... AND... ofc each guild
+will have an NPC Guild Master that will have some type 
+of good weapon to make it worth the while.. 
+since it will be a bitch to get to the guild masters..
+
+
+Misc things of interest
+
+  -shops
+
+I was thinking of a way to have a forge shop where
+tinkers and enchanters sell or trade their wears..
+I think I even have an idea of how to goof with the existing
+code of a normal shop to do it..
+
+	-eg.  a tinker could go in... sell his tinkered
+	  laen breast plate for a fair price, and then
+	the shop keeper would sell it and stick some of 
+the gross profit in the city coffer located in 
+city hall... (prize for a quest I got in the back of me head)
+
+Citizen Homes...
+
+would like to turn the citizens homes (you'll see them on the map)
+into kinda cheap inn rooms... very low cost, but very easy to break
+into...
+or maybe the opposite... they would be better then inn rooms 
+or castles cuz they would be patroled by the city guards of Shao-tan
+..
+Jail -
+
+  My city guards when engaged in combat won't kill players 
+(if it's possible to code that)
+but will take them down to like 1hp or something, then take them to
+the city jail.
+
+The jail it self will have a many ways to get out...
+and will mostly be for fun, and to add to the theme
+the jail door will be easily picked... prolly level 60% pick
+locks...
+will also be searchable by players that will find odd things 
+of interest every so often...
+
+In general the Jail will end up holding someone for 
+maybe a half hour of RL time at the most...
+during that time the room can be searched, things 
+actually IN the jail can be discovered, etc... so it 
+won't be IDLE time... 
+.... more to come as I think of it...
+heheh my amagination far surpasses my skill.... *sigh*

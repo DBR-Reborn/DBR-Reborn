@@ -1,0 +1,7 @@
+#/d/damned/virtual/chain-mail.armour.c
+encumbrance 180
+props (["material_name":"mithril","value":150,"material_type":"metal",])
+true_name "chain mail"
+creator "/d/damned/virtual/armour_server"
+material "/metal/mithril"
+armour_save (["short desc":"A chain mail","ac":(["infernal":15,"disruption":30,"stress":15,"unholy":15,"crushing":15,"cutting":15,"vacuum":15,"plasma":15,"impaling":15,"holy":15,"fire":15,"cold":15,"strike":15,"impact":15,"aether":15,"electricity":15,]),])

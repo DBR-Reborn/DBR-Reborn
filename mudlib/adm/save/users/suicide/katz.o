@@ -1,0 +1,60 @@
+#/std/user.c
+encumbrance 500
+props (["xp mod":0,"light":0,"sp points":0,"old exp":0,"hp advance":28,"melee damage":(["cutting":5,]),"base mp regen":5,"handedness":"right hand","ambidextry":0,"last reinc":1665590276,"base hp regen":5,"dev point base":69,"mp advance":25,"combat color":"%^BOLD%^","last read news":1665590276,"dev points":23,])
+true_name "katz"
+creator "/adm/obj/login#120024"
+max_internal_encumbrance 3150
+player_data (["kills":({118,}),"general":(["max exp":10259,"alignment":2,"exp buffer":0,"sp":1,"experience":10260,"max_hp":238,"max_sp":0,"hp":238,]),])
+magic (["max points":112,"points":112,])
+severed ([])
+healing (["stuffed":625,"quenched":700,])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":238,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":79,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":59,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":79,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":119,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":59,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":59,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":79,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":59,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":79,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 4
+heal_rate 49
+char_class "assassin"
+skills (["magery":(["stat":"intelligence","level":10,]),"telepathy":(["stat":"intelligence","level":60,]),"strike mastery":(["stat":"strength","last dev":({3,2,}),"level":20,]),"hide in shadows":(["stat":"dexterity","last dev":({3,1,}),"level":15,]),"magic mastery":(["stat":"intelligence","last dev":({3,2,}),"level":25,]),"repair weapon":(["stat":"dexterity","last dev":({3,2,}),"level":20,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"swimming":(["stat":"constitution","last dev":({3,1,}),"level":20,]),"duel mastery":(["stat":"dexterity","last dev":({3,1,}),"level":20,]),"invulnerability mastery":(["stat":"strength","last dev":({3,1,}),"level":15,]),"stab":(["stat":"dexterity","last dev":({3,3,}),"level":15,]),"parry":(["stat":"dexterity","last dev":({3,2,}),"level":15,]),"trade lore":(["stat":"charisma","last dev":({3,1,}),"level":15,]),"perception":(["stat":"intelligence","last dev":({3,2,}),"level":20,]),"blade":(["stat":"dexterity","last dev":({3,2,}),"level":15,]),"attack":(["stat":"dexterity","last dev":({3,2,}),"max":0,"points":0,"level":25,]),])
+spells (["clairvoyance":(["level":1,]),])
+wimpydir "out"
+protection 40
+hits 7
+i 1
+j 1
+k 2
+num_attacks 1
+x 9
+num_rounds 1
+skill 38
+env_var (["start":"/d/standard/square","prompt":">","TITLE":"Novice $N the Gerudan","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money ([])
+ok_to_heal 4728
+player_age 4724
+sight_bonus 3
+gender "male"
+state "stand"
+stats (["wisdom":30,"dexterity":122,"strength":105,"constitution":107,"intelligence":42,"charisma":41,])
+languages (["common":10,"catfolk":10,])
+primary_language "catfolk"
+xp_to_next_dev 10509
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 3
+ghost 1
+birth 1665590276
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "amanda.blackstone0923@gmail.com"
+ip "68.41.203.137"
+last_on "Wed Oct 12 15:57:56 2022"
+password "$6$EVlyNvmWCbXQumt9$SkAMYeJQH/tN2T7vd9omFKwZ8JxpVcbuj51orhmbUvqVk/MPugglqesWFLZw0bOFXqt0qGSMquSacPQjTeXee/"
+race "gerudan"
+original_site "68.41.203.137"
+position "player"
+quests ({})

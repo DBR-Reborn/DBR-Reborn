@@ -1,0 +1,7 @@
+#/d/damned/virtual/shod-staff_6.weapon.c
+encumbrance 30
+props (["material_name":"iysaughton","value":425,"extra long":"level[88] iysaughton Shod-Staff of disruption and fire","material_type":"metal","new desc":"level[88] iysaughton Shod-Staff of disruption and fire",])
+true_name "shod staff"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/iysaughton"
+__Weapon (["original wc":(["fire":100,"disruption":367,"crushing":15,]),"quality":6,"type":"two handed staff","ac":(["infernal":6,"disruption":6,"stress":6,"unholy":6,"crushing":6,"cutting":6,"vacuum":6,"plasma":6,"impaling":6,"holy":6,"fire":6,"cold":6,"strike":6,"impact":6,"aether":6,"electricity":6,]),"verb":"bash","wc":(["fire":100,"disruption":367,"crushing":156,]),"short desc":"level[88] iysaughton Shod-Staff of disruption and fire","decay rate":200,"parry bonus":10,])

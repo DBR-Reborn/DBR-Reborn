@@ -1,0 +1,8 @@
+#/d/damned/virtual/wooden-wing-guards.armour
+#/d/damned/virtual/wooden-wing-guards.armour.c
+encumbrance 1
+props (["progress engrave_singe":0,"progress inscribe_malsa_bonnes_singe":0,"runes":({"malsa sen zora","malsa bonnes","aldara zet",}),"new desc":"%^COLOR89%^Demon Wings%^RESET%^ {wooden wing guards}","material_name":"pine","true armour":1,"progress inscribe_malsa_sen_zora_singe":0,"value":90,"pow true_armour_upstart":0,"material_type":"wood","extra long":({"Crafted by: Tursnik with A wooden board of pine [296]","A %^GREEN%^%^BOLD%^Malsa sen Zora%^RESET%^ rune is inscribed on the armour.","A %^BLUE%^%^BOLD%^Malsa Bonnes%^RESET%^ rune is inscribed on the armour.","A %^YELLOW%^%^BOLD%^Aldara Zet%^RESET%^ rune is inscribed on the armour.",({"Fortification: %^CYAN%^+100%","detect magic",}),({"This armour has %^BLUE%^%^BOLD%^True Armour%^RESET%^.","detect magic",}),}),"progress extreme_fortification_upstart":0,"progress true_armour_upstart":0,"pow extreme_fortification_upstart":0,"progress inscribe_aldara_zet_singe":0,"enchantment":100,])
+true_name "wooden wing guards"
+creator "/d/damned/virtual/armour_server"
+material "/wood/pine"
+armour_save (["enhance critical":-4,"short desc":"%^COLOR89%^Demon Wings%^RESET%^ {wooden wing guards}","ac":(["infernal":1236,"disruption":1236,"stress":1236,"unholy":1236,"crushing":1170,"cutting":1170,"vacuum":1236,"plasma":1244,"impaling":1170,"holy":1236,"fire":1249,"cold":1249,"strike":1159,"impact":1159,"aether":1236,"electricity":1249,]),])

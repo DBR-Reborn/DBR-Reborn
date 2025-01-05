@@ -1,0 +1,8 @@
+#/d/damned/virtual/iron-bracer.armour
+#/d/damned/virtual/iron-bracer.armour.c
+encumbrance 35
+props (["material_name":"iron","value":50,"material_type":"metal",])
+true_name "iron bracer"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iron"
+armour_save (["short desc":"A iron bracer","ac":(["infernal":40,"disruption":1,"stress":1,"crushing":40,"unholy":40,"cutting":40,"vacuum":1,"plasma":3,"impaling":40,"holy":1,"cold":5,"fire":5,"strike":35,"impact":45,"electricity":1,"aether":1,]),])

@@ -1,0 +1,7 @@
+#/d/damned/virtual/great-helm.armour.c
+encumbrance 100
+props (["material_name":"iysaughton","value":45,"material_type":"metal","extra long":"level[41] iysaughton helm of vacuum and disruption protection","new desc":"level[41] iysaughton helm of vacuum and disruption protection",])
+true_name "great helm"
+creator "/d/damned/virtual/armour_server"
+material "/metal/iysaughton"
+armour_save (["short desc":"level[41] iysaughton helm of vacuum and disruption protection","ac":(["infernal":71,"disruption":163,"stress":71,"crushing":71,"unholy":71,"cutting":71,"vacuum":130,"plasma":71,"impaling":71,"holy":71,"cold":71,"fire":71,"strike":71,"impact":71,"electricity":71,"aether":71,]),])

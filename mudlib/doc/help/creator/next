@@ -1,0 +1,393 @@
+Tlny — 04/13/2020
+-Shadow Form spell broken
+Tlny — 04/14/2020
+- find and boost Party EXP only gving 30%
+
+Scuzzykidd (Ryan C) — 04/14/2020
+Z:\Mud\1.19.2020 DBR\DarkeLIB-master\mudlib\cmds\mortal_party.c (1 hit)
+    Line 216:     sprintf("%%^CYAN%%^%%^BOLD%%^Current EXP bonus: %%^RESET%%^%%^BOLD%%^%d%%\n",
+Tlny — 04/14/2020
+- Double check other spells such as "weapon" poison weapon to be exact
+- Look at "prompt" code and merge it in (Big job)
+Tlny — 04/15/2020
+-Repurpose (already on world map as ancient) and change monsters to skaven and higher level /mudlib/d/camps/ruins 
+(MOVE ON WORLD MAP) done Skaven idea still want to do
+-Repurpose and add to the mud
+/d/areas/walled_city
+- need to look out and redo
+/d/caves
+- need to decide on if keeping or changing world map creatures
+/d/damned/world/obj/mon
+-dig through this and decide what is needed and what is not
+/d/drizzt
+- Lots of code to dig through and decide on what is needed or not
+/d/excelsior
+I also believe this is similar code with a attempt to port it out
+/d/nfd
+Tlny — 04/15/2020
+-go through and find out what is trash or not
+/d/warsyn
+Tlny — 04/17/2020
+Use compare for damage and armour maybe limbs to (Spent crazy amount of time on this no success circle back on it) you can compare the same item to get damage and armour.
+Tlny — 04/19/2020
+Radiation crits exists but need work need to come back to (Idea apply them to the Tyranid race and add in Tyranid)
+-Psychich crits exists needs lots of work Wizard reference left in tack Found missing files and moved to folders for future work.
+Tlny — 04/19/2020
+- Come back to Parallysis Crit tables
+- Come back to Limb Crit tables
+-Come back to newly Light Crit tables
+-Come back to Javednite Crit tables (Bone Breaker)
+Tlny — 04/19/2020
+-Come back to impaling crits
+-Come back to Impact crits
+-com back to Fire crits
+Tlny — 04/19/2020
+-Fix daybreak church naming Akkad fix post office down from akkad church and adjacent rooms
+Tlny — 04/21/2020
+- Nethermancer guild has been fully integrated (super necromancers tuns of spells) I need to fix all the spells and dev costs they go way past level 60 and dev costs are high to
+Tlny — 04/23/2020
+- add Astra Boss monster from dins stuff
+Tlny — 04/23/2020
+-- made but not yet finished /d/areas/quarry 
+Work is needed fixed most rooms remade in own image. Maybe merge codes
+Tlny — 04/26/2020
+- build out elemental crit table for bosses A lesser b minor C ele D greator E dragns link to Z table
+- build out monster crit table for bosses A goblin kobolds skeles Z table
+Tlny — 04/27/2020
+- need to fix acid, royal, time, reflection, ETC ETC crit tables do not exsist as well as many other functions on mNether staff
+-Nethers - nether gate is broken. Cant find nexus
+Nethers - Pets have to be looked at to make sure they have skills and spells which are in THIS mud
+Tlny — 04/27/2020
+Nethers - nether staff when it glows with truly hellish torture.. it breaks it
+Nethers - the fresh blood glow gives out bug messages
+Actually this whole staff is broke... Only things that work is the vampiric functions and the haste
+I don't really damage the mob im hunting with it
+Tlny — 04/27/2020
+Nethers - mold nether robe also broken
+Tlny — 04/27/2020
+- look through help topics and remove old material and add in newcoder. made changes and added in new help topics
+Tlny — 04/28/2020
+- create new lores for elementalist and elemental mage
+
+Reference /std/spells/spell.c
+Tlny — 04/28/2020
+Missing tables for Elemental mages and Dark paladins equipment:
+
+stress lore
+strike lore
+Impact Lore
+Infernal Lore
+Vacuum lore
+disruption lore
+Darkness Lore
+Acid Lore
+Radiation Lore
+Holy lore
+Reflection Lore
+Royal Lore
+Sonic Lore
+Tlny — 04/29/2020
+- save for characters alias need to manual save or type quit to save them
+This only applies to admins/wizards they do not auto save properly?
+-save for nexus and other items in save rooms
+Tlny — 04/30/2020
+- Idea remove FOF cap but leave status so you can gain more then FOF exp and just gotta wait for it to drain off.
+Tlny — 05/02/2020
+- create new - rings with skill properties and stat proprties
+Tlny — 05/05/2020
+- unlock chests with keys do not appear to work
+(Unlocking doors does)
+Tlny — 05/05/2020
+- add new quest - search default find key unlock door find newbie clown with newbie armor set search amour rack get newbie armor. based on new player set search weapon rack generate weapons. add invis exits to help players understand more mechanics add all the above to secret hidden rooms and places (Add as well look at items to make items exists and descriptions describing what to do. update signs for rooms)
+Tlny — 05/05/2020
+- enchanters need more spells
+i have everything maxed at level 23
+for a pure spellcaster that seems sad
+also if we can change the enchanting of weapons and make it based on enchantment skill instead of random luck i think that would be a great improvement.
+Move TA and TW to 30
+Just not stuff from guilfs
+Like u had acid crits and wat not
+U could also add imbue spell/skill back at 35
+And have locked rune... With area spells from other Guilds
+Tlny — 05/05/2020
+- create space marines at the entrance to the tyranid Hive with Lootable Plasma weapons and holy relic gear super high level 35 Space marines (Change Tyranid to move) Make space marines block exit out for only tyranid  race and auto kill tyranid race creatures.(Plasma Claw, Plasma Bolter, Holy reolic sword, Power Hammer) In conjunction create Chaos Marines with Unholy, aether, and infernal weapons and gear
+- build and map out space hulk  map out of tyranid hive
+- build and map out drop pod to other planet and build a entire world of Warhammer 40k theme out of Daybreak
+make it a war world for level 50+ characters with loot to match of all types
+Tlny — 05/06/2020
+-- Idea add in code to make it so you need a special reagent to activate specials spells on armors or weapons. look at necro sacrifice code for corpse to create a item.
+Tlny — 05/06/2020
+- Radiable castle that requires a thief to unlock doors. or bash lock etc. for team play
+Tlny — 05/07/2020
+-- need to Build out Secret loot table 4 area behind a mechanic of a special level 30 mob that guards a chest in that locked chest will hold the key to open up the secret hidden area.
+Tlny — 05/07/2020
+- consider rebuilding forest path/walled city the creatures have broken weapons and armour that need to be remade. Also consider adding more creatures etc. /d/areas/walled_city also consider revamping and adding in correct templates
+Tlny — 05/07/2020
+-- city of athens added but it is barren and needs to be populated all the rooms are mapped out though missing some descriptions /d/areas/athens
+Tlny — 05/09/2020
+-- create action to reactions with call other to add chests upon open or door when opened add traps or summons of hords of monsters and so much more...
+Tlny — 05/09/2020
+- can read boards of other guilds need to fix
+Tlny — 05/10/2020
+- Map out kobold village.. sometime in the future the coder spaced things out double space style. it's also very big
+Tlny — 05/11/2020
+- Look at and revise and add in Mercenary guild and ranger guild
+-look at fighter guild and add in 2 rounds of heart beat combat by default upon joining the guild
+Tlny — 05/12/2020
+- create lumberjack other wood types
+-create leather crafting and based on skin of race add protection values
+- add in meteorite mineral already created
+Tlny — 05/12/2020
+- code in change ownership for pets to not be able to pass certain max level pets
+- add in orbs of elementals to be sold in pet shop
+Tlny — 05/13/2020
+- create material "dark steel"
+Tlny — 05/13/2020
+New spells found look over and decide to add to MUD
+- Reference /d/areas/keep/spells
+Tlny — 05/18/2020
+on login auto run 'equip'
+Tlny — 05/21/2020
+DominiDragon(Allan)(Xavier)Today at 5:52 AM
+Elem-Mages / guild guard wont let my masses pass or my warrior
+Elem-Mages/ there is a bug in nexus crits... When i fight i get a bunch of bug messages
+Actually warrior gets thru.. just the mass doesnt
+Elem-Mages/ bind greater mass does nothing
+Tlny (Jacob L)Today at 6:00 AM
+Probably invalid damage types
+DominiDragon(Allan)(Xavier)Today at 6:01 AM
+Did y'all eveer get to elem gatherings?
+DominiDragon(Allan)(Xavier)Today at 6:10 AM
+Also can get a command to see all spells and skills?? Like our choice?? List spells all/list skills all
+DominiDragon(Allan)(Xavier)Today at 6:23 AM
+Elem-Mages / mass immersion does not work
+DominiDragon(Allan)(Xavier)Today at 6:51 AM
+Pets def have to me nerfed... And spells have to come down to reg levels
+Maybe top spell 40?
+One of my elem warriors can take out a guild guard...
+DominiDragon(Allan)(Xavier)Today at 7:33 AM
+The guard thing is pretty muvh the 125 silver for mass. I give mass silver and it can cross...
+DominiDragon(Allan)(Xavier)Today at 7:49 AM
+Also screw the Lictor blocking me in tyranid
+DominiDragon(Allan)(Xavier)Today at 8:21 AM
+Maybe adjust price of castles???
+Tlny — 05/21/2020
+Elem-Mages/ pets are perm?? Or until restart?
+Elem-Mages / major elem weapon doesnt wear off?
+Are mine rooms save rooms?
+Tlny — 05/21/2020
+- mines are not save rooms
+Tlny — 05/21/2020
+Major elemental weapon says it wears off but I can't cast on weapon again
+Masses attack you no matter wat
+If u attack in same room
+Tlny — 05/21/2020
+masses are monsters and the spell forces them to stalk you
+Tlny — 05/22/2020
+interesting bug with balance weapon: Some weapons tell me they have to be unwielded first but I'm not wielding them.
+Tlny — 05/22/2020
+NB - Not Friendly skills /Shadow + assassinate
+NB - Not friendly Spells/Alter Visage+Animal Transformation+gaseous form+Apportation+Stun Blade+Distance Poison+Improved Invisibility
+SM - Not Friendly Spells/Mad Rage+Greater Plasma Blade+Banshee Blade+Clone
+AM - Not Friendly Skills/Sorcery
+AM - Not Friendly Spells/Mana Vortex+Call Lightning+Store Spell+Delay+Dispel Magic+Counter Spell+Summon greater Familiar+Link+Draxanar's Anti-magic Field
+Tlny — 05/23/2020
+Oh depending on version make sure people can't peer in from other rooms and access the editor to break into places and remove features:P
+seem to recall finding that one out on accident one day long ago. That and using editor in inn rooms and other save rooms like that to clone stuff:P
+time to see if I can stream in gen voice channel
+Tlny — 05/23/2020
+Need to be able to use craft leather to make belts, tabards, cloaks, and any other clothing
+Forge Armor needs visors added to it
+Tlny — 05/23/2020
+master work items on skills that have 200% or higher
+Tlny — 05/23/2020
+Prospecting should be updated to be a bit more useful, kind of a bit of a crap shoot
+-add in wing protection armour
+Tlny — 05/23/2020
+mana vortex spell - look over request to put over max mana
+Tlny — 05/23/2020
+Oh, add robes to leather craft
+Tlny — 05/23/2020
+Would also be nice if we could inscribe runes on weapons not crafted..like you can enchant everything
+Tlny — 05/24/2020
+WPs - make it so call weapons can be unwielded to be spelled up
+And if dropped they disappear
+Tlny — 05/24/2020
+Update weapons/armor so that skill increases potency when crafting it, perhaps increases durability of weapons, so it degrades slower, and or increases the amount of magic an item can hold. And for armor increase the AC of it by a small percantage  - Also make it so there are patterns for learning runes, and have the runes based on certain 'skills'
+Tlny — 05/24/2020
+Oh, make body block togglable
+Tlny — 05/24/2020
+perhaps a personalize skill for tinkers, allowing them to use it on a weapon/armor to give it bonuses for them only, reduces it for everyone else..
+Tlny — 05/24/2020
+Marines in VO dont stop hunting!!
+Tlny — 05/24/2020
+@honspron enchanter guild lockers are reproducing (All of them they say)
+Tlny — 05/25/2020
+Can we get alias command to be listed alphabetically and remove double line spacing?
+Tlny — 05/25/2020
+Asthetics - remove the you are already wearing that line when you type equip
+Tlny — 05/25/2020
+when died - Ghost should have dark vision
+Tlny — 05/26/2020
+Can we add a rest command or sit command were u regen faster?
+Tlny — 05/26/2020
+Can we make weapon spells last real minutes and not mud minutes?
+Tlny — 05/26/2020
+look at blade spell durations and standardize them
+Tlny — 05/26/2020
+Add bodyblock to any summoned/created creature where they do it to their owner, or make a guard/defend command for em
+Tlny — 05/26/2020
+Fix broken room:
+/d/areas/kobold/rooms/camp30
+Tlny — 05/26/2020
+- balance pets summons
+Tlny — 05/26/2020
+Can we look into making light spells and darknesss spells into balls of light or balls or darkness?
+Tlny — 05/26/2020
+sewer reference in akkad still takes you to DBR
+Tlny — 05/27/2020
+For visibility: If you accidentally use a long-term skill on an item on the ground, there's no obvious way to cancel the action now. You can pick up the item, drop the item, walk away from the item, the skill will still keep counting down until it completes.
+Just something to throw in the bug list
+Tlny — 05/27/2020
+preserve corpse doesn't preserve corpses
+Tlny — 05/27/2020
+can we add mind status to party list?
+Tlny — 05/28/2020
+Enchanter  - preserve rune does nothing
+Tlny — 05/29/2020
+So apparently mobs can still block ghosts from leaving...yeah...
+Tyranid area
+Tlny — 05/29/2020
+Rename a few races
+color code and space - NO IDEA how to FIX spent Weeks/months trying (even using other muds code that do work)
+Tlny — 05/30/2020
+Money has Weight?
+
+a bank would be nice, or make money weigh nothing, was
+rather startled the first time I started dropping money.
+Tlny — 05/30/2020
+I think there's something wonky with indomitable
+spirit. first time I cast it this afternoon after logging back on it got
+the paramoor is now resistant to stunning.  Ever since then, when i cast
+it, I get the message that paramoor is already resistant to stunning.  It's
+like it never wears off once it's cast.
+Tlny] that meanns the person that made that spell applied it
+directly to your character sheet witch is dumb way to do spells
+Tlny — 05/31/2020
+- shields or war spell may be adding extra EXP on level and causing a level DEV HPMP loop
+Tlny — 05/31/2020
+- find a wy to increase LT "skill" exp gain based on elvel
+Tlny — 06/01/2020
+Color Code for shopkeepers when selling a weapon you marked doesn't show up
+
+Tlny — 06/01/2020
+- Adjust Powerstone prices to be lower
+-adjust nexus prices for Nether mancer
+-Fix help daybreak to have exchanger be a M instead of a S
+Tlny — 06/01/2020
+- Fix snoopable so those lowly peons you call wizards can help us even lower scum when we have problems
+Can we get the prices adjusted in shop, say for powerstones, parchment, chests(tinkers should be able to use carpentry to make them), mine prices.
+Also, perhaps for long term exp, for spells and tinker, make it the same, based on skill used. Though spell lvls can adjust it a lil. Or use Atothek's code...steal it!
+Tlny — 06/01/2020
+Since cross training is a thing, adjust lvling mp rate of tinkers, fighters, thieves
+--
+Tlny (Jacob L)Today at 2:54 PM
+in order for this change to occur
+I need to edit each guild
+in order to edit the guild tokens I need to refresh them
+witch means I kick them all out of the guild
+but first we gotta figure out what to set it all to
+Tlny — 06/01/2020
+-Create it so that Cloth is for example cloth boots ID and Metal boots is Metal boots ID so you can wear cloth under Metal do the same for all metal to cloth/leather
+Tlny — 06/02/2020
+Can we get group exp to work, also, make a toggle for assisting party, ie if one is being attacked, everyone jumps in?
+Tlny — 06/02/2020
+-add spell sense, detect magic, fast casting and focus casting to all caster guilds
+Tlny — 06/03/2020
+fix arch-mage for enchanters cross training, currently at x4, and it shows it should be related
+Tlny — 06/03/2020
+-adjust Mine prices
+Tlny — 06/03/2020
+look at demonic rebirth.. doesn't seem to work
+Also demon binds give off upto 3 messages on wearing off
+Tlny — 06/03/2020
+-- Finish Working on Unqiue Items for level 50+ areas FOR TOMORROW
+Tlny — 06/04/2020
+take a close look at /d/khojem/new/room/annex1 and all adjacent rooms for back door code
+Tlny — 06/04/2020
+long-term command - way to see 1. if you're currently working on a LT and 2. get an update on time left, which gets lost in spam sometimes.
+Tlny — 06/04/2020
+Dragon engines dont cast spells...
+Tlny — 06/05/2020
+it's 2020, get rid of timing out idle players... a) CPU resources are emphatically not an issue for muds anymore, and b) the number one factor that determines whether a new player will stay for more than 30 seconds is how many people they see online, it is infinitely better to have 30 afk players on your who list than 5 active ones
+Tlny — 06/07/2020
+-make pet summons. Make creature have summon force on enter to summon pet summon toggle agro and attack target.
+Tlny — 06/08/2020
+- Some Pet's loose ownership after reboot.
+Tlny — 06/09/2020
+- Darke makes it that netdead people get forced back on and force quit after like 30 mins so they save items
+Tlny — 06/10/2020
+- Crit summon pets the higher level ones are making EXP lower for low level players.
+Tlny — 06/12/2020
+- carpentry skill has no remove of object after crafting with a board.
+Tlny — 06/12/2020
+- As a tinker, I believe I should be able to go work in a mine to earn my wage. Maybe even find something that isn't iron once in a while.
+And maybe repair weapon could repair tiers with an extra ingot, for instance: repair sword from superb with an extra ingot
+Tlny — 06/13/2020
+-shields of war and fire shield if used in a certain way can give you infinity levels for it's duration. They have been disabled for now
+Tlny — 06/14/2020
+- Idea Can we add gang bang pet agro code to pets so if you are attack or pet attacked all target all pets attack back then reference to pet code and add it as a guard command
+Tlny — 06/18/2020
+Is there anyway to get something added where we can see the stats/skills/spells of familiars just to know what they have/how powerful they are.  This Drake keeps trying to show me up by casting spells I dont know he has!
+also, for spells like killing cloud, which hit all mobs in the room, it would be nice if we didnt have to supply a target, like we do current
+i was just thinking about your BS!
+Tlny — 06/18/2020
+AM guild typo  - summon familiar (magestic falcon is spelled wrong)
+Tlny — 06/18/2020
+just something i noticed, but if there is an item you are wearing and the same type of item on the ground, and you just using engraving at "item" it has a chance to engrave the item on the ground
+Tlny — 06/19/2020
+- investigate Idle out in AM guild guard room and see if items get wiped out on relog.
+Tlny — 06/19/2020
+soooo scales/deus/holy mission combo does not let me attack anything... lost exp and  39k damage after holy mission cause i could not attack
+Tlny — 06/20/2020
+- leather mask like leather visor
+Tlny — 06/22/2020
+Also after being saved by Deus I can't hunt at all.. cant hit mobs nuting..... And will die cause of it
+Tlny — 06/22/2020
+Fully and completely rebuild armour.c from the ground up!
+upon doing so I have made what has never Worked finally work without bugs
+I have made it so you can now add stats and skills to armour and increase your stats and skills based on wear and proper removal of armour
+this change is HUGE since I reprogrammed armour.c entirely
+I already committed my changes to PROD
+Tlny — 06/23/2020
+- fix holy mission (other note: i think holy mission works fine... its when deus doesnt wear off... that holy mission bugs out)
+- look at too much haste or too much heartbeat broken stuffs like demon hates
+Tlny — 06/23/2020
+when i get to the end of lock picking something, it shows an error message:  Error in picklocks!  Report to Mikus right away!
+Tlny — 06/26/2020
+Can you look at anck athin rune compared to cutter rune?
+Athin seems extar super crappy
+Tlny — 06/26/2020
+after every reboot my pets attack themselves... this time abomination and dragon engine. and its before i loose control(no longer owner) of pet every reboot
+Tlny — 06/27/2020
+if you use lock smithing, then the blank breaks, you cant
+use the skill again or use pick locks because it thinks you are working on
+lock smithing still
+Tlny — 06/28/2020
+can we get the peer command looked at...currently just telling me '1 blocks your view' even though no door is on the exit
+Tlny — 06/28/2020
+when you use locksmithing at a inn room door, it creates a key called "A key to 0"...it still works, just not named properly
+Also after being saved by Deus I can't hunt at all.. cant hit mobs nuting..... And will die cause of it
+Tlny — 06/29/2020
+just to add to my earlier bug post...the mislabled key only works until the server's next reboot...when you come back, the key no longer wors
+Tlny — 06/30/2020
+look at BOA and BOK about single cast and all cast times buffs and duration
+Tlny — 07/02/2020
+need to be able to break room keys
+
+also can we buy hearthstones
+that allow us to tp to ts every so often
+Tlny — 07/02/2020
+my transport rune does not work. i want to be able to step on it to use it.
+Tlny — 07/07/2020
+quirk with portals created from aether crits and areas that have enter as the way into them.  Quarry for example.  - killed the sentry which during combat portals were created.  Unable to get into the quarry since "enter" goes into a portal instead of going into the quarry.

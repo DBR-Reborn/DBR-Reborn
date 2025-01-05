@@ -1,0 +1,51 @@
+#/std/user.c
+encumbrance 500
+props (["extra hp regen":25,"light":0,"xp mod":-15,"natural ac":7,"melee damage":(["cutting":5,]),"last reinc":1665263567,"handedness":"third hand","dev point base":73,"last read news":1665263567,"sp points":0,"old exp":10149,"ambidextry":0,"base mp regen":3,"base hp regen":3,"combat color":"%^BOLD%^","dev points":73,])
+true_name "testing"
+creator "/adm/obj/login#11"
+max_internal_encumbrance 3150
+player_data (["general":(["sp":1,"exp buffer":0,"max_hp":138,"hp":138,"max_sp":700,]),])
+magic (["max points":135,"points":9,])
+severed ([])
+healing ([])
+body (["head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":69,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"second arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"second hand","armour":({}),]),"fourth arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"fourth hand","armour":({}),]),"first leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"third arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"third hand","armour":({}),]),"first hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":34,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"second leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"fourth leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"second hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":34,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"fourth hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":34,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"third leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":138,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"third hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":34,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"first arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":46,"weapons":0,"ac":0,"limb_ref":"first hand","armour":({}),]),])
+limbs ({"head","first leg","fourth arm","second arm","first hand","third arm","fourth leg","second leg","second hand","fourth hand","third leg","torso","third hand","first arm",})
+all_my_fingers 3
+heal_rate 1
+char_class "child"
+skills (["trade lore":(["stat":"charisma","level":5,]),"melee":(["max":0,"points":0,"level":0,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":5,]),])
+spells ([])
+wimpydir "out"
+env_var (["TITLE":"Novice $N the Thranx","start":"/d/standard/square","LINES":"70","TERM":"xterm-256","SCORE":"on",])
+money ([])
+ok_to_heal 126
+player_age 122
+gender "male"
+state "stand"
+stats (["wisdom":62,"dexterity":100,"intelligence":93,"constitution":95,"strength":105,"charisma":31,])
+languages (["thri'krien":10,"common":10,])
+primary_language "thri'krien"
+alias (["n":"north","bio":"biography","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","exa":"look at $*","sw":"southwest","e":"east","u":"up","d":"down","se":"southeast","s":"south",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+znexp 4999
+zlexp 4999
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+ghost 1
+verbose_moves 1
+birth 1665020502
+blocked ([])
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "test@test"
+ip "98.202.185.40"
+last_on "Sat Oct  8 21:12:47 2022"
+password "$6$ADsPGJZEkZKzWV3X$2dhYtvEIj3Kk3acAkrPY6MrKQw3tI1Jn2.AO7v16TL0pg5xhmmrcHnVCRxV5/zBuQaoMz2Krf80k0WF9T7DZt/"
+race "thranx"
+original_site "172.18.0.1"
+position "player"
+primary_start "/d/newbieville/rooms/newbie4"
+quests ({})

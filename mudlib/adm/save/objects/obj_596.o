@@ -1,0 +1,7 @@
+#/d/damned/virtual/gauntlet.armour.c
+encumbrance 6
+props (["material_name":"laen","value":10,"material_type":"metal","extra long":"level[43] laen gauntlet of vacuum and disruption protection","new desc":"level[43] laen gauntlet of vacuum and disruption protection",])
+true_name "gauntlet"
+creator "/d/damned/virtual/armour_server"
+material "/metal/laen"
+armour_save (["short desc":"level[43] laen gauntlet of vacuum and disruption protection","ac":(["infernal":47,"disruption":142,"stress":47,"crushing":47,"unholy":47,"cutting":47,"vacuum":149,"plasma":47,"impaling":47,"holy":47,"cold":47,"fire":47,"strike":47,"impact":47,"electricity":47,"aether":47,]),])

@@ -1,0 +1,8 @@
+#/d/damned/virtual/hammer_4.weapon
+#/d/damned/virtual/hammer_4.weapon.c
+encumbrance 100
+props (["material_name":"iron","value":51,"material_type":"metal",])
+true_name "hammer"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/iron"
+__Weapon (["original wc":(["crushing":12,]),"wielded":,"quality":4,"limb string":" (wielded in right hand)","type":"blunt","ac":(["infernal":2,"fire":2,"cold":2,"disruption":2,"stress":2,"unholy":2,"crushing":2,"cutting":2,"strike":2,"vacuum":2,"plasma":2,"impact":2,"impaling":2,"holy":2,"aether":2,"electricity":2,]),"verb":"pound","decay status":1,"wc":(["crushing":12,]),"short desc":"hammer","decay rate":200,"parry bonus":-15,])

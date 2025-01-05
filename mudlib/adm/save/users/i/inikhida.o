@@ -1,0 +1,66 @@
+#/std/user.c
+encumbrance 500
+props (["extra mp regen":40,"extra hp regen":25,"light":0,"xp mod":-50,"hp advance":30,"melee damage":(["holy":5,"crushing":5,]),"handedness":"right hand","last reinc":1667324143,"dev point base":70,"reincarnate":1,"enhance criticals":(["disruption":1,"holy":-1,]),"mp advance":20,"last read news":1726265715,"allow_over_max":0,"magic resistance":15,"old exp":0,"sp points":278,"base mp regen":42,"ambidextry":0,"base hp regen":56,"combat color":"%^BOLD%^","dev points":15805,])
+true_name "inikhida"
+creator "/adm/obj/login#1632"
+max_internal_encumbrance 3600
+player_data (["kills":({0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,15,61,0,0,129,126,127,128,138,137,167,140,73,14,12,11,13,136,139,143,43,42,298,335,102,104,200,201,39,117,29,203,202,209,100,64,74,192,278,284,351,307,286,112,113,114,123,262,263,264,290,293,257,267,254,280,279,272,276,271,287,309,285,72,277,274,268,270,269,300,196,198,301,323,281,340,266,265,}),"general":(["alignment":-1489,"exp buffer":0,"sp":1,"max_hp":2352,"hp":2352,"max exp":1907933682,"experience":1907933683,"last adjust":1726272240,"quest points":0,"max_sp":630,]),])
+magic (["max points":1530,"points":1530,])
+severed ([])
+healing (["quenched":1200,"stuffed":380,])
+body (["right foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":588,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":784,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":1176,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left foot":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":588,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":784,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left leg":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":784,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"torso":(["damage":0,"weapon":0,"armour_ob":({,}),"max_dam":2352,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({0,}),]),"right hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":588,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right wing":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":784,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":784,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),"left hand":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":588,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left wing":(["damage":0,"weapon":0,"armour_ob":({}),"max_dam":784,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),])
+limbs ({"head","right leg","right foot","left arm","left foot","left leg","torso","right hand","right wing","right arm","left hand","left wing",})
+all_my_fingers 5
+heal_rate 135
+char_class "dark-paladin"
+skills (["fast casting":(["stat":"intelligence","last dev":({44,4,}),"last use":1677518697,"level":20,]),"concentrate":(["stat":"intelligence","last dev":({48,1,}),"level":115,]),"prayer":(["stat":"wisdom","last dev":({0,0,}),"level":5,]),"compare":(["stat":"intelligence","last dev":({44,3,}),"level":15,]),"reverse stroke":(["stat":"dexterity","last dev":({44,4,}),"level":20,]),"melee":(["stat":"strength","last dev":({48,2,}),"max":0,"points":0,"level":165,]),"shadow lore":(["stat":"intelligence","last dev":({48,3,}),"level":204,]),"perception":(["stat":"intelligence","last dev":({48,3,}),"level":198,]),"two handed blade":(["stat":"dexterity","last dev":({48,5,}),"level":256,]),"spell sense":(["stat":"intelligence","last dev":({48,2,}),"level":109,]),"prospecting":(["stat":"intelligence","last dev":({31,1,}),"level":5,]),"owedquar's weapon":(["stat":"none","last dev":({48,9,}),"level":134,]),"empowerment":(["stat":"intelligence","last dev":({48,3,}),"level":204,]),"repair weapon":(["stat":"dexterity","last dev":({34,1,}),"level":94,]),"focus casting":(["stat":"intelligence","last dev":({48,1,}),"last use":1726272081,"level":115,]),"dodge":(["stat":"dexterity","last dev":({48,3,}),"level":182,]),"trade lore":(["stat":"charisma","last dev":({48,1,}),"level":135,]),"parry":(["stat":"dexterity","last dev":({48,5,}),"level":243,]),"owedquar's will":(["stat":"intelligence","last dev":({48,2,}),"level":209,]),"attack":(["stat":"dexterity","last dev":({48,5,}),"max":0,"points":0,"level":256,]),"engrave":(["stat":"dexterity","last dev":({48,1,}),"level":5,]),])
+spells (["shadow edge":(["last dev":({14,1,}),"level":6,]),"soul crush":(["last dev":({40,1,}),"level":6,]),"anger charge":(["last dev":({12,1,}),"level":6,]),"curse vision":(["last dev":({12,1,}),"level":6,]),"holy ward":(["last dev":({9,1,}),"level":6,]),"summon holy bane":(["last dev":({42,3,}),"level":6,]),"holy word":(["last dev":({0,0,}),"level":1,]),"black fire":(["last dev":({22,1,}),"level":6,]),"cure light wounds":(["last dev":({0,0,}),"level":1,]),"summon shadow weapon":(["last dev":({41,3,}),"level":6,]),"shadow field":(["last dev":({25,1,}),"level":6,]),"abyss blade":(["last dev":({33,1,}),"level":6,]),"absorption":(["last dev":({32,1,}),"level":6,]),"owedquar's eyes":(["last dev":({8,1,}),"level":6,]),"owedquar's fury":(["last dev":({20,1,}),"level":6,]),"owedquar's wrath":(["last dev":({35,1,}),"level":6,]),"power of darkness":(["last dev":({36,1,}),"level":6,]),"dark weapon":(["last dev":({13,1,}),"level":6,]),"mist cloud":(["last dev":({8,1,}),"level":6,]),"lesser shadow field":(["last dev":({18,1,}),"level":6,]),"abyss blast":(["last dev":({30,1,}),"level":6,]),"dark assault":(["last dev":({15,1,}),"level":6,]),"dark pact":(["last dev":({25,1,}),"level":6,]),"greater shadow field":(["last dev":({32,1,}),"level":6,]),"shadow bolt":(["last dev":({6,1,}),"level":6,]),"owedquar's might":(["last dev":({21,1,}),"level":6,]),"black shroud":(["last dev":({17,1,}),"level":6,]),"unholy rage":(["last dev":({17,1,}),"level":6,]),"black edge":(["last dev":({23,1,}),"level":6,]),"storm of ages":(["last dev":({35,1,}),"level":6,]),"summon black weapon":(["last dev":({42,1,}),"level":6,]),])
+wimpy 50
+wimpydir "out"
+protection 1088
+hits 70
+i 1
+j 4
+k 12
+num_attacks 3
+x 10
+num_rounds 1
+skill 466
+env_var (["start":"/d/daybreak/room/db_square","TITLE":"Grand $N %^B_RED%^BOLD%^Dark Knight of Owedquar%^RESET%^","LINES":"70","SCORE":"off","TERM":"xterm-256",])
+money (["gold":22554,])
+ok_to_heal 1856298
+player_age 1856298
+sight_bonus 3
+description "stands a little over six feet tall and is almost ethereally thin, her form lithe without being gaunt and her features sharp but gentle. Her eyes are the color of summer rain, a pale-but-vivid bluegreen hue. Her delicate form is shrouded in a thick mist that slowly shifts and swirls in a way that implies the passage of some unseen and unfelt gentle breeze. Her hair is long, a perfect raven color and just as seemingly unaffected by gravity as the black mists that obscure the rest of her body, instead rising up about her head like a gossamer halo that blends seamlessly into her opalescent shroud."
+gender "female"
+state "stand"
+stats (["wisdom":70,"dexterity":90,"strength":120,"constitution":105,"intelligence":95,"charisma":75,])
+languages (["common":10,"middle-english":1,"serra":10,])
+primary_language "common"
+language_exp (["ratish":({0,5,}),"goblinish":({9,1,}),"elfish":({13,0,}),"middle-english":({2,0,}),"catfolk":({8,0,}),])
+xp_to_next_dev 1907954033
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+zexp 1874418554
+znexp 1954146060
+zlexp 79727506
+znlevel 50
+zlevel 49
+auto_load ({({"/d/damned/guilds/dark-paladin/dark-paladin_obj",({"/d/damned/guilds/join_rooms/dark-paladin_join","inikhida",}),}),"/d/damned/guilds/dark-paladin/gm_plate:",})
+level 49
+birth 1667324143
+blocked (["darkechat":1,"bid":0,"daybreak":0,"newbie":0,"chat":0,])
+exp_log ([1668710879:1262792,1669984575:7588082,1677104748:11980499,1668910091:6223035,1668522600:903493,1672164376:11980499,1670354551:9166451,1668796199:1403544,1677099878:11980499,1667353861:5146,1678953026:35941495,1723253617:11980499,1667350256:1750,1670427792:10042198,])
+keep ({})
+snatch "on"
+inf_block ({})
+real_name "Unknown"
+email "amanda.blackstone0923@gmail.com"
+ip "68.32.199.4"
+last_on "Fri Sep 13 22:15:15 2024"
+password "$6$K6fjI9VyaPJxVnqU$kz5W1dAvI8SJ.i6RZT9mb4pAoB.bZeXXc9WzzMyh9seuTySqlLNB6itVaYInDmaVtVOz9p3Ylhw21VtQxwAdA/"
+race "seraph"
+original_site "68.41.203.137"
+position "player"
+primary_start "/d/damned/guilds/dark-paladin/skill_room"
+quests ({})

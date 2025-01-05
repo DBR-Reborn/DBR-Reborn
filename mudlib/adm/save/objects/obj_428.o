@@ -1,0 +1,7 @@
+#/d/damned/virtual/bokken_6.weapon.c
+encumbrance 90
+props (["material_name":"aspen","value":655,"material_type":"wood","extra long":"Crafted by: Tursnik with A wooden board of aspen [76]",])
+true_name "bokken"
+creator "/d/damned/virtual/weapon_server"
+material "/wood/aspen"
+__Weapon (["original wc":(["infernal":132,"impaling":6,"cutting":10,]),"quality":6,"type":"blade","ac":(["infernal":4,"disruption":4,"stress":4,"crushing":4,"unholy":4,"cutting":4,"vacuum":4,"plasma":4,"impaling":4,"holy":4,"cold":4,"fire":4,"strike":4,"impact":4,"electricity":4,"aether":4,]),"verb":"bonk","wc":(["infernal":132,"impaling":133,"cutting":137,]),"short desc":"bokken","decay rate":31000,"parry bonus":5,])

@@ -1,0 +1,64 @@
+#/std/user.c
+encumbrance 500
+props (["extra hp regen":300,"xp mod":-15,"light":0,"limb regen":1,"corpse eating":1,"melee damage":(["crushing":10,]),"natural ac":4,"handedness":"left hand","last reinc":1673465905,"dev point base":72,"enhance criticals":(["fire":1,]),"last read news":1673465905,"old exp":10149,"sp points":0,"base mp regen":3,"ambidextry":0,"base hp regen":3,"combat color":"%^BOLD%^","dev points":77,])
+true_name "honeybunzz"
+creator "/adm/obj/login#78441"
+max_internal_encumbrance 3870
+player_data (["kills":({0,0,}),"general":(["exp buffer":0,"sp":1,"alignment":0,"max_hp":108,"hp":108,"max exp":1283,"experience":1284,"last adjust":1673466089,"max_sp":693,]),])
+magic (["max points":72,"points":72,])
+severed ([])
+healing (["stuffed":330,])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":108,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":36,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":27,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":36,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":54,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":27,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":27,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":36,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":27,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":36,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 56
+char_class "child"
+skills (["trade lore":(["stat":"charisma","level":5,]),"attack":(["stat":"dexterity","max":0,"points":0,"level":5,]),"melee":(["max":0,"points":0,"level":0,]),])
+spells ([])
+wimpydir "out"
+i 1
+j 1
+k -1
+num_attacks 1
+x 1
+defendflag 1
+num_rounds 1
+skill 34
+env_var (["start":"/d/daybreak/room/db_square","TITLE":"Novice $N the Troll","LINES":"70","SCORE":"on","TERM":"unknown",])
+money ([])
+ok_to_heal 62995
+player_age 62992
+sight_bonus -1
+gender "male"
+state "stand"
+stats (["wisdom":60,"dexterity":99,"strength":129,"constitution":70,"intelligence":40,"charisma":40,])
+languages (["zebber":10,"common":10,])
+primary_language "common"
+language_exp (["goblinish":({2,0,}),])
+xp_to_next_dev 1332
+alias (["bio":"biography","n":"north","nw":"northwest","l":"look $*","ne":"northeast","i":"inventory","w":"west","sw":"southwest","exa":"look at $*","u":"up","e":"east","se":"southeast","d":"down","s":"south",])
+xverb (["$:":"emote $*","$\"":"say $*","$'":"say $*",])
+zexp 784
+znexp 4999
+zlexp 4215
+znlevel 2
+zlevel 1
+auto_load ({})
+level 1
+verbose_moves 1
+birth 1673294017
+blocked ([])
+exp_log ([1673466089:-1163,1673310849:-97,])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "cash"
+email "cahhhhhhhhhh@icloud.com"
+ip "174.240.23.11"
+last_on "Wed Jan 11 19:38:25 2023"
+password "$6$Y5v.VmLQlKXIsLtT$kgKundatlvKiTKxhgb4/./91XlpnPvwya/Ii6q6k.SskEmzXF8IH/BwIFPbG8UnByRz2tjYE1RWscmqHZldzJ/"
+race "troll"
+original_site "174.231.23.197"
+position "player"
+primary_start "/d/daybreak/room/db_square"
+quests ({})

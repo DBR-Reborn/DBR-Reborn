@@ -1,0 +1,7 @@
+#/d/damned/virtual/gauntlet.armour.c
+encumbrance 6
+props (["material_name":"neorolite","value":10,"extra long":"level[23] neorolite Gauntlet","material_type":"metal","new desc":"level[23] neorolite Gauntlet",])
+true_name "gauntlet"
+creator "/d/damned/virtual/armour_server"
+material "/metal/neorolite"
+armour_save (["short desc":"level[23] neorolite Gauntlet","ac":(["infernal":50,"disruption":50,"stress":50,"unholy":50,"crushing":50,"cutting":50,"vacuum":50,"plasma":50,"impaling":50,"holy":50,"fire":50,"cold":50,"strike":50,"impact":50,"aether":50,"electricity":50,]),])

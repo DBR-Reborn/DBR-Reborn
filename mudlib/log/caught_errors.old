@@ -1,0 +1,4762 @@
+
+Error in object: /std/user#7 (Thu Dec 19 22:06:37 2024)
+> *call_other() couldn't find object
+
+File: /std/move.c                    line 38
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   use_exit() in /d/daybreak/room/dbvl1
+     Program: /std/room/exits.c
+     File:            /std/room/exits.c line 140
+
+2:   move_player() in /std/user#7
+     Program: /std/user.c
+     File:                  /std/user.c line 255
+
+3:   move() in /std/user#7
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+4:   move() in /std/user#7
+     Program: /std/move.c
+     File:                  /std/move.c line 38
+
+5:   CATCH() in /std/user#7
+     Program: /std/move.c
+     File:                  /std/move.c line 38
+
+
+Error in object: /std/user#7 (Thu Dec 19 22:06:52 2024)
+> *call_other() couldn't find object
+
+File: /std/move.c                    line 38
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   use_exit() in /d/daybreak/room/dbvl1
+     Program: /std/room/exits.c
+     File:            /std/room/exits.c line 140
+
+2:   move_player() in /std/user#7
+     Program: /std/user.c
+     File:                  /std/user.c line 255
+
+3:   move() in /std/user#7
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+4:   move() in /std/user#7
+     Program: /std/move.c
+     File:                  /std/move.c line 38
+
+5:   CATCH() in /std/user#7
+     Program: /std/move.c
+     File:                  /std/move.c line 38
+
+
+Error in object: /std/user#7 (Thu Dec 19 22:12:02 2024)
+> *call_other() couldn't find object
+
+File: /std/move.c                    line 38
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   use_exit() in /d/daybreak/room/dbvl1
+     Program: /std/room/exits.c
+     File:            /std/room/exits.c line 140
+
+2:   move_player() in /std/user#7
+     Program: /std/user.c
+     File:                  /std/user.c line 255
+
+3:   move() in /std/user#7
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+4:   move() in /std/user#7
+     Program: /std/move.c
+     File:                  /std/move.c line 38
+
+5:   CATCH() in /std/user#7
+     Program: /std/move.c
+     File:                  /std/move.c line 38
+
+
+Error in object: /d/damned/guilds/shaman/shaman_train_room (Thu Dec 19 23:07:53 2024)
+> *Inherited file '/std/glen/mon/guild_guard' does not exist!
+
+File: /d/damned/guilds/shaman/shaman_train_room.c line 76
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#7
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+4:   create() in /d/damned/guilds/shaman/shaman_train_room
+     Program: /d/damned/guilds/shaman/shaman_train_room.c
+     File: /d/damned/guilds/shaman/shaman_train_room.c line 17
+
+5:   create() in /d/damned/guilds/shaman/shaman_train_room
+     Program: /std/guilds/skill_room.c
+     File:     /std/guilds/skill_room.c line 18
+
+6:   create() in /d/damned/guilds/shaman/shaman_train_room
+     Program: /std/room.c
+     File:                  /std/room.c line 44
+
+7:   reset() in /d/damned/guilds/shaman/shaman_train_room
+     Program: /d/damned/guilds/shaman/shaman_train_room.c
+     File: /d/damned/guilds/shaman/shaman_train_room.c line 76
+
+
+Error in object: /d/damned/guilds/shaman/shaman_spell_room (Thu Dec 19 23:17:51 2024)
+> *Error in loading object '/std/spells/walk_of_the_planes'
+
+File: /std/guilds/spell_room.c       line 328
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#7
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 39
+
+3:   move() in /std/user#7
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+4:   move() in /std/user#7
+     Program: /std/move.c
+     File:                  /std/move.c line 38
+
+5:   CATCH() in /std/user#7
+     Program: /std/move.c
+     File:                  /std/move.c line 38
+
+6:   create() in /d/damned/guilds/shaman/shaman_spell_room
+     Program: /d/damned/guilds/shaman/shaman_spell_room.c
+     File: /d/damned/guilds/shaman/shaman_spell_room.c line 46
+
+7:   add_spell() in /d/damned/guilds/shaman/shaman_spell_room
+     Program: /std/guilds/spell_room.c
+     File:     /std/guilds/spell_room.c line 328
+
+
+Error in object: /cmds/system/_update (Fri Dec 20 00:20:30 2024)
+> *Error in loading object '/std/glen/obj/acid_vial'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#7
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Fri Dec 20 00:20:41 2024)
+> *Error in loading object '/std/glen/obj/acid_vial'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#7
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /adm/obj/simul_efun (Fri Dec 20 01:01:58 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   use_exit() in /d/damned/virtual/room_3_14.world
+     Program: /std/room/exits.c
+     File:            /std/room/exits.c line 133
+
+2:   find_object_or_load() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/find_object_or_load.c line 13
+
+3:   compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+4:   compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+5:   compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+6:   compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+7:   virtual_setup() in /d/damned/virtual/castle_server#13675
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+8:   resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+9:   get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+10:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+11:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /d/damned/guilds/alchemist/train_room (Fri Dec 20 01:57:53 2024)
+> *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+File: /d/damned/guilds/alchemist/train_room.c line 27
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#7
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 39
+
+3:   move() in /std/user#7
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+4:   move() in /std/user#7
+     Program: /std/move.c
+     File:                  /std/move.c line 38
+
+5:   CATCH() in /std/user#7
+     Program: /std/move.c
+     File:                  /std/move.c line 38
+
+6:   create() in /d/damned/guilds/alchemist/train_room
+     Program: /d/damned/guilds/alchemist/train_room.c
+     File: /d/damned/guilds/alchemist/train_room.c line 27
+
+
+Error in object: /daemon/events_d (Fri Dec 20 01:58:21 2024)
+> *call_other() couldn't find object
+
+File: /daemon/events_d.c             line 66
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   check_events() in /daemon/events_d
+     Program: /daemon/events_d.c
+     File:           /daemon/events_d.c line 66
+
+2:   CATCH() in /daemon/events_d
+     Program: /daemon/events_d.c
+     File:           /daemon/events_d.c line 66
+
+
+Error in object: /cmds/system/_update (Fri Dec 20 02:00:31 2024)
+> *Error in loading object '/d/damned/guilds/alchemist/train_room'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#7
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /d/damned/guilds/alchemist/train_room (Fri Dec 20 02:01:22 2024)
+> *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+File: /d/damned/guilds/alchemist/train_room.c line 93
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#7
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+4:   create() in /d/damned/guilds/alchemist/train_room
+     Program: /d/damned/guilds/alchemist/train_room.c
+     File: /d/damned/guilds/alchemist/train_room.c line 17
+
+5:   create() in /d/damned/guilds/alchemist/train_room
+     Program: /std/guilds/skill_room.c
+     File:     /std/guilds/skill_room.c line 18
+
+6:   create() in /d/damned/guilds/alchemist/train_room
+     Program: /std/room.c
+     File:                  /std/room.c line 44
+
+7:   reset() in /d/damned/guilds/alchemist/train_room
+     Program: /d/damned/guilds/alchemist/train_room.c
+     File: /d/damned/guilds/alchemist/train_room.c line 93
+
+
+Error in object: /cmds/system/_update (Fri Dec 20 03:13:41 2024)
+> *Error in loading object '/std/tailwind/pets/mud_golem'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#7
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /std/user#18119 (Fri Dec 20 04:02:20 2024)
+> *Array index out of bounds.
+
+File: /std/user.c                    line 874
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   my_choice() in /cmds/mortal/_suicide
+     Program: /cmds/mortal/_suicide.c
+     File:      /cmds/mortal/_suicide.c line 28
+
+2:   die() in /std/user#18119
+     Program: /std/user.c
+     File:                  /std/user.c line 874
+
+3:   CATCH() in /std/user#18119
+     Program: /std/user.c
+     File:                  /std/user.c line 874
+
+
+Error in object: /adm/daemon/wizchar_d (Fri Dec 20 05:38:06 2024)
+> *Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+File: /adm/daemon/wizchar_d.c        line 123
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   check_events() in /daemon/events_d
+     Program: /daemon/events_d.c
+     File:           /daemon/events_d.c line 66
+
+2:   CATCH() in /daemon/events_d
+     Program: /daemon/events_d.c
+     File:           /daemon/events_d.c line 66
+
+3:   output_log() in /adm/daemon/wizchar_d
+     Program: /adm/daemon/wizchar_d.c
+     File:      /adm/daemon/wizchar_d.c line 123
+
+
+Error in object: /adm/obj/simul_efun (Fri Dec 20 07:15:09 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   use_exit() in /d/damned/virtual/room_8_9.world
+     Program: /std/room/exits.c
+     File:            /std/room/exits.c line 133
+
+2:   find_object_or_load() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/find_object_or_load.c line 13
+
+3:   compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+4:   compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+5:   compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+6:   compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+7:   virtual_setup() in /d/damned/virtual/castle_server#34780
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+8:   resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+9:   get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+10:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+11:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/daemon/wizchar_d (Fri Dec 20 14:38:49 2024)
+> *Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+File: /adm/daemon/wizchar_d.c        line 123
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   check_events() in /daemon/events_d
+     Program: /daemon/events_d.c
+     File:           /daemon/events_d.c line 66
+
+2:   CATCH() in /daemon/events_d
+     Program: /daemon/events_d.c
+     File:           /daemon/events_d.c line 66
+
+3:   output_log() in /adm/daemon/wizchar_d
+     Program: /adm/daemon/wizchar_d.c
+     File:      /adm/daemon/wizchar_d.c line 123
+
+
+Error in object: /cmds/system/_update (Fri Dec 20 15:49:04 2024)
+> *Error in loading object '/std/living/combat'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#7
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Fri Dec 20 15:55:04 2024)
+> *Error in loading object '/std/living/combat'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#7
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Fri Dec 20 17:05:16 2024)
+> *Error in loading object '/std/living/combat'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#7
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Fri Dec 20 17:06:32 2024)
+> *Error in loading object '/std/living/combat'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#7
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Fri Dec 20 17:09:07 2024)
+> *Error in loading object '/std/living/combat'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#7
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /adm/obj/simul_efun (Fri Dec 20 19:07:30 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   castle_action() in /d/damned/virtual/azazel_room_1.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 670
+
+2:   move_player() in /std/user#79821
+     Program: /std/user.c
+     File:                  /std/user.c line 255
+
+3:   move() in /std/user#79821
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+4:   move() in /std/user#79821
+     Program: /std/move.c
+     File:                  /std/move.c line 38
+
+5:   CATCH() in /std/user#79821
+     Program: /std/move.c
+     File:                  /std/move.c line 38
+
+6:   compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+7:   compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+8:   compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+9:   compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+10:  virtual_setup() in /d/damned/virtual/castle_server#81415
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+11:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+12:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+13:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+14:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Fri Dec 20 19:07:30 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   castle_action() in /d/damned/virtual/azazel_room_1.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 670
+
+2:   move_player() in /std/user#79821
+     Program: /std/user.c
+     File:                  /std/user.c line 255
+
+3:   move() in /std/user#79821
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+4:   move() in /std/user#79821
+     Program: /std/move.c
+     File:                  /std/move.c line 81
+
+5:   init() in /d/damned/virtual/azazel_room_8.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 330
+
+6:   init() in /d/damned/virtual/azazel_room_8.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 55
+
+7:   load_lockers() in /d/damned/virtual/azazel_room_8.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 32
+
+8:   load_lockers() in /adm/daemon/save_items_d
+     Program: /adm/daemon/save_items_d.c
+     File:   /adm/daemon/save_items_d.c line 490
+
+9:   move() in /std/diewarzau/obj/misc/greater_forge#81416
+     Program: /std/diewarzau/obj/misc/greater_forge.c
+     File: /std/diewarzau/obj/misc/greater_forge.c line 31
+
+10:  move() in /std/diewarzau/obj/misc/greater_forge#81416
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+11:  move() in /std/diewarzau/obj/misc/greater_forge#81416
+     Program: /std/move.c
+     File:                  /std/move.c line 48
+
+12:  receive_objects() in /d/damned/virtual/azazel_room_8.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 108
+
+13:  path_to_entry() in /d/damned/virtual/azazel_room_8.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 87
+
+14:  castle_filter() in /d/damned/virtual/azazel_room_8.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+15:  CATCH() in /d/damned/virtual/azazel_room_8.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+16:  compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+17:  compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+18:  compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+19:  compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+20:  virtual_setup() in /d/damned/virtual/castle_server#81417
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+21:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+22:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+23:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+24:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Fri Dec 20 19:07:30 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   castle_action() in /d/damned/virtual/azazel_room_1.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 670
+
+2:   move_player() in /std/user#79821
+     Program: /std/user.c
+     File:                  /std/user.c line 255
+
+3:   move() in /std/user#79821
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+4:   move() in /std/user#79821
+     Program: /std/move.c
+     File:                  /std/move.c line 81
+
+5:   init() in /d/damned/virtual/azazel_room_8.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 330
+
+6:   init() in /d/damned/virtual/azazel_room_8.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 55
+
+7:   load_lockers() in /d/damned/virtual/azazel_room_8.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 32
+
+8:   load_lockers() in /adm/daemon/save_items_d
+     Program: /adm/daemon/save_items_d.c
+     File:   /adm/daemon/save_items_d.c line 490
+
+9:   move() in /std/diewarzau/obj/misc/greater_forge#81416
+     Program: /std/diewarzau/obj/misc/greater_forge.c
+     File: /std/diewarzau/obj/misc/greater_forge.c line 31
+
+10:  move() in /std/diewarzau/obj/misc/greater_forge#81416
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+11:  move() in /std/diewarzau/obj/misc/greater_forge#81416
+     Program: /std/move.c
+     File:                  /std/move.c line 48
+
+12:  receive_objects() in /d/damned/virtual/azazel_room_8.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 108
+
+13:  path_to_entry() in /d/damned/virtual/azazel_room_8.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 97
+
+14:  castle_filter() in /d/damned/virtual/azazel_room_8.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+15:  CATCH() in /d/damned/virtual/azazel_room_8.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+16:  compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+17:  compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+18:  compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+19:  compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+20:  virtual_setup() in /d/damned/virtual/castle_server#81418
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+21:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+22:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+23:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+24:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Fri Dec 20 19:07:31 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   heart_beat() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+2:   CATCH() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+3:   load_lockers() in /d/damned/virtual/azazel_room_2.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 32
+
+4:   load_lockers() in /adm/daemon/save_items_d
+     Program: /adm/daemon/save_items_d.c
+     File:   /adm/daemon/save_items_d.c line 490
+
+5:   move() in /std/obj/misc/h_rune#81436
+     Program: /std/obj/misc/rune.c
+     File:         /std/obj/misc/rune.c line 90
+
+6:   move() in /std/obj/misc/h_rune#81436
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+7:   move() in /std/obj/misc/h_rune#81436
+     Program: /std/move.c
+     File:                  /std/move.c line 48
+
+8:   receive_objects() in /d/damned/virtual/azazel_room_2.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 108
+
+9:   path_to_entry() in /d/damned/virtual/azazel_room_2.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 87
+
+10:  castle_filter() in /d/damned/virtual/azazel_room_2.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+11:  CATCH() in /d/damned/virtual/azazel_room_2.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+12:  compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+13:  compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+14:  compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+15:  compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+16:  virtual_setup() in /d/damned/virtual/castle_server#81438
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+17:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+18:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+19:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+20:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /std/user#7 (Fri Dec 20 19:44:52 2024)
+> *Error in loading object '/d/areas/gorge/rooms/dm1'
+
+File: /std/move.c                    line 38
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   use_exit() in /d/damned/virtual/room_22_15.world
+     Program: /std/room/exits.c
+     File:            /std/room/exits.c line 140
+
+2:   move_player() in /std/user#7
+     Program: /std/user.c
+     File:                  /std/user.c line 255
+
+3:   move() in /std/user#7
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+4:   move() in /std/user#7
+     Program: /std/move.c
+     File:                  /std/move.c line 38
+
+5:   CATCH() in /std/user#7
+     Program: /std/move.c
+     File:                  /std/move.c line 38
+
+
+Error in object: /cmds/system/_update (Fri Dec 20 19:45:15 2024)
+> *Error in loading object '/d/areas/gorge/rooms/dm1'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#7
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Fri Dec 20 19:45:30 2024)
+> *Error in loading object '/d/areas/gorge/rooms/dm1'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#7
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /daemon/events_d (Fri Dec 20 19:45:51 2024)
+> *call_other() couldn't find object
+
+File: /daemon/events_d.c             line 66
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   check_events() in /daemon/events_d
+     Program: /daemon/events_d.c
+     File:           /daemon/events_d.c line 66
+
+2:   CATCH() in /daemon/events_d
+     Program: /daemon/events_d.c
+     File:           /daemon/events_d.c line 66
+
+
+Error in object: /std/user#7 (Fri Dec 20 20:29:13 2024)
+> *call_other() couldn't find object
+
+File: /std/move.c                    line 38
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#7
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_goto() in /cmds/creator/_goto
+     Program: /cmds/creator/_goto.c
+     File:        /cmds/creator/_goto.c line 28
+
+3:   move_player() in /std/user#7
+     Program: /std/user.c
+     File:                  /std/user.c line 255
+
+4:   move() in /std/user#7
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+5:   move() in /std/user#7
+     Program: /std/move.c
+     File:                  /std/move.c line 38
+
+6:   CATCH() in /std/user#7
+     Program: /std/move.c
+     File:                  /std/move.c line 38
+
+
+Error in object: /d/damned/inn/gift_shop_store (Fri Dec 20 21:00:20 2024)
+> *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+File: /d/damned/inn/gift_shop_store.c line 159
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   heart_beat() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+2:   CATCH() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+3:   load_store() in /d/damned/inn/fred
+     Program: /std/npc_shop.c
+     File:              /std/npc_shop.c line 71
+
+4:   create() in /d/damned/inn/gift_shop_store
+     Program: /d/damned/inn/gift_shop_store.c
+     File: /d/damned/inn/gift_shop_store.c line 19
+
+5:   create() in /d/damned/inn/gift_shop_store
+     Program: /std/vault.c
+     File:                 /std/vault.c line 50
+
+6:   create() in /d/damned/inn/gift_shop_store
+     Program: /std/room.c
+     File:                  /std/room.c line 44
+
+7:   reset() in /d/damned/inn/gift_shop_store
+     Program: /d/damned/inn/gift_shop_store.c
+     File: /d/damned/inn/gift_shop_store.c line 123
+
+8:   clone_once() in /d/damned/inn/gift_shop_store
+     Program: /d/damned/inn/gift_shop_store.c
+     File: /d/damned/inn/gift_shop_store.c line 159
+
+
+Error in object: /d/damned/inn/gift_shop_store (Fri Dec 20 21:42:12 2024)
+> *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+File: /d/damned/inn/gift_shop_store.c line 159
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#7
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+4:   create() in /d/damned/inn/gift_shop_store
+     Program: /d/damned/inn/gift_shop_store.c
+     File: /d/damned/inn/gift_shop_store.c line 19
+
+5:   create() in /d/damned/inn/gift_shop_store
+     Program: /std/vault.c
+     File:                 /std/vault.c line 50
+
+6:   create() in /d/damned/inn/gift_shop_store
+     Program: /std/room.c
+     File:                  /std/room.c line 44
+
+7:   reset() in /d/damned/inn/gift_shop_store
+     Program: /d/damned/inn/gift_shop_store.c
+     File: /d/damned/inn/gift_shop_store.c line 123
+
+8:   clone_once() in /d/damned/inn/gift_shop_store
+     Program: /d/damned/inn/gift_shop_store.c
+     File: /d/damned/inn/gift_shop_store.c line 159
+
+
+Error in object: /std/spells/shadows/move_shadow#104293 (Fri Dec 20 23:02:25 2024)
+> *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+
+File: /<driver>                      line 0
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   use_exit() in /d/areas/goblin/areas/goblin3
+     Program: /std/room/exits.c
+     File:            /std/room/exits.c line 140
+
+2:   move_player() in /std/user#95483
+     Program: /std/user.c
+     File:                  /std/user.c line 255
+
+3:   move() in /std/spells/shadows/move_shadow#104293
+     Program: /std/spells/shadows/move_shadow.c
+     File: /std/spells/shadows/move_shadow.c line 51
+
+4:   CATCH() in /std/spells/shadows/move_shadow#104293
+     Program: /std/spells/shadows/move_shadow.c
+     File: /std/spells/shadows/move_shadow.c line 51
+
+5:   <fake>() in /std/spells/shadows/move_shadow#104293
+     Program: /<driver>
+     File:                      /(fake) line 0
+
+
+Error in object: /adm/daemon/wizchar_d (Fri Dec 20 23:39:03 2024)
+> *Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+File: /adm/daemon/wizchar_d.c        line 123
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   check_events() in /daemon/events_d
+     Program: /daemon/events_d.c
+     File:           /daemon/events_d.c line 66
+
+2:   CATCH() in /daemon/events_d
+     Program: /daemon/events_d.c
+     File:           /daemon/events_d.c line 66
+
+3:   output_log() in /adm/daemon/wizchar_d
+     Program: /adm/daemon/wizchar_d.c
+     File:      /adm/daemon/wizchar_d.c line 123
+
+
+Error in object: /std/user#122440 (Sat Dec 21 01:24:10 2024)
+> *Array index out of bounds.
+
+File: /std/user.c                    line 874
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   my_choice() in /cmds/mortal/_suicide
+     Program: /cmds/mortal/_suicide.c
+     File:      /cmds/mortal/_suicide.c line 28
+
+2:   die() in /std/user#122440
+     Program: /std/user.c
+     File:                  /std/user.c line 874
+
+3:   CATCH() in /std/user#122440
+     Program: /std/user.c
+     File:                  /std/user.c line 874
+
+
+Error in object: /adm/obj/master (Sat Dec 21 01:49:25 2024)
+> *call_other() couldn't find object
+
+File: /adm/obj/master.c              line 353
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   preload() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+2:   CATCH() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+
+Error in object: /adm/obj/master (Sat Dec 21 01:49:26 2024)
+> *call_other() couldn't find object
+
+File: /adm/obj/master.c              line 353
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   preload() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+2:   CATCH() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+
+Error in object: /adm/obj/master (Sat Dec 21 01:49:26 2024)
+> *call_other() couldn't find object
+
+File: /adm/obj/master.c              line 353
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   preload() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+2:   CATCH() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+
+Error in object: /adm/daemon/wizchar_d (Sat Dec 21 01:49:58 2024)
+> *Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+File: /adm/daemon/wizchar_d.c        line 103
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   heart_beat() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+2:   CATCH() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+3:   update_chars() in /adm/daemon/wizchar_d
+     Program: /adm/daemon/wizchar_d.c
+     File:      /adm/daemon/wizchar_d.c line 103
+
+
+Error in object: /std/user#9 (Sat Dec 21 01:50:53 2024)
+> *Read access denied.
+
+File: /std/user.c                    line 488
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   get_password() in /adm/obj/login#8
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 151
+
+2:   exec_user() in /adm/obj/login#8
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 242
+
+3:   setup() in /std/user#9
+     Program: /std/user.c
+     File:                  /std/user.c line 488
+
+4:   CATCH() in /std/user#9
+     Program: /std/user.c
+     File:                  /std/user.c line 488
+
+
+Error in object: /adm/obj/simul_efun (Sat Dec 21 02:25:26 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   use_exit() in /d/damned/virtual/room_3_14.world
+     Program: /std/room/exits.c
+     File:            /std/room/exits.c line 133
+
+2:   find_object_or_load() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/find_object_or_load.c line 13
+
+3:   compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+4:   compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+5:   compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+6:   compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+7:   virtual_setup() in /d/damned/virtual/castle_server#1585
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+8:   resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+9:   get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+10:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+11:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Sat Dec 21 02:25:34 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   UnlockDoor() in /d/damned/virtual/hawpun_room_1.castle
+     Program: /std/vault.c
+     File:                 /std/vault.c line 279
+
+2:   compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+3:   compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+4:   compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+5:   compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+6:   virtual_setup() in /d/damned/virtual/castle_server#1589
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+7:   resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+8:   get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+9:   get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+10:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Sat Dec 21 02:25:35 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   use_exit() in /d/damned/virtual/hawpun_room_1.castle
+     Program: /std/room/exits.c
+     File:            /std/room/exits.c line 140
+
+2:   move_player() in /std/user#547
+     Program: /std/user.c
+     File:                  /std/user.c line 255
+
+3:   move() in /std/user#547
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+4:   move() in /std/user#547
+     Program: /std/move.c
+     File:                  /std/move.c line 81
+
+5:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 330
+
+6:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 55
+
+7:   load_lockers() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 32
+
+8:   load_lockers() in /adm/daemon/save_items_d
+     Program: /adm/daemon/save_items_d.c
+     File:   /adm/daemon/save_items_d.c line 490
+
+9:   move() in /std/diewarzau/obj/misc/storage_locker#1590
+     Program: /std/locker.c
+     File:                /std/locker.c line 92
+
+10:  move() in /std/diewarzau/obj/misc/storage_locker#1590
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+11:  move() in /std/diewarzau/obj/misc/storage_locker#1590
+     Program: /std/move.c
+     File:                  /std/move.c line 48
+
+12:  receive_objects() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 108
+
+13:  path_to_entry() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 87
+
+14:  castle_filter() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+15:  CATCH() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+16:  compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+17:  compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+18:  compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+19:  compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+20:  virtual_setup() in /d/damned/virtual/castle_server#1591
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+21:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+22:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+23:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+24:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Sat Dec 21 02:25:35 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   use_exit() in /d/damned/virtual/hawpun_room_1.castle
+     Program: /std/room/exits.c
+     File:            /std/room/exits.c line 140
+
+2:   move_player() in /std/user#547
+     Program: /std/user.c
+     File:                  /std/user.c line 255
+
+3:   move() in /std/user#547
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+4:   move() in /std/user#547
+     Program: /std/move.c
+     File:                  /std/move.c line 81
+
+5:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 330
+
+6:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 55
+
+7:   load_lockers() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 32
+
+8:   load_lockers() in /adm/daemon/save_items_d
+     Program: /adm/daemon/save_items_d.c
+     File:   /adm/daemon/save_items_d.c line 490
+
+9:   move() in /std/diewarzau/obj/misc/storage_locker#1590
+     Program: /std/locker.c
+     File:                /std/locker.c line 92
+
+10:  move() in /std/diewarzau/obj/misc/storage_locker#1590
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+11:  move() in /std/diewarzau/obj/misc/storage_locker#1590
+     Program: /std/move.c
+     File:                  /std/move.c line 48
+
+12:  receive_objects() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 108
+
+13:  path_to_entry() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 87
+
+14:  castle_filter() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+15:  CATCH() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+16:  compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+17:  compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+18:  compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+19:  compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+20:  virtual_setup() in /d/damned/virtual/castle_server#1592
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+21:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+22:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+23:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+24:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Sat Dec 21 02:25:35 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   use_exit() in /d/damned/virtual/hawpun_room_1.castle
+     Program: /std/room/exits.c
+     File:            /std/room/exits.c line 140
+
+2:   move_player() in /std/user#547
+     Program: /std/user.c
+     File:                  /std/user.c line 255
+
+3:   move() in /std/user#547
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+4:   move() in /std/user#547
+     Program: /std/move.c
+     File:                  /std/move.c line 81
+
+5:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 330
+
+6:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 55
+
+7:   load_lockers() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 32
+
+8:   load_lockers() in /adm/daemon/save_items_d
+     Program: /adm/daemon/save_items_d.c
+     File:   /adm/daemon/save_items_d.c line 490
+
+9:   move() in /std/diewarzau/obj/misc/storage_locker#1590
+     Program: /std/locker.c
+     File:                /std/locker.c line 92
+
+10:  move() in /std/diewarzau/obj/misc/storage_locker#1590
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+11:  move() in /std/diewarzau/obj/misc/storage_locker#1590
+     Program: /std/move.c
+     File:                  /std/move.c line 48
+
+12:  receive_objects() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 108
+
+13:  path_to_entry() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 87
+
+14:  castle_filter() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+15:  CATCH() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+16:  compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+17:  compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+18:  compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+19:  compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+20:  virtual_setup() in /d/damned/virtual/castle_server#1593
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+21:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+22:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+23:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+24:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Sat Dec 21 02:25:37 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   heart_beat() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+2:   CATCH() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+3:   load_lockers() in /d/damned/virtual/hawpun_room_2.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 32
+
+4:   load_lockers() in /adm/daemon/save_items_d
+     Program: /adm/daemon/save_items_d.c
+     File:   /adm/daemon/save_items_d.c line 490
+
+5:   move() in /std/diewarzau/obj/misc/storage_locker#1606
+     Program: /std/locker.c
+     File:                /std/locker.c line 92
+
+6:   move() in /std/diewarzau/obj/misc/storage_locker#1606
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+7:   move() in /std/diewarzau/obj/misc/storage_locker#1606
+     Program: /std/move.c
+     File:                  /std/move.c line 48
+
+8:   receive_objects() in /d/damned/virtual/hawpun_room_2.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 108
+
+9:   path_to_entry() in /d/damned/virtual/hawpun_room_2.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 87
+
+10:  castle_filter() in /d/damned/virtual/hawpun_room_2.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+11:  CATCH() in /d/damned/virtual/hawpun_room_2.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+12:  compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+13:  compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+14:  compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+15:  compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+16:  virtual_setup() in /d/damned/virtual/castle_server#1607
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+17:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+18:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+19:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+20:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Sat Dec 21 02:25:37 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   heart_beat() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+2:   CATCH() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+3:   load_lockers() in /d/damned/virtual/hawpun_room_3.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 32
+
+4:   load_lockers() in /adm/daemon/save_items_d
+     Program: /adm/daemon/save_items_d.c
+     File:   /adm/daemon/save_items_d.c line 490
+
+5:   move() in /std/diewarzau/obj/misc/storage_locker#1608
+     Program: /std/locker.c
+     File:                /std/locker.c line 92
+
+6:   move() in /std/diewarzau/obj/misc/storage_locker#1608
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+7:   move() in /std/diewarzau/obj/misc/storage_locker#1608
+     Program: /std/move.c
+     File:                  /std/move.c line 48
+
+8:   receive_objects() in /d/damned/virtual/hawpun_room_3.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 108
+
+9:   path_to_entry() in /d/damned/virtual/hawpun_room_3.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 87
+
+10:  castle_filter() in /d/damned/virtual/hawpun_room_3.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+11:  CATCH() in /d/damned/virtual/hawpun_room_3.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+12:  compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+13:  compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+14:  compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+15:  compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+16:  virtual_setup() in /d/damned/virtual/castle_server#1609
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+17:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+18:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+19:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+20:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Sat Dec 21 02:41:30 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   use_exit() in /d/damned/virtual/room_8_9.world
+     Program: /std/room/exits.c
+     File:            /std/room/exits.c line 133
+
+2:   find_object_or_load() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/find_object_or_load.c line 13
+
+3:   compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+4:   compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+5:   compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+6:   compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+7:   virtual_setup() in /d/damned/virtual/castle_server#1975
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+8:   resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+9:   get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+10:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+11:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /std/user#12132 (Sat Dec 21 05:08:25 2024)
+> *Array index out of bounds.
+
+File: /std/user.c                    line 874
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   my_choice() in /cmds/mortal/_suicide
+     Program: /cmds/mortal/_suicide.c
+     File:      /cmds/mortal/_suicide.c line 28
+
+2:   die() in /std/user#12132
+     Program: /std/user.c
+     File:                  /std/user.c line 874
+
+3:   CATCH() in /std/user#12132
+     Program: /std/user.c
+     File:                  /std/user.c line 874
+
+
+Error in object: /std/user#12226 (Sat Dec 21 05:09:48 2024)
+> *Array index out of bounds.
+
+File: /std/user.c                    line 874
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   my_choice() in /cmds/mortal/_suicide
+     Program: /cmds/mortal/_suicide.c
+     File:      /cmds/mortal/_suicide.c line 28
+
+2:   die() in /std/user#12226
+     Program: /std/user.c
+     File:                  /std/user.c line 874
+
+3:   CATCH() in /std/user#12226
+     Program: /std/user.c
+     File:                  /std/user.c line 874
+
+
+Error in object: /adm/daemon/wizchar_d (Sat Dec 21 08:39:10 2024)
+> *Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+File: /adm/daemon/wizchar_d.c        line 123
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   check_events() in /daemon/events_d
+     Program: /daemon/events_d.c
+     File:           /daemon/events_d.c line 66
+
+2:   CATCH() in /daemon/events_d
+     Program: /daemon/events_d.c
+     File:           /daemon/events_d.c line 66
+
+3:   output_log() in /adm/daemon/wizchar_d
+     Program: /adm/daemon/wizchar_d.c
+     File:      /adm/daemon/wizchar_d.c line 123
+
+
+Error in object: /daemon/events_d (Sat Dec 21 13:32:50 2024)
+> *call_other() couldn't find object
+
+File: /daemon/events_d.c             line 66
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   check_events() in /daemon/events_d
+     Program: /daemon/events_d.c
+     File:           /daemon/events_d.c line 66
+
+2:   CATCH() in /daemon/events_d
+     Program: /daemon/events_d.c
+     File:           /daemon/events_d.c line 66
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 15:05:35 2024)
+> *Error in loading object '/std/weapon'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 15:07:01 2024)
+> *Error in loading object '/std/weapon'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 17:31:22 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /adm/daemon/wizchar_d (Sat Dec 21 17:39:19 2024)
+> *Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+File: /adm/daemon/wizchar_d.c        line 123
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   check_events() in /daemon/events_d
+     Program: /daemon/events_d.c
+     File:           /daemon/events_d.c line 66
+
+2:   CATCH() in /daemon/events_d
+     Program: /daemon/events_d.c
+     File:           /daemon/events_d.c line 66
+
+3:   output_log() in /adm/daemon/wizchar_d
+     Program: /adm/daemon/wizchar_d.c
+     File:      /adm/daemon/wizchar_d.c line 123
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:10:13 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:10:45 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:11:11 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:11:24 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:12:09 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:13:47 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:18:09 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:22:38 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:24:04 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:24:25 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:25:06 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:28:57 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:49:28 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:50:18 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:50:38 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:56:31 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:56:45 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:57:20 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:57:51 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:58:32 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 18:59:23 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 19:10:34 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 19:15:04 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 19:16:36 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 19:18:03 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 19:26:12 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 19:55:21 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 19:56:59 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 19:58:46 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 19:58:57 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 20:00:56 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 20:02:33 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 20:13:11 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 21:06:41 2024)
+> *Error in loading object '/std/user/tsh'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 21:07:46 2024)
+> *Error in loading object '/std/user/tsh'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#1
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /adm/obj/simul_efun (Sat Dec 21 21:26:48 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#73777
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_call() in /cmds/system/_call
+     Program: /cmds/system/_call.c
+     File:         /cmds/system/_call.c line 102
+
+3:   resolv_str() in /cmds/system/_call
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+4:   get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+5:   get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+6:   CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /std/user#73777 (Sat Dec 21 21:26:48 2024)
+> *Bad argument 2 to <
+Expected: string Got: 0.
+
+File: /std/living/skills.c           line 97
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#73777
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_call() in /cmds/system/_call
+     Program: /cmds/system/_call.c
+     File:         /cmds/system/_call.c line 112
+
+3:   do_call() in /cmds/system/_call
+     Program: /cmds/system/_call.c
+     File:         /cmds/system/_call.c line 178
+
+4:   CATCH() in /cmds/system/_call
+     Program: /cmds/system/_call.c
+     File:         /cmds/system/_call.c line 178
+
+5:   set_spell_level() in /std/user#73777
+     Program: /std/living/skills.c
+     File:         /std/living/skills.c line 97
+
+
+Error in object: /adm/obj/simul_efun (Sat Dec 21 21:27:43 2024)
+> *Bad argument to [ .. ] range operator.
+
+File: /adm/obj/simul_efun.c          line 58
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   heart_beat() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 109
+
+2:   CATCH() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 109
+
+3:   do_spell() in /std/spells/firestorm_blade#74600
+     Program: /std/spells/spell.c
+     File:          /std/spells/spell.c line 846
+
+4:   spell_func() in /std/spells/firestorm_blade#74600
+     Program: /std/spells/firestorm_blade.c
+     File: /std/spells/firestorm_blade.c line 86
+
+5:   start_work() in /std/spells/firestorm_blade#74600
+     Program: /std/spells/long_term_spell.c
+     File: /std/spells/long_term_spell.c line 122
+
+6:   message() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File:  /adm/simul_efun/overrides.c line 111
+
+7:   receive_message() in /std/user#74592
+     Program: /std/user.c
+     File:                  /std/user.c line 1095
+
+8:   wrap() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File:       /adm/simul_efun/wrap.c line 58
+
+
+Error in object: /adm/obj/simul_efun (Sat Dec 21 21:46:19 2024)
+> *Bad argument to [ .. ] range operator.
+
+File: /adm/obj/simul_efun.c          line 58
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   heart_beat() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 109
+
+2:   CATCH() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 109
+
+3:   do_spell() in /std/spells/firestorm_blade#79957
+     Program: /std/spells/spell.c
+     File:          /std/spells/spell.c line 846
+
+4:   spell_func() in /std/spells/firestorm_blade#79957
+     Program: /std/spells/firestorm_blade.c
+     File: /std/spells/firestorm_blade.c line 86
+
+5:   start_work() in /std/spells/firestorm_blade#79957
+     Program: /std/spells/long_term_spell.c
+     File: /std/spells/long_term_spell.c line 122
+
+6:   message() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File:  /adm/simul_efun/overrides.c line 111
+
+7:   receive_message() in /std/user#79662
+     Program: /std/user.c
+     File:                  /std/user.c line 1095
+
+8:   wrap() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File:       /adm/simul_efun/wrap.c line 58
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 21:58:14 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#80477
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /adm/obj/simul_efun (Sat Dec 21 22:01:49 2024)
+> *Bad argument to [ .. ] range operator.
+
+File: /adm/obj/simul_efun.c          line 58
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   heart_beat() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 109
+
+2:   CATCH() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 109
+
+3:   do_spell() in /std/spells/firestorm_blade#83454
+     Program: /std/spells/spell.c
+     File:          /std/spells/spell.c line 846
+
+4:   spell_func() in /std/spells/firestorm_blade#83454
+     Program: /std/spells/firestorm_blade.c
+     File: /std/spells/firestorm_blade.c line 86
+
+5:   start_work() in /std/spells/firestorm_blade#83454
+     Program: /std/spells/long_term_spell.c
+     File: /std/spells/long_term_spell.c line 130
+
+6:   message() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File:  /adm/simul_efun/overrides.c line 111
+
+7:   receive_message() in /std/user#80477
+     Program: /std/user.c
+     File:                  /std/user.c line 1095
+
+8:   wrap() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File:       /adm/simul_efun/wrap.c line 58
+
+
+Error in object: /std/spells/shadows/disguise_shad#80007 (Sat Dec 21 22:17:05 2024)
+> *Too long evaluation. Execution aborted.
+
+File: /std/spells/shadows/disguise_shad.c line 103
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   the_end() in /adm/daemon/shutdown_d
+     Program: /adm/daemon/shutdown_d.c
+     File:     /adm/daemon/shutdown_d.c line 77
+
+2:   CATCH() in /adm/daemon/shutdown_d
+     Program: /adm/daemon/shutdown_d.c
+     File:     /adm/daemon/shutdown_d.c line 77
+
+3:   force_me() in /std/user#58765
+     Program: /std/living.c
+     File:                /std/living.c line 292
+
+4:   quit() in /std/user#58765
+     Program: /std/user.c
+     File:                  /std/user.c line 359
+
+5:   finish_quit() in /std/user#58765
+     Program: /std/user.c
+     File:                  /std/user.c line 412
+
+6:   external_destruct() in /std/spells/shadows/disguise_shad#80007
+     Program: /std/spells/shadows/disguise_shad.c
+     File: /std/spells/shadows/disguise_shad.c line 103
+
+
+Error in object: /std/spells/shadows/disguise_shad#80007 (Sat Dec 21 22:18:14 2024)
+> *Too long evaluation. Execution aborted.
+
+File: /std/spells/shadows/disguise_shad.c line 103
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   shut() in /adm/daemon/shutdown_d
+     Program: /adm/daemon/shutdown_d.c
+     File:     /adm/daemon/shutdown_d.c line 115
+
+2:   CATCH() in /adm/daemon/shutdown_d
+     Program: /adm/daemon/shutdown_d.c
+     File:     /adm/daemon/shutdown_d.c line 115
+
+3:   force_me() in /std/user#58765
+     Program: /std/living.c
+     File:                /std/living.c line 292
+
+4:   quit() in /std/user#58765
+     Program: /std/user.c
+     File:                  /std/user.c line 359
+
+5:   finish_quit() in /std/user#58765
+     Program: /std/user.c
+     File:                  /std/user.c line 412
+
+6:   external_destruct() in /std/spells/shadows/disguise_shad#80007
+     Program: /std/spells/shadows/disguise_shad.c
+     File: /std/spells/shadows/disguise_shad.c line 103
+
+
+Error in object: /adm/obj/master (Sat Dec 21 22:24:08 2024)
+> *call_other() couldn't find object
+
+File: /adm/obj/master.c              line 353
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   preload() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+2:   CATCH() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+
+Error in object: /adm/obj/master (Sat Dec 21 22:24:09 2024)
+> *call_other() couldn't find object
+
+File: /adm/obj/master.c              line 353
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   preload() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+2:   CATCH() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+
+Error in object: /adm/obj/master (Sat Dec 21 22:24:09 2024)
+> *call_other() couldn't find object
+
+File: /adm/obj/master.c              line 353
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   preload() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+2:   CATCH() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+
+Error in object: /adm/daemon/wizchar_d (Sat Dec 21 22:24:41 2024)
+> *Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+File: /adm/daemon/wizchar_d.c        line 103
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   heart_beat() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+2:   CATCH() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+3:   update_chars() in /adm/daemon/wizchar_d
+     Program: /adm/daemon/wizchar_d.c
+     File:      /adm/daemon/wizchar_d.c line 103
+
+
+Error in object: /adm/obj/simul_efun (Sat Dec 21 22:47:53 2024)
+> *Bad argument to [ .. ] range operator.
+
+File: /adm/obj/simul_efun.c          line 58
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   heart_beat() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 109
+
+2:   CATCH() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 109
+
+3:   do_spell() in /std/spells/bless_weapon#1372
+     Program: /std/spells/spell.c
+     File:          /std/spells/spell.c line 846
+
+4:   spell_func() in /std/spells/bless_weapon#1372
+     Program: /std/spells/bless_weapon.c
+     File:   /std/spells/bless_weapon.c line 80
+
+5:   start_work() in /std/spells/bless_weapon#1372
+     Program: /std/spells/long_term_spell.c
+     File: /std/spells/long_term_spell.c line 130
+
+6:   message() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File:  /adm/simul_efun/overrides.c line 111
+
+7:   receive_message() in /std/user#580
+     Program: /std/user.c
+     File:                  /std/user.c line 1095
+
+8:   wrap() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File:       /adm/simul_efun/wrap.c line 58
+
+
+Error in object: /adm/obj/master (Sat Dec 21 22:57:52 2024)
+> *call_other() couldn't find object
+
+File: /adm/obj/master.c              line 353
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   preload() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+2:   CATCH() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+
+Error in object: /adm/obj/master (Sat Dec 21 22:57:53 2024)
+> *call_other() couldn't find object
+
+File: /adm/obj/master.c              line 353
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   preload() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+2:   CATCH() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+
+Error in object: /adm/obj/master (Sat Dec 21 22:57:53 2024)
+> *call_other() couldn't find object
+
+File: /adm/obj/master.c              line 353
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   preload() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+2:   CATCH() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+
+Error in object: /adm/daemon/wizchar_d (Sat Dec 21 22:58:25 2024)
+> *Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+File: /adm/daemon/wizchar_d.c        line 103
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   heart_beat() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+2:   CATCH() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+3:   update_chars() in /adm/daemon/wizchar_d
+     Program: /adm/daemon/wizchar_d.c
+     File:      /adm/daemon/wizchar_d.c line 103
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 23:23:13 2024)
+> *Error in loading object '/std/skills/steal'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#5
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 23:38:37 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#5
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 23:53:23 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#5
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sat Dec 21 23:53:57 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#5
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sun Dec 22 00:13:52 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#5
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /adm/obj/simul_efun (Sun Dec 22 00:50:49 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   get_password() in /adm/obj/login#14089
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 151
+
+2:   exec_user() in /adm/obj/login#14089
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 242
+
+3:   setup() in /std/user#14090
+     Program: /std/user.c
+     File:                  /std/user.c line 488
+
+4:   CATCH() in /std/user#14090
+     Program: /std/user.c
+     File:                  /std/user.c line 488
+
+5:   compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+6:   compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+7:   compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+8:   compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+9:   virtual_setup() in /d/damned/virtual/castle_server#14101
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+10:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+11:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+12:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+13:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Sun Dec 22 00:50:49 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   get_password() in /adm/obj/login#14089
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 151
+
+2:   exec_user() in /adm/obj/login#14089
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 242
+
+3:   setup() in /std/user#14090
+     Program: /std/user.c
+     File:                  /std/user.c line 488
+
+4:   move() in /std/user#14090
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+5:   move() in /std/user#14090
+     Program: /std/move.c
+     File:                  /std/move.c line 81
+
+6:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 330
+
+7:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 55
+
+8:   load_lockers() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 32
+
+9:   load_lockers() in /adm/daemon/save_items_d
+     Program: /adm/daemon/save_items_d.c
+     File:   /adm/daemon/save_items_d.c line 490
+
+10:  move() in /std/diewarzau/obj/misc/storage_locker#14102
+     Program: /std/locker.c
+     File:                /std/locker.c line 92
+
+11:  move() in /std/diewarzau/obj/misc/storage_locker#14102
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+12:  move() in /std/diewarzau/obj/misc/storage_locker#14102
+     Program: /std/move.c
+     File:                  /std/move.c line 48
+
+13:  receive_objects() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 108
+
+14:  path_to_entry() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 87
+
+15:  castle_filter() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+16:  CATCH() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+17:  compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+18:  compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+19:  compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+20:  compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+21:  virtual_setup() in /d/damned/virtual/castle_server#14103
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+22:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+23:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+24:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+25:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Sun Dec 22 00:50:49 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   get_password() in /adm/obj/login#14089
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 151
+
+2:   exec_user() in /adm/obj/login#14089
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 242
+
+3:   setup() in /std/user#14090
+     Program: /std/user.c
+     File:                  /std/user.c line 488
+
+4:   move() in /std/user#14090
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+5:   move() in /std/user#14090
+     Program: /std/move.c
+     File:                  /std/move.c line 81
+
+6:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 330
+
+7:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 55
+
+8:   load_lockers() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 32
+
+9:   load_lockers() in /adm/daemon/save_items_d
+     Program: /adm/daemon/save_items_d.c
+     File:   /adm/daemon/save_items_d.c line 490
+
+10:  move() in /std/diewarzau/obj/misc/storage_locker#14102
+     Program: /std/locker.c
+     File:                /std/locker.c line 92
+
+11:  move() in /std/diewarzau/obj/misc/storage_locker#14102
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+12:  move() in /std/diewarzau/obj/misc/storage_locker#14102
+     Program: /std/move.c
+     File:                  /std/move.c line 48
+
+13:  receive_objects() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 108
+
+14:  path_to_entry() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 87
+
+15:  castle_filter() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+16:  CATCH() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+17:  compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+18:  compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+19:  compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+20:  compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+21:  virtual_setup() in /d/damned/virtual/castle_server#14104
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+22:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+23:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+24:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+25:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Sun Dec 22 00:50:49 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   get_password() in /adm/obj/login#14089
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 151
+
+2:   exec_user() in /adm/obj/login#14089
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 242
+
+3:   setup() in /std/user#14090
+     Program: /std/user.c
+     File:                  /std/user.c line 488
+
+4:   move() in /std/user#14090
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+5:   move() in /std/user#14090
+     Program: /std/move.c
+     File:                  /std/move.c line 81
+
+6:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 330
+
+7:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 55
+
+8:   load_lockers() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 32
+
+9:   load_lockers() in /adm/daemon/save_items_d
+     Program: /adm/daemon/save_items_d.c
+     File:   /adm/daemon/save_items_d.c line 490
+
+10:  move() in /std/diewarzau/obj/misc/storage_locker#14102
+     Program: /std/locker.c
+     File:                /std/locker.c line 92
+
+11:  move() in /std/diewarzau/obj/misc/storage_locker#14102
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+12:  move() in /std/diewarzau/obj/misc/storage_locker#14102
+     Program: /std/move.c
+     File:                  /std/move.c line 48
+
+13:  receive_objects() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 108
+
+14:  path_to_entry() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 87
+
+15:  castle_filter() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+16:  CATCH() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+17:  compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+18:  compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+19:  compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+20:  compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+21:  virtual_setup() in /d/damned/virtual/castle_server#14105
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+22:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+23:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+24:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+25:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Sun Dec 22 00:50:49 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   get_password() in /adm/obj/login#14089
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 151
+
+2:   exec_user() in /adm/obj/login#14089
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 242
+
+3:   setup() in /std/user#14090
+     Program: /std/user.c
+     File:                  /std/user.c line 488
+
+4:   move() in /std/user#14090
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+5:   move() in /std/user#14090
+     Program: /std/move.c
+     File:                  /std/move.c line 81
+
+6:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 330
+
+7:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 55
+
+8:   load_lockers() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 32
+
+9:   load_lockers() in /adm/daemon/save_items_d
+     Program: /adm/daemon/save_items_d.c
+     File:   /adm/daemon/save_items_d.c line 490
+
+10:  move() in /std/diewarzau/obj/misc/storage_locker#14102
+     Program: /std/locker.c
+     File:                /std/locker.c line 92
+
+11:  move() in /std/diewarzau/obj/misc/storage_locker#14102
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+12:  move() in /std/diewarzau/obj/misc/storage_locker#14102
+     Program: /std/move.c
+     File:                  /std/move.c line 48
+
+13:  receive_objects() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 108
+
+14:  path_to_entry() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 87
+
+15:  castle_filter() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+16:  CATCH() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+17:  compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+18:  compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+19:  compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+20:  compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+21:  virtual_setup() in /d/damned/virtual/castle_server#14106
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+22:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+23:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+24:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+25:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Sun Dec 22 00:50:50 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   heart_beat() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+2:   CATCH() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+3:   load_lockers() in /d/damned/virtual/hawpun_room_2.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 32
+
+4:   load_lockers() in /adm/daemon/save_items_d
+     Program: /adm/daemon/save_items_d.c
+     File:   /adm/daemon/save_items_d.c line 490
+
+5:   move() in /std/diewarzau/obj/misc/storage_locker#14173
+     Program: /std/locker.c
+     File:                /std/locker.c line 92
+
+6:   move() in /std/diewarzau/obj/misc/storage_locker#14173
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+7:   move() in /std/diewarzau/obj/misc/storage_locker#14173
+     Program: /std/move.c
+     File:                  /std/move.c line 48
+
+8:   receive_objects() in /d/damned/virtual/hawpun_room_2.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 108
+
+9:   path_to_entry() in /d/damned/virtual/hawpun_room_2.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 87
+
+10:  castle_filter() in /d/damned/virtual/hawpun_room_2.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+11:  CATCH() in /d/damned/virtual/hawpun_room_2.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+12:  compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+13:  compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+14:  compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+15:  compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+16:  virtual_setup() in /d/damned/virtual/castle_server#14174
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+17:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+18:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+19:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+20:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Sun Dec 22 00:50:50 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   heart_beat() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+2:   CATCH() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+3:   load_lockers() in /d/damned/virtual/hawpun_room_3.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 32
+
+4:   load_lockers() in /adm/daemon/save_items_d
+     Program: /adm/daemon/save_items_d.c
+     File:   /adm/daemon/save_items_d.c line 490
+
+5:   move() in /std/diewarzau/obj/misc/storage_locker#14175
+     Program: /std/locker.c
+     File:                /std/locker.c line 92
+
+6:   move() in /std/diewarzau/obj/misc/storage_locker#14175
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+7:   move() in /std/diewarzau/obj/misc/storage_locker#14175
+     Program: /std/move.c
+     File:                  /std/move.c line 48
+
+8:   receive_objects() in /d/damned/virtual/hawpun_room_3.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 108
+
+9:   path_to_entry() in /d/damned/virtual/hawpun_room_3.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 87
+
+10:  castle_filter() in /d/damned/virtual/hawpun_room_3.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+11:  CATCH() in /d/damned/virtual/hawpun_room_3.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+12:  compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+13:  compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+14:  compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+15:  compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+16:  virtual_setup() in /d/damned/virtual/castle_server#14176
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+17:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+18:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+19:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+20:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /d/damned/virtual/room_3_3.world (Sun Dec 22 01:00:07 2024)
+> *Bad argument 1 to environment()
+Expected: object Got: 0.
+
+File: /d/damned/virtual/world_server.c line 354
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   heart_beat() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 109
+
+2:   CATCH() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 109
+
+3:   do_spell() in /std/spells/transport#15476
+     Program: /std/spells/spell.c
+     File:          /std/spells/spell.c line 846
+
+4:   spell_func() in /std/spells/transport#15476
+     Program: /std/spells/transport.c
+     File:      /std/spells/transport.c line 88
+
+5:   move_player() in /std/user#14090
+     Program: /std/user.c
+     File:                  /std/user.c line 298
+
+6:   describe_current_room() in /std/user#14090
+     Program: /std/user.c
+     File:                  /std/user.c line 191
+
+7:   <fake>() in /d/damned/virtual/room_3_3.world
+     Program: /<driver>
+     File:                      /(fake) line 0
+
+8:   observe_func() in /d/damned/virtual/room_3_3.world
+     Program: /d/damned/virtual/world_server.c
+     File: /d/damned/virtual/world_server.c line 354
+
+
+Error in object: /adm/daemon/wizchar_d (Sun Dec 22 02:39:53 2024)
+> *Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+File: /adm/daemon/wizchar_d.c        line 123
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   check_events() in /daemon/events_d
+     Program: /daemon/events_d.c
+     File:           /daemon/events_d.c line 66
+
+2:   CATCH() in /daemon/events_d
+     Program: /daemon/events_d.c
+     File:           /daemon/events_d.c line 66
+
+3:   output_log() in /adm/daemon/wizchar_d
+     Program: /adm/daemon/wizchar_d.c
+     File:      /adm/daemon/wizchar_d.c line 123
+
+
+Error in object: /cmds/system/_update (Sun Dec 22 03:11:41 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#5
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sun Dec 22 03:11:52 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#5
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sun Dec 22 03:14:09 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#5
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sun Dec 22 03:14:53 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#5
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /cmds/system/_update (Sun Dec 22 03:21:57 2024)
+> *Error in loading object '/std/spells/firestorm_blade'
+
+File: /cmds/system/_update.c         line 118
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   cmd_hook() in /std/user#5
+     Program: /std/living.c
+     File:                /std/living.c line 267
+
+2:   cmd_update() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+3:   CATCH() in /cmds/system/_update
+     Program: /cmds/system/_update.c
+     File:       /cmds/system/_update.c line 118
+
+
+Error in object: /adm/obj/master (Sun Dec 22 03:35:25 2024)
+> *call_other() couldn't find object
+
+File: /adm/obj/master.c              line 353
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   preload() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+2:   CATCH() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+
+Error in object: /adm/obj/master (Sun Dec 22 03:35:26 2024)
+> *call_other() couldn't find object
+
+File: /adm/obj/master.c              line 353
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   preload() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+2:   CATCH() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+
+Error in object: /adm/obj/master (Sun Dec 22 03:35:26 2024)
+> *call_other() couldn't find object
+
+File: /adm/obj/master.c              line 353
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   preload() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+2:   CATCH() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+
+Error in object: /adm/daemon/wizchar_d (Sun Dec 22 03:35:58 2024)
+> *Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+File: /adm/daemon/wizchar_d.c        line 103
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   heart_beat() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+2:   CATCH() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+3:   update_chars() in /adm/daemon/wizchar_d
+     Program: /adm/daemon/wizchar_d.c
+     File:      /adm/daemon/wizchar_d.c line 103
+
+
+Error in object: /adm/obj/master (Sun Dec 22 03:56:57 2024)
+> *call_other() couldn't find object
+
+File: /adm/obj/master.c              line 353
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   preload() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+2:   CATCH() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+
+Error in object: /adm/obj/master (Sun Dec 22 03:56:57 2024)
+> *call_other() couldn't find object
+
+File: /adm/obj/master.c              line 353
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   preload() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+2:   CATCH() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+
+Error in object: /adm/obj/master (Sun Dec 22 03:56:57 2024)
+> *call_other() couldn't find object
+
+File: /adm/obj/master.c              line 353
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   preload() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+2:   CATCH() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 353
+
+
+Error in object: /adm/daemon/wizchar_d (Sun Dec 22 03:57:29 2024)
+> *Bad argument 2 to foreach
+Expected: array Got: ([ ]).
+
+File: /adm/daemon/wizchar_d.c        line 103
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   heart_beat() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+2:   CATCH() in /adm/daemon/delayed_function_d
+     Program: /adm/daemon/delayed_function_d.c
+     File: /adm/daemon/delayed_function_d.c line 113
+
+3:   update_chars() in /adm/daemon/wizchar_d
+     Program: /adm/daemon/wizchar_d.c
+     File:      /adm/daemon/wizchar_d.c line 103
+
+
+Error in object: /adm/obj/simul_efun (Sun Dec 22 04:26:36 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   heart_beat() in /d/damned/world/obj/mon/mountain_lion#378
+     Program: /std/monster.c
+     File:               /std/monster.c line 132
+
+2:   move_around() in /d/damned/world/obj/mon/mountain_lion#378
+     Program: /std/monster.c
+     File:               /std/monster.c line 391
+
+3:   use_exit() in /d/damned/virtual/room_3_14.world
+     Program: /std/room/exits.c
+     File:            /std/room/exits.c line 133
+
+4:   find_object_or_load() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/find_object_or_load.c line 13
+
+5:   compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+6:   compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+7:   compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+8:   compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+9:   virtual_setup() in /d/damned/virtual/castle_server#802
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+10:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+11:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+12:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+13:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Sun Dec 22 05:47:07 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   get_password() in /adm/obj/login#3624
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 151
+
+2:   exec_user() in /adm/obj/login#3624
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 242
+
+3:   setup() in /std/user#3625
+     Program: /std/user.c
+     File:                  /std/user.c line 488
+
+4:   CATCH() in /std/user#3625
+     Program: /std/user.c
+     File:                  /std/user.c line 488
+
+5:   compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+6:   compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+7:   compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+8:   compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+9:   virtual_setup() in /d/damned/virtual/castle_server#3626
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+10:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+11:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+12:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+13:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Sun Dec 22 05:47:07 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   get_password() in /adm/obj/login#3624
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 151
+
+2:   exec_user() in /adm/obj/login#3624
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 242
+
+3:   setup() in /std/user#3625
+     Program: /std/user.c
+     File:                  /std/user.c line 488
+
+4:   move() in /std/user#3625
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+5:   move() in /std/user#3625
+     Program: /std/move.c
+     File:                  /std/move.c line 81
+
+6:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 330
+
+7:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 55
+
+8:   load_lockers() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 32
+
+9:   load_lockers() in /adm/daemon/save_items_d
+     Program: /adm/daemon/save_items_d.c
+     File:   /adm/daemon/save_items_d.c line 490
+
+10:  move() in /std/diewarzau/obj/misc/storage_locker#3627
+     Program: /std/locker.c
+     File:                /std/locker.c line 92
+
+11:  move() in /std/diewarzau/obj/misc/storage_locker#3627
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+12:  move() in /std/diewarzau/obj/misc/storage_locker#3627
+     Program: /std/move.c
+     File:                  /std/move.c line 48
+
+13:  receive_objects() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 108
+
+14:  path_to_entry() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 87
+
+15:  castle_filter() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+16:  CATCH() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+17:  compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+18:  compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+19:  compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+20:  compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+21:  virtual_setup() in /d/damned/virtual/castle_server#3628
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+22:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+23:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+24:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+25:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Sun Dec 22 05:47:07 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   get_password() in /adm/obj/login#3624
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 151
+
+2:   exec_user() in /adm/obj/login#3624
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 242
+
+3:   setup() in /std/user#3625
+     Program: /std/user.c
+     File:                  /std/user.c line 488
+
+4:   move() in /std/user#3625
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+5:   move() in /std/user#3625
+     Program: /std/move.c
+     File:                  /std/move.c line 81
+
+6:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 330
+
+7:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 55
+
+8:   load_lockers() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 32
+
+9:   load_lockers() in /adm/daemon/save_items_d
+     Program: /adm/daemon/save_items_d.c
+     File:   /adm/daemon/save_items_d.c line 490
+
+10:  move() in /std/diewarzau/obj/misc/storage_locker#3627
+     Program: /std/locker.c
+     File:                /std/locker.c line 92
+
+11:  move() in /std/diewarzau/obj/misc/storage_locker#3627
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+12:  move() in /std/diewarzau/obj/misc/storage_locker#3627
+     Program: /std/move.c
+     File:                  /std/move.c line 48
+
+13:  receive_objects() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 108
+
+14:  path_to_entry() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 87
+
+15:  castle_filter() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+16:  CATCH() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+17:  compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+18:  compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+19:  compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+20:  compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+21:  virtual_setup() in /d/damned/virtual/castle_server#3629
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+22:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+23:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+24:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+25:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+
+Error in object: /adm/obj/simul_efun (Sun Dec 22 05:47:07 2024)
+> *Read access denied.
+
+File: /adm/obj/simul_efun.c          line 71
+
+Traceback
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+1:   get_password() in /adm/obj/login#3624
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 151
+
+2:   exec_user() in /adm/obj/login#3624
+     Program: /adm/obj/login.c
+     File:             /adm/obj/login.c line 242
+
+3:   setup() in /std/user#3625
+     Program: /std/user.c
+     File:                  /std/user.c line 488
+
+4:   move() in /std/user#3625
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+5:   move() in /std/user#3625
+     Program: /std/move.c
+     File:                  /std/move.c line 81
+
+6:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 330
+
+7:   init() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 55
+
+8:   load_lockers() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /std/vault_locker_room.c
+     File:     /std/vault_locker_room.c line 32
+
+9:   load_lockers() in /adm/daemon/save_items_d
+     Program: /adm/daemon/save_items_d.c
+     File:   /adm/daemon/save_items_d.c line 490
+
+10:  move() in /std/diewarzau/obj/misc/storage_locker#3627
+     Program: /std/locker.c
+     File:                /std/locker.c line 92
+
+11:  move() in /std/diewarzau/obj/misc/storage_locker#3627
+     Program: /std/Object.c
+     File:                /std/Object.c line 554
+
+12:  move() in /std/diewarzau/obj/misc/storage_locker#3627
+     Program: /std/move.c
+     File:                  /std/move.c line 48
+
+13:  receive_objects() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 108
+
+14:  path_to_entry() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 87
+
+15:  castle_filter() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+16:  CATCH() in /d/damned/virtual/hawpun_room_10.castle
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 75
+
+17:  compile_object() in /adm/obj/master
+     Program: /adm/obj/master.c
+     File:            /adm/obj/master.c line 502
+
+18:  compile_object() in /adm/daemon/virtual_d
+     Program: /adm/daemon/virtual_d.c
+     File:      /adm/daemon/virtual_d.c line 23
+
+19:  compile_object() in /d/damned/virtual/server
+     Program: /d/damned/virtual/server.c
+     File:   /d/damned/virtual/server.c line 31
+
+20:  compile_object() in /d/damned/virtual/castle_server
+     Program: /std/virtual/compile.c
+     File:       /std/virtual/compile.c line 18
+
+21:  virtual_setup() in /d/damned/virtual/castle_server#3630
+     Program: /d/damned/virtual/castle_server.c
+     File: /d/damned/virtual/castle_server.c line 290
+
+22:  resolv_str() in /adm/daemon/refs_d
+     Program: /adm/daemon/refs_d.c
+     File:         /adm/daemon/refs_d.c line 65
+
+23:  get_objects() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 152
+
+24:  get_object() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+
+25:  CATCH() in /adm/obj/simul_efun
+     Program: /adm/obj/simul_efun.c
+     File: /adm/simul_efun/get_object.c line 71
+

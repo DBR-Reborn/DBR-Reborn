@@ -1,0 +1,57 @@
+AM Skill: Create Figurine
+ 14. A clay figurine                          (qty:   5)      14 gold
+ 15. A golden figurine                        (qty:   5)    1488 gold
+ 16. A jeweled figurine                       (qty:   5)   10023 gold
+ 19. A platinum figurine                      (qty:   5)    4623 gold
+
+AM Skill: Create Powerstone
+ 11. A blank 10-point powerstone              (qty:   5)      70 gold
+ 12. A blank 100-point powerstone             (qty:   5)      98 gold
+ 13. A blank 500-point powerstone             (qty:   1)     213 gold
+
+Tink Skill: Create Press (combine these three)
+ 26. a plant press                            (qty:   5)      42 silver
+  8. An herb press                            (qty:   5)      50 silver
+ 25. a mortar and pestle                      (qty:   5)      14 gold
+
+Tink Skill: Create Dagger Belt (up dagger # to 15, make them use thrown)
+ 32. A belt of 5 daggers                      (qty:  20)      90 copper
+
+Tink Skill: Glassblowing
+  6. A small empty vial                       (qty:  10)       9 silver
+ 36. magnifying glass                         (qty:   5)     141 gold   
+
+Tink Skill: Forge-Making
+ 13. A forge                                  (qty:   4)    2073 gold
+ 14. A greater forge                          (qty:   4)   13798 gold
+
+Tink Skill: Chest-Making
+  8. trash can (open)                         (qty:   6)   16991 gold 
+  1. A large chest (closed)                   (qty:   5)    3708 gold
+  2. A large storage locker (closed)          (qty:   5)   14264 gold
+  3. A safe (closed)                          (qty:   5)    1425 gold
+  4. A small chest (closed)                   (qty:   5)    1996 gold
+
+ALL skill: Food Packing
+  2. A pack of five rich rations              (qty:   7)     117 silver
+  3. A pack of ten standard rations           (qty:   7)     135 silver
+
+ALL skill: Make Miscellaneous
+  5. A sextant                                (qty:   7)      13 gold
+  1. A lantern                                (qty:   6)      33 gold
+ 13. A prospecting pan                        (qty:   9)     104 gold
+ 14. A prospecting shovel                     (qty:   9)     104 gold
+ 12. A balance                                (qty:   9)      13 gold
+ 16. A key blank                              (qty:  20)      98 silver
+ 10. A parchment scroll                       (qty:   5)      28 gold
+ 11. a bag of holding (open)                  (qty:   5)      18 gold
+ 15. A case of 10 lock picks                  (qty:  20)      32 gold
+
+ALL skill: Torch-making (makes like up to 15 at a time)
+  6. A torch                                  (qty:  10)       3 copper
+
+Wandering Bird in Overworld
+  9. A magical quill                          (qty:   5)      84 silver
+
+Wandering Guy in Overworld
+  7. a magical newbie ring of water walking   (qty:   3)      50 copper 

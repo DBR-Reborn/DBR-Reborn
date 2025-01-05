@@ -1,0 +1,89 @@
+#UNHOLY CRIT
+#NEW TLNY2020 
+(A):
+1..5:$A $V slightly with unholy energy.:glow:NO_EFFECT
+6..10:$T $(VT) that undead screams can be heard as $(AP) attack hits $(TO).:swear:NO_EFFECT
+11..20:A unholy aura is visible around $A as $(AN) $V $T with great force.:attack:DAMAGE 10:SPECIAL_RESULT /daemon/db/crit/crit_d increase_str_unholy
+21..30:$T $(VT) thrown back by the extreme might of $(AP) attack.:are:DAMAGE 5:SPECIAL_RESULT /daemon/db/crit/crit_d impact_A_crit
+31..40:The unholy power of $(AP) attack causes $(AO) to be enshrouded in a protective aura.::SKILL_MOD attack -50 4:SPECIAL_RESULT /daemon/db/crit/crit_d increase_ac_unholy
+41..50:$T $(VT) disoriented by $(AP) unholy attack.:are:STUN 5:DAMAGE 10
+51..60:$(AP) attack summons a unholy entity to distract $T, so that $A may attack more vigorously.::STUN 2:SKILL_MOD attack -70 4:SKILL_MOD parry -70 10:SKILL_MOD dodge -70 4
+#TLNY 2020 removed creature never died :STAT_MOD dexterity -50 4
+61..65:$(AP) attack is guided by a unholy force, striking $T with extreme force.::DAMAGE 10:STUN 1:SPECIAL_RESULT /daemon/db/crit/crit_d impact_A_crit
+66..66:unholy forces resulting from $(AP) attack envelop $T, raise $(TO) to a great height, and drop $(TO)!::SPECIAL_RESULT /daemon/db/crit/crit_d impact_crit
+67..70:$(AP) unholy attack summons forces which serve to improve further attacks.::SPECIAL_RESULT /daemon/db/crit/crit_d raise_weapon_1
+71..80:$T $(VT) sticken violently by $(AP) unholy attack.:are:DAMAGE 25:STUN 2
+81..90:$(AP) attack causes $T to find religion as unholy forces strike $(TO).::DAMAGE 30:STUN 2
+#TLNY 2020 removed creature never died :STAT_MOD intelligence -40 5
+91..95:$A $V driven to strike $T again by unholy forces.:are:DAMAGE 20:SKILL_MOD parry -40 4:SPECIAL_RESULT /daemon/db/crit/crit_d extra_a_hbeat
+96..98:unholy forces summoned by $(AP) attack throw $T a great distance backward.::DAMAGE 25:STUN 3:SKILL_MOD parry -50 5:SKILL_MOD dodge -50 5:SPECIAL_RESULT /daemon/db/crit/crit_d impact_crit
+99..99:$(AP) conjures a freezing mist of unholy darkness striking off the hand that offends $(AP).::LIMB_LOSS arm:DAMAGE 30:CONT_DAMAGE 15 3:STUN 6:SKILL_MOD attack -50 5:SKILL_MOD parry -100 6
+100..100:An evil presence is summoned by $(AP) attack, and it proceeds to attack $T!::DAMAGE 30:STUN 2:SKILL_MOD attack -50 5:SKILL_MOD parry -50 5:SPECIAL_RESULT /daemon/db/crit/crit_d summon__unholy_ethereal_entity1
+(B):
+1..5:$A $V imbued with unholy force momentarily.:are:NO_EFFECT
+6..10:$(AP) attack, is aided by unholy forces, unbalances $T.::STUN 2:SPECIAL_RESULT /daemon/db/crit/crit_d inscrease_str_unholy
+11..20:$(AP) attack is guided by unholy forces, much to $(TP) consternation!::DAMAGE 10:STUN 1:SKILL_MOD parry -30 4
+21..30:black darkness of unholy energy from $(AP) attack strike $T with great force.::DAMAGE 15:STUN 2:CONT_DAMAGE 4 3:SKILL_MOD parry -40 3
+31..40:$A $V $T with great force, as $(APP) attack is guided by unholy influence.:strike:DAMAGE 18:STUN 3:SKILL_MOD parry -50 4
+41..50:$(AP) attack is imbued with hellish force, and it knocks $T flat.::DAMAGE 20:SKILL_MOD dodge -80 10:SKILL_MOD parry -80 10:STUN 3
+51..60:$(AP) unholy attack calls a wind that sucks out the air around $T.::DAMAGE 40:SPECIAL_RESULT /daemon/db/crit/crit_d vacuum_crit
+61..65:$(AP) attack is guided with unholy force, and $T $(VT) thrown violently to the ground, cracking a few ribs.:are:DAMAGE 25:CONT_DAMAGE 5 4:STUN 3:SKILL_MOD parry -50 8:SKILL_MOD parry -40 3
+66..66:A plague of sores break out on $T as unholy forces come to aid $(AP)::DAMAGE 50:STUN 3:CONT_DAMAGE 10 10:SKILL_MOD attack -50 10:SKILL_MOD dodge -15 5:SKILL_MOD parry -20 5:SPECIAL_RESULT /daemon/db/crit/crit_d inscrease_str_unholy
+67..70:$(AP) attack is instilled with unholy might, and $(AN) $V $T!:crush:DAMAGE 50:STUN 4:CONT_DAMAGE 7 5:SKILL_MOD attack -90 4:SKILL_MOD dodge -30 10:SPECIAL_RESULT /daemon/db/crit/crit_d impact_crit
+71..80:$(APP) unholy efforts seen in hell, $A $V instilled with strength!:are:SPECIAL_RESULT /daemon/db/crit/crit_d raise_weapon2:SPECIAL_RESULT /daemon/db/crit/crit_d increase_str_unholy
+81..90:$(AP) banishes $T with Inhuman prowess.:strike:DAMAGE 70:STUN 4:SKILL_MOD parry -30 5:SKILL_MOD dodge -30 5
+91..95:$A $V $(TP) arm with unholy force, smashing it and rendering it useless!:strike:LIMB_LOSS arm cripple:STUN 3:SPECIAL_RESULT /daemon/db/crit/crit_d increase_str_unholy
+96..98:With a strength that $T thought impossible, $A $V $(TO), throwing $(TO) effortlessly to the ground in a bloody mess.:strike:DAMAGE 45:CONT_DAMAGE 5 8:STUN 5:SKILL_MOD parry -100 5
+99..99:The Hand of Hell emerges at $T devouring at $(AP)'s request.::DAMAGE: 100:SPECIAL_RESULT /daemon/db/crit/crit_d increase_str_unholy
+100..100:$(AP) unholy attack is witnessed in the lower depths, and an Unholy ethereal entity join in the fray on $(AP) side!::SPECIAL_RESULT /daemon/db/crit/crit_d summon_unholy_ethereal_entity2
+(C):
+1..5:$A $V with hellish force.:glow:DAMAGE 5
+6..10:$A $V unholy energies, allowing $(AO) to attack with greater power:summon:DAMAGE 10:SPECIAL_RESULT /daemon/db/crit/crit_d raise_weapon2:SPECIAL_RESULT /daemon/db/crit/crit_d increase_ac_unholy 
+11..20:$A $V to go into a flurry momentarily, attacking repeatedly!:seem:SPECIAL_RESULT /daemon/db/crit/crit_d extra_a_hbeat:SPECIAL_RESULT /daemon/db/crit/crit_d extra_a_hbeat
+21..30:$(AP) attack calls forth unholy powers, which cause festering wounds to appear on $T!::CONT_DAMAGE 20 5:STUN 3:SKILL_MOD dodge -50 5:SKILL_MOD parry -50 5
+31..40:A wind like a hurricane itself slams into $T's forehead!::DAMAGE 50:CONT_DAMAGE 25 4:STUN 6:SKILL_MOD attack -100 10
+41..50:From the deepest darkness called forth by $(AP) attack corrupt and confuse $T.::STUN 7:SKILL_MOD parry -60 7
+51..60:The unholy force of $(AP) attack sends $T flying!::DAMAGE 35:STUN 2:SKILL_MOD parry -50 2:SKILL_MOD attack -75 5
+61..65:$(TP) eyes glow with unholy force as $(AP) attack enshrouds $(TO), buffetting $(TO) wildly.::CONT_DAMAGE 15 3:STUN 3:SKILL_MOD parry -80 3:SPECIAL_RESULT /daemon/db/crit/crit_d increase_str_unholy
+66..66:$T is torn asunder by unholy forces!::DAMAGE 100:STUN 6:SKILL_MOD parry -30 4:SKILL_MOD dodge -30 4
+67..70:$(AP) attack strikes $T in the leg, and the force is so great that $(TPP) leg is crippled!::LIMB_LOSS leg cripple:DAMAGE 30:STUN 2:CONT_DAMAGE 10 5
+71..80:$T $(VT) knocked violently back by $(AP) attack, hitting several inconveniently sharp objects while flying back.:are:DAMAGE 50:SPECIAL_RESULT /daemon/db/crit/crit_d impact_crit:STUN 4:SKILL_MOD parry -70 5
+81..90:$T $(VT) that undead screams can be heard as $(AP) attack strikes $(TO) with extreme violence!:swear:DAMAGE 40:CONT_DAMAGE 6 4:SKILL_MOD parry -60 3
+91..95:$T $(VT) struck by the stigmata by $(AP) attack, and $(TPP) hands are rendered useless.:are:LIMB_LOSS arm cripple:LIMB_LOSS arm cripple:STUN 5:SKILL_MOD parry -80 10:CONT_DAMAGE 6 8
+96..98:$T $(VT) transfixed by a black depths of hell from $(AP) attack, which shocks $(TO) violently.:are:DAMAGE 60:STUN 5:CONT_DAMAGE 15 6:SKILL_MOD parry -50 5
+99..99:A storm of unholy ice shreds $T like a rag doll::LIMB_LOSS non_fatal:LIMB_LOSS non_fatal:LIMB_LOSS non_fatal:LIMB_LOSS non_fatal:LIMB_LOSS non_fatal cripple:DAMAGE 100:CONT_DAMAGE 50 6:STUN 6:SKILL_MOD parry -50 5:SKILL_MOD dodge -50 10:SPECIAL_RESULT /daemon/db/crit/crit_d increase_str_unholy
+100..100:A powerful rotted lich appears to aid $A in $(APP) combat!::SPECIAL_RESULT /daemon/db/crit/crit_d summon_lich
+(D):
+1..5:$A $V $T with great strength.:attack:DAMAGE 8
+6..10:Imbued with unholy energy, $A $V $T with extreme force.:attack:DAMAGE 15:STUN 1
+11..20:unholy force from $(AP) attack causes spasms in $(TP) legs, and $(TN) $(VT) to the ground, momentarily helpless.:collapse:DAMAGE 15:CONT_DAMAGE 3 4:STUN 4:SKILL_MOD parry -20 4
+21..30:$T $(VT) all of $(TO) wind knocked out by the unholy force of $(AP) attack.:get:DAMAGE 20:CONT_DAMAGE 3 5:STUN 3:SKILL_MOD parry -70 3
+31..40:By the power of the Grey skull, $T $V is frozen in place.:is:DAMAGE 20:STUN 8:SKILL_MOD parry -50 8:SKILL_MOD dodge -50 8:SKILL_MOD block -50 8:SKILL_MOD attack -150 8
+41..50:$T $(VT) rendered unable to breathe by the extreme energy of $(AP) attack.:are:STUN 5:CONT_DAMAGE 11 5
+51..60:A fierce cloud of darkness pierce ragged holes in $T, spilling vast amounts of blood!::DAMAGE 80:CONT_DAMAGE 20 6:STUN 6:SPECIAL_RESULT /daemon/db/crit/crit_d impact_crit:SKILL_MOD parry -30 6:SKILL_MOD dodge -30 6:LIMB_LOSS non_fatal:LIMB_LOSS non_fatal cripple
+61..65:$A $V $(TP) legs with great force, crippling them!:attack:LIMB_LOSS leg cripple:LIMB_LOSS leg cripple:STUN 5
+66..66:UNHOLY WRATH severely banishes $T::DAMAGE 50:SPECIAL_RESULT /daemon/db/crit/crit_d vacuum_crit:SPECIAL_RESULT /daemon/db/crit/crit_d vacuum_crit:SPECIAL_RESULT /daemon/db/crit/crit_d vacuum_crit
+67..70:$T $(VT) thrown violently to the ground by $(AP) attack, shattering $(TPP) hip.:are:DAMAGE 55:CONT_DAMAGE 7 4:STUN 3:SKILL_MOD parry -70 3
+71..80:$T $(VT) on $(TPP) head from $(AP) attack, rendering $(TO) momentarily unconscious:falls:DAMAGE 40:CONT_DAMAGE 5 8:STUN 8:SKILL_MOD parry -200 8
+81..90:$A $V $(TP) arm with the force of the darkness, crippling it!:attack:LIMB_LOSS arm cripple:STUN 3:CONT_DAMAGE 5 5
+91..95:$(AP) attack, guided by unholy influence, opens a gaping wound in $(TP) back, and $(TN) $(VT) profusely.:bleed:DAMAGE 55:CONT_DAMAGE 10 5:STUN 1:SKILL_MOD parry -60 1
+96..99:$(AP) attack strikes $T violently in the ribs, cracking several of them with a sickening sound.::DAMAGE 70:CONT_DAMAGE 7 8:STUN 3:SKILL_MOD parry -70 3
+99..99:In an awe-inspiring display, $(AP) attack throws $T back with unearthly force.  Upon impact, $(TN) $(VT) instantly crushed!:are:DAMAGE: 300
+100..100:A horrible undead emerges from hell and engages $T in combat!::SPECIAL_RESULT /daemon/db/crit/crit_d summon_dracolich
+(E):
+1..5:$A $V $T with great force.:attack:DAMAGE 10
+6..10:$T $(VT) disoriented by the might of $(AP) attack.:are:DAMAGE 8:STUN 3
+11..20:unholy forces shred $T with darkness and cold!::SPECIAL_RESULT /daemon/db/crit/crit_d vacuum_crit:SPECIAL_RESULT /daemon/db/crit/crit_d cold_E_crit
+21..30:A cloud of unholy darkness from $(AP) attack transfixes $T, wounding $(TO) grievously.::DAMAGE 25:STUN 4:CONT_DAMAGE 15 3
+31..40:$(AP) attack inflicts a major wound on $(TP) leg.::DAMAGE 30:CONT_DAMAGE 5 4:STUN 1
+41..50:$T $(VT) upended by $(AP) attack, landing with a sickening THUD.:are:DAMAGE 30:CONT_DAMAGE 5 5:STUN 4:SKILL_MOD parry -70 2
+51..60:A darkness from the hell illuminates $A, imbuing $(AO) with strength to attack!::DAMAGE 50
+61..65:Huge spears of ice fly and peirce $T horribly!!::SPECIAL_RESULT /daemon/db/crit/crit_d impact_crit:SPECIAL_RESULT /daemon/db/crit/crit_d cold_E_crit:STUN 6
+66..66:A cloud of unholy darkness from $(AP) attack impales $T, causing $(TO) to twist and convulse violently.  When the assult is over, all that remains of $T is a frozen corpse.::KILL
+67..70:!!!$A SCREAMS DIE at $T!!!::DAMAGE 75:SPECIAL_RESULT /daemon/db/crit/crit_d raise_weapon2:SPECIAL_RESULT /daemon/db/crit/crit_d haste_me:SPECIAL_RESULT /daemon/db/crit/crit_d increase_ac_unholy:SPECIAL_RESULT /daemon/db/crit/crit_d extra_attack:STUN 7:CONT_DAMAGE 25 5:SKILL_MOD parry -25 5:SKILL_MOD dodge -25 5
+71..80:The impact of $(AP) attack is so severe, that an improbable amount of blood issues from $(TPP) mouth!::DAMAGE 60:SPECIAL_RESULT /daemon/db/crit/crit_d impact_crit:CONT_DAMAGE 10 6
+81..90:$(AP) unholy attack slams into $(TP) arm, crushing it effortlessly!::LIMB_LOSS arm:DAMAGE 40:STUN 3
+91..95:The extreme force of $(AP) attack causes $T to Freeze solid!::SPECIAL_RESULT /daemon/db/crit/crit_d cold_E_crit:SPECIAL_RESULT /daemon/db/crit/crit_d impact_crit:SPECIAL_RESULT /daemon/db/crit/crit_d vacuum_crit:DAMAGE 40:STUN 4:SKILL_MOD parry -100 4
+96..98:A lich appears and proceeds to beat the life out of $T::SPECIAL_RESULT /daemon/db/crit/crit_d cold_E_crit:SPECIAL_RESULT /daemon/db/crit/crit_d cold_E_crit:SPECIAL_RESULT /daemon/db/crit/crit_d impact_crit:SPECIAL_RESULT /daemon/db/crit/crit_d impact_crit:SPECIAL_RESULT /daemon/db/crit/crit_d vacuum_crit:SPECIAL_RESULT /daemon/db/crit/crit_d vacuum_crit:STUN 10:SKILL_MOD parry -100 10:SKILL_MOD dodge -100 10:SKILL_MOD attack -200 10:LIMB_LOSS non_fatal:LIMB_LOSS non_fatal:DAMAGE 200:CONT_DAMAGE 25 20
+99..99:$T goes to hell. Straight to hell. Without passing go.::DAMAGE 500:KILL
+100..100:At $(AP) behest, a door to hell seems to open, and a multitude of the Hellish creatures appears, screaming, 'Your soul shall be mine!'  They then proceed to kick $(TPP) ass.::SPECIAL_RESULT /daemon/db/crit/crit_d multitude_of_the_undead_host

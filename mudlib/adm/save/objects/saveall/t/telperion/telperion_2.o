@@ -1,0 +1,6 @@
+#/d/damned/guilds/nethermancer/misc/soul_orb.c
+encumbrance 50
+props (["value":1,"extra long":({"This orb currently contains no souls.",}),])
+true_name "soul orb"
+creator "/d/damned/guilds/nethermancer/magic_store"
+armour_save (["short desc":"A soul orb",])

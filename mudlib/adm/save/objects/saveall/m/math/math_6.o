@@ -1,0 +1,8 @@
+#/d/damned/virtual/knife_4.weapon
+#/d/damned/virtual/knife_4.weapon.c
+encumbrance 30
+props (["material_name":"neorolite","float value":0.588800,"material_type":"metal","extra long":"level[16] neorolite Knife","new desc":"level[16] neorolite Knife",])
+true_name "knife"
+creator "/d/damned/virtual/weapon_server"
+material "/metal/neorolite"
+__Weapon (["original wc":(["impaling":4,"crushing":34,]),"quality":4,"type":"knife","ac":(["infernal":1,"disruption":1,"stress":1,"crushing":1,"unholy":1,"cutting":1,"vacuum":1,"plasma":1,"impaling":1,"holy":1,"cold":1,"fire":1,"strike":1,"impact":1,"electricity":1,"aether":1,]),"verb":"stab","wc":(["impaling":4,"crushing":34,]),"short desc":"level[16] neorolite Knife","decay rate":200,"parry bonus":-15,"throwable":1,])
