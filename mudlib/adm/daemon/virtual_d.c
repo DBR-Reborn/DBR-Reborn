@@ -8,22 +8,25 @@
 
 nomask object compile_object(string file)
 {
-   string name, server;
-  
-    seteuid(getuid());
-    if(file && file[0]=='/')
+  string name, name2, server;
+
+  seteuid(getuid());
+  if(file && file[0]=='/')
     file=file[1..]; 
-   if(file_size(file) != -1) return 0;
-   if (sscanf(file, "wizards/%s/%*s",name))
-      server = user_path(name) + "virtual/server";
-   else if (sscanf(file, "d/%s/%*s",name))
-      server = "/d/" + name + "/virtual/server";
-   if (file_size(server + ".c") == -1)
-      server = VSERVER;
-   return (object)call_other(server,"compile_object",file);
+  if(file_size(file) != -1) return 0;
+  if (sscanf(file, "wizards/%s/%*s",name))
+    server = user_path(name) + "virtual/server";
+  else if (sscanf(file, "d/%s/%s/virtual/%*s",name,name2)==2)
+    server = "/d/" + name + "/" + name2 + "/virtual/server";
+  else if (sscanf(file, "d/%s/%*s",name))
+    server = "/d/" + name + "/virtual/server";
+  if (file_size(server + ".c") == -1)
+    server = VSERVER;
+  
+  return (object)call_other(server,"compile_object",file);
 }
 
 void clean_up()
 {
-   destruct(this_object());
+  destruct(this_object());
 }

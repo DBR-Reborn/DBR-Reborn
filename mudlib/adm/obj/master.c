@@ -260,6 +260,11 @@ int valid_save_binary(string file)
     sz = sizeof(tmp);
     if(replace_string(tmp[sz-1], "server", "") != tmp[sz-1]) return 1;
   }
+  if(strlen(file) >= 22 && file[0..21] = "/d/nocte/kuril/virtual")
+  {
+    sz = sizeof(tmp);
+    if(replace_string(tmp[sz-1], "server", "") != tmp[sz-1]) return 1;
+  }
     return 0;
 }
 

@@ -4,3 +4,5 @@ mudlib/daemon/save
 mudlib/adm/save
 mudlib/log
 mudlib/www/wholist.html
+.vscode
+.DS_Store

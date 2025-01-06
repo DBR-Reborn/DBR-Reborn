@@ -15,7 +15,7 @@ int query_prevent_shadow()
  
 object compile_object(string file)
 {
-   string name, server, tmp, args;
+   string name, name2, server, tmp, args;
    object obj;
  
    if (sscanf(file,"%s.%s",args,tmp) != 2)
@@ -24,6 +24,8 @@ object compile_object(string file)
       server = user_path(name) + "virtual/" + tmp + "_server";
    else if (sscanf(file,"d/%s/%*s",name))
       server = "/d/" + name + "/virtual/" + tmp + "_server";
+   else if (sscanf(file,"d/%s/%s/%*s",name,name2)==2)
+      server = "d/" + name + "/" + name2 "/virtual/" + tmp + "_server";
    if (file_size(server + ".c") != -1) {
       return (object)call_other(server,"compile_object",args);
    }

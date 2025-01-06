@@ -34,7 +34,7 @@ void new_owner(string who, string room, int time) {
   owners[room]["owner"] = who;
   owners[room]["time"] = time;
   ob = find_object(room);
-  if(room)
+  if(ob)
     room->virtual_setup("inn_"+r_num);
   save_this_room();
   return;

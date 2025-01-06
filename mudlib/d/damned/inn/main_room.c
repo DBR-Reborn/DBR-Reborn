@@ -54,7 +54,6 @@ int query_time_left(string owner) {
 
 string query_owner(string room) {
   object room_obj;
-  int i;
 
   if(!owners || !owners[room]) return 0;
   if(!mapp(owners[room]) || !owners[room]["time"] ||
@@ -117,7 +116,7 @@ int query_room_num(string owner) {
 }
 
 int get_next_room() {
-  string *room_keys, num;
+  string num;
   int max, j;
 
   query_all_owners();
@@ -148,7 +147,6 @@ string *query_all_owners() {
 
 void create() {
   ::create();
-  owners = ([]);
   restore_object("/d/damned/data/inn_room");
   set_property("indoors", 1);
   set_property("no attack", 0);
