@@ -1,5 +1,5 @@
 #/d/damned/guilds/join_rooms/thief_join.c
-props (["base mp regen":5,"light":1,"base hp regen":8,"guild mods":(["dexterity":10,"charisma":10,]),"mp advance":18,"indoors":1,"hp advance":38,])
+props (["base mp regen":5,"guild mods":(["dexterity":10,"charisma":10,]),"base hp regen":8,"light":1,"mp advance":18,"hp advance":38,"indoors":1,])
 __Smells ([])
 __Listens ([])
 __Searches ([])
@@ -9,5 +9,6 @@ pre_exit_func ([])
 post_exit_func ([])
 tracks ({})
 __Items (["blue moon":,"sky":,"ankh":,"moon":,"column":"The thick columns stretch up and support the ceiling.","doorway":"The small doorways is hidden among the shadows.","red moon":,"sun":,"warzau":,"green moon":,"moons":,"luna":,])
-guild_list (["groot":(["status":"member",]),"arsene":(["status":"member",]),"trook":(["status":"member",]),"seiti":(["status":"member",]),"tarance":(["status":"member",]),])
+guild_list (["groot":(["status":"member",]),"arsene":(["status":"member",]),"trook":(["status":"member",]),"tarance":(["status":"member",]),"seiti":(["status":"member",]),])
 banish ([])
+master "trook"

@@ -17,8 +17,7 @@ void create() {
     set("long",@TEXT
 TEXT
 );
-    add_exit("/d/damned/akkad/council_v_room", "vote");
-    ob=new("/d/damned/akkad/voteboard");
+    add_exit("/d/damned/akkad/council_v_room", "council");
 }
 
 void init() {
