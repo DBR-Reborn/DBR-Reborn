@@ -1,0 +1,7 @@
+//#define NORTHWEST "79"
+//#define NORTH "82"
+//#define WEST "59"
+//#define EAST "50"
+#define SOUTH "82"
+//#define SOUTHEAST "79"
+#include "base_goblin.c"

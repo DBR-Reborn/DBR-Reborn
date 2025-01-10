@@ -1,0 +1,6 @@
+#define NORTH "23"
+//#define WEST "05"
+//#define EAST "03"
+//#define SOUTH "09"
+#define SOUTHWEST "84"
+#include "base_other.c"

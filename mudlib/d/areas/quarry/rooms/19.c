@@ -1,0 +1,5 @@
+#define NORTH "22"
+//#define WEST "05"
+//#define EAST "03"
+#define SOUTH "08"
+#include "base_trainee.c"

@@ -1,0 +1,45 @@
+(A):
+0..15:Stinging pain overcomes $T.::DAMAGE 10
+16..30:$(TP) flesh bubbles nastily.::DAMAGE 15:STUN 1
+31..45:Bubbling acid melts flesh off $(TP) arms.::DAMAGE 20:STUN 2:LIMB_LOSS arm cripple:LIMB_LOSS arm cripple
+46..55:$(TP) face is destroyed by nasty acid.::DAMAGE 25:STUN 5:CONT_DAMAGE 20 3
+56..65:$(TP) arm is melted off by stinging acid.::DAMAGE 18:LIMB_LOSS arm
+66..66:Swirling acid destroys the bone in $(TP) leg!::DAMAGE 21:LIMB_LOSS leg cripple:STUN 3
+67..75:$T froths at the mouth as acid melts $(TPP) neck!::DAMAGE 30:STUN 3:CONT_DAMAGE 30 5
+76..90:$T $(VT) down, screaming in pain as acid melts away at $(TPP) feet.:fall:DAMAGE 40:STUN 1:LIMB_LOSS foot:LIMB_LOSS foot
+91..95:$T $(VT) all the gods as $(AP) bubbling acid misses.:thank:NO_EFFECT
+96..100:$(TP) lets out a horrific scream as acid eats through his neck!:LIMB_LOSS head
+(B):
+0..20:Flesh and muscle bubbles then falls off $(TP) thigh as acid hits it.  $(AN) screams.::DAMAGE 30:LIMB_LOSS leg cripple:STUN 3
+21..35:$T $(VT), spasms of pain wracking $(TPP) body.:fall:STUN 8:DAMAGE 43
+36..50:$T $(VT) in horror as $(AP) acid eats away at $(TPP) hand.:scream:LIMB_LOSS hand
+51..65:$(AP) corosive acid barely misses $T.::DAMAGE 2
+66..66:Boiling and bubbling, acid overtakes $T.  Sad:DAMAGE 500
+67..80:$T $(VT) in pain as acid eats through $(TPP) armour then flesh.:holler:DAMAGE 30:STUN 3
+81..90:Wicked green acid melts away at $(TP) eyes, ruining them!::DAMAGE 35:STUN 3
+91..95:Gurgling in pain, $T drops to $(TPP) knees as bright red acid eats through $(TP) skull.::DAMAGE 750
+96..100:$T falls down dead, a bright yellow acid bubbles out from $(TPP) chest.::DAMAGE 1000
+(C):
+0..30:Acid eats away at $(TP) arm and leg. The pain so great $(TN) doesnt even notice.::LIMB_LOSS arm:LIMB_LOSS leg
+31..45:$(TP) hand falls off, a chunk of charred flesh clinging to a bit of bone on the stump.::LIMB_LOSS hand:DAMAGE 40
+46..60:$T $(VT) $(TPP) brow thankfully as bubbling acid narrowly misses $(TP) head.:wipe:NO_EFFECT
+61..65:Acid bubbles out of $(TP) nose and ears. Gross.::DAMAGE 500
+66..66:Stinging acid burns $T badly.::DAMAGE 30
+67..85:$T $(VT) painfully as orange acid scorches $(TPP) flesh.:wince:DAMAGE 30:STUN 4
+86..90:Screaming in pain, $T $(VT) to the ground as acid _MELTS_ away $(TP) leg!!:fall:DAMAGE 100:LIMB_LOSS leg
+91..100:$T doesnt even make a sound as bright yellow acid melts off every one of $(TPP) limbs.::LIMB_LOSS arm:LIMB_LOSS arm:LIMB_LOSS leg:LIMB_LOSS leg:LIMB_LOSS head
+(D):
+0..40:Acid melts away the flesh on $(TP) hands, crippling them.::LIMB_LOSS hand cripple:LIMB_LOSS hand cripple:DAMAGE 130
+41..60:$T $(VT)! in pain as bright blue acid runs down $(TP) arms!!:scream:LIMB_LOSS arm cripple:DAMAGE 80:STUN 4
+61..65:$T $(VT) as $(AP) acid misses him.:snicker:NO_EFFECT
+66..66:Poor $T falls down to the ground in pain, acid eating away at $(TPP) brain.::DAMAGE 182:STUN 9:CONT_DAMAGE 50 3
+67..90:A gurgling noise is heard from $T as acid strips the flesh from $(TPP) neck.::DAMAGE 74:CONT_DAMAGE 30 8
+91..95:Raging magenta acid burns through $(TP) skull.::DAMAGE 800
+96..100:The skin about $(TP) neck melts away, exposing the spinal cord.  Which is eaten through in a matter of seconds.::LIMB_LOSS head
+(E):
+0..50:$T $(VT) about painfully as the acid attacking him melts away two limbs.::LIMB_LOSS:LIMB_LOSS
+51..65:Painful third and fourth degree wounds cover $(TP) body after a wicked acid attack.::DAMAGE 190:CONT_DAMAGE 50 5
+66..66:$T $(VT) to the ground, $(TPP) arms nothing more than brittle bone connected to charred sinew.:crumple:LIMB_LOSS arm cripple:LIMB_LOSS arm cripple:DAMAGE 120
+67..85:$(TP) skull caves in as acid eats away at it from the inside.::DAMAGE 1000
+86..95:Corosive blue acid eats away at $(TP) legs and hands.::LIMB_LOSS leg:LIMB_LOSS leg:LIMB_LOSS hand:LIMB_LOSS hand
+96..100:A bright red acid ball engulfs $T. When it finally sinks into the ground, all that is left is a blackened corpse.::DAMAGE 2500

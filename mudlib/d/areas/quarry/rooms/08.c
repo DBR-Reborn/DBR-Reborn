@@ -1,0 +1,5 @@
+#define NORTH "19"
+//#define WEST "05"
+//#define EAST "03"
+#define SOUTH "07"
+#include "base_sentry2.c"

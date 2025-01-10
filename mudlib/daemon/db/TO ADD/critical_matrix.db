@@ -1,0 +1,33 @@
+#Matrix crits
+(A):
+0..50:::NO_EFFECT
+51..75:$A $V time slow down, and $(TP) dodges become less effective. :feel:SKILL_MOD dodge 20 4
+76..80:$A $V faster than $T, and $T starts to miss $(TPP) attacks .:get:STAT_MOD dexterity -50 4
+81..85:$T attempts to parry, but it's simply not working, as $A has become ultra-fast.:hit:SKILL_MOD parry 20 4
+86..99:$T cannot believe what $(TN) $(VT) seeing - $A is just a blur to $(TPP).:are:SPECIAL_RESULT/wizards/diewarzau/crits/crit_results extra_attack
+100..100:$T cannot even defend against $(AP) insane speed.::SPECIAL_RESULT/wizards/diewarzau/crits/crit_results extra_attack:SPECIAL_RESULT/wizards/diewarzau/crits/crit_results extra_attack
+(B):
+0..50:::NO_EFFECT
+51..59:$T $(VT) the ground when $A $V $(TO) with a sweep kick that $(TN) never even saw coming.:hit:DAMAGE 15:STUN 2
+60..69:In a blurred flurry of blows, $T $(VT) smashed backwards. How did $A do that?:are:DAMAGE 37
+70..99:From a stand-still, $A flips over $T and $V $(TPP) in the back. Wait a sec, that's an impossible move!:stab:DAMAGE 42:CONT_DAMAGE 20 5
+100..100:$T cannot keep up with $A, and $(TN) $(VT) out of breath. Actually, $A took it from $(TPP) with an astounding blow.:run:STAT_MOD constitution -50 15:DAMAGE 50
+(C):
+0..39:::NO_EFFECT
+40..45:$A $V a furious series of attacks which drive $A to $(TPP) knees in pain.:launch:DAMAGE 45:CONT_DAMAGE 10 5:STUN 5
+46..50:Suddenly, time slows down! $A $V over $T, and takes one of $(TPP) arms off.:jump:DAMAGE 37:CONT_DAMAGE 10 30:LIMB_LOSS arm
+51..60:$T cannot parry $A, as $(AN) $V just too fast!:are:SKILL_MOD parry 100 5
+61..70:$A $V 4 extra attacks. $T cannot compete:get:SPECIAL_RESULT/wizards/diewarzau/crits/crit_results extra_attack:SPECIAL_RESULT/wizards/diewarzau/crits/crit_results extra_attack:SPECIAL_RESULT/wizards/diewarzau/crits/crit_results extra_attack:SPECIAL_RESULT/wizards/diewarzau/crits/crit_results extra_attack
+71..80:$T $(VT) knocked unconcious by one of $(AP) attacks.:are:DAMAGE 50:STUN 10
+81..100:$A $V $(APP) sword in $T with a twist or two.:stick:DAMAGE 100:CONT_DAMAGE 25 6
+(D):
+0..49:::NO_EFFECT
+50..55:$A $V a foot at $T, smashing $(TPP) into a wall, leaving an imprint!:send:DAMAGE 120:STUN 6
+56..60:$A $V time quicken, and off go $(TP) limbs.:feel:CONT_DAMAGE 20 20:DAMAGE 110:STUN 4:LIMB_LOSS:LIMB_LOSS:LIMB_LOSS:LIMB_LOSS
+61..70:$T $(VT) hit so fast $T $(VT) not sure what it was.:are:DAMAGE 150
+71..80:$T $V knocked unconcious for a long, long time. Write a will.:are:DAMAGE 200:STUN 20
+81..90:$T $V a blade through $(TPP) heart! NOOOOOOOOOO!:shove:KILL
+91..100:$T $V, and there is no visible reason for it.:dies:KILL
+(E):
+0..94:::NO_EFFECT
+95..100:Time stops. $T $V.:die:KILL

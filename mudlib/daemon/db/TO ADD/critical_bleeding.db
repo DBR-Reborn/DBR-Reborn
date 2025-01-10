@@ -1,0 +1,12 @@
+#bleeding crits
+(A):
+0..100:$T $(VT) from $(AP) attack.:bleed:BLEED 2
+(B):
+0..100:$T $(VT) from $(AP) attack.:bleed:BLEED 4
+(C):
+0..100:$T $(VT) from $(AP) attack.:bleed:BLEED 6
+(D):
+0..100:$T $(VT) from $(AP) attack.:bleed:BLEED 8
+(E):
+0..100:$T $(VT) from $(AP) attack.:bleed:BLEED 10
+

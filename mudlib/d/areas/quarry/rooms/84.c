@@ -1,0 +1,8 @@
+//#define NORTHWEST "79"
+#define NORTHEAST "24"
+//#define NORTH "82"
+//#define WEST "59"
+//#define EAST "50"
+#define SOUTH "85"
+//#define SOUTHEAST "79"
+#include "basea.c"

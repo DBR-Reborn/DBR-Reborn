@@ -1,0 +1,43 @@
+// Criticals for Radiation
+// Stolen from TW by glen, and modded
+// For use with DarkeLIB muds
+// 8/27/99
+
+(A):
+0..25:$T $(VT) pale when $(TN) irradiates him with some radiation:looks:CONT_DAMAGE 4 4
+26..50:$T $(VT) sick as $(TN) is hit with some minor alpha radiation!:feel:DAMAGE 15
+51..80:$A $V $T with a medium dose of alpha radiation.:sicken:DAMAGE 20
+81..85:$A $V loose with a fairly large dose of alpha radiation at $T.:let:DAMAGE 19
+86..99:$A $V $T with a powerful alpha radiation blast.:hit:DAMAGE 20
+100..100:$T $(VT) in the face of $(AP) weak radiation!:laugh:NO_EFFECT
+(B):
+0..50:$A $V the glee of radiation to $T with a smile!:spread:CONT_DAMAGE 10 8
+51..59:$T $(VT) are hit with a weak dosage of beta radiation.:are:DAMAGE 25
+60..69:$T $(VT) radiation poisoning from $(AP) attack.:experience:DAMAGE 37:STAT_MOD constitution -30 5:CONT_DAMAGE 15 5
+70..99:$A $V a major case of radiation poisoning.:give:DAMAGE 42:STAT_MOD constitution -30 15:CONT_DAMAGE 20 5
+100..100:$(TP) $(VT) due to the radiation from $(AP) attack.:hurl:STAT_MOD constitution -50 15:CONT_DAMAGE 30 2
+(C):
+0..19:$T $(VT) his skin peel off after a bath of radiation from $A:watch:DAMAGE 100
+20..39:$T $V as a third arm pops grows then withers away.:cry:DAMAGE 85:STAT_MOD dexterity -35 15
+40..45:$T $(VT) a dark shade of green from $(AP) radiation attack!:turn:DAMAGE 45:CONT_DAMAGE 10 5:STUN 5
+46..50:$T $(VT) in pain as he contracts five different types of cancer.:grunt:DAMAGE 37:CONT_DAMAGE 10 30
+51..60:$A $V at $T as $(AP) attack mutates $T slightly.:laugh:DAMAGE 60
+61..70:$A $V $T a fast-acting cancer.:give:CONT_DAMAGE 20 15
+71..80:$T $(VT) severely weakened by radiation.:are:DAMAGE 12:STAT_MOD strength -20 10
+81..100:$T $(VT) given a major mutation from radiation, and $(TPP) skin turns purple.:are:DAMAGE 100
+(D):
+0..29:$T $V around yelling "happy happy radiation", until $T falls on $(TPP) face for no reason.:dance:DAMAGE 100:STUN 5
+30..49:$A $V perhaps my radiation will enlarge $(TP) prostate.:think:LIMB_LOSS arm:DAMAGE 20:STUN 3
+50..55:$T $(VT) hit with the force of a small nuclear device!:are:DAMAGE 120:STUN 6
+56..60:$A $V widely as $(APP) attack goes nuclear on $T.:grin:CONT_DAMAGE 20 20:DAMAGE 110:STUN 4
+61..70:$T $(VT) hit with the equivalent of a one-megaton nuclear weapon. Ouch.:are:DAMAGE 150
+71..80:$T $(VT) thrown a mile away when $(AP) attack hits you like a medium-sized nuke.:are:DAMAGE 200
+81..90:$T $(VT) an arm as it is melted off $(TPP) body!:lose:DAMAGE 75:LIMB_LOSS arm
+91..100:$T $(VT) utterly annihilated in an armageddon of nuclear destruction!:are:DAMAGE 500
+(E):
+0..10:$A $V $T while $T chirps like a captain crunch bird.:pet:DAMAGE 75:STAT_MOD intelligence -100 25
+11..30:$A $V as $(TP) organs come out of $(TPP) pores.:snicker:DAMAGE 275:STUN 10
+31..50:$T $V as $(TPP) cells mutate from $(APP) attack.:wimper:LIMB_LOSS left arm:LIMB_LOSS right arm
+51..94:$A *massively* $V $T with lethal radiation.:irradiate:LIMB_LOSS left leg:LIMB_LOSS right leg:STUN 10:CONT_DAMAGE 10 10
+95..100:$(TP) limbs all simultaneously cripple from cancer!:collapse:DAMAGE 165:LIMB_LOSS left arm:LIMB_LOSS right arm:LIMB_LOSS left leg:LIMB_LOSS right leg
+

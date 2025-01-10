@@ -1,0 +1,51 @@
+(A):
+0..20:HAIL KING $A!::NO_EFFECT
+21..30:$A $V death to $(APP) enemies! That includes $T!:decree:DAMAGE 20
+31..40:By order of the king, $A $V $T to death.:condemn:DAMAGE 13:CONT_DAMAGE 9 5
+41..50:$A $V a royal portrait be made of $(TP) corpse.:order:DAMAGE 15:CONT_DAMAGE 10 2
+51..60:$A $V, "Hail to the King, baby," right before $(AN) $V $(TPP) death.:proclaim:DAMAGE 20:CONT_DAMAGE 10 5
+61..70:At $(APP) command, a horde of knights tramples $T.::DAMAGE 15:CONT_DAMAGE 6 4
+71..80:The royal custodian is ordered to clean up the copious amounts of $(TPP) blood on the floor.::BLEED 5
+81..90:$A $V a royal eulogy for $T.:deliver:DAMAGE 10:CONT_DAMAGE 5 5
+91..100:$A $V a senseless edict, stupefying $T completely.:order:/daemon/db/crit_funs/royal_results mpdrain
+(B):
+0..9:For violating some unknown law, $A $V $T for 100 hp.:fine:DAMAGE 100
+10..25:$T $(VT) sent to jail. A group of inmates don't like $(TPP) attitude, and gangbang $(TO).:is:DAMAGE 50
+26..40:$T $(VT) afoul of the law... the law being, 'Don't mess with $A.':run:DAMAGE 75
+41..55:$T $(VT)V into the royal bar... it hurts a lot.:walk:DAMAGE 50
+56..65:$A $V $T an arrest... a cardiac arrest, that is.:give:DAMAGE 25
+66..75:$A $V $T around for violating the law.:slap:DAMAGE 25
+76..80:$(TP) conspiracy against the crown is stopped by $A.::DAMAGE 50
+81..90:$T $(VT) the disease, and the cure is $A.:is:DAMAGE 75
+91..99:$T $(VT) a traitor to the Kingdom, and therefore $V punished by $T.:is:DAMAGE 50
+100..100:$A $V $T directly to jail. Do not pass go. Do not collect $200.:send:/daemon/db/crit_funs/royal_results gotojail
+(C):
+0..20:$A $V new meaning to 'Battle Royale' as $(AN) smacks down upon $T.:bring:DAMAGE 60:CONT_DAMAGE 10 6
+21..40:The mother of all cleaves is delivered to $T by $A. Ow.::DAMAGE 60:CONT_DAMAGE 5 15
+41..50:$A $V $T, impaling $(TO) with the royal crown.:headbutt:DAMAGE 50:STUN 3
+51..60:$A $V $T by cutting off $(TPP) shoulder.:knight:DAMAGE 55:STUN 2:LIMB_LOSS arm
+61..70:$A $V $T with $(APP) weapon.:crown:DAMAGE 60:CONT_DAMAGE 5 8
+71..80:$A $V now a leg up on $T and the rest of the peasants.:is:LIMB_LOSS leg
+81..90:$T doesn't die from $(AP) wicked cleave... yet.::BLEED 10
+91..100:$T $(VT) to one knee, because $(TO) just lost a leg.:bend:LIMB_LOSS leg
+(D):
+0..5:$T $(VT) $(AP) court concubine.:become:DAMAGE 50:CONT_DAMAGE 10 10
+6..15:$T $(VT) the crown, and $(AP), brutality towards $(TPP).:protest:DAMAGE 50:CONT_DAMAGE 5 10
+16..25:$T $(VT) before $(TPP) master $A, who now owns $(TO).:grovel:DAMAGE 50:CONT_DAMAGE:7 11
+26..45:$A $V $(APP) divine right to... be $(TPP) daddy.:exercise:BLEED 7
+46..50:$A $V the king. $T $(VT) the peasant. $T $(VT) a rebel. Guess what happens next?:is:DAMAGE 85
+51..60:The area flashes purple. A second later, $T $(VT) that color.:turn:CONT_DAMAGE 15 7
+61..70:$A $V $(APP) royal powers to tax $T to death.:use:DAMAGE 100
+71..90:$T $(VT) over $(AP) royal robes.:trip:STUN 3
+91..100:$T $(VT) at $(AP) Royal-Infantry badge.:boggle:STUN 5
+(E):
+0..10:A beautiful and ornate sword appears before $A. $(AN) $V it to kill $T.:use:DAMAGE 150
+11..20:$(AP) weapon turns to solid gold and smashes $T on its own accord.::DAMAGE 175
+21..30:$T $(VT) pummeled by $(AP) henchmen.:is:CONT_DAMAGE 40 3
+31..40:One of $(AP) loyal subjects comes to save $(AO)!::/daemon/db/crit_funs/royal_results henchman
+41..50:The entire army of Daybreak Ridge comes to assault $T for attempting to assassinate $A!::/daemon/db/crit_funs/royal_results army
+51..60:As if by magic, a golden sceptre appears and impales $T.::BLEED 11
+61..70:A regal carriage appears from thin air and smashes into $T!::/daemon/db/crit_funs/royal_results carriage:DAMAGE 200
+71..80:A huge golden throne plummets from the sky and crushes $T!::/daemon/db/crit_funs/royal_results throne:DAMAGE 200
+81..90:Fantastically, a gemmed sceptre appears in $(AP) hand. $(AN) $V it into the ground, and a bright purple light envelopes $T.:slam:/daemon/db/crit_funs/royal_results hptrans
+91..100:From out of nowhere, the royal executioner steps forward and removes $(TP) head.::KILL

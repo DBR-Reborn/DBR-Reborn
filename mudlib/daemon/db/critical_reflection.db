@@ -1,0 +1,40 @@
+// Criticals for Laen
+// Coded by Huma/Khelemvor
+// Modded slightly by glen for balance
+// For use with DarkeLIB muds
+// 8/27/99
+(A):
+1..20:$A $V a swirling cloud of light, which engulfs $T!:summon:DAMAGE 20:CONT_DAMAGE 15 4
+21..35:$A raises $(AO) weapon and $V $T with wicked beams of light.:blast:DAMAGE 20:SKILL_MOD attack -15 15
+36..45:A wicked storm of light and colour bombardes $T.::DAMAGE 38:STUN 1
+46..60:$T $(VT) loudly as $A sends light daggers at $(TN).:scream:DAMAGE 9:LIMB_LOSS leg
+61..75:$A $V a swirling cloud of light which ravages $T.:raise:DAMAGE 40:STUN 2
+76..90:Rays of pristine light engulf $T, forcing $(TO) to $(VT) in pain.:scream:DAMAGE 85:STUN 1
+91..99:$A $V wickedly as $T is ravaged by blades of colour.:grin:DAMAGE 20:LIMB_LOSS arm
+100..100:$T $V horrifically as $A severs $(TP) limbs!:scream:DAMAGE 40:LIMB_LOSS arm
+(B):
+1..30:$A $V $T horrifically with a fist of reflected light!:slam:DAMAGE 87:STUN 3
+31..50:$A cant help but $V as $T loses his hands!:giggle:DAMAGE 20:LIMB_LOSS right hand:LIMB_LOSS left hand
+51..70:$A $V a vortex of reflected light, which engulfs $T.:create:DAMAGE 20:STUN 3
+71..90:$T $V out in pain as reflected light from $A strikes him.:cry:DAMAGE 89;STUN 2
+91..99:$A $V a beam of light at, $T, stunning him.:reflect:STUN 4:SKILL_MOD attack -65 15
+100..100:$T literaly $V to pieces as $A attacks:fall:LIMB_LOSS leg:LIMB_LOSS arm
+(C):
+1..35:$A $V a beam of reflected light to strike down $T:summon:DAMAGE 47;STUN 2
+36..50:$T $V to move as reflected light summoned by $A smothers him:struggle:STUN 3
+51..65:A wicked storm of reflect prismatic spray bombardes $T::DAMAGE 5:LIMB_LOSS hand
+66..80:$A $V the word Rentak, and $T is bombarded with light!:utter:DAMAGE 74:STUN 1
+81..99:$A $V at $T, then realizes that attack didnt do anything!:laugh:NO_EFFECT;SKILL_MOD attack -65 15
+100..100:$T can only $V as $A summons a raging cloud of light.:stare:DAMAGE 50;STUN 12:CONT_DAMAGE 10 10
+(D):
+1..40:$A $V a beam of light at $T, but it does nothing.:send:NO_EFFECT:SKILL_MOD attack -65 15
+41..55:$A $V the light around, $T, causing mild discomfort.:bend:DAMAGE 25:STUN 1
+56..75:$A $V an image from the warp at, $T, causing $(TO) to gag.:reflect:STUN 2
+76..85:A beam of reflected light appears at $A $V, striking $T.:command:DAMAGE 20:STUN 3
+86..99:$A $V a sword of pure reflected light, which smites $T violently!:create:DAMAGE 100:STUN 3
+100..100:$A $V a vortex of light and prismatic spray to rend $T from this plane!:summon:DAMAGE 1000:STUN 1
+(E):
+1..50:$A $V $T with reflected light daggers.:ravage:DAMAGE 200:LIMB_LOSS arm:LIMB_LOSS hand
+51..80:$T $V at $A, as $(AN) swirls reflected light about $(TO).:stare:DAMAGE 20:STUN 3
+81..99:$A $V $(TPP) hands with light blades!:sever:LIMB_LOSS hand:LIMB_LOSS hand:SKILL_MOD attack -265 15
+100..100:$A $V all the light in the room to destroy $T completely!:reflect:DAMAGE 1500:STUN 1
