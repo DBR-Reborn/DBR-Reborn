@@ -141,13 +141,11 @@ if(player_data["general"]["hp"] < -100) {
     return;
 }
 */
-if(player_data["general"]["hp"] < -100) {
-    //player_data["general"]["hp"] == 1;
-    this_object()->restart_heart_beat();
-    player_data["general"]["hp"] == 1;
-    //this_object()->die();
-    return;
-}
+    if(player_data["general"]["hp"] < 0) {
+        this_object()->restart_heart_beat();
+        player_data["general"]["hp"] = 0;
+        return;
+    }
 }
 
 void set_max_sp(int x) { 

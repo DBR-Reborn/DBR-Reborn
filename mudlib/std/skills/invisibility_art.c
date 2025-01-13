@@ -32,6 +32,9 @@ void skill_func(object from, object at, string arg) {
     from->set("stealth shad", 0);
   }
   message("my_action", "You begin to move invisibly.", from);
+  message("other_action", (string)from->query_cap_name()+
+  " emerges from the shadows.",
+  environment(from), ({ from }));
   seteuid(getuid());
   ob = new("/std/spells/shadows/stealth_shadow");
   from->set("stealth shad", ob);

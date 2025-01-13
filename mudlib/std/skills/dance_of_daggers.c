@@ -73,7 +73,6 @@ his_her+" weapon becoming nothing but a blur in front of you as "+he_she+
  
    parry_mod = skill/4;
    dodge_mod = skill/4;
-   attack_mod = -15;
  
    ob = new("/std/spells/shadows/skill_shadow");
    ob->start_shadow(from, (5 + skill/5 + random(skill/3))*3,
@@ -81,7 +80,6 @@ his_her+" weapon becoming nothing but a blur in front of you as "+he_she+
         "and you stop moving quite so quickly.");
    ob->add_new_skill_bonus("parry", parry_mod);
    ob->add_new_skill_bonus("dodge", dodge_mod);
-   ob->add_new_skill_bonus("attack", attack_mod);
    return;
 }
  

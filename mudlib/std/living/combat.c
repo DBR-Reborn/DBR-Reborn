@@ -827,6 +827,8 @@ private void do_criticals(string *criticals) {
     amt = 0;
     sscanf(criticals[i],"%s %s", what2, what);
     tmp_crits = attackers[0]->query_property("enhance criticals");
+	if(attackers[0]->query_focused_attack() && intp(tmp_crits))
+	    tmp_crits += (int)attackers[0]->query_focused_attack();
     if(tmp_crits && intp(tmp_crits))
       amt += tmp_crits;
     else if(tmp_crits && mapp(tmp_crits)) {

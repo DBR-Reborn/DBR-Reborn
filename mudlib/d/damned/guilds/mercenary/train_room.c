@@ -69,9 +69,9 @@ void create() {
   add_skill("dodge", 3);
   add_skill("backhand smash", 4);
   add_skill("hide in shadows",5);
-  add_skill("strong arm",5);
+  add_skill("focused attack",5);
   add_skill("stealth", 6);
-  add_skill("combo", 7);
+  add_skill("whirlwind attack", 7);
   add_skill("knee",8);
   add_skill("combat awareness", 9);
   add_skill("reverse stroke", 10);

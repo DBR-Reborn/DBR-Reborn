@@ -128,7 +128,7 @@ set_name("dragon");
     set_skill("dodge", zskillx*zlevel+random(zlevel));
     set_skill("block", zskillx*zlevel+random(zlevel));
 
-    set_skill("combo", zskillx*zlevel+random(zlevel));
+    set_skill("whirlwind attack", zskillx*zlevel+random(zlevel));
     set_skill("reverse stroke", zskillx*zlevel+random(zlevel));
     set_skill("perception", zskillx*zlevel+random(zlevel));
 

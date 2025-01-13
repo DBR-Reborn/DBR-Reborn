@@ -136,7 +136,7 @@ switch(random(7)){
     set_skill("dodge", 9*zlevel +random(zlevel));
     set_skill("block", 9*zlevel +random(zlevel));
 /*
-    set_skill("combo", 9*zlevel +random(zlevel));
+    set_skill("whirlwind attack", 9*zlevel +random(zlevel));
     set_skill("reverse stroke", 9*zlevel +random(zlevel));
     set_skill("perception", 9*zlevel +random(zlevel));
 

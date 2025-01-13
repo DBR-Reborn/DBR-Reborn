@@ -60,7 +60,7 @@ add_skill("chaos lore", 1);
 add_skill("chaos magic", 1);
 add_skill("cold lore", 1);
 add_skill("combat awareness", 1);
-add_skill("combo", 1);
+add_skill("whirlwind attack", 1);
 add_skill("communion", 1);
 add_skill("compare", 1);
 //add_skill("compare (copy)", 1);
