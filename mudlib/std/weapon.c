@@ -64,7 +64,7 @@ void create() {
     __Weapon = ([]);
     __Weapon["verb"] = "hit";
     set_material("metal/iron");
-    set_decay_rate(200);
+    set_decay_rate(500);
 }
 
 void init() {

@@ -13,18 +13,18 @@ void create() {
                 "dwarvish", "stormspeak", "drow", "yin", "drow", "grken" }) );
   set_attack(1);
   set_carry(0);
-  set_save(0);
+  set_property("no save", 1);
   set_aggr_status(0);
   set_can_change_aggr(0);
   return;
 }
-
+/*
 void restore_locker(string file) {
   ::restore_locker(file);
   if(f_level)
     this_object()->set_up(f_level);
   return;
-}
+}*/
 
 void init() {
   add_action("help_familiar", "help");

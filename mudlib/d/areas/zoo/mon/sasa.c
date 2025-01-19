@@ -60,6 +60,6 @@ void create() {
 	set_property("melee damage", ([ "cold" : 100 + (10 * 6), "unholy" : 100 + (10 * 6), "infernal" : 100 + (10 * 6), "disruption" : 100 + (10 * 6) ]) );
 	set_property("gang bang", 1);
     set_money("gold", 1000);
-    set_money("mithril", 1000);
+    set_money("mithril", 100+random(100));
 return;
 }

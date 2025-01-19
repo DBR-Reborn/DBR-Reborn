@@ -106,7 +106,7 @@ at->set_property("icy weapon", ench);
     ench = (int)at->query_wc("cold");
     if(!ench) ench = power;
     else ench += power;
-    at->set_wc(((20*power)+ench)/2+(caster->query_level()/2), "cold");
+    at->set_wc(((7*power)+ench)+(caster->query_level()/2), "cold");
     caster->add_exp2(500*power);
 
 tmp = (mixed)at->query_property("extra long");

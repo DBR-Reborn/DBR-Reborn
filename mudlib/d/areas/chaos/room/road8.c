@@ -23,6 +23,9 @@ void reset() {
 	::reset();
 	if(!present("beastman")) {
 	new(MON+"beastman.c")->move(this_object());
+	new(MON+"beastman.c")->move(this_object());
+	new(MON+"swarrior.c")->move(this_object());
+	new(MON+"swarrior.c")->move(this_object());
 	new(MON+"swarrior.c")->move(this_object());
 	new(MON+"peasant.c")->move(this_object());
     }

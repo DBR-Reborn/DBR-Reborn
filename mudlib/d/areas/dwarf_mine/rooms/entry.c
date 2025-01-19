@@ -59,11 +59,11 @@ void load_rooms() {
 	//find_object_or_load(PATH+"78");
 	//find_object_or_load(PATH+"83");
 	//find_object_or_load(PATH+"89");
-	find_object_or_load(PATH+"25");
-	find_object_or_load(PATH+"18");
+	//find_object_or_load(PATH+"25");
+	//find_object_or_load(PATH+"18");
 	//find_object_or_load(PATH+"26");
-	find_object_or_load(PATH+"spawn_orc1");
-	find_object_or_load(PATH+"spawn_goblin1");
-	find_object_or_load(PATH+"spawn_orc2");
-	find_object_or_load(PATH+"spawn_goblin2");
+	//find_object_or_load(PATH+"spawn_orc1");
+	//find_object_or_load(PATH+"spawn_goblin1");
+	//find_object_or_load(PATH+"spawn_orc2");
+	//find_object_or_load(PATH+"spawn_goblin2");
 }

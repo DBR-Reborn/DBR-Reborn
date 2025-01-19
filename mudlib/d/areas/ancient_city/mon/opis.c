@@ -9,7 +9,7 @@ void create() {
    set_name("opis");
    set("id", ({"opis armour", "opis armour smith", "shopkeeper", "shop
 keeper", "opis"}));
- add_money("mithril", 500);
+ add_money("mithril", 300);
 set_level(30);
    set_exp(300);
    set_property("enhance criticals", -10);

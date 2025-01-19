@@ -16,6 +16,7 @@ void create() {
   set_attack(1);
   set_carry(0);
   set_save(0);
+set_property("no save", 1);
   set_level(10);
   set_short("Battle Angel");
   set_long("This angel stands radiantly before you, clad in the sacred "

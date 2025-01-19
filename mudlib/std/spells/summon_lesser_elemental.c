@@ -32,7 +32,8 @@ void spell_func(object caster, object at, int power, string args, int flag) {
   object ob;
 
   seteuid(getuid());
-  ob = new("/wizards/diewarzau/obj/pet/lesser_elemental");
+  //ob = new("/wizards/diewarzau/obj/pet/lesser_elemental");
+   ob = new("/std/spells/summon/ele/lesser_elemental");
   ob->set_up(power, props["element types"], props["element"]);
   ob->move(environment(caster));
   if(!flag)

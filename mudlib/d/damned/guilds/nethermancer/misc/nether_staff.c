@@ -62,7 +62,7 @@ void transformer_func() {
 	if(selector > 39 && selector < 50) call_out("stunning_func", 0);
 	if(selector > 49 && selector < 60) call_out("essence_func", 0);
 	if(selector > 59 && selector < 70) call_out("soultaker_func", 0);
-	if(selector > 69) call_out("pain_func", 0);
+//TLNY Missing files	//if(selector > 69) call_out("pain_func", 0);
 	return;
     }
     if(!this_player()->query_current_attacker() && active > 0) {
@@ -153,7 +153,7 @@ void soultaker_func() {
     call_out("transformer_func", number);
     return;
 }
-
+/* do not have this code TLNY2025
 void pain_func() {
     number = random(30);
     this_object()->set_hit((: call_other, "/std/cythug/shadows/pain_blade_func", "pen_func", 20 :));
@@ -163,3 +163,4 @@ void pain_func() {
     call_out("transformer_func", number);
     return;
 }
+*/

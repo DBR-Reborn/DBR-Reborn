@@ -48,7 +48,7 @@ above the door to the north. \n");
   //  Keep in mind that this increases with level.
 
   set_property("hp advance", 47);
-  set_property("mp advance", 3);
+  set_property("mp advance", 10);
   //  Base advance per level im max mp/hp.  Default is 10.
 
   set_property("guild mods",

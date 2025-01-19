@@ -30,7 +30,7 @@ void create() {
 void info() {
 message("help",
 "This spell is the be all, end all of magical protection spells. As such it may not be borrowed.\n"
-"The protection is very SICK and can be stacked twice.\n",
+"The protection is very SICK.\n",
   this_player());
 }
 

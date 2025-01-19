@@ -1,5 +1,5 @@
 #/d/damned/guilds/join_rooms/enchanter_join.c
-props (["base mp regen":10,"light":3,"base hp regen":3,"guild mods":(["dexterity":5,"intelligence":10,]),"mp advance":40,"indoors":1,"hp advance":15,])
+props (["base mp regen":10,"guild mods":(["dexterity":5,"intelligence":10,]),"base hp regen":3,"light":3,"mp advance":40,"hp advance":15,"indoors":1,])
 __Smells ([])
 __Listens ([])
 __Searches ([])
@@ -8,7 +8,6 @@ invis_exits ([])
 pre_exit_func ([])
 post_exit_func ([])
 tracks ({})
-__Items (["blue moon":0,"sky":0,"ankh":0,"moon":0,"red moon":0,"sun":0,"warzau":0,"green moon":0,"moons":0,"luna":0,])
-guild_list (["math":(["status":"member",]),"rihcter":(["privs":({"council",}),"status":"member",]),"azazel":(["status":"member",]),"lagorion":(["status":"member",]),"upstart":(["status":"member",]),"okkita":(["status":"member",]),"baarich":(["status":"member",]),"cedric":(["status":"member",]),"darthorian":(["status":"member",]),"osric":(["status":"member",]),"malachi":(["status":"member",]),"dalton":(["status":"member",]),"sam":(["status":"member",]),"lock":(["status":"member",]),"igon":(["status":"member",]),"laz":(["status":"member",]),"zurr":(["status":"member",]),"lilund":(["status":"member",]),"gnot":(["status":"member",]),"alpha":(["status":"allow train",]),"willow":(["status":"member",]),"nawara":(["status":"member",]),"alixandria":(["status":"member",]),"torm":(["status":"allow train",]),"loralis":(["status":"member",]),"leonard":(["status":"member",]),"cranston":(["status":"member",]),"saltynut":(["status":"member",]),])
+__Items (["blue moon":0,"sky":0,"ankh":0,"moon":0,"red moon":0,"green moon":0,"warzau":0,"sun":0,"luna":0,"moons":0,])
+guild_list (["math":(["status":"member",]),"rihcter":(["privs":({"council",}),"status":"member",]),"okkita":(["status":"member",]),"upstart":(["status":"member",]),"lagorion":(["status":"member",]),"azazel":(["status":"member",]),"cedric":(["status":"member",]),"baarich":(["status":"member",]),"osric":(["status":"member",]),"darthorian":(["status":"member",]),"malachi":(["status":"member",]),"dalton":(["status":"member",]),"igon":(["status":"member",]),"lock":(["status":"member",]),"sam":(["status":"member",]),"zurr":(["status":"member",]),"laz":(["status":"member",]),"gnot":(["status":"member",]),"lilund":(["status":"member",]),"nawara":(["status":"member",]),"willow":(["status":"member",]),"alixandria":(["status":"member",]),"torm":(["status":"allow train",]),"leonard":(["status":"member",]),"saltynut":(["status":"member",]),"cranston":(["status":"member",]),])
 banish ([])
-master "azazel"

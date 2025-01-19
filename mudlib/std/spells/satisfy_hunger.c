@@ -82,12 +82,13 @@ void spell_func(object caster, object at, int power, string args, int flag) {
 
   if(!at->add_stuffed((15 + random(10)) * power))
 
+
      message("info", (string)at->query_cap_name()+ " is completely full.",
 
 	     caster);
 
   remove();
-
+caster->add_exp2(4 * caster->query_skill("prayer") + (this_player()->query_level()*100));
   return;
 
 }

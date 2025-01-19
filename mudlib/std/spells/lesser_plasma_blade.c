@@ -5,7 +5,7 @@ void create() {
     ::create();
     set_property("name","lesser plasma blade");
     set_property("skill","magery");
-    set_property("casting time",6);
+    set_property("casting time",4);
     set_property("base mp cost",55);
     set_property("dev cost",42);
     set_property("fast dev cost",115);

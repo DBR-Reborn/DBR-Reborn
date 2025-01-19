@@ -11,7 +11,12 @@ int cmd_exp(string arg) {
     nlevel=level+1;
     exp=this_player()->query_exp();
     nexp="/adm/daemon/advance_d"->get_exp(nlevel);
-    lexp=nexp-exp;
+
+    //lexp=nexp-exp;
+
+//TLNY2024 add percent
+lexp = (((int)this_player()->query_exp() - (int)"/adm/daemon/advance_d"->get_exp(this_player()->query_level())) * 100) / ((int)"/adm/daemon/advance_d"->get_exp(this_player()->query_level() + 1) - (int)"/adm/daemon/advance_d"->get_exp(this_player()->query_level()));
+
             switch((int)this_player()->percent_buffer()) {
             case 0..5: mind = "clear"; break;
             case 6..25: mind = "almost clear"; break;
@@ -25,7 +30,7 @@ int cmd_exp(string arg) {
             default: mind = "clear"; break;
             }
  if(!arg) {
-  write("%^BOLD%^CYAN%^exp: %^BOLD%^WHITE%^"+lexp+"%^RESET%^");
+  write("%^BOLD%^CYAN%^exp: %^BOLD%^WHITE%^"+lexp+"% %^RESET%^");
   return 1;
  }
   else write("Unknown arguement: "+ arg);

@@ -242,10 +242,29 @@ if (who->query_invis() &&
     return 0;
 */
 //TLNY2024 New code created to see normal players on who if invisible can not see admin players that are invis
+/*
 if (who->query_invis() &&
     ((!archp(this_player()) && archp(who)) || 
     (!this_player() || (!archp(this_player()) && archp(who)))))
     return 0;
+*/
+//TLNY2025 new code
+if (who->query_invis()) {
+    if (archp(this_player())) {
+        return 1;
+    } else if (wizardp(this_player())) {
+        if (archp(who)) {
+            return 0;
+        }
+        return 1;
+    } else {
+        if (archp(who) || wizardp(who)) {
+            return 0;
+        }
+        return 1;
+    }
+}
+return 1;
 
     if(!(i=sizeof(races))) return 1;
     my_race = (string)who->query("race");

@@ -21,6 +21,7 @@ void create() {
     set_property("spell type",({ }));
     set_property("target type", "any");
     set_property("must be present", 1);
+    set_property("prereq", "major life");
     return;
 }
 

@@ -7,7 +7,7 @@
 #include "/adm/include/daemons.h"
 #include "/adm/include/security.h"
 
-inherit ROOM;
+inherit "/std/save_room.c";
 
 static int load_status;
 void load_lockers();

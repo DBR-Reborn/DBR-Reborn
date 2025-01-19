@@ -92,6 +92,13 @@ int cmd_reincarnate(string str) {
 
   who->remove_property("sp spells");
 
+//ADD TLNY2025
+  who->remove_property("dev cost");
+  who->remove_property("xp mod");
+  who->remove_property("magic resistance");
+  who->remove_property("stat_points");
+//END
+
   who->reset_quests();
 
   langs = (string *)who->query_all_languages();
@@ -110,7 +117,10 @@ int cmd_reincarnate(string str) {
 
     map_array(inv, (: call_other :), "remove");
 
-  who->set_property("old exp", (int)ADVANCE_D->get_exp(lev) + 150);
+    //who->set_property("old exp", (int)ADVANCE_D->get_exp(lev) + 150);
+//ADD //TLNY2025 Keep original EXP for the level
+who->set_property("old exp", (int)ADVANCE_D->get_exp(lev) + (who->query_exp() - (int)ADVANCE_D->get_exp(who->query_level())));
+//END
 
   who->set_level(1);
 

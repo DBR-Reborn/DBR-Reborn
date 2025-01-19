@@ -19,8 +19,8 @@
 92..97:$A $V two extra attacks.:gain:SPECIAL_RESULT /daemon/db/crit/crit_d extra_attack:SPECIAL_RESULT /daemon/db/crit/crit_d extra_attack
 98..100:$A $V to attack with great speed.:begin:SPECIAL_RESULT /daemon/db/crit/crit_d haste_me
 (E):
-0..44:::NO_EFFECT
-45..77:$A $V an extra attack.:gain:SPECIAL_RESULT /daemon/db/crit/crit_d extra_attack
-78..94:$A $V two extra attacks.:gain:SPECIAL_RESULT /daemon/db/crit/crit_d extra_attack:SPECIAL_RESULT /daemon/db/crit/crit_d extra_attack
+0..78:::NO_EFFECT
+79..91:$A $V an extra attack.:gain:SPECIAL_RESULT /daemon/db/crit/crit_d extra_attack
+92..94:$A $V two extra attacks.:gain:SPECIAL_RESULT /daemon/db/crit/crit_d extra_attack:SPECIAL_RESULT /daemon/db/crit/crit_d extra_attack
 95..99:$A $V to attack with great speed.:begin:SPECIAL_RESULT /daemon/db/crit/crit_d haste_me
-99..100:$A $V two extra attacks per round!:gain:SPECIAL_RESULT /daemon/db/crit/crit_d haste_me2
+100..100:$A $V two extra attacks per round!:gain:SPECIAL_RESULT /daemon/db/crit/crit_d haste_me2

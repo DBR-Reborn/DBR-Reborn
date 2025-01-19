@@ -7,7 +7,7 @@ void create() {
     set_property("duration", "permanent");
     set_property("elemental spell", 1);
     set_property("casting time",4);
-    set_property("base mp cost",445);
+    set_property("base mp cost",380);
     set_property("dev cost", 510);
     set_property("fast dev cost", 832);
     set_property("spell level", 61);

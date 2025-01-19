@@ -133,21 +133,21 @@ void spell_func(object caster, object at, int power, string args, int flag)
     element = caster->query_element();
     if(!element) {
       message("info", "This is an elemental spell, and you must use "+
-        "an elemental lore skill to scribe it.", caster);
+        "an elemental lore skill to mix it.", caster);
       caster->add_mp(props["mp cost"]);
       remove();
       return;
     }
   }
   if(function_exists("query_in_progress", find_object_or_load(file))) {
-    message("info", "You may not scribe a long-term spell.", caster);
+    message("info", "You may not mix a long-term spell.", caster);
     caster->add_mp(props["mp cost"]);
     remove();
     return;
   }
   at->set_property("scribe ele:"+
           (string)caster->query_name(), element);
-  set_work_message("You scribe the scroll.");
+  set_work_message("You carefully measure and mix.");
   spell_lev = idx;
 
   time = (120+power*200) - caster->query_skill("alchemy")*2;

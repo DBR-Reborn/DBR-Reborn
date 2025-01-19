@@ -63,6 +63,7 @@ void spell_func(object caster, object at, int pow, string args, int flag) {
     return;
   }
   roll = pow * (300 + random(240));
+caster->add_exp2(5 * caster->query_skill("prayer") + (this_player()->query_level()*100));
   message("info", "You have preserved the corpse for an additional "+
 	  sprintf("%d minutes and %d seconds.", roll/60, roll%60),
 	  caster);

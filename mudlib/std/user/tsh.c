@@ -118,6 +118,16 @@ object *query_attackers() {
 }
 */
 //END
+//ADD TLNY2025
+string format_spell_name(string spell_name) {
+    string formatted_name = replace_string(spell_name, "_", " ");
+    string *words = explode(formatted_name, " ");
+    for (int i = 0; i < sizeof(words); i++) {
+        words[i] = capitalize(words[i]);
+    }
+    return implode(words, " ");
+}
+//END
 
 string write_prompt()
 {
@@ -138,14 +148,15 @@ string write_prompt()
 */
 
 //add TLNY
-/*
-        prompt = replace_string( prompt, "$tnl",
-            "" + (((int)"/adm/daemon/advance_d"->get_exp(znlevel))-(int)this_player()->query_exp()) );
-*/
+
 //TLNY2024 Fixed Prompt TNL
         prompt = replace_string( prompt, "$tnl",
             "" + (((int)"/adm/daemon/advance_d"->get_exp(this_player()->query_level()+1))-(int)this_player()->query_exp()) );
 
+
+prompt = replace_string( prompt, "$TNL",
+            "" + (((int)this_player()->query_exp() - (int)"/adm/daemon/advance_d"->get_exp(this_player()->query_level())) * 100) / ((int)"/adm/daemon/advance_d"->get_exp(this_player()->query_level() + 1) - (int)"/adm/daemon/advance_d"->get_exp(this_player()->query_level())));
+//END
         prompt = replace_string( prompt, "$dp",
             "" + (string)this_player()->query_property("dev points") );
 
@@ -163,7 +174,14 @@ string write_prompt()
 	  int time_to_go = time_needed - time_progress;
 	  string formatted_time_to_go = sprintf("%d:%02d:%02d",time_to_go/3600, (time_to_go%3600)/60, time_to_go%60);
 	  prompt = replace_string( prompt, "$la", "Active" );
-	  prompt = replace_string( prompt, "$ls", "" + (string)this_player()->query_property("long term skill name") );
+
+
+//ADD TLNY2025
+
+prompt = replace_string(prompt, "$ls", format_spell_name((string)this_player()->query_property("long term skill name")));
+
+//END
+	  //prompt = replace_string( prompt, "$ls", "" + (string)this_player()->query_property("long term skill name") );
 	  prompt = replace_string( prompt, "$lt", "" + formatted_time_progress );
 	  prompt = replace_string( prompt, "$LT", "" + formatted_time_needed );
 	  prompt = replace_string( prompt, "$lr", "" + formatted_time_to_go );
@@ -195,8 +213,30 @@ switch((this_object()->query_attackers()[0]-> query_hp()*100)/this_object()->que
             }
 
 */
+//TLNY2025 NEW
+//ADD
+if(this_player()->query_current_attacker()){
+    int max_hp = (int)this_player()->query_attackers()[0]->query_max_hp();
+    
+    // Check if max_hp is non-zero (even negative values should be allowed for negative health)
+    if (max_hp != 0) {
 
+    prompt = replace_string( prompt, "$a", "" + (((int)this_player()->query_attackers()[0]->query_hp() * 100) / max_hp) + "%" );
+    } else {
+   
+        prompt = replace_string( prompt, "$a", "0" );
+    }
+
+
+    prompt = replace_string( prompt, "$A", this_player()->query_attackers()[0]->query_short() );
+}
+else {
+    prompt = replace_string( prompt, "$A", "");
+    prompt = replace_string( prompt, "$a", "");
+}
+//END
 //TLNY2022 add
+/*
 if(this_player()->query_current_attacker()){
 
          prompt = replace_string( prompt, "$A", this_player()->query_attackers()[0]->query_short() );
@@ -208,18 +248,7 @@ else {
 prompt = replace_string( prompt, "$A", "");
 prompt = replace_string( prompt, "$a", "");
 }
-//END
-//TLNY2023 Long Term ATTEMPT
-
-//if(this_player()->query_long_term()== 1){
-    
-    prompt = replace_string( prompt, "$lt", 
-        "" + (this_player()->query("long term")) );       
-//}
-//else {
-//prompt = replace_string( prompt, "$lt", "");
-//}
-//ADD END           
+*/          
 
         prompt = replace_string( prompt, "$q",
             "" + (((int)this_player()-> query_hp()*100)/(int)this_player()-> query_max_hp()) );
@@ -227,8 +256,6 @@ prompt = replace_string( prompt, "$a", "");
         prompt = replace_string( prompt, "$Q",
             "" + (((int)this_player()-> query_mp()*100)/(int)this_player()-> query_max_mp()) );
 
-
-//end
 
         prompt = replace_string( prompt, "$h",
             "" + (int)this_player()-> query_hp() );

@@ -163,7 +163,7 @@ break;
 	set_money("gold", random(200)*6); 
 break;
 	case 2:
-	set_money("mithril", random(100)*6); 
+	set_money("mithril", random(100)+42); 
 break;
 	case 3:
 	set_money("gold", random(200)*6); 

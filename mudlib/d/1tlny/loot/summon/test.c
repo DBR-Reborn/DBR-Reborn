@@ -35,6 +35,7 @@ zlevel=((find_player)this_player()->query_level());
   set_can_change_aggr(1);
   set_carry(0);
   set_save(0);
+set_property("no save", 1);
   set_property("enhance criticals", -3);
   set_overall_ac(20);
   set_overall_ac(4);

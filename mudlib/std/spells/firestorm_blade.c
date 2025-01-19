@@ -1,8 +1,6 @@
 inherit "/std/spells/long_term_spell";
 inherit "/std/check_brittle";
 
-mapping auto_criticals;
-
 void create() {
     ::create();
     set_property("name","firestorm blade");
@@ -46,6 +44,14 @@ if(!at->is_weapon()) {
     remove();
     return;
 }
+
+  if(flag) {
+    message("info", "The spell fizzles, costing double mp.", caster);
+    caster->add_mp(-1* props["mp cost"]);
+    remove();
+    return;
+  }
+/*
 if(flag) {
     message("info", "You misdirect the enchanting energies and shatter "+
 	    "the weapon!", caster);
@@ -56,6 +62,7 @@ if(flag) {
     remove();
     return;
 }
+*/
 if((int)at->query_property("firestorm blade") >= (caster->query_skill("enchantment") / 5)) {
     message("info", "Your skill is not high enough to add more firestorm blade spells on this weapon.", caster);
     caster->add_mp(props["mp cost"]);
@@ -77,7 +84,8 @@ if((int)at->query_property("firestorm blade") >= 60 ) {
 }
 
 set_work_message("%^CYAN%^You enchant the weapon.%^RESET%^");
-time = 580 + 90*power;
+time = 1000 + 80*power;
+//time = 1700 *((power>4)?(power-2):power);
 mod = 30+2*props["spell level"];
 ctime = (time*mod)/caster->query_skill("enchantment");
 if(archp(caster)) {
@@ -88,15 +96,11 @@ return;
 }
 
 void finish_work(object caster, object at, int power) {
-mapping auto_criticals; //TLNY2024 Testing of auto criticals
 int ench;
 int i;
 int idx;
 mixed tmp;
-  mixed val;
-  mixed zench;
-  string *types;
-
+string* auto_criticals;
 
 if(power <= 0) {
 message("info", "BUG in Enchanter spell....unable to complete.", environment(caster));
@@ -107,70 +111,46 @@ message("info", "You have finished enchanting Firestorm Blade!", caster);
 message("info", "Uttering some magical incantations, "+(string)caster->query_cap_name()+" finishes enchanting a weapon with firestorm.", environment(caster), ({ caster }));
 ench = (int)at->query_property("firestorm blade");
 
-
-if(!check_brittle(at, caster, power)) {
+if(caster->query_skill("enchantment") >=150) {
+if(!check_brittle(at, caster, power*2)) {
 remove();
 return;
-}
+} else { if(!check_brittle(at, caster, power)) {
+remove();
+return;
+} } }
 
 if(!ench) {
 ench = 0;
 }
+
+//ADD
+if(caster->query_skill("enchantment") >=150) {
+if((int)at->query_property("firestorm blade") <= 1 ) {
+auto_criticals = at->query_auto_critical();
+
+auto_criticals += ({"fire A", "impact A"});
+
+at->set_auto_critical(auto_criticals);
+}}
+//END
+
 ench += power;
 at->set_property("firestorm blade", ench);
+       
+    ench = 0;
     ench = (int)at->query_wc("fire");
     if(!ench) ench = power+ench;
     else ench += power;
-    at->set_wc(((11*power)+ench)+(caster->query_level()/2), "fire");
+    at->set_wc(((8*power)+ench)+(caster->query_level()/2), "fire");
     ench = 0;
     ench = (int)at->query_wc("impact");
     if(!ench) ench = power+ench;
     else ench += power;
-    at->set_wc(((11*power)+ench)+(caster->query_level()/2), "impact");
+    at->set_wc(((8*power)+ench)+(caster->query_level()/2), "impact");
     caster->add_exp2(1700*power);
 
-//ADD TLNY2024 TEST code overwrites auto criticals and does not add too
-/*
-auto_criticals = (mapping)at->query_auto_critical();
 
-message("info", (string)auto_criticals, caster);
-message("info", "TESTABC", caster);
-
-if (!auto_criticals || !mapp(auto_criticals)) {
-    auto_criticals = ([]);
-}
-    auto_criticals["fire B"] = ((4 * power) + ench) + caster->query_level();
-    auto_criticals["impact B"] = ((4 * power) + ench) + caster->query_level();
-at->set_auto_critical(auto_criticals);
-*/
- //END
-/*
-//A 
-  zench = (mixed)at->query_auto_critical();
-  if(!zench) zench = 0;
-  if(mapp(zench)) {
-    types = DAMAGE_TYPES;
-    i = sizeof(types);
-    while(i--) {
-      if(zench[types[i]])
-	zench[types[i]] += power;
-      else zench[types[i]] = power;
-    }
-    at->set_auto_critical(zench);
-}
-//E 
-*/
-
-
-/*
-at->set_property("firestorm blade", ench);
-    ench = (int)at->query_wc("fire");
-    if(!ench) ench = power*2;
-    else ench += power*2;
-    at->set_wc(ench, "fire");
-    at->set_wc(ench, "impact");
-    caster->add_exp2(450*power);
-*/
 tmp = (mixed)at->query_property("extra long");
 if(!tmp) {
 tmp = ({ });

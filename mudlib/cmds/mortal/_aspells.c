@@ -165,7 +165,11 @@ int cmd_aspells() {
       write("%^CYAN%^divine might (3)");
      }
 */
-     if(this_player()->query("divine_trans #")) {
+
+     if(this_player()->query_etrans()) {
+     write("%^CYAN%^elemental transformation");
+     }
+     if(this_player()->query_d_trans()) {
      write("%^CYAN%^divine transformation");
      }
      if(this_player()->query_stack("eshield") == 1) {

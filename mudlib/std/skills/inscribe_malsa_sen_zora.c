@@ -101,6 +101,13 @@ void finish_work(object from, object at) {
   wc["stress"] += skill/2+skill/2+skill/3+skill/4+skill/6+skill/7+(this_player()->query_level()/2);
 if(!wc["infernal"]) wc["infernal"] = 0;
   wc["infernal"] += skill/2+skill/2+skill/3+skill/4+skill/6+skill/7+(this_player()->query_level()/2);
+//New tables 2025
+  if(!wc["acid"]) wc["acid"] = 0;
+  wc["acid"] += skill/2+skill/2+skill/3+skill/4+skill/6+skill/7+(this_player()->query_level()/2);
+ if(!wc["time"]) wc["time"] = 0;
+  wc["time"] += skill/2+skill/2+skill/3+skill/4+skill/6+skill/7+(this_player()->query_level()/2);
+if(!wc["reflection"]) wc["reflection"] = 0;
+  wc["reflection"] += skill/2+skill/2+skill/3+skill/4+skill/6+skill/7+(this_player()->query_level()/2);
   wc_keys = keys(wc);
   i = sizeof(wc_keys);
   while(i--)

@@ -5,6 +5,6 @@
 
 int championp(object ob) {
     if(!ob) ob = previous_object();
-    if(!wizardp(ob) && (int)ob->query_level() > 30) return 1;
+    if(!wizardp(ob) && (int)ob->query_level() > 500) return 1;
     return 0;
 }

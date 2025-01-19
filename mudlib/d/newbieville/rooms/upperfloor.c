@@ -150,6 +150,7 @@ ob = new("/d/damned/virtual/halberd_1.weapon");
     ob -> set_hit_bonus(50);
     ob -> set_parry_bonus(50);
     ob -> set_material("metal/platnite");
+    ob->move(this_object());
 }
     if(!present("dagger")) {
     ob = new("/d/damned/virtual/dagger_1.weapon");

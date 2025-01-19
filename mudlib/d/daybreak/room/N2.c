@@ -1,8 +1,3 @@
-
-//
-//	DarkeLIB 0.1
-//	-Diewarzau 8/8/95
-
 inherit "/std/guilds/skill_room_any";
 
 void create() {

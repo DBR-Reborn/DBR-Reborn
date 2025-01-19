@@ -50,7 +50,10 @@ void spell_func(object caster, object at, int power, string args, int flag) {
     return;
   }
   set_work_message("%^CYAN%^You mold the figurine.");
-  start_work(at, caster, 600 + 200 * power, power);
+if(archp(caster)) {
+start_work(at, caster, 1, power);
+}
+else  { start_work(at, caster, 600 + 200 * power, power); }
   return;
 }
 
@@ -71,7 +74,8 @@ void finish_work(object caster, object at, int power) {
 	  environment(caster), ({ caster }) );
   at->remove();
   seteuid(getuid());
-  ob = new("/wizards/diewarzau/obj/pet/elemental");
+  //ob = new("/wizards/diewarzau/obj/pet/elemental");
+   ob = new("/std/spells/summon//ele/elemental"); 
   ob->set_up(power, props["element types"], props["element"]);
   ob->set_owner((string)caster->query_name());
   ob->move(environment(caster));

@@ -39,16 +39,16 @@ void create() {
    set_skill("perception", 80);
    set_languages(({"stormspeak", "mountainspeak", "common", "elvish", "treefolk", "serra", "yin", "dwarvish","rachk"}));
    set("storage room","/d/damned/guilds/tinker/t_hole_storage");
-   set("pre sell function", (: call_other, this_object(), "sell_ingot" :) );
+   //set("pre sell function", (: call_other, this_object(), "sell_ingot" :) );
    set("markup", 15);
 }
-
+/*
 string sell_ingot(object what) {
   if(!what->id("ingot"))
     return "You may only sell ingots here.";
   return 0;
 }
-
+*/
 void reset() {
   ::reset();
   add_money("gold", 25*random(10));

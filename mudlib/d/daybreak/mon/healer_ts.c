@@ -11,11 +11,13 @@ void create() {
   set("long", @TEXT
 I am  Bill the Healer and I will cast lesser versions of these spells to assist you in your quest
 
+Please be aware that I take donations for each spell that I cast it will be a donation of 100 gold
+
 Just tell me or
 "say healer, <txt> me" and I will bless you 
 syntax = say healer, boa <your name> 
 
-Here are the spells:
+Here are the spells 100 gold each:
 boa Blessing of agility
 bok Blessing of knowledge
 aof Armour of faith
@@ -25,6 +27,7 @@ dt Divine transformation
 im increase metabolism (haste)
 enlarge
 
+free spells:
 rp Remove poison
 sh Satisfy hunger
 TEXT
@@ -143,12 +146,21 @@ void catch_tell(string str) {
 void directed_message(object cust, string cmd) {
   string who, what;
 
+  if (cust->query_money("gold") < 100) {
+            message("info", "Bill The Healer says: You do not have enough money to cast that spell.", cust);
+            return;
+        }
+
+        // Deduct money and send thank-you message
+
 
   if(sscanf(cmd, "boa %s", what)) {
   who = (string)cust->query_cap_name();
          message("info", 
 "The Healer begins to cast a spell at "+who, environment(this_object()), this_object());
     force_me("cast *3 blessing of agility at "+who);
+        cust->add_money("gold", -100);
+        message("info", "Bill The Healer says: Thank you for your contribution to the church!", environment(this_object()), this_object());
     return;
     }
   if(sscanf(cmd, "bok %s", what)) {
@@ -156,6 +168,8 @@ void directed_message(object cust, string cmd) {
          message("info", 
 "The Healer begins to cast a spell at "+who, environment(this_object()), this_object());
     force_me("cast *3 blessing of knowledge at "+who);
+cust->add_money("gold", -100);
+        message("info", "Bill The Healer says: Thank you for your contribution to the church!", environment(this_object()), this_object());
     return;
     }
   if(sscanf(cmd, "aof %s", what)) {
@@ -163,6 +177,8 @@ void directed_message(object cust, string cmd) {
          message("info", 
 "The Healer begins to cast a spell at "+who, environment(this_object()), this_object());
     force_me("cast *3 armour of faith at "+who);
+cust->add_money("gold", -100);
+        message("info", "Bill The Healer says: Thank you for your contribution to the church!", environment(this_object()), this_object());
     return;
     }
   if(sscanf(cmd, "ha %s", what)) {
@@ -170,6 +186,8 @@ void directed_message(object cust, string cmd) {
          message("info", 
 "The Healer begins to cast a spell at "+who, environment(this_object()), this_object());
     force_me("cast *3 holy armour at "+who);
+cust->add_money("gold", -100);
+        message("info", "Bill The Healer says: Thank you for your contribution to the church!", environment(this_object()), this_object());
     return;
     }
   if(sscanf(cmd, "dm %s", what)) {
@@ -177,6 +195,8 @@ void directed_message(object cust, string cmd) {
          message("info", 
 "The Healer begins to cast a spell at "+who, environment(this_object()), this_object());
     force_me("cast *3 divine might at "+who);
+cust->add_money("gold", -100);
+        message("info", "Bill The Healer says: Thank you for your contribution to the church!", environment(this_object()), this_object());
     return;
     }
   if(sscanf(cmd, "dt %s", what)) {
@@ -184,6 +204,8 @@ void directed_message(object cust, string cmd) {
          message("info", 
 "The Healer begins to cast a spell at "+who, environment(this_object()), this_object());
     force_me("cast *2 divine transformation at "+who);
+cust->add_money("gold", -100);
+        message("info", "Bill The Healer says: Thank you for your contribution to the church!", environment(this_object()), this_object());
     return;
     }
   if(sscanf(cmd, "im %s", what)) {
@@ -191,6 +213,8 @@ void directed_message(object cust, string cmd) {
          message("info", 
 "The Healer begins to cast a spell at "+who, environment(this_object()), this_object());
     force_me("cast *6 increase metabolism at "+who);
+cust->add_money("gold", -100);
+        message("info", "Bill The Healer says: Thank you for your contribution to the church!", environment(this_object()), this_object());
     return;
     }
   if(sscanf(cmd, "enlarge %s", what)) {
@@ -198,6 +222,8 @@ void directed_message(object cust, string cmd) {
          message("info", 
 "The Healer begins to cast a spell at "+who, environment(this_object()), this_object());
     force_me("cast *3 enlarge at "+who);
+cust->add_money("gold", -100);
+        message("info", "Bill The Healer says: Thank you for your contribution to the church!", environment(this_object()), this_object());
     return;
     }
 
@@ -206,6 +232,8 @@ void directed_message(object cust, string cmd) {
          message("info", 
 "The Healer begins to cast a spell at "+who, environment(this_object()), this_object());
     force_me("cast *3 shocking grasp at "+who);
+cust->add_money("gold", -100);
+        message("info", "Bill The Healer says: Thank you for your contribution to the church!", environment(this_object()), this_object());
     return;
     }
   if(sscanf(cmd, "fg %s", what)) {
@@ -213,6 +241,8 @@ void directed_message(object cust, string cmd) {
          message("info", 
 "The Healer begins to cast a spell at "+who, environment(this_object()), this_object());
     force_me("cast *3 flamming grasp at "+who);
+cust->add_money("gold", -100);
+        message("info", "Bill The Healer says: Thank you for your contribution to the church!", environment(this_object()), this_object());
     return;
     }
   if(sscanf(cmd, "frg %s", what)) {
@@ -220,6 +250,8 @@ void directed_message(object cust, string cmd) {
          message("info", 
 "The Healer begins to cast a spell at "+who, environment(this_object()), this_object());
     force_me("cast *3 freezing grasp at "+who);
+cust->add_money("gold", -100);
+        message("info", "Bill The Healer says: Thank you for your contribution to the church!", environment(this_object()), this_object());
     return;
     }
 
@@ -228,6 +260,8 @@ void directed_message(object cust, string cmd) {
          message("info", 
 "The Healer begins to cast a spell at "+who, environment(this_object()), this_object());
     force_me("cast *6 battle furyz at "+who);
+cust->add_money("gold", -100);
+        message("info", "Bill The Healer says: Thank you for your contribution to the church!", environment(this_object()), this_object());
     return;
     }
 

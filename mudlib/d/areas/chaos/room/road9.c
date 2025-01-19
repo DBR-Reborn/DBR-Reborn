@@ -24,6 +24,8 @@ void reset() {
 	::reset();
 	if(!present("champion")) {
 	new(MON+"slaneeshc.c")->move(this_object());
+	new(MON+"slaneeshc.c")->move(this_object());
+	new(MON+"swarrior.c")->move(this_object());
 	new(MON+"swarrior.c")->move(this_object());
 	new(MON+"swarrior.c")->move(this_object());
 	new(OBJ+"body.c")->move(this_object());

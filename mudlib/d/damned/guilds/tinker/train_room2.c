@@ -113,6 +113,9 @@ set_property("no teleport", 1);
     //add_skill("rune lore", 14);
 
 //NEW TLNY2020
+
+   add_skill("inscribe lifta", 15);
+
    add_skill("inscribe crusher", 17);
    add_skill("inscribe crusha", 17);
    add_skill("inscribe strika", 17);
@@ -143,15 +146,15 @@ set_property("no teleport", 1);
    add_skill("inscribe disrupter", 25);
    add_skill("inscribe disrupta", 25);
 
-   add_skill("inscribe paree", 30);
-   add_skill("inscribe preciser", 30);
-   add_skill("inscribe quickness", 30);
-   add_skill("inscribe lifta", 30);
+//TLNY2024 removed due to duplicates kept lifta
+   //add_skill("inscribe paree", 30);
+   //add_skill("inscribe preciser", 30);
+   //add_skill("inscribe quickness", 30);
 
    add_skill("inscribe plasmer", 31);
    add_skill("inscribe plasa", 31);
 
-   add_skill("inscribe striker", 33);
+   //add_skill("inscribe striker", 33);
 
    add_skill("inscribe holyer", 32);
    add_skill("inscribe unholyer", 32);

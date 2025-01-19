@@ -21,6 +21,100 @@ void save_this() {
   return;
 }
 
+int do_save_filter(object ob){
+    if(!ob->is_player() && !ob->query_auto_load() && !ob->query_property("no save"))
+        return 1;
+    else
+        return 0;
+}
+//HONSPRON SAVE ROOM FOR MINES
+void add_crash_items(object ob, int flag){
+    string save_dir_r, save_dir, name, tmp, file, *inv2;
+	object *inv;
+    object a;
+    int i;
+    
+    remove_call_out("add_crash_items");
+	name = "room";
+	
+	save_dir_r = file_name(this_object());
+	save_dir_r = replace_string(save_dir_r,"/","");
+	save_dir = "/adm/save/objects/saveroom/"+save_dir_r;
+    mkdir(save_dir);
+	save_dir += "/";
+	inv2 = get_dir(save_dir+name+"_*");
+	for (i=0;i < sizeof(inv2);i++){
+        file = save_dir+name+"_"+i+".o";
+        rm(file);
+    }
+    inv = all_inventory(this_object());
+    inv = filter_array(inv, "do_save_filter");
+    for(i=0;i < sizeof(inv);i++){
+        a=inv[i];
+        a->save_me("saveroom/"+save_dir_r+"/"+name+"_"+i);
+        if(virtualp(a)){
+            tmp = save_dir+ name+"_"+i;
+            rename(tmp + ".o", tmp + ".tmp");
+            write_file(tmp+".o", "#"+base_name(a)+"\n", 1);
+            file = read_file(tmp+".tmp");
+            write_file(tmp+".o", file, 0);
+            rm(tmp+".tmp");
+        }
+        if (flag) {
+            a->remove();
+        }
+    }
+    message("info", "%^BOLD%^%^RED%^Room Saved: %^RESET%^"+file_name(this_object()),
+       find_player("honspron"));
+   call_out("save_time", (60*60));
+   	return;
+}
+
+void restore_crash_items(object ob){
+    string file;
+    string obj;
+    int i;
+    string *inv, name, save_dir_r, save_dir;
+    
+	remove_call_out("restore_crash_items");
+    name = "room";
+    save_dir_r = file_name(this_object());
+    save_dir_r = replace_string(save_dir_r,"/","");
+    save_dir = "/adm/save/objects/saveroom/"+save_dir_r+"/";
+
+    inv = get_dir(save_dir+name+"_*");
+    for (i=0;i<sizeof(inv);i++){
+        file = save_dir+inv[i];
+        obj = replace_string(read_file(file, 1, 1), "#", "");
+        obj = replace_string(obj, "\n", "");
+        ob = new(obj);
+        ob->restore_me("saveroom/"+save_dir_r+"/"+inv[i][0..(sizeof(inv[i])-3)]);
+        ob->move(this_object());
+        rm(file);
+    }
+    message("info", "%^BOLD%^%^MAGENTA%^Room Restored: %^RESET%^"+file_name(this_object()),
+       find_player("honspron"));
+    return;
+}
+
+void save_time(){
+    /*if (file_name(this_object()) == "/std/save_room" || "/std/vault" || "/std/vault_locker_room" || "/std/locker_room" || "/d/damned/virtual/castle_server" || "/d/damned/virtual/mine_server" || "/d/damned/virtual/inn_server") return 0;
+    else {*/
+    remove_call_out("save_time");
+    call_out("add_crash_items", 240);
+    message("info", "%^BOLD%^%^YELLOW%^Save Time Started: %^RESET%^"+file_name(this_object()),
+       find_player("honspron"));
+    //}
+}
+
+void save_dir() {
+	string save_dir_r;
+	
+	save_dir_r = file_name(this_object());
+	save_dir_r = replace_string(save_dir_r,"/","+");
+	write_file("/adm/save/objects/saveroom/sinceboot/"+save_dir_r, "saved this boot");
+}
+
 void virtual_setup(string file) {
   int num, east, south;
   string plyr;
@@ -51,6 +145,9 @@ void virtual_setup(string file) {
     set_open("hatch", 0);
     set_locked("hatch", 1);
     set_lock_level("hatch", 55);
+    call_out("add_crash_items", 90);
+    call_out("restore_crash_items", 2);
+	call_out("save_dir", 10);
     return;
   } else if(num == 2) {
     lower_room = 1;
@@ -73,6 +170,9 @@ void virtual_setup(string file) {
     seteuid(getuid());
     set_items(([ "chest" : (: call_other, this_object(), "describe_chest" :),
           "hatch" : "It looks surprisingly strong." ]));
+    call_out("add_crash_items", 90);
+    call_out("restore_crash_items", 2);
+	call_out("save_dir", 10);
     return;
   }
   set_property("light", 3);

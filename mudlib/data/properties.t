@@ -30,18 +30,14 @@ value/metal/iysaughton;12200
 brittle/metal/iysaughton;9
 
 #auto critical/metal/laen;([ "reflection A" : 50 ])
+auto critical/metal/laen;([ "reflection A" : 20])
+extra ac/metal/laen;([ "reflection" : 50 ])
+extra wc/metal/laen;([ "reflection" : 25 ])
 armour bonus/metal/laen;50
 enhance critical/metal/laen;2
 hardness/metal/laen;37000
 value/metal/laen;11100
 brittle/metal/laen;4
-
-#auto critical/metal/neurolite;([ "limb-sever A" : 8 ])
-damage bonus/metal/neurolite;5
-hit bonus/metal/neurolite;5
-hardness/metal/neurolite;11200
-value/metal/neurolite;10800
-brittle/metal/neurolite;4
 
 auto critical/metal/mabril;([ "stun C" : 20 ])
 damage bonus/metal/mabril;10
@@ -107,17 +103,35 @@ value/metal/javednite;7300
 brittle/metal/javednite;4
 
 #auto critical/metal/davistone;([ "weapon-break C" : 50 ])
+auto critical/metal/davistone;([ "time A" : 20 ])
+extra ac/metal/davistone;([ "time" : 50 ])
+extra wc/metal/davistone;([ "time" : 25 ])
 damage bonus/metal/davistone;7
 hardness/metal/davistone;17500
 value/metal/davistone;6000
 brittle/metal/davistone;4
 
+auto critical/metal/neurolite;([ "acid A" : 20 ])
+extra ac/metal/neurolite;([ "acid" : 50 ])
+extra wc/metal/neurolite;([ "acid" : 25 ])
+damage bonus/metal/neurolite;5
+hit bonus/metal/neurolite;5
+hardness/metal/neurolite;11200
+value/metal/neurolite;10800
+brittle/metal/neurolite;4
+
+auto critical/metal/mcgrail;([ "unholy A" : 20 ])
+extra ac/metal/mcgrail;([ "unholy" : 50 ])
+extra wc/metal/mcgrail;([ "unholy" : 25 ])
 hardness/metal/mcgrail;1110
 light/metal/mcgrail;-5
 damage bonus/metal/mcgrail;5
 value/metal/mcgrail;20000
 brittle/metal/mcgrail;3
 
+auto critical/metal/boernerine;([ "holy A" : 20 ])
+extra ac/metal/boernerine;([ "holy" : 50 ])
+extra wc/metal/boernerine;([ "holy" : 25 ])
 hardness/metal/boernerine;990
 light/metal/boernerine;5
 damage bonus/metal/boernerine;5
@@ -175,9 +189,9 @@ hardness/wood/walnut;12000
 value/wood/walnut;3100
 brittle/wood/walnut;3
 
-auto critical/wood/oak;([ "impaling A" : 20 ])
-extra ac/wood/oak;([ "impaling" : 50 ])
-extra wc/wood/oak;([ "impaling" : 25 ])
+auto critical/wood/oak;([ "fire A" : 20 ])
+extra ac/wood/oak;([ "fire" : 50 ])
+extra wc/wood/oak;([ "fire" : 25 ])
 armour bonus/wood/oak;7
 damage bonus/wood/oak;3
 hit bonus/wood/oak;3
@@ -186,9 +200,10 @@ hardness/wood/oak;13000
 value/wood/oak;4100
 brittle/wood/oak;3
 
-auto critical/wood/maple;([ "cutting A" : 20 ])
-extra ac/wood/maple;([ "cutting" : 50 ])
-extra wc/wood/maple;([ "cutting" : 25 ])
+
+auto critical/wood/maple;([ "cold A" : 20 ])
+extra ac/wood/maple;([ "cold" : 50 ])
+extra wc/wood/maple;([ "cold" : 25 ])
 armour bonus/wood/maple;8
 damage bonus/wood/maple;4
 hit bonus/wood/maple;4
@@ -197,9 +212,9 @@ hardness/wood/maple;14000
 value/wood/maple;5100
 brittle/wood/maple;4
 
-auto critical/wood/mahogany;([ "stress A" : 20 ])
-extra ac/wood/mahogany;([ "stress" : 50 ])
-extra wc/wood/mahogany;([ "stress" : 25 ])
+auto critical/wood/mahogany;([ "acid A" : 20 ])
+extra ac/wood/mahogany;([ "acid" : 50 ])
+extra wc/wood/mahogany;([ "acid" : 25 ])
 armour bonus/wood/mahogany;9
 damage bonus/wood/mahogany;5
 hit bonus/wood/mahogany;5
@@ -208,9 +223,9 @@ hardness/wood/mahogany;15000
 value/wood/mahogany;6100
 brittle/wood/mahogany;4
 
-auto critical/wood/limba;([ "fire A" : 20 ])
-extra ac/wood/limba;([ "fire" : 50 ])
-extra wc/wood/limba;([ "fire" : 25 ])
+auto critical/wood/limba;([ "time A" : 20 ])
+extra ac/wood/limba;([ "time" : 50 ])
+extra wc/wood/limba;([ "time" : 25 ])
 armour bonus/wood/limba;10
 damage bonus/wood/limba;6
 hit bonus/wood/limba;6
@@ -219,9 +234,9 @@ hardness/wood/limba;16000
 value/wood/limba;7100
 brittle/wood/limba;4
 
-auto critical/wood/gum;([ "cold A" : 20 ])
-extra ac/wood/gum;([ "cold" : 50 ])
-extra wc/wood/gum;([ "cold" : 25 ])
+auto critical/wood/gum;([ "reflection A" : 20 ])
+extra ac/wood/gum;([ "reflection" : 50 ])
+extra wc/wood/gum;([ "reflection" : 25 ])
 armour bonus/wood/gum;11
 damage bonus/wood/gum;7
 hit bonus/wood/gum;7

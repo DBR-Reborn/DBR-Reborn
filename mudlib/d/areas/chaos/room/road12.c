@@ -25,6 +25,7 @@ void reset() {
 	new(MON+"beastman.c")->move(this_object());
 	new(MON+"beastman.c")->move(this_object());
 	new(MON+"beastman.c")->move(this_object());
+	new(MON+"beastman.c")->move(this_object());
 	new(OBJ+"body.c")->move(this_object());
 	new(OBJ+"body.c")->move(this_object());
     }

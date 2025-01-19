@@ -61,8 +61,8 @@ create() {
 new("/d/damned/virtual/spear_6.weapon")->move(this_object()); 
      force_me("wield spear in right hand and left hand");
      force_me("use concentrate");
-     set_moving(1);
-     set_speed(60);
+     //set_moving(1);
+     //set_speed(60);
      set("aggressive",(: call_other,this_object(), "no_other_monsters" :) );
 }
 int no_other_monsters(object who) {

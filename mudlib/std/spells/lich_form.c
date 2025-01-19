@@ -24,7 +24,7 @@ void create() {
 //Removed due to Shadow Form is broken     TLNY2020
 //set_property("prereq", "shadow form");
     set_property("must be present",1);
-    set_property("duration", 480);
+    set_property("duration", 400);
     return;
 }
 

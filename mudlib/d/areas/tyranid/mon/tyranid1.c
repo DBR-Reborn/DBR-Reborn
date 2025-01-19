@@ -69,7 +69,7 @@ switch(random(8)){
     }
 
 //controls monsters level
-    zlevel = (27+random(5));
+    zlevel = (30+random(8));
 //Controls Loot level and other fucntions do to raise to high multpies loot
     lvl = 2;
 //Controls critical hit reduction and other such
@@ -89,6 +89,11 @@ switch(random(8)){
    set_property("magic resistance", zlevel/1);
    set_skill("resist stun", zlevel*zskillac);
    set_property("enhance criticals",-llvl);
+
+    set_skill("power slam", zskill*zlevel);
+    set_skill("backhand smash", zskill*zlevel);
+
+    set_combat_chance(100);
 
    set_melee_damage(([ "cutting" : zlevel ]));
    //set_melee_damage(([ "cutting" : zlevel,damage1 : zlevel, damage2 : zlevel ]));
@@ -138,6 +143,9 @@ ext);
 	"stingered tail"}));
     bonesword = new(OBJ+"bonesword");
     bonesword->move(this_object());
+    bonesword->set_wc(zlevel*2, "cutting");
+    bonesword->set_wc(zlevel*2, "impaling");
+    bonesword->set_wc(zlevel*2, "stress");
     force_me("wield sword in right grasping claw");
 
     //set_speed(100);
@@ -346,3 +354,20 @@ message("info","%^B_YELLOW%^Somthing drops on the corpse you should probably LOO
     }
    ::die();
 }
+/*
+varargs void heart_beat(int flag) {
+  if (query_current_attacker())
+    force_me("use backhand smash at "+(string)(query_current_attacker()->query_name()));
+  
+  ::heart_beat(flag);
+  return;
+}
+*/
+varargs void heart_beat(int flag) {
+  if(query_current_attacker()) {
+    force_me("use backhand smash at "+(string)(query_current_attacker()->query_name()));
+  }
+  ::heart_beat(flag);
+  return;
+}
+

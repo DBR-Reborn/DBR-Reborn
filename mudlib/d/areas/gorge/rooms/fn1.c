@@ -10,7 +10,7 @@ void create() {
      set_listen("default", "You can hear the sound of people burning in the maze.");
      add_item("walls", "The walls are actually cool to the touch...weird.");
      add_exit("mz27", "south");
-     new("/d/weavers/gorge/obj/paper")->move(this_object());
+     new("/d/areas/gorge/obj/paper")->move(this_object());
 }
 void init() {
      ::init();

@@ -9,8 +9,10 @@ void create() {
 	set_property("light", 2);
 	set_short("Hallway of the Wretched Zombie Inn");
 	set_long(
-		"You are in a hallway of the Wretched Zombie Inn"
-	);
-	add_exit("/d/nocte/kuril/inn/h21", "north");
-	add_exit("/d/nocte/kuril/inn/hall_10","west");
+		"You are in a hallway of the Wretched Zombie Inn");
+
+
+    add_exit("/d/nocte/kuril/inn/hall_10", "west");
+    add_exit("/d/nocte/kuril/inn/h21", "north");
+
 }

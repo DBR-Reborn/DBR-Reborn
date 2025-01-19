@@ -56,7 +56,7 @@ void spell_func(object caster, object at, int power, string args, int flag) {
     remove();
     return;
   }
-  if((int)caster->query_d_trans()) {
+  if((int)caster->query_etrans()) {
     message("info", (string)caster->query_cap_name() +
 	    " has already been transformed by a body transformation spell.",
 	    caster);
@@ -66,7 +66,7 @@ void spell_func(object caster, object at, int power, string args, int flag) {
   }
   caster->set("bofe #", (int)caster->query("bofe #") + 1);
   call_out("remove_stack", props["duration"], at);
-  ob = new("/std/spells/shadows/e_trans_shadow");
+  ob = new("/std/spells/shadows/etrans_shadow");
   ob->set_melee(8 + power *2);
   ob->set_melee_skill(15+power*2);
   ob->set_elements(props["element types"]);

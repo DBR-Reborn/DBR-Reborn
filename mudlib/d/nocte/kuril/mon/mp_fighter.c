@@ -2,14 +2,33 @@
 #include "nevin.h"
 inherit MONSTER;
 
+/*
+//ADD
+int moved_to_incinerator = 0; // Flag to track movement
+
+void init() {
+    ::init();
+    if (query_night() && !moved_to_incinerator) {
+        if (!wizardp(this_player())) {
+            moved_to_incinerator = 1; // Set the flag to true
+            this_object()->move_object(ROOMS+"incinerator");
+            tell_room(environment(), this_object()->query_cap_name() + " vanishes into the night.\n");
+        }
+    }
+}
+//END
+*/
+
 void init() {
 	::init();
 	if(query_night()) {
 		if(!wizardp(this_player())) {
-			this_object()->move(ROOMS+"incinerator");
+            this_object()->move_object(ROOMS+"incinerator");
+			//this_object()->move(ROOMS+"incinerator");
 		}
 	}
 }
+
 
 void create(){
 	string var;

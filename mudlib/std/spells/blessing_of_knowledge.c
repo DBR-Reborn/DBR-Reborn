@@ -54,6 +54,8 @@ void spell_func(object caster, object at, int power, string args, int flag) {
 //  object ob;
   mapping sk_aff = SKILLS_AFFECTED;
 
+
+
   seteuid(getuid());
   if ((int)at->query("k bless num") >= 1) {
     message("info", (string)at->query_cap_name() +
@@ -65,7 +67,9 @@ void spell_func(object caster, object at, int power, string args, int flag) {
     at->set("k bless num", (int)at->query("k bless num") + 1);
     delayed_call("remove_stack", props["duration"], at);
     ::spell_func(caster, at, power, args, flag);
+caster->add_exp2(4 * caster->query_skill("prayer") + (this_player()->query_level()*100));
   return;
+
 }
 
 

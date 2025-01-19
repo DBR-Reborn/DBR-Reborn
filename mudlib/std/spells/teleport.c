@@ -38,7 +38,7 @@ void spell_func(object caster, object at, int power, string args, int flag) {
 
   if(flag) {
     message("info", "You get stuck in the warp while teleporting!.", caster);
-    caster->move_player("/wizards/diewarzau/room/warp", 0);
+    caster->move_player("/std/room/warp", 0);
     remove();
     return;
   }

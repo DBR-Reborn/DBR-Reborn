@@ -1,0 +1,14 @@
+light:::2
+indoors:::1
+short:::Loralis's Castle Room #1
+long:::This is Room #1 of Loralis's Castle.
+If you are Loralis, type 'help castle' for options.  
+
+
+no scry:::0
+no summon:::0
+no teleport:::0
+special exits:::0
+healing room:::0
+exit:::out:/d/damned/virtual/room_4_11.world
+exit:::north:/d/damned/virtual/loralis_room_2.castle:door:16:vault door

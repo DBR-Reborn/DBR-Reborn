@@ -59,7 +59,7 @@ ob->set_extra_wc(([ "holy" : 24*power+lvl, "aether" : 24*power+lvl, "plasma" : 2
         }
     }
     else{
-    message("info", "You may not imbue this weapon with any more evil power.",caster);
+    message("info", "You may not imbue this weapon with any more power.",caster);
 	caster->add_mp(props["mp cost"]);
 	ob->external_destruct(ob);
     }      

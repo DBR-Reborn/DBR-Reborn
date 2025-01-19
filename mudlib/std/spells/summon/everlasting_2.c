@@ -12,6 +12,7 @@ void create() {
   //set_change_ownership(0);
   set_carry(0);
   set_save(0);
+set_property("no save", 1);
   set_property("magic resistance", 120);
   set_skill("resist stun", 375);
   set("see invis", 1);

@@ -8,7 +8,7 @@ void create() {
     set_dev_cost(17);
     set_fast_dev_cost(47);
     set_property("target type", "any");
-   // set_property("prereq", "engrave");
+   set_property("prereq", "engrave");
     set_property("must be present", 1);
 }
 

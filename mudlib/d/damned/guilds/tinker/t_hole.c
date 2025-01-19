@@ -196,5 +196,5 @@ int receive_objects() {
         "a guild member to use this shop.");
   return 0;
 }
-
 */
+

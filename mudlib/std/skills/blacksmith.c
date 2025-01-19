@@ -53,6 +53,7 @@
 "metal-visor", \
 "taces", \
 "wing-guards", \
+"chain-boots", \
  })
 
 #define MATERIALS ({ "steel", "iron", "default" })

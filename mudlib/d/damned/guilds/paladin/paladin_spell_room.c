@@ -9,8 +9,7 @@ void create() {
   ::create();
   set("short", "The Paladins' Spell Training Room");
   set("long", 
-"This is where paladins study vast amounts of religious texts in order "
-"to master the various spells available to them.\n");
+"Humble paladin altar room is a quiet still room for study. It has marble stone columns that ascend to a stain glass roof letting in holy light that radiates the altar. In the center of the room. several kneeling cushions surround the altar and shelves with scrolls for study line the walls.\n");
   //  "\n" important here, too.
 
   set_property("light", 2);

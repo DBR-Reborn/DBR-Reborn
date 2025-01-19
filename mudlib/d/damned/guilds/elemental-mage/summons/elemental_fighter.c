@@ -9,6 +9,7 @@ void create() {
     set_attack(1);
     set_carry(0);
     set_save(0);
+set_property("no save", 1);
     set_level(15);
     set_short("A smug elemental fighter");
     set_long("This is a well built humanoid shaped elemental, completely obedient to its master summoner. Its entire body shimmers faintly with power and moves very quickly, as it is well versed in hand to hand combat.");

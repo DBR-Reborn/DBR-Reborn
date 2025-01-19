@@ -9,5 +9,6 @@ pre_exit_func ([])
 post_exit_func ([])
 tracks ({})
 __Items (["blue moon":0,"sky":0,"ankh":0,"moon":0,"red moon":0,"sun":0,"warzau":0,"green moon":0,"moons":0,"luna":0,])
-guild_list (["skap":(["status":"member",]),"mazer":(["status":"member",]),"zal":(["status":"member",]),"ruby":(["status":"member",]),"glorfindel":(["status":"member",]),"rustybanjo":(["status":"member",]),"serilla":(["status":"member",]),"gabriella":(["status":"member",]),"thromax":(["status":"member",]),"alyssa":(["status":"member",]),"cadderly":(["status":"member",]),"angelica":(["status":"member",]),])
+guild_list (["skap":(["status":"member",]),"mazer":(["status":"member",]),"zal":(["status":"member",]),"ruby":(["status":"member",]),"glorfindel":(["status":"member",]),"rustybanjo":(["status":"member",]),"serilla":(["status":"member",]),"thromax":(["status":"member",]),"gabriella":(["status":"member",]),"loralis":(["status":"member",]),"alyssa":(["status":"member",]),"cadderly":(["status":"member",]),"angelica":(["status":"member",]),])
 banish ([])
+master "loralis"

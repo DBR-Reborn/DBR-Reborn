@@ -451,12 +451,12 @@ void directed_message(object from, string mesg) {
     if(strlen(mesg) >= 4 && mesg[0..3] == "save") {
 	if(!Pet_data["save"])
 	    return;
-	if(!environment()->query_is_locker_room()) {
+	/*if(!environment()->query_is_locker_room()) {
 	    this_object()->force_me("say This room will not save monsters.");
 	    return;
-	}
-	SAVE_ITEMS_D->update_lockers(environment());
-	this_object()->force_me("say Okay.");
+	}*/
+	//SAVE_ITEMS_D->update_lockers(environment());
+	this_object()->force_me("say Save you from what? Your self?");
 	saved_here = 1;
 	return;
     }

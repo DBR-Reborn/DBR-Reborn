@@ -8,7 +8,7 @@ void reset() {
     ::reset();
     if(!present("tyranid"))
     {
-	i = random(2)+1;
+	i = random(2)+2;
 	while(i--)
 	{
 	    new(MON+"tergoyle1")->move(this_object());

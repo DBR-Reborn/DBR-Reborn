@@ -1,4 +1,4 @@
-inherit "/std/locker_room.c";
+inherit "/std/save_room.c";
 
 void create()
 {
@@ -32,9 +32,9 @@ void create()
 	add_exit ("/d/damned/guilds/join_rooms/war-priest_join.c", "wp");
 
 
-	   if (!present("rune")) {
+	   /*if (!present("rune")) {
 	new ("/std/diewarzau/obj/misc/h_rune") ->move(this_object());
-	 }
+	 }*/
 }
 
 /*void reset()

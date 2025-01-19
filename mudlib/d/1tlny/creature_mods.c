@@ -9,6 +9,9 @@
 	set_melee_damage( (["crushing" : 40 ]) );
     set_property("enhance criticals",-5);
     set_property("magic resistance", 120);
+   set_property("physical resistance", ([ "default" : 500]));
+   set_property("magical resistance", ([ "default" : 500]));
+
     set_skill("resist stun", 175);
     set_overall_ac(100);
     set("see invis", 1);
@@ -22,8 +25,11 @@
    
     set_max_hp(10000);
     set_hp(10000);
+    set_property("base hp regen", 22 + 5*6);
+
     set_max_mp(7000);
     set_mp(7000);
+    set_property("base mp regen", 25 + 4*6);
 
     set_skill("melee", 110);
     set_skill("attack", 110);

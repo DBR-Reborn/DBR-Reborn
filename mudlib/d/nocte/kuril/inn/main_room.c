@@ -34,7 +34,7 @@ void new_owner(string who, string room, int time) {
   owners[room]["owner"] = who;
   owners[room]["time"] = time;
   ob = find_object(room);
-  if(ob)
+  if(room)
     room->virtual_setup("inn_"+r_num);
   save_this_room();
   return;
@@ -168,8 +168,8 @@ void create() {
           "There is a sign here that reads, %^RED%^%^BOLD%^This Inn is %^BOLD%^%^YELLOW%^%^FLASH%^Under Construction!%^RESET%^"
 	);
   set_items(([ "sign" : "Try reading it." ]));
-  add_exit("/d/nocte/kuril/rooms/marketplace4.c", "north");
-  add_exit("/d/nocte/kuril/inn/hall_10","up");
+       add_exit("/d/nocte/kuril/rooms/marketplace4.c", "north");
+       add_exit("/d/nocte/kuril/inn/hall_10","up");
   this_object()->reset();
   return;
 }

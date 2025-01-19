@@ -307,7 +307,10 @@ void die(object ob) {
       add_money(currs[i], -query_money(currs[i]));
     }
    */
-    money_ob->move(tmp);
+//TLNY2025 change
+    //money_ob->move(tmp);
+    money_ob->move(query_current_attacker());
+message("other_action", query_current_attacker()->query_cap_name() + " takes the coins from the corpse.", environment(this_object()));
   }
   contents = all_inventory(this_object());
   for(i=0;i<sizeof(contents);i++) {
@@ -429,10 +432,22 @@ int kill_ob(object who, int which) {
 }
 
 //TLNY2022 changed number of combat rounds for monsters
+/*
 int query_num_rounds() {
   if(level) return (level > 100)?4:((level/25)+1);
   else return 1;
 }
+*/
+//ADD TLNY2025
+
+int query_num_rounds() {
+    if (level >= 100) {
+        return ((level / 100) + 1); // 1 for the base + additional rounds for each 100 levels
+    } else {
+        return 1; // Default return if level is less than 100
+    }
+}
+//END
 
 void set_level(int x) {
   int y;

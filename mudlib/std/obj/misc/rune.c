@@ -97,6 +97,7 @@ void create() {
   set_long("A rune");
   set_storage_key("rune");
   set_id(({ "rune" }));
+  set_property("no save", 1);
   my_file = 0;
   level = 1;
   non_active = ({});
@@ -117,6 +118,7 @@ void preserve_me() {
     my_file = sprintf("rune_%d", spec);
   }
   set_property("preserved", 1);
+  remove_property("no save");
   SAVE_ITEMS_D->update_lockers(environment());
   return;
 }

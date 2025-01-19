@@ -14,6 +14,7 @@ zlevel=(1+random(2));
   set_attack(1);
   set_carry(0);
   set_save(0);
+set_property("no save", 1);
   set_level(zlevel);
   set_short("["+zlevel+"]slavering rabbit");
   set_long("This intelligent looking animal stares right back at you.");

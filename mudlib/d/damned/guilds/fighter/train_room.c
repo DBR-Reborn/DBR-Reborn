@@ -70,7 +70,7 @@ void create() {
   add_skill("swimming", 1);
   add_skill("body block", 1);
   add_skill("compare", 3);
-  add_skill("shield bash", 3);
+  //add_skill("shield bash", 3);
   add_skill("bash lock", 11, 1);
   add_skill("dodge", 3);
   add_skill("kick", 4);
@@ -81,13 +81,23 @@ void create() {
   add_skill("head butt", 5);
   add_skill("sweep", 12);
 
-// Cleave Skills
-  add_skill("cleave", 5);
-  add_skill("scythe", 20);
+
 
 //NEW
   add_skill("ripost", 5);
   add_skill("archblade", 20);
+  add_skill("repair wood weapon", 1);
+  add_skill("repair weapon", 1);
+// Cleave Skills
+  add_skill("cleave", 5);
+  add_skill("scythe", 20);
+
+//shield bash skills
+  add_skill("battlebrand", 11);
+  add_skill("spiked shield", 9);
+  add_skill("fiery protector", 5);
+  add_skill("shield bash", 3);
+  add_skill("acid coat", 7);
   return;
 }
 

@@ -25,15 +25,18 @@ void skill_func(object from, object at, string arg) {
     message("info", "You are too tired to use this skill again yet.", from);
     remove();
     return;
-  }
+  }  
   from->set_last_use("focused attack");
   seteuid(geteuid(this_object()));
   ob = new("/std/spells/shadows/focused_shad");
   ob->start_shadow(from, props["skill level"]);
-  from->add_exp2(15 * props["skill level"]+(this_player()->query_level()*100));
+from->add_exp2(15 * props["skill level"]+(this_player()->query_level()*100));
   message("info", "%^RED%^%^BOLD%^You begin to concentrate your blows!", from);
   message("info", from->query_cap_name() + " begins to concentrate his attacks!",
         environment(from), ({ from }));
   remove();
   return;
 }
+
+
+

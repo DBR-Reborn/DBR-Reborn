@@ -9,6 +9,7 @@ void create() {
   set_attack(1);
   set_carry(0);
   set_save(0);
+set_property("no save", 1);
   set_level(5);
   set_short("Ethereal Entity");
   set_long("This ethereal being appears as a ghastly entity with almost "+

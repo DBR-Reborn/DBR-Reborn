@@ -96,7 +96,7 @@ switch(random(8)){
     set_level(zlevel);
     set("aggressive",1);
     set("gang bang", 1);
-    add_money("silver",random(20)+10);
+    add_money("gold",random(zlevel)+10);
     set("short","["+zlevel+"]Huge Troll");
     set("long","Strong Troll");
     set("race","monster");
@@ -115,8 +115,8 @@ switch(random(8)){
     add_limb("right foot","NON FATAL",185,0,5);
 */
     add_wielding_limb("right hand");
-  set_speed(100);
-  set_moving(1);
+ // set_speed(100);
+ // set_moving(1);
 
 /*    
     set_skill("axe", zlevel*11);
@@ -140,6 +140,8 @@ switch(random(8)){
     set_skill("attack", zlevel*9);
     set_skill("defense", zlevel*8);
     set_skill("dodge", zlevel*8);
+
+    set_skill("power slam", zskill*zlevel);
 
 }
 
@@ -319,4 +321,12 @@ message("info","%^B_YELLOW%^Somthing drops on the corpse you should probably LOO
 	break;
     }
    ::die();
+}
+
+varargs void heart_beat(int flag) {
+  if(query_current_attacker()) {
+    force_me("use power slam at "+(string)(query_current_attacker()->query_name()));
+  }
+  ::heart_beat(flag);
+  return;
 }

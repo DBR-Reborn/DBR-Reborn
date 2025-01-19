@@ -549,7 +549,7 @@ void set_element() {
 	  props["element types"] = ({ "stress", "disruption" });
 	  break;
 	case "aether":
-	  props["element types"] = ({ "aether", "stress" });
+	  props["element types"] = ({ "aether", "infernal", "vacuum" });
 	  break;
 	case "nexus":
 	  props["element types"] = ({ "disruption", "aether", "stress" });
@@ -575,6 +575,20 @@ void set_element() {
 	case "time":
 	  props["element types"] = ({ "time" , "stress" });
 	  break;
+	case "fate":
+	  props["element types"] = ({ "time" , "unholy", "reflection" });
+	  break;
+	case "space":
+	  props["element types"] = ({ "time" , "crushing", "impact", "stress" });
+	  break;
+	case "acidic":
+	  props["element types"] = ({ "acid" , "fire", "stress" });
+	  break;
+	case "corrosive":
+	  props["element types"] = ({ "acid" , "cold", "impact" });
+	  break;
+
+
 /* Need to add for elemental-mage
 stress lore
 strike lore
@@ -759,8 +773,8 @@ void do_spell(mapping info) {
     //if(roll > (95 + skill / 20) || roll == 100) {
     if(roll > (194 + skill / 40) ) {
 
-	if(!caster->query("no fumble") && !caster->query_property("no fumble") && !props["ritual final"]) {
-// Ritual fumbling
+	if(!caster->query("no fumble") && !caster->query_property("no fumble") && !props["ritual final"] && caster->query_skill(props["skill"]) < 250) {
+// Ritual fumbling - Honspron added skill above 250 no fumble
 	if(props["ritual dud"]){
 	message("info","%^RED%^%^BOLD%^You fumble your spell ruining the entire group's efforts!",caster);
 	message("info","%^RED%^%^BOLD%^"+(string)caster->query_cap_name()+" fumbles "+possessive(caster)+" spell ruining the groups efforts!", environment(caster),({ caster }));

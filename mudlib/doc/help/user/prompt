@@ -11,6 +11,8 @@ $M      Your max MP
 $Q      Percent of MP
 
 $tnl    Exp needed to next level
+$TNL    Percent to next level
+
 $dp     Devlopment points
 
 $c      Carry
@@ -37,6 +39,9 @@ setenv prompt %%^^BOLD%%^^%%^^RED%%^^HP:$h/$H%%^^BLUE%%^^ MP:$m/$M %%^^ORANGE%%^
 
 Copy Paste Version 2 with long term:
 setenv prompt %%^^BOLD%%^^%%^^RED%%^^HP:$h/$H%%^^BLUE%%^^ MP:$m/$M %%^^ORANGE%%^^EXP:$tnl %%^^RESET%%^^$ls %%^^CYAN%%^^$lr%%^^RESET%%^^\\n>
+
+Copy Paste Version 3:
+setenv prompt %%^^BOLD%%^^%%^^RED%%^^H:$q% %%^^BLUE%%^^M:$Q% %%^^GREEN%%^^E:$TNL% %%^^ORANGE%%^^D:$dp%%^^RESET%%^^ $ls %%^^CYAN%%^^$lr%%^^RESET%%^^\\n>
 
 to reset your prompt to the default
 

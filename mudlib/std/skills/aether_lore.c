@@ -5,4 +5,5 @@ void create() {
     set_property("element", "aether");
     set_dev_cost(44);
     set_fast_dev_cost(150);
+    set_property("prereq", "plasma lore");
 }

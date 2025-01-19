@@ -13,6 +13,7 @@ void create() {
     set_attack(0);
     set_carry(0);
     set_save(0);
+set_property("no save", 1);
     set_level(1);
     set_bodyguard(1);
     set_short("ethereal bodyguard");

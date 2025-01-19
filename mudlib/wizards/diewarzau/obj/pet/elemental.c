@@ -20,13 +20,22 @@ void create() {
   set_name("elemental");
   return;
 }
-
+//ADD
+void restore_stuff() {
+    ::restore_stuff();
+    if(elems && power && element)
+	this_object()->set_up(power, elems, element);
+    return;
+}
+//END
+/*
 void restore_locker(string file) {
   ::restore_locker(file);
   if(elems && power && element)
     this_object()->set_up(power, elems, element);
   return;
 }
+*/
 
 int id(string str) {
   if(::id(str)) return 1;

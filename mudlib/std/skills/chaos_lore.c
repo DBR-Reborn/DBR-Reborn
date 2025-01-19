@@ -5,4 +5,5 @@ void create() {
     set_property("element", "chaos");
     set_dev_cost(30);
     set_fast_dev_cost(89);
+    set_property("prereq", "ice lore");
 }

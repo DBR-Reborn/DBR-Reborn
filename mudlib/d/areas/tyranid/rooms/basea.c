@@ -9,7 +9,7 @@ void reset() {
     ::reset();
     if(!present("tyranid"))
     {
-	i = random(2)+1;
+	i = random(3)+2;
 	while(i--)
 	{
 	    new(MON+"ripper")->move(this_object());

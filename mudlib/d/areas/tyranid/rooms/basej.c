@@ -2,6 +2,21 @@
 
 inherit "std/room";
 #define BASE "/d/areas/tyranid/rooms/"
+
+void reset() {
+    int i;
+    ::reset();
+    if(!present("tyranid"))
+    {
+	i = random(3)+2;
+	while(i--)
+	{
+        new(MON+"tyranid1")->move(this_object());
+	    new(MON+"stealer1")->move(this_object());
+	}
+  }
+}
+
 void create(){
     ::create();
     set_property("light", 1);

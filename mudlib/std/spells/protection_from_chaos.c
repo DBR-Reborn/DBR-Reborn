@@ -42,6 +42,7 @@ void spell_func(object caster, object at, int power, string args, int flag) {
   at->set("chaos prote #", (int)at->query("chaos prote #") + 1);
   call_out("remove_stack", props["duration"], at);
   ::spell_func(caster, at, power, args, flag);
+caster->add_exp2(1 * caster->query_skill("prayer") + (this_player()->query_level()*100));
   return;
 }
 

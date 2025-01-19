@@ -141,11 +141,31 @@ if(player_data["general"]["hp"] < -100) {
     return;
 }
 */
-    if(player_data["general"]["hp"] < 0) {
-        this_object()->restart_heart_beat();
-        player_data["general"]["hp"] = 0;
-        return;
-    }
+/* TLNY2025 comment out to test new code
+if(player_data["general"]["hp"] < -100) {
+    //player_data["general"]["hp"] == 1;
+    this_object()->restart_heart_beat();
+    player_data["general"]["hp"] == 1;
+    //this_object()->die();
+    return;
+}
+*/
+//TLNY2025 test code
+if (player_data["general"]["hp"] < -1) {
+    this_object()->restart_heart_beat();
+    player_data["general"]["hp"] = 1; // Resets HP to 1
+    player_data["general"]["hp"] += -2;
+    return;
+}
+
+//TLNY2025 test new
+if (player_data["general"]["hp"] == 0) {
+    this_object()->restart_heart_beat();
+    player_data["general"]["hp"] = 1;
+    player_data["general"]["hp"] += -2;
+    return;
+}
+
 }
 
 void set_max_sp(int x) { 

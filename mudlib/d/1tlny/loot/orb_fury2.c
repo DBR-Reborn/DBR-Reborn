@@ -19,6 +19,7 @@ void create() {
     set_long("This is a perfectly spherical glowing orb approximately nine inches in diameter. it appears like nothing but maybe if you did the commad%^YELLOW%^'orb fury'%^RESET%^somthing might happen\n");
     set_weight(10);
     set_value(1);
+set_property("no steal", 1);
     return;
 }
 

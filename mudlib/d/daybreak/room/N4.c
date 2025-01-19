@@ -39,6 +39,7 @@ int cmd_reinc(string str) {
   who->remove_property("dev cost");
   who->remove_property("xp mod");
   who->remove_property("magic resistance");
+  who->remove_property("stat_points");
 //END
   
   who->reset_quests();
@@ -74,14 +75,17 @@ int cmd_reinc(string str) {
   lev = (int)who->query_level();
   if(lev < 1) lev = 1;
 
-  who->set_property("old exp", (int)ADVANCE_D->get_exp(lev) + 150);
+    //who->set_property("old exp", (int)ADVANCE_D->get_exp(lev) + 150);
+//ADD //TLNY2025 Keep original EXP for the level
+who->set_property("old exp", (int)ADVANCE_D->get_exp(lev) + (who->query_exp() - (int)ADVANCE_D->get_exp(who->query_level())));
+//END
+
   who->set_level(1);
   who->add_exp(-1 * (int)who->query_exp());
   who->reset_max_exp();
   who->move_player("/d/standard/setterreinc", 0);
   seteuid(UID_LOG);
-  log_file("reinc", sprintf("FREE reinc: %s to %s on %s.\n",
-(string)previous_object()->query_name(), (string)who->query_name(), ctime(time())));
+  //log_file("reinc", sprintf("FREE reinc: %s to %s on %s.\n", (string)previous_object()->query_name(), (string)who->query_name(), ctime(time())));
   message("info", "%^CYAN%^%^BOLD%^You have been reincarnated!",who);
   message("info",
   "\n     You may re-create your character now.  Afterward, you may "

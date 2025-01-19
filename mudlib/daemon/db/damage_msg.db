@@ -12,9 +12,6 @@
 #12..15:With a mighty heave, $A $V $T, throwing $(TO) back several feet.
 #16..20:$A $V $T very violently, astonishing $(TO) immensely.
 #21..40:Leaping in the air and coming down swiftly, $A $V $T with unsuspected force.
-41..60:Letting out a monstrous battle cry, $A $V $T, slicing $(TO) nearly in twain.
-61..80:With unbelievable power, $A $V $T, nearly flattening $(TO)!
-81..10000:With a degree of violence never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
 #Testing stuff TLNY2020
 0..1:$A $V $T lightly.
 2..2:$A $V $T.
@@ -56,5 +53,70 @@
 38..38:With a power never seen before in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
 39..39:With a power never seen before in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
 40..40:With a power never seen before in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
-
+#
+41..60:Letting out a monstrous battle cry, $A $V $T, slicing $(TO) nearly in twain.
+61..80:With unbelievable power, $A $V $T, nearly flattening $(TO)!
+#
+81..85:With a power never seen before in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
+86..90:With an unimaginable surge of strength, $A $V $T, shaking the very ground beneath $(TO)'s feet.
+91..95:With a cataclysmic force, $A $V $T, rattling $(TO) to their core.
+96..100:With titanic might, $A $V $T, causing a shockwave that sends $(TO) staggering.
+101..105:With a brutal ferocity, $A $V $T, making $(TO) question their existence.
+106..110:With a devastating impact, $A $V $T, leaving $(TO) reeling in disbelief.
+111..115:With a force that could split mountains, $A $V $T, threatening to shatter $(TO)'s very essence.
+116..120:With an explosive force, $A $V $T, sending $(TO) flying across the battlefield.
+121..121:With a ferocious howl, $A $V $T, echoing through the land and leaving $(TO) in shock.
+122..122:With a fierce growl, $A $V $T, sending tremors through the ground and disorienting $(TO).
+123..123:With a thunderous roar, $A $V $T, causing the air to vibrate and leaving $(TO) stunned.
+124..124:With a wild cry, $A $V $T, whipping up a whirlwind that knocks $(TO) off balance.
+125..125:With an earth-shaking bellow, $A $V $T, reverberating through the battlefield and striking fear into $(TO).
+126..126:With a primal scream, $A $V $T, resonating like a battle horn and disorienting $(TO).
+127..127:With an unearthly shriek, $A $V $T, making the very sky shudder and leaving $(TO) dazed.
+128..128:With a guttural roar, $A $V $T, shaking the ground and rattling $(TO)'s senses.
+129..129:With a chilling howl, $A $V $T, sending shivers down $(TO)'s spine and leaving them vulnerable.
+130..130:With a magnificent bellow, $A $V $T, echoing through the valley and rendering $(TO) momentarily paralyzed.
+131..135:With sheer force, $A $V $T, leaving $(TO) gasping for breath.
+136..140:With a celestial intensity, $A $V $T, causing the skies to tremble.
+141..145:With a wrathful swing, $A $V $T, making $(TO) feel the weight of despair.
+146..150:With an earth-shaking blow, $A $V $T, sending vibrations that can be felt miles away.
+151..155:With a tempest of fury, $A $V $T, enveloping $(TO) in a whirlwind of pain.
+156..160:With unholy strength, $A $V $T, marking $(TO) with a curse of agony.
+161..165:With a furious crash, $A $V $T, the impact shaking the very fabric of reality.
+165..170:With relentless aggression, $A $V $T, instilling fear in the hearts of all who witness.
+171..175:With a shattering force, $A $V $T, causing $(TO) to crumble under the pressure.
+176..180:With catastrophic power, $A $V $T, leaving $(TO) in utter chaos.
+181..185:With a roar that echoes through time, $A $V $T, igniting a spark of terror.
+186..190:With a devastating gale, $A $V $T, sweeping $(TO) off their feet.
+191..195:With a thunderous crash, $A $V $T, invoking the wrath of the heavens.
+196..200:With an apocalyptic blow, $A $V $T, leaving $(TO) in a haze of disbelief.
+201..205:With a whirlwind of devastation, $A $V $T, engulfing $(TO) in a storm of pain.
+206..210:With a godlike force, $A $V $T, reshaping the battlefield in an instant.
+211..215:With a blinding flash, $A $V $T, leaving $(TO) stunned and bewildered.
+216..220:With celestial might, $A $V $T, rending the air and altering fate itself.
+221..225:With unearthly intensity, $A $V $T, sending $(TO) spiraling into darkness.
+226..230:With divine vengeance, $A $V $T, marking $(TO) for destruction.
+231..235:With a seismic impact, $A $V $T, shaking the foundations of the world.
+236..240:With a titanic clash, $A $V $T, echoing through the ages.
+241..245:With a storm of fury, $A $V $T, engulfing $(TO) in chaos.
+250..255:With unrelenting wrath, $A $V $T, leaving $(TO) gasping for respite.
+251..256:With an explosion of power, $A $V $T, reshaping the very landscape.
+#
+257..250:With an explosive surge of energy, $A $V $T, erupting in a blaze of fury.
+251..300:With a cataclysmic eruption, $A $V $T, sending shockwaves rippling through the air.
+301..350:With a celestial storm, $A $V $T, wreaking havoc and leaving $(TO) in utter chaos.
+351..400:With an overwhelming tide of power, $A $V $T, submerging $(TO) in darkness.
+401..450:With an apocalyptic force, $A $V $T, tearing the fabric of reality asunder.
+451..500:With a vortex of destruction, $A $V $T, drawing $(TO) into a whirlwind of despair.
+501..550:With the fury of a thousand storms, $A $V $T, shaking $(TO) to their very core.
+551..600:With a cosmic implosion, $A $V $T, leaving $(TO) reeling in disbelief.
+601..650:With an inferno of rage, $A $V $T, igniting the battlefield in flames.
+651..700:With a titan's roar, $A $V $T, echoing through the ages and shaking the heavens.
+701..750:With a seismic quake, $A $V $T, rattling the ground beneath $(TO)'s feet.
+751..800:With an unstoppable onslaught, $A $V $T, overwhelming $(TO) with sheer might.
+801..850:With a celestial blast, $A $V $T, illuminating the sky with a blinding light.
+851..900:With a divine decree, $A $V $T, reshaping destiny itself and leaving $(TO) helpless.
+901..950:With an endless barrage, $A $V $T, raining destruction upon $(TO) relentlessly.
+951..956:With the wrath of the cosmos, $A $V $T, obliterating $(TO) from existence.
+#
+101..10000:With a degree of violence never seen in heaven and earth, $A $V $T, most likely sending $(TO) to $(TPP) maker.
 

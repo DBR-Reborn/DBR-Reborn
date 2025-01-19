@@ -5,7 +5,7 @@ void create() {
     set_property("name", "create elemental fury");
     set_property("skill", "elementalism");
     set_property("casting time", 151);
-    set_property("base mp cost", 825);
+    set_property("base mp cost", 500);
     set_property("dev cost", 500);
     set_property("fast dev cost", 955);
     set_property("spell level", 60);

@@ -31,7 +31,6 @@ this_player());
 
 void spell_func(object caster, object at, int power, string args, int flag) {
   object ob;
-
   ob = new("/std/spells/shadows/light_shad");
   switch(args) {
   case "low":
@@ -47,5 +46,6 @@ void spell_func(object caster, object at, int power, string args, int flag) {
   }
   ob->start_shadow(caster, props["duration"],
 	           "A holy light spell expires.");
+caster->add_exp2(1 * caster->query_skill("prayer") + (this_player()->query_level()*100));
   return;
 }

@@ -68,6 +68,19 @@ void create() {
   add_skill("melee", 1, 1);
   add_skill("trade lore", 1, 1);
   add_skill("telepathy", 15, 1);
+
+//NEW TLNY2025
+  add_skill("acidic lore", 15, 1);
+  add_skill("corrosive lore", 15, 1);
+
+  add_skill("gavity lore", 15, 1);
+  add_skill("time lore", 18, 1);
+  add_skill("fate lore", 22, 1);
+  add_skill("space lore", 25, 1);
+
+
+
+
   return;
 }
 

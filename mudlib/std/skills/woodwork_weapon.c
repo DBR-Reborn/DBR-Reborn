@@ -142,29 +142,29 @@ if(ob->query_material() == "/wood/elm" ) {
   ob->set_wc(base_wc + bonus_wc + 5+(qz*2), "vacuum");
 }
 if(ob->query_material() == "/wood/gum" ) {
-  ob->set_wc(base_wc + bonus_wc + 5+(qz*2), "cold");
+  ob->set_wc(base_wc + bonus_wc + 5+(qz*2), "reflection");
 }
 if(ob->query_material() == "/wood/limba" ) {
-  ob->set_wc(base_wc + bonus_wc + 5+(qz*2), "fire");
+  ob->set_wc(base_wc + bonus_wc + 5+(qz*2), "time");
 }
 if(ob->query_material() == "/wood/mahogany" ) {
-  ob->set_wc(base_wc + bonus_wc + 5+(qz*2), "stress");
+  ob->set_wc(base_wc + bonus_wc + 5+(qz*2), "acid");
 }
 if(ob->query_material() == "/wood/walnut" ) {
   ob->set_wc(base_wc + bonus_wc + 5+(qz*2), "impact");
 }
 if(ob->query_material() == "/wood/oak" ) {
-  ob->set_wc(base_wc + bonus_wc + 4+(qz*2), "impaling");
+  ob->set_wc(base_wc + bonus_wc + 4+(qz*2), "fire");
 }
 if(ob->query_material() == "/wood/maple" ) {
-  ob->set_wc(base_wc + bonus_wc + 4+(qz*2), "cutting");
+  ob->set_wc(base_wc + bonus_wc + 4+(qz*2), "cold");
 }
 if(ob->query_material() == "/wood/ironwood" ) {
   ob->set_wc(base_wc + bonus_wc + 4+(qz*2), "crushing");
 }
 //END
     if(name2 == "quarter-staff") {
-  ob->set_wc(base_wc + bonus_wc + 8+(qz*2), "crushing");
+  ob->set_wc(base_wc + bonus_wc + 8+(qz*6), "crushing");
     }  
     if(name2 == "bokken") {
   ob->set_wc(base_wc + bonus_wc + 6+(qz*2), "impaling");
@@ -182,21 +182,21 @@ if(ob->query_material() == "/wood/ironwood" ) {
   ob->set_wc(base_wc + bonus_wc + 10+(qz*2), "crushing");
     }
     if(name2 == "wooden-spear") {
-  ob->set_wc(base_wc + bonus_wc + 16+(qz*2), "impaling");
+  ob->set_wc(base_wc + bonus_wc + 16+(qz*6), "impaling");
     }
     if(name2 == "wooden-two-handed-sword") {
-  ob->set_wc(base_wc + bonus_wc + 9+(qz*2), "impaling");
-  ob->set_wc(base_wc + bonus_wc + 18+(qz*2), "cutting");
+  ob->set_wc(base_wc + bonus_wc + 9+(qz*6), "impaling");
+  ob->set_wc(base_wc + bonus_wc + 18+(qz*6), "cutting");
     }
     if(name2 == "nunchucks") {
   ob->set_wc(base_wc + bonus_wc + 13+(qz*2), "crushing");
     }
     if(name2 == "three-section-staff") {
-  ob->set_wc(base_wc + bonus_wc + 20+(qz*2), "crushing");
+  ob->set_wc(base_wc + bonus_wc + 20+(qz*8), "crushing");
     }
     if(name2 == "kanabou") {
-  ob->set_wc(base_wc + bonus_wc + 30+(qz*2), "crushing");
-  ob->set_wc(base_wc + bonus_wc + 30+(qz*2), "impact");
+  ob->set_wc(base_wc + bonus_wc + 30+(qz*6), "crushing");
+  ob->set_wc(base_wc + bonus_wc + 30+(qz*6), "impact");
     }
     if(name2 == "tonfa") {
   ob->set_wc(base_wc + bonus_wc + 10+(qz*2), "crushing");

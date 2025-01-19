@@ -2,94 +2,80 @@ inherit "/std/spells/spell";
 
 void create() {
     ::create();
-    set_property("name", "planar wrath");
-    set_property("skill", "elemental magic");
-    set_property("casting time", 15);
-    set_property("casting time", 5);
-    set_property("base mp cost", 250);
-    set_property("dev cost", 509);
-    set_property("fast dev cost", 1414);
-    set_property("spell level", 45);
-    set_property("moon", "warzau");
-    set_property("caster message", "%^B_WHITE%^%^RED%^You blast a roaring mass of explosive elemental power at $T!%^RESET%^");
+    set_property("name","planar wrath");
+    set_property("skill","elementalism");
+    set_property("casting time",5);
+    set_property("base mp cost",250);
+    set_property("dev cost",120);
+    set_property("fast dev cost",364);
+    set_property("spell level", 22);
+    set_property("moon","warzau");
+    set_property("caster message", "%^B_WHITE%^%^RED%^You blast a roaring mass of explosive elemental power at $T %^RESET%^");
     set_property("target message", "%^B_WHITE%^%^RED%^$C blasts a roaring mass of explosive elemental power at you!%^RESET%^");
-    set_property("observer message", "%^B_WHITE%^%^RED%^$C blasts a roaring mass of explosive elemental power at $T.%^RESET%^");
-    set_property("damage multiplier", 30+this_player()->query_level()*2);
-    set_property("spell type", ({ "damage" }));
+    set_property("observer message", "%^B_WHITE%^%^RED%^$C blasts a roaring mass of explosive elemental power %^RESET%^");
+    set_property("spell type",({ "damage" }));
+    set_property("elemental spell", 1);
     set_property("must be present", 1);
+    set_property("combat spell", 1);
+    set_property("ele damage", 42+(this_player()->query_level()));
+    set_property("damage multiplier", 8+(this_player()->query_level()));
+    set_property("no target", 1);
+    set_property("prereq", "elemental strike");
     return;
 }
 
 void info() {
-    message("help", "This is a powerful single target spell wielded by Elemental Overlords, the most powerful Elemental Mage pet. This spell can be casted extremely quickly and causes the same damage as ultimate elemental blast.", this_player());
+message("help",
+"This is a powerful single target spell wielded by Elemental Fury, the most powerful Elementalist pet. This spell can be casted extremely quickly This spell is the equivalent of firing 4 greater elemental bolts see 'help "
+"spell elemental bolt' at any number of targets.  You may fire all "
+"at one target or distribute them.  You must separate the targets by a "
+"comma.  If any one of the targets is not found, the spell will fail, and "
+"the magic point cost will be returned.  If fewer than 4 targets are supplied, "
+"all remaining bolts will strike the last target supplied.\n"
+"Syntax: cast *3 lesser elemental strike at beggar, guard, warrior\n"
+"In the above,beggar and guard get one bolt, while the warrior gets 2.  "
+"DO NOT use 'and' in the list.",
+this_player());
 }
 
 void spell_func(object caster, object at, int power, string args, int flag) {
-    object *inv;
-    mapping dmg;
-    string lorename1, lorename2, lorename3, lorename4;
-    int loreskill1, loreskill2, loreskill3, loreskill4;
-    int i;
+  object *inv;
+  int i, j;
+  string *targs, curr;
 
-    inv = all_inventory(environment(caster));
-
-    inv = filter_array(inv, "filter_fun");
-    for(i = 0;i < (sizeof(inv));i++) {
-	if(inv[i] == caster) {
-	    if(inv[i]->query_property("energy units") >= 380) {
-		inv[i]->set_property("energy units", ((inv[i]->query_property("energy units")) - 380));
-		lorename1 = (string)inv[i]->query_property("lore name");
-		loreskill1 = (int)inv[i]->query_property("lore power");
-		lorename2 = (string)inv[i]->query_property("lore name two");
-		loreskill2 = (int)inv[i]->query_property("lore power two");
-		lorename3 = (string)inv[i]->query_property("lore name three");
-		loreskill3 = (int)inv[i]->query_property("lore power three");
-		lorename4 = (string)inv[i]->query_property("lore name four");
-		loreskill4 = (int)inv[i]->query_property("lore power four");
-		if(loreskill1 > 400) {
-		    loreskill1 = 400;
-		}
-		if(loreskill2 > 400) {
-		    loreskill2 = 400;
-		}
-		if(loreskill3 > 400) {
-		    loreskill3 = 400;
-		}
-		if(loreskill4 > 400) {
-		    loreskill4 = 400;
-		}
-		if(inv[i]->query_property("lore name")) {
-		    dmg = ([ ""+lorename1+"" : loreskill1/1.5 ]);
-		    set_property("damage types", ([ ""+lorename1+"" : loreskill1/(3/2) ]));
-		if(inv[i]->query_property("lore name two") != 0) {
-		    set_property("damage types", ([ ""+lorename1+"" : loreskill1/(3/2), ""+lorename2+"" : loreskill2/(3/2) ]));
-		if(inv[i]->query_property("lore name three") != 0) {
-		    dmg = ([ ""+lorename1+"" : loreskill1/1.5, ""+lorename2+"" : loreskill2/1.5, ""+lorename3+"" : loreskill3/1.5 ]);
-		    set_property("damage types", ([ ""+lorename1+"" : loreskill1/(3/2), ""+lorename2+"" : loreskill2/(3/2), ""+lorename3+"" : loreskill3/(3/2) ]));
-		if(inv[i]->query_property("lore name four") != 0) {
-		    dmg = ([ ""+lorename1+"" : loreskill1/1.5, ""+lorename2+"" : loreskill2/1.5, ""+lorename3+"" : loreskill3/1.5, ""+lorename4+"" : loreskill4/1.5 ]);
-		    set_property("damage types", ([ ""+lorename1+"" : loreskill1/(3/2), ""+lorename2+"" : loreskill2/(3/2), ""+lorename3+"" : loreskill3/(3/2), ""+lorename4+"" : loreskill4/(3/2) ]));
-	    }
-	}
-    }
-}
-message("info", "%^RED%^You expend %^RESET%^380 %^RED%^energy units to cast the spell.%^RESET%^", caster);
-::spell_func(caster, at, power, args, flag);
-remove();
-return;
-}
-if(inv[i]->query_property("energy units") < 380) {
-    message("info", "There is not enough power left in your energy mass to cast this spell.", caster);
+  if(!args) {
+    message("info", "You must supply 1-4 targets for this spell!", caster);
+    caster->add_mp(props["mp cost"]);
     remove();
     return;
-}
-}
-}
-message("info", "There is no energy mass present owned by you that you can draw power from.", caster);
-remove();
-return;
+  }
+  targs = explode(args, ",");
+  i = sizeof(targs);
+  inv = ({});
+  while(i--) {
+    curr = targs[i];
+    while(strlen(curr) && curr[0] == ' ') curr = replace_string(curr, " ", "", 1);
+    while((j = strlen(curr)) >= 2 && curr[j-1] == ' ')
+      curr = curr[0..j-2];
+    curr = lower_case(curr);
+    if(present(curr, environment(caster)))
+      inv += ({ present(curr, environment(caster)) });
+    else {
+      message("info", "There is no '"+curr+"' here.  Your spell fails.", caster);
+      caster->add_mp(props["mp cost"]);
+      remove();
+      return;
+    }
+  }
+  while(sizeof(inv) > 4) inv = exclude_array(inv, sizeof(inv)-1);
+  while(sizeof(inv) < 4) inv += ({ inv[sizeof(inv)-1] });
+  i = sizeof(inv);
+  while(i--)
+    if(objectp(inv[i])) {
+      inv[i]->kill_ob(caster, 0);
+      ::spell_func(caster, inv[i], power, 0, flag);
+    }
+  remove();
+  return;
 }
 
-int filter_fun(object ob) {
-    return 1;
-}

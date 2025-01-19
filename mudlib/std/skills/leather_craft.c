@@ -133,6 +133,10 @@ vl=at->query_value();
   ob->set_ac(vl + base_ac + bonus_ac + (random(skill)/4), "cutting");
   ob->set_ac(vl + base_ac + bonus_ac + (random(skill)/7), "crushing"); 
 
+  ob->set_ac(vl + base_ac + bonus_ac + (random(skill)/5), "reflection");
+  ob->set_ac(vl + base_ac + bonus_ac + (random(skill)/5), "acid");
+  ob->set_ac(vl + base_ac + bonus_ac + (random(skill)/5), "time");
+
 if(at->query_material() == "/leather/Ghost" ) {
 ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1) );
 
@@ -152,49 +156,61 @@ ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1) );
   ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "impaling");
   ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "cutting");
   ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "crushing"); 
+
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "reflection");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "acid");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "time");
 }
 
 if(at->query_material() == "/leather/Zoanthrope" ) {
-ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/4) );
+ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2) );
 
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/4), "aether");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/4), "infernal");  
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/4), "unholy");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/4), "holy");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/4), "plasma");  
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/4), "disruption");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/4), "electricity");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/4), "vacuum");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/4), "cold");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/4), "fire");  
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/4), "stress");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/4), "impact");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/4), "strike");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/4), "impaling");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/4), "cutting");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/4), "crushing"); 
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "aether");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "infernal");  
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "unholy");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "holy");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "plasma");  
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "disruption");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "electricity");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "vacuum");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "cold");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "fire");  
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "stress");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "impact");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "strike");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "impaling");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "cutting");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "crushing");
+
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "reflection");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "acid");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "time"); 
 }
 
 
 if(at->query_material() == "/leather/Carnifex" ) {
-ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3) );
+ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1) );
 
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "aether");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "infernal");  
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "unholy");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "holy");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "plasma");  
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "disruption");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "electricity");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "vacuum");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "cold");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "fire");  
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "stress");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "impact");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "strike");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "impaling");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "cutting");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "crushing"); 
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "aether");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "infernal");  
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "unholy");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "holy");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "plasma");  
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "disruption");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "electricity");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "vacuum");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "cold");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "fire");  
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "stress");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "impact");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "strike");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "impaling");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "cutting");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "crushing"); 
+
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "reflection");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "acid");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "time");
 }
 
 if(at->query_material() == "/leather/Hive Tyrant" ) {
@@ -215,30 +231,34 @@ ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2) );
   ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "strike");
   ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "impaling");
   ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "cutting");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "crushing"); 
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "crushing");
+
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "reflection");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "acid");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "time"); 
 }
 
 
 
 if(at->query_material() == "/leather/Beholder" ) {
-ob->set_ac(base_ac + bonus_ac + (random(vl)+random(skill)/3) );
+ob->set_ac(base_ac + bonus_ac + (random(vl)+random(skill)/2) );
 
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "aether");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "infernal");  
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "unholy");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "holy");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "plasma");  
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "disruption");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "electricity");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "vacuum");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "cold");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "fire");  
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "stress");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "impact");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "strike");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "impaling");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "cutting");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/3), "crushing"); 
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "aether");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "infernal");  
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "unholy");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "holy");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "plasma");  
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "disruption");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "electricity");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "vacuum");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "cold");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "fire");  
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "stress");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "impact");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "strike");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "impaling");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "cutting");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "crushing"); 
 }
 
 if(at->query_material() == "/leather/Elder Brain" ) {
@@ -259,7 +279,36 @@ ob->set_ac(base_ac + bonus_ac + (random(vl)+random(skill)/2) );
   ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "strike");
   ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "impaling");
   ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "cutting");
-  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "crushing"); 
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "crushing");
+
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "reflection");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "acid");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "time");
+}
+
+if(at->query_material() == "/leather/Troll King" ) {
+ob->set_ac(base_ac + bonus_ac + (random(vl)+random(skill)/1) );
+
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "aether");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "infernal");  
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "unholy");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "holy");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "plasma");  
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "disruption");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "electricity");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "vacuum");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "cold");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "fire");  
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "stress");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "impact");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "strike");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "impaling");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "cutting");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/1), "crushing"); 
+
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "reflection");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "acid");
+  ob->set_ac(vl+base_ac + bonus_ac + (random(vl)+random(skill)/2), "time");
 }
 
 /* to add

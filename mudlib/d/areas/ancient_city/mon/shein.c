@@ -7,7 +7,7 @@ void create() {
    ::create();
    set_name("shein");
    set("id", ({"shopkeeper", "shop keeper", "shein"}));
-add_money("mithril", 350);
+add_money("mithril", 300);
 set_level(30);
    set_exp(500);
    set_max_hp(90000000);

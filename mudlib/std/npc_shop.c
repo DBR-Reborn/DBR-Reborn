@@ -610,6 +610,11 @@ void offer_me(string arg, object who) {
     who->add_money(vals[i], -1 * trans_money[vals[i]]);
     add_money(vals[i], trans_money[vals[i]]);
   }
+  if(ob->query_is_locker()){
+    ob->set_lock("unlocked");
+    ob->set_lock_level(20);
+    ob->set_key((string)who->query_name()+" chest key");
+  }
   say_this("Here you go, "+(string)who->query_cap_name()+".");
   message("info", (string)who->query_cap_name()+" buys "+
 	  (string)ob->query_short()+".", all_inventory(environment()),

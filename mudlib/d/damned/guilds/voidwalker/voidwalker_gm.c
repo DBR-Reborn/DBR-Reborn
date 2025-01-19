@@ -39,7 +39,7 @@ void create() {
   set_skill("melee", 150);
   set_skill("perception", 150);
   set_skill("concentrate", 150);
-  set_skill("void lore", 150);
+  set_skill("darkweaving", 150);
   set_skill("dodge", 150);
   set_skill("parry", 150);
   set_skill("two handed blade", 200);

@@ -24,5 +24,7 @@ void reset() {
 	new(MON+"tzeentchc.c")->move(this_object());
 	new(MON+"twarrior.c")->move(this_object());
 	new(MON+"twarrior.c")->move(this_object());
+	new(MON+"twarrior.c")->move(this_object());
+	new(MON+"twarrior.c")->move(this_object());
     }
 }

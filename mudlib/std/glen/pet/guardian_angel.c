@@ -13,6 +13,7 @@ void create() {
     set_attack(0);
     set_carry(0);
     set_save(0);
+set_property("no save", 1);
     set_level(15);
     set_short("white-robed Guardian Angel");
     set_long("This angel is enveloped in a holy protective aura.");

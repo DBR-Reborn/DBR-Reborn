@@ -19,13 +19,20 @@ void create() {
   return;
 }
 
+void restore_stuff() {
+    ::restore_stuff();
+    if(elems && power && element)
+	this_object()->set_up(power, elems, element);
+    return;
+}
+/*
 void restore_locker(string file) {
   ::restore_locker(file);
   if(elems && power && element)
     this_object()->set_up(power, elems, element);
   return;
 }
-
+*/
 int id(string str) {
   if(::id(str)) return 1;
   if(!element) return 0;

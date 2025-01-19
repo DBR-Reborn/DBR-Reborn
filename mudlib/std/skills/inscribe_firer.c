@@ -70,13 +70,23 @@ void finish_work(object from, object at) {
   int i;
   string *runes, *wc_keys;
   mixed tmp;
+string* auto_criticals;
   
   message("info", "%^CYAN%^%^BOLD%^You finish inscribing the rune.",
     from);
-  if(!check_brittle(at, from, 8)) {
-    remove();
-    return;
-  }
+//ADD
+if (props["skill level"] >= 150) {
+		if (!check_brittle(at, from, 16)) {
+        remove();
+        return;
+    }
+} else {
+    if (!check_brittle(at, from, 8)) {
+        remove();
+        return;
+    }
+}
+//END
   wc = (mapping)at->all_base_wc();
   if(!wc) wc = ([]);
   if(!wc["fire"]) wc["fire"] = 0;
@@ -95,6 +105,24 @@ from->add_exp2(15 * props["skill level"]+(this_player()->query_level()*100));
     if(pointerp(tmp)) tmp += ({ "A %^BOLD%^%^RED%^Firer%^RESET%^ rune is inscribed on the weapon." });
     else if(stringp(tmp)) tmp = ({ tmp, "A %^BOLD%^%^RED%^Firer%^RESET%^ rune is inscribed on the weapon." });
   else tmp = ({ "A %^BOLD%^%^RED%^Firer%^RESET%^ rune is inscribed on the weapon." });
+
+//ADD TLNY2025
+if (props["skill level"] >= 150) {
+auto_criticals = at->query_auto_critical();
+
+auto_criticals += ({"fire A"});
+
+at->set_auto_critical(auto_criticals);
+
+message("info", "%^BOLD%^%^YELLOW%^It glows with the brilliance of a Masterpiece!%^RESET%^", from);
+
+ tmp = at->query_property("extra long");
+    if(pointerp(tmp)) tmp += ({ "A Masterpiece %^BOLD%^%^RED%^Firer%^RESET%^ rune is inscribed on the weapon." });
+    else if(stringp(tmp)) tmp = ({ tmp, "A Masterpiece %^BOLD%^%^RED%^Firer%^RESET%^ rune is inscribed on the weapon." });
+  else tmp = ({ "A Masterpiece %^BOLD%^%^RED%^Firer%^RESET%^ rune is inscribed on the weapon." });
+}
+//END
+
   at->set_property("extra long", tmp);
   remove();
   return;

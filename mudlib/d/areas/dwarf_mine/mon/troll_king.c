@@ -89,7 +89,7 @@ void create() {
     }
 
 //controls monsters level
-    zlevel = (50+random(10));
+    zlevel = (50+random(11));
 //Controls Loot level and other fucntions do to raise to high multpies loot
     lvl = 2;
 //Controls critical hit reduction and other such
@@ -128,7 +128,7 @@ ext);
 
    set_money("mithril", random(zlevel*lvl)+zlevel);
    //set_money("gold", random(zlevel*lvl)+zlevel); 
-   //set_money("silver", random(zlevel*lvl)+zlevel);  
+   //set_money("gold", random(zlevel*lvl)+zlevel);  
    //set_money("copper", random(zlevel*lvl)+zlevel); 
 
    set("gang bang", 1);
@@ -647,20 +647,16 @@ message("info","%^BLACK%^%^B_YELLOW%^Somthing drops on the corpse you should pro
     ob->set_material("metal/"+mtlname);
 	break;
 	case 17:
-message("info","%^BLACK%^%^B_YELLOW%^Somthing drops on the corpse you should probably LOOK at corpse%^RESET%^", environment(this_object()), this_object());
+message("info","%^COLOR222%^A extra ingot drops on the corpse you should probably LOOK at corpse and get it%^RESET%^", environment(this_object()), this_object());
  ob = new("/std/diewarzau/obj/misc/ingot");
     ob->set_material("metal/"+mtlname);
+    ob->set_value((2*zlevel)+random(zlevel));
+    ob->set_weight((2*zlevel)+random(zlevel));
    ob->move(this_object());
 break;
     }
 
-switch(random(10)){
-    case 1:
-message("info","%^COLOR222%^A extra ingot drops on the corpse you should probably LOOK at corpse and get it%^RESET%^", environment(this_object()), this_object());
- ob = new("/std/diewarzau/obj/misc/ingot");
-    ob->set_material("metal/"+mtlname);
-   ob->move(this_object());
-}
+
 switch(random(100)){
     case 99:
 message("info","%^COLOR200%^Very Rare loot drops on the corpse you should probably LOOK at corpse and get it%^RESET%^", environment(this_object()), this_object());

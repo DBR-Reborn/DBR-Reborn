@@ -109,7 +109,7 @@ at->set_property("flame blade", ench);
     ench = (int)at->query_wc("fire");
     if(!ench) ench = power;
     else ench += power;
-    at->set_wc(((20*power)+ench)/2+(caster->query_level()/2), "fire");
+    at->set_wc(((7*power)+ench)+(caster->query_level()/2), "fire");
     caster->add_exp2(100*power);
 
 tmp = (mixed)at->query_property("extra long");

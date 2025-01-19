@@ -39,7 +39,7 @@ add_skill("assaying", 2);
 add_skill("body block", 2);
 add_skill("dodge", 3);
 add_skill("empowerment", 3);
-add_skill("void lore", 1);
+add_skill("darkweaving", 1);
 add_skill("concentrate", 5);
 add_skill("focus casting", 5);
 add_skill("spell sense", 12);

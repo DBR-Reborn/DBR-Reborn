@@ -626,15 +626,25 @@ varargs static void heart_beat(int recurs_flag) {
 //TLNY2022 new code
 if(this_player()->query_current_attacker()){
     if(sizeof(query_attackers()) && getenv("SCORE") == "on") {
-	message("my_combat",""+"%^BOLD%^%^RED%^"+sprintf("hp:%d/%d ", query_hp(), query_max_hp()) +" %^BOLD%^%^CYAN%^"+ sprintf("mp:%d/%d", query_mp(), query_max_mp())+"%^RESET%^ "+this_player()->query_attackers()[0]->query_short()+" "+this_player()->query_attackers()[0]->query_hp()*100/this_player()->query_attackers()[0]->query_max_hp()+"%", this_object());
+//TLNY2024 Division of zero new code below to correct it	
+//message("my_combat",""+"%^BOLD%^%^RED%^"+sprintf("hp:%d/%d ", query_hp(), query_max_hp()) +" %^BOLD%^%^CYAN%^"+ sprintf("mp:%d/%d", query_mp(), query_max_mp())+"%^RESET%^ "+this_player()->query_attackers()[0]->query_short()+" "+this_player()->query_attackers()[0]->query_hp()*100/this_player()->query_attackers()[0]->query_max_hp()+"%", this_object());
+
+message("my_combat", 
+    "%^BOLD%^%^RED%^" + sprintf("hp:%d/%d ", query_hp(), query_max_hp()) + 
+    " %^BOLD%^%^CYAN%^" + sprintf("mp:%d/%d", query_mp(), query_max_mp()) + 
+    "%^RESET%^ " + 
+    this_player()->query_attackers()[0]->query_short() + 
+    " " + 
+    (this_player()->query_attackers()[0]->query_max_hp() > 0 ? 
+        this_player()->query_attackers()[0]->query_hp() * 100 / this_player()->query_attackers()[0]->query_max_hp() : 0) + 
+    "%", 
+    this_object());
+    }
 }
 /*
 else { message("my_combat",""+"%^BOLD%^%^RED%^"+sprintf("hp:%d/%d ", query_hp(), query_max_hp()) +" %^BOLD%^%^CYAN%^"+ sprintf("mp:%d/%d", query_mp(), query_max_mp()), this_object());
     }
-*/
-}
-
-/* //old code replaced by TLNY2020 with new code above ^
+ //old code replaced by TLNY2020 with new code above ^
     if(sizeof(query_attackers()) && getenv("SCORE") != "off")
 	message("my_combat", sprintf("hp: %d (%d)  mp: %d (%d)",
 	    query_hp(), query_max_hp(), query_mp(), 

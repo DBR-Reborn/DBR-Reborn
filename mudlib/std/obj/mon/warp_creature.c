@@ -52,6 +52,7 @@ set("aggressive", (: this_object(), "no_other_monsters" :) );
  
 void die(object obi) {
 	object tmp,ob;
+    int dmg1;
 	tmp = environment();
 	ob = new("/wizards/excelsior/misc/portal");
 	ob->move(tmp);
@@ -61,6 +62,16 @@ void die(object obi) {
 		"becomes unstable. A portal opens up in the nexus.",tmp);
 	message("info","%^BLUE%^A portal opens! It will close as soon as reality "+
 		"stabalizes.",tmp);
+dmg1= this_object()->query_attackers()[0]->query_level()+random(11);
+
+message("info", "The creature dies and a stronger version appears",tmp);
+ ob=new("/std/obj/mon/warp_creature2");
+ob->set_level(dmg1);
+ob->set_short("["+dmg1+"] Warp Creature");
+ob->set_melee_damage(([ "crushing" : (125+dmg1)*3, "electricity" : (125+dmg1)*3, "vacuum" : (125+dmg1)*3, "stress" : (125+dmg1)*3, "aether" : (125+dmg1)*5, "unholy" : (125+dmg1)*3 ]));
+ob->set_skill("melee", 12*dmg1);
+ob->move(environment());
+
 	::die(obi);
 }
 

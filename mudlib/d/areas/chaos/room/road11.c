@@ -20,8 +20,8 @@ void reset() {
 	::reset();
     	if(!present("peasant")) {
 	new(MON+"peasant.c")->move(this_object());
-new(MON+"peasant.c")->move(this_object());
-new(MON+"peasant.c")->move(this_object());
+	new(MON+"peasant.c")->move(this_object());
+	new(MON+"peasant.c")->move(this_object());
 	new(OBJ+"body.c")->move(this_object());
     }
 }

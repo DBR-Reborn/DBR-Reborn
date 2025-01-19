@@ -44,6 +44,13 @@ void spell_func(object caster, object at, int power, string args, int flag) {
   }
 
   if(flag) {
+    message("info", "The spell fizzles, costing double mp.", caster);
+    caster->add_mp(-1* props["mp cost"]);
+    remove();
+    return;
+  }
+/*
+  if(flag) {
     message("info", "Impure thoughts invade your mind and unconciously "+
       "quake and scream, drop the weapon and it crumbles to dust!", caster);
     message("info", (string)caster->query_cap_name() +
@@ -53,7 +60,7 @@ void spell_func(object caster, object at, int power, string args, int flag) {
     remove();
     return;
   }
-
+*/
   if((int)at->query_property("bless weapon") >= (caster->query_skill("prayer") / 5) ) {
     message("info", "This weapon can not receive any additional blessing at your current skill level.", caster);
     caster->add_mp(props["mp cost"]);
@@ -100,22 +107,27 @@ string* auto_criticals;
     (string)caster->query_possessive()+" hands.",
 	  environment(caster), ({ caster }) );
 
-  if(!check_brittle(at, caster, power)) {
-    remove();
-    return;
-  }
+if(caster->query_skill("prayer") >=150) {
+if(!check_brittle(at, caster, power*2)) {
+remove();
+return;
+} else { if(!check_brittle(at, caster, power)) {
+remove();
+return;
+} } }
 
 ench = (int)at->query_property("bless weapon");
     
 
 //ADD
+if(caster->query_skill("prayer") >=150) {
 if((int)at->query_property("bless weapon") <= 1 ) {
 auto_criticals = at->query_auto_critical();
 
 auto_criticals += ({"holy A"});
 
 at->set_auto_critical(auto_criticals);
-}
+}}
 //END
  
 if(!ench) {
@@ -126,18 +138,9 @@ at->set_property("bless weapon", ench);
     ench = (int)at->query_wc("holy");
     if(!ench) ench = power;
     else ench += power;
-    at->set_wc(((9*power)+ench)+(caster->query_level()/2), "holy");
-    caster->add_exp2(500*power);
+    at->set_wc(((8*power)+ench)+(caster->query_level()/2), "holy");
 
-//ADD
-if((int)at->query_property("bless weapon") >= 60 ) {
-auto_criticals = at->query_auto_critical();
 
-auto_criticals += ({"holy A"});
-
-at->set_auto_critical(auto_criticals);
-}
-//END
 
 tmp = (mixed)at->query_property("extra long");
 if(!tmp) {
@@ -153,6 +156,7 @@ if(idx < 0) {
 tmp += ({ ({ "This weapon has %^BOLD%^Bless Weapon%^RESET%^.", "detect magic" }) });
 at->set_property("extra long", tmp);
 remove();
+caster->add_exp2(4 * caster->query_skill("prayer") + (this_player()->query_level()*100));
 return;
 }
 }

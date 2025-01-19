@@ -5,6 +5,7 @@ void create() {
     set_stat("strength");
     set_dev_cost(4);
     set_fast_dev_cost(16);
+    set_property("prereq", "attack");
 }
 
 void info() {

@@ -481,12 +481,12 @@ void execute_attack() {
 	//if(query_skill("martial arts") >= 60) num_attacks = 2;
 	//else num_attacks = 1;
 	
-	/* TLNY2024 Removed
+	
 	//HONSPRON 2021
 	if (me->query_state() == "rest") num_attacks = 0;
 	if (me->query_state() == "prone") num_attacks = 0;
 	if (me->query_state() == "sit") num_attacks = 1;
-	*/
+	
 
     }
     if((i = check_limbs_for_attack()) < num_attacks)
@@ -502,6 +502,7 @@ void execute_attack() {
 	 if(num_attacks < 1)
 	 if(me->query_skill("martial arts") >= 100)
 	 num_attacks = me->query_skill("martial arts") / 200 + 1;
+       //num_rounds = me->query_skill("martial arts") / 200 + 1;
 	 else
 	 num_attacks = 1;
 	 //END
@@ -593,6 +594,17 @@ if(me->query("riposting") || me->query("single attack")){
 		    continue;
 		}  else
 		    // dodge
+//ADD
+if (skill - random(100) < 
+    (int)attackers[0]->query_skill("dodge") - 
+    ((int)attackers[0]->query_max_internal_encumbrance() > 0 ? 
+        (int)attackers[0]->query_internal_encumbrance() * 100 / (int)attackers[0]->query_max_internal_encumbrance() : 0) / 5 - 
+    random(100) && !attackers[0]->query_paralyzed()) {
+    miss("dodge", (current) ? (string)current->query_type() : 0);
+    defendflag = 1;
+    continue;
+//END
+/*
 		if(skill - random(100) <
 		  (int)attackers[0]->query_skill("dodge") - to_int(percent(
 		      (int)attackers[0]->query_internal_encumbrance(),
@@ -602,6 +614,7 @@ if(me->query("riposting") || me->query("single attack")){
 		      0);
 		    defendflag = 1;
 		    continue;
+*/
 			// block
 		} else if(has_shield && (skill -
 		    random(100) < (int)attackers[0]->query_skill("block") -
@@ -781,13 +794,56 @@ if((int)attackers[0]->query_max_internal_encumbrance() <= 0)
 	    me->add_exp(x/ATTACK_DAMAGE_EXP_MOD);
 	}
     }
+//ADD
+// Ensure criticals is initialized
+if (!criticals) criticals = ({});
+
+// Check if current has auto criticals and defendflag is less than 1
+if (current && (string *)current->query_auto_critical() && defendflag < 1) {
+    string *auto_criticals = (string *)current->query_auto_critical();
+    string *triggered_criticals = ({});
+    
+    // Loop through each auto critical and apply a 1 in 4 chance
+    foreach (string critical in auto_criticals) {
+        int chance = random(2); // 1 in 3 chance
+        if (chance == 0) { // If the chance is successful
+            triggered_criticals += ({ critical }); // Add to triggered criticals
+        }
+    }
+
+    // If any auto criticals were triggered, execute them
+    if (sizeof(triggered_criticals)) {
+        do_criticals(triggered_criticals);
+    }
+}
+//END
+/* Changed TLNY 2025
     if(!criticals) criticals = ({});
     if(current && (string *)current->query_auto_critical() && defendflag < 1)
 	do_criticals((string *)current->query_auto_critical());
+*/
 /*I don't think this did anything, below
 *	do_critical(me, attackers[0],
 *	  (string *)current->query_auto_critical(),
 *	  target_thing);
+*/
+/*
+//ADD TLNY2025 
+if (x > 0) attackers[0]->check_on_limb(target_thing);
+if (criticals && sizeof(criticals)) {
+    tmp = ({});
+    // Loop through the number of attacks
+    for (i = 0; i < num_attacks; i++) {
+        if (!sizeof(criticals)) break; // Break if there are no more criticals
+        // Randomly select a critical
+        j = random(sizeof(criticals));
+        tmp += ({ criticals[j] });
+        // Optional: If you want to exclude this critical from future checks, uncomment the line below
+        // criticals = exclude_array(criticals, j);
+    }
+    do_criticals(tmp); // Apply the collected criticals
+}
+//END 
 */
     if(x > 0) attackers[0]->check_on_limb(target_thing);
     if(criticals && sizeof(criticals)) {
@@ -827,8 +883,6 @@ private void do_criticals(string *criticals) {
     amt = 0;
     sscanf(criticals[i],"%s %s", what2, what);
     tmp_crits = attackers[0]->query_property("enhance criticals");
-	if(attackers[0]->query_focused_attack() && intp(tmp_crits))
-	    tmp_crits += (int)attackers[0]->query_focused_attack();
     if(tmp_crits && intp(tmp_crits))
       amt += tmp_crits;
     else if(tmp_crits && mapp(tmp_crits)) {
@@ -1081,7 +1135,59 @@ mapping get_damage(object weap) {
 	    dmg_type = DAMAGE_TYPES[0];
 if(this_object()->query_skill("martial arts")&& (int)
 	  this_object()->query_skill("martial arts") > 10)
-	    ret_val += ([ "strike" : 50 ]);
+		ret_val += (mapping)this_object()->query_property("melee damage") + ([ "strike" : 50 ]);
+	if(this_object()->query_skill("martial arts")&& (int)
+	  this_object()->query_skill("martial arts") > 50)
+	    ret_val += (mapping)this_object()->query_property("melee damage") + ([ "strike" : 250 ]);
+	if(this_object()->query_skill("martial arts")&& (int)
+	  this_object()->query_skill("martial arts") > 100)
+	    ret_val += (mapping)this_object()->query_property("melee damage") + ([ "strike" : 500, "strike" : 500 ]);
+	if(this_object()->query_skill("martial arts")&& (int)
+	  this_object()->query_skill("martial arts") > 150)
+	    ret_val += (mapping)this_object()->query_property("melee damage") + ([ "strike" : 750, "strike" : 750 ]);
+	if(this_object()->query_skill("martial arts")&& (int)
+	  this_object()->query_skill("martial arts") > 200)
+	    ret_val += (mapping)this_object()->query_property("melee damage") + ([ "strike" : 1000, "strike" : 1000 ]);
+	if(this_object()->query_skill("martial arts")&& (int)
+	  this_object()->query_skill("martial arts") > 250)
+	    ret_val += (mapping)this_object()->query_property("melee damage") + ([ "strike" : 1250, "strike" : 1250 ]);
+	if(this_object()->query_skill("martial arts")&& (int)
+	  this_object()->query_skill("martial arts") > 300)
+	    ret_val += (mapping)this_object()->query_property("melee damage") + ([ "strike" : 1500, "strike" : 1500 ]);
+	if(this_object()->query_skill("martial arts")&& (int)
+	  this_object()->query_skill("martial arts") > 350)
+	    ret_val += (mapping)this_object()->query_property("melee damage") + ([ "strike" : 1750, "strike" : 1750 ]);
+	if(this_object()->query_skill("martial arts")&& (int)
+	  this_object()->query_skill("martial arts") > 400)
+	    ret_val += (mapping)this_object()->query_property("melee damage") + ([ "strike" : 2000, "strike" : 2000 ]);
+	if(this_object()->query_skill("martial arts")&& (int)
+	  this_object()->query_skill("martial arts") > 500)
+	    ret_val += (mapping)this_object()->query_property("melee damage") + ([ "strike" : 2500, "strike" : 2500 ]);
+	if(this_object()->query_skill("martial arts")&& (int)
+	  this_object()->query_skill("martial arts") > 550)
+	    ret_val += (mapping)this_object()->query_property("melee damage") + ([ "strike" : 2750, "strike" : 2750 ]);
+	if(this_object()->query_skill("martial arts")&& (int)
+	  this_object()->query_skill("martial arts") > 600)
+	    ret_val += (mapping)this_object()->query_property("melee damage") + ([ "strike" : 3000, "strike" : 3000 ]);
+	if(mapp(ret_val)) tmp = distinct_array(keys(ret_val) + ({ dmg_type }));
+	else tmp = ({ dmg_type });
+	i = sizeof(tmp);
+	while(i--) {
+	    if(undefinedp(ret_val[tmp[i]])) ret_val[tmp[i]] = 0;
+	    if(intp(this_object()->query_skill("martial arts")))
+		ret_val[tmp[i]] += (int)this_object()->query_skill("martial arts")
+		/ 4;
+	    ret_val[tmp[i]] += melee/10 + attack/20 + 
+	    (int)this_object()->query_physical() + (int)this_object()->query_stats(
+	      "strength") / 7;
+	}
+    }
+    else {
+	ret_val = weap->query_all_wc();
+//ADD
+if(this_object()->query_skill("martial arts")&& (int)
+	  this_object()->query_skill("martial arts") > 10)
+		ret_val += ([ "strike" : 50 ]);
 	if(this_object()->query_skill("martial arts")&& (int)
 	  this_object()->query_skill("martial arts") > 50)
 	    ret_val += ([ "strike" : 250 ]);
@@ -1115,21 +1221,7 @@ if(this_object()->query_skill("martial arts")&& (int)
 	if(this_object()->query_skill("martial arts")&& (int)
 	  this_object()->query_skill("martial arts") > 600)
 	    ret_val += ([ "strike" : 3000, "strike" : 3000 ]);
-	if(mapp(ret_val)) tmp = distinct_array(keys(ret_val) + ({ dmg_type }));
-	else tmp = ({ dmg_type });
-	i = sizeof(tmp);
-	while(i--) {
-	    if(undefinedp(ret_val[tmp[i]])) ret_val[tmp[i]] = 0;
-	    if(intp(this_object()->query_skill("martial arts")))
-		ret_val[tmp[i]] += (int)this_object()->query_skill("martial arts")
-		/ 4;
-	    ret_val[tmp[i]] += melee/10 + attack/20 + 
-	    (int)this_object()->query_physical() + (int)this_object()->query_stats(
-	      "strength") / 7;
-	}
-    }
-    else {
-	ret_val = weap->query_all_wc();
+//END
 	tmp = keys(ret_val);
 	for(i=0;i<sizeof(tmp);i++) {
 	    ret_val[tmp[i]] += attack/15 + query_skill((string)weap->

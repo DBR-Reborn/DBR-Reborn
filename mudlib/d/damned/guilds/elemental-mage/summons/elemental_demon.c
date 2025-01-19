@@ -9,6 +9,7 @@ void create() {
     set_attack(1);
     set_carry(0);
     set_save(0);
+set_property("no save", 1);
     set_level(45);
     set_combat_chance(120);
     set_short("A fearsome elemental demon");

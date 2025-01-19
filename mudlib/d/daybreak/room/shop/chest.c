@@ -44,10 +44,8 @@ string msg;
   msg =
 "The following chests are available:\n"
 "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\n"
-"Small Chest          Stores 5 items (2000 coins weight)\n"
-"Large Chest          Stores 8 items (3200 coins weight)\n"
+"Large Chest          Stores 10 items (3200 coins weight)\n"
 "Storage Locker       Stores 25 items (15000 coins weight)\n"
-"                     Can be used to store inventory of shops\n"
 "Safe                 Can store about 100,000 coins (money only)\n"
 "\n'say gil, help' for assistance.\n";
   this_player()->more(explode(msg, "\n"));

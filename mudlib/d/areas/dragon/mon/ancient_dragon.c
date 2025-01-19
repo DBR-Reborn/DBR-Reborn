@@ -238,8 +238,8 @@ spell.", who)) {
 void init()
 {
     ::init();
-    add_action("no","north");
-    add_action("no","south");
+    //add_action("no","north");
+    //add_action("no","south");
     //add_action("no","east");
     //add_action("no","west");
     //add_action("no","enter");
@@ -448,19 +448,22 @@ message("info","%^BLACK%^%^B_YELLOW%^Somthing drops on the corpse you should pro
     ob->set_material("metal/"+mtlname);
 	break;
 	case 15:
-message("info","%^BLACK%^%^B_YELLOW%^Somthing drops on the corpse you should probably LOOK at corpse%^RESET%^", environment(this_object()), this_object());
+message("info","%^COLOR222%^A extra ingot drops on the corpse you should probably LOOK at corpse and get it%^RESET%^", environment(this_object()), this_object());
  ob = new("/std/diewarzau/obj/misc/ingot");
     ob->set_material("metal/"+mtlname);
+    ob->set_value((2*zlevel)+random(zlevel));
+    ob->set_weight((2*zlevel)+random(zlevel));
    ob->move(this_object());
 break;
     }
 
 switch(random(100)){
     case 66:
-message("info","%^COLOR222%^A extra ingot drops on the corpse you should probably LOOK at corpse and get it%^RESET%^", environment(this_object()), this_object());
+message("info","%^COLOR222%^A ingot drops on the corpse you should probably LOOK at corpse and get it%^RESET%^", environment(this_object()), this_object());
  ob = new("/std/diewarzau/obj/misc/ingot");
     ob->set_material("metal/"+mtlname);
-    ob->set_weight(20+random(zlevel));
+    ob->set_value((2*zlevel)+random(zlevel));
+    ob->set_weight((2*zlevel)+random(zlevel));
    ob->move(this_object());
 }
 

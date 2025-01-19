@@ -53,6 +53,8 @@ void spell_func(object caster, object at, int power, string args, int flag) {
 //  object ob;
   mapping sk_aff = SKILLS_AFFECTED;
 
+
+
   seteuid(getuid());
   if ((int)at->query("a bless num") + (int)at->query("f bless num") + (int)at->query("c bless num") >= 1 ) {
     message("info", (string)at->query_cap_name() +
@@ -61,11 +63,12 @@ void spell_func(object caster, object at, int power, string args, int flag) {
     remove();
     return;
   }
-
     at->set("a bless num", (int)at->query("a bless num") + 1);
     delayed_call("remove_stack", props["duration"], at);
     ::spell_func(caster, at, power, args, flag);
+caster->add_exp2(8 * caster->query_skill("prayer") + (this_player()->query_level()*100));
   return;
+
 }
 /*
   if(flag) message("info", "The spell's effects are reversed!", caster);

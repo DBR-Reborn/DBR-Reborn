@@ -60,6 +60,7 @@ void spell_func(object caster, object at, int power, string args, int flag) {
   at->set("holy armour #", (int)at->query("holy armour #") + 1);
   call_out("remove_stack", props["duration"], at);
   ::spell_func(caster, at, power, args, flag);
+    caster->add_exp2(5 * caster->query_skill("prayer") + (this_player()->query_level()*100));
   return;
 }
 

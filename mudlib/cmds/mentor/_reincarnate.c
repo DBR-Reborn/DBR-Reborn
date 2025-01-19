@@ -44,6 +44,13 @@ int cmd_reincarnate(string str) {
   who->remove_property("sp points");
   who->remove_property("sp skills");
   who->remove_property("sp spells");
+
+//ADD TLNY2025
+  who->remove_property("dev cost");
+  who->remove_property("xp mod");
+  who->remove_property("magic resistance");
+//END
+
   who->reset_quests();
   langs = (string *)who->query_all_languages();
   if(langs && pointerp(langs) && (i=sizeof(langs))) {
@@ -53,7 +60,10 @@ int cmd_reincarnate(string str) {
     "query_auto_load");
   if(inv && sizeof(inv))
     map_array(inv, (: call_other :), "remove");
-  who->set_property("old exp", (int)ADVANCE_D->get_exp(lev) + 150);
+    //who->set_property("old exp", (int)ADVANCE_D->get_exp(lev) + 150);
+//ADD //TLNY2025 Keep original EXP for the level
+who->set_property("old exp", (int)ADVANCE_D->get_exp(lev) + (who->query_exp() - (int)ADVANCE_D->get_exp(who->query_level())));
+//END
   who->set_level(1);
 //  who->set_property("dev points", extra_dev);
   who->add_exp(-1 * (int)who->query_exp());

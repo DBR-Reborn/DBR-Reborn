@@ -3,7 +3,7 @@ inherit "/std/spells/spell";
 void create() {
 ::create();
 set_property("name", "void pact");
-set_property("skill", "void lore");
+set_property("skill", "darkweaving");
 set_property("casting time", 15);
 set_property("base mp cost", 0);
 set_property("dev cost", 105);

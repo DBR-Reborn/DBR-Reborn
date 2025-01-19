@@ -15,8 +15,6 @@ void reset() {
 	{
 	    new(MON+"sentry")->move(this_object());
 	    new(MON+"dwarfslayer")->move(this_object());
-        new(MON+"dwarfslayer")->move(this_object());
-        new(MON+"dwarfslayer")->move(this_object());
         
 	}
   }

@@ -96,7 +96,7 @@ switch(random(8)){
     set_level(zlevel);
     set("aggressive",1);
     set("gang bang", 1);
-    add_money("silver",random(20)+10);
+    add_money("gold",random(zlevel)+10);
     set("short","["+zlevel+"]Sinister Goblin");
     set("long","strong Goblin");
     set("race","monster");
@@ -115,8 +115,8 @@ switch(random(8)){
     add_limb("right foot","NON FATAL",185,0,5);
 */
     add_wielding_limb("right hand");
-  set_speed(100);
-  set_moving(1);
+  //set_speed(100);
+  //set_moving(1);
 
 /*    
     set_skill("axe", zlevel*11);

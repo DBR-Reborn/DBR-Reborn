@@ -11,6 +11,8 @@ void create() {
 	set_long(
 		"You are in a hallway of the Wretched Zombie Inn"
 	);
-	add_exit("/d/nocte/kuril/inn/h32", "north");
-	add_exit("/d/nocte/kuril/inn/h12","south");
+
+    add_exit("/d/nocte/kuril/inn/h32", "north");
+    add_exit("/d/nocte/kuril/inn/h12", "south");
+
 }

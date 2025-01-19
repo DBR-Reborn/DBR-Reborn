@@ -16,11 +16,11 @@ void init() {
 void reset() {
     ::reset();
     if(!present("camel")) {
-      new("/wizards/khojem/nomad/mon/camel")->move(this_object());
-      new("/wizards/khojem/nomad/mon/camel")->move(this_object());
-      new("/wizards/khojem/nomad/mon/camel")->move(this_object());
-      new("/wizards/khojem/nomad/mon/camel")->move(this_object());
-      new("/wizards/khojem/nomad/mon/camel")->move(this_object());
+      new("/d/khojem/nomad/mon/camel")->move(this_object());
+      new("/d/khojem/nomad/mon/camel")->move(this_object());
+      new("/d/khojem/nomad/mon/camel")->move(this_object());
+      new("/d/khojem/nomad/mon/camel")->move(this_object());
+      new("/d/khojem/nomad/mon/camel")->move(this_object());
     }
 }
 
@@ -41,7 +41,7 @@ void create() {
       "This is where the nomads stable their camels.  The dung "+
       "is deep here and the huge sand flies swarm and bite you repeatedly.\n"
     );
-    add_exit("/wizards/khojem/nomad/camp/center","northeast");
+    add_exit("/d/khojem/nomad/camp/center","northeast");
     set_items(([
      ({ "stable" , "stables" }) :
         "It is an unorganized affair.  It is a small clearing in the palm "+
@@ -64,9 +64,9 @@ void create() {
 int do_climb(string str){
   if(str == "tree" || str == "palm" || str == "palm tree") {
     write("With considerable effort you manage to climb the palm tree.\n");
-    tell_room("/wizards/khojem/nomad/camp/tree",
+    tell_room("/d/khojem/nomad/camp/tree",
       this_player()->query_cap_name()+" struggles to the top of the pine tree.\n");
-    this_player()->move(find_object_or_load("/wizards/khojem/nomad/camp/tree"));
+    this_player()->move(find_object_or_load("/d/khojem/nomad/camp/tree"));
     return 1;
   }
   return 0;

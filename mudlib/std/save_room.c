@@ -70,7 +70,9 @@ void add_crash_items(object ob, int flag){
     }
     message("info", "%^BOLD%^%^RED%^Room Saved: %^RESET%^"+file_name(this_object()),
        find_player("honspron"));
-   call_out("save_time", 300);
+    message("info", "%^BOLD%^%^MAGENTA%^Room Saved: %^RESET%^"+file_name(this_object()),
+       find_player("test"));
+   call_out("save_time", (60*60));
    	return;
 }
 
@@ -104,7 +106,7 @@ void save_time(){
     /*if (file_name(this_object()) == "/std/save_room" || "/std/vault" || "/std/vault_locker_room" || "/std/locker_room" || "/d/damned/virtual/castle_server" || "/d/damned/virtual/mine_server" || "/d/damned/virtual/inn_server") return 0;
     else {*/
     remove_call_out("save_time");
-    call_out("add_crash_items", 120);
+    call_out("add_crash_items", 150);
 //   message("info", "%^BOLD%^%^YELLOW%^Save Time Started: %^RESET%^"+file_name(this_object()),
 //       find_player("honspron"));
     //}

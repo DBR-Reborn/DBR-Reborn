@@ -109,7 +109,7 @@ ac:::
 id:::
 ({ "coif", "chain coif" })
 type:::
-"chain head"
+"metal head"
 limbs:::
 ({ "head" })
 short:::
@@ -284,7 +284,7 @@ ac:::
 id:::
 ({ "greaves", "chain greaves" })
 type:::
-"chain legs"
+"metal legs"
 limbs:::
 ({ "right leg", "left leg" })
 short:::
@@ -331,7 +331,7 @@ ac:::
 id:::
 ({"mail", "chain mail"})
 type:::
-"chain torso"
+"metal torso"
 limbs:::
 ({"torso", "right arm", "left arm"})
 short:::
@@ -377,7 +377,7 @@ ac:::
 id:::
 ({"vest", "chain vest"})
 type:::
-"chain torso"
+"metal torso"
 limbs:::
 ({"torso"})
 short:::
@@ -781,6 +781,52 @@ ac:::
 ac:::
 1;"aether"
 
+(chain-boots):
+id:::
+({"boots"})
+type:::
+"metal foots"
+limbs:::
+({"left foot","right foot"})
+short:::
+"A pair of chain boots"
+long:::
+"These nice boots protect your feet."
+weight:::
+60
+value:::
+90
+ac:::
+45
+ac:::
+15;"fire"
+ac:::
+15;"cold"
+ac:::
+5;"plasma"
+ac:::
+35;"strike"
+ac:::
+35;"impact"
+ac:::
+35;"crushing"
+ac:::
+1;"vacuum"
+ac:::
+1;"electricity"
+ac:::
+1;"depression"
+ac:::
+1;"disruption"
+ac:::
+1;"stress"
+ac:::
+1;"holy"
+ac:::
+1;"time"
+ac:::
+1;"aether"
+
 (leather-boots):
 id:::
 ({"leather boots"})
@@ -889,13 +935,13 @@ ac:::
 
 (hooded-cloak):
 id:::
-({"cloak", "hooded cloak"})
+({"hooded cloak", "cloak"})
 type:::
 "cloth back"
 limbs:::
 ({"torso", "head"})
 short:::
-"A cloak"
+"A hooded cloak"
 long:::
 "This is a cloth cloak which may be worn alone or over other armour."
 weight:::
@@ -1201,7 +1247,7 @@ ac:::
 id:::
 ({"glove", "chain glove"})
 type:::
-"chain hand"
+"metal hand"
 limbs:::
 ({ ({"right hand", "left hand"}) })
 short:::
@@ -1376,7 +1422,7 @@ ac:::
 
 (boiled-leather-glove):
 id:::
-({"leather glove", "boiled leather glove", "glove"})
+({"leather glove", "boiled leather glove", "glove", ";leatherglove"})
 type:::
 "leather hand"
 limbs:::
@@ -1789,7 +1835,7 @@ ac:::
 id:::
 ({ "wood helm", "helm" })
 type:::
-"metal head"
+"wood head"
 limbs:::
 ({"head"})
 short:::
@@ -1831,7 +1877,7 @@ ac:::
 id:::
 ({ "wood plate", "plate" })
 type:::
-"metal torso"
+"wood torso"
 limbs:::
 ({ "torso" })
 short:::
@@ -1871,11 +1917,57 @@ ac:::
 ac:::
 1;"aether"
 
+(wood-armour):
+id:::
+({ "wood armour","wooden armour", "armour" })
+type:::
+"wood torso"
+limbs:::
+({"torso", "right arm", "left arm"})
+short:::
+"wooden armour"
+long:::
+"This armour is made of many pieces of wood linked together covering the torso and arms."
+weight:::
+180
+value:::
+150
+ac:::
+30
+ac:::
+3;"fire"
+ac:::
+3;"cold"
+ac:::
+3;"impaling"
+ac:::
+1;"plasma"
+ac:::
+8;"strike"
+ac:::
+1;"vacuum"
+ac:::
+1;"electricity"
+ac:::
+1;"depression"
+ac:::
+1;"disruption"
+ac:::
+1;"stress"
+ac:::
+1;"holy"
+ac:::
+1;"time"
+ac:::
+1;"aether"
+ac:::
+12;"crushing"
+
 (wooden-armour):
 id:::
-({ "wooden armour", "armour" })
+({ "wood linked armour","wooden armour", "wood armour", "armour" })
 type:::
-"chain torso"
+"wood torso"
 limbs:::
 ({"torso", "right arm", "left arm"})
 short:::
@@ -1919,9 +2011,9 @@ ac:::
 
 (wood-hand-guard):
 id:::
-({ "wood hand guard", "hand guard", })
+({ "wood hand guard", "hand guard", "handguard })
 type:::
-"metal hand"
+"wood hand"
 limbs:::
 ({ ({"right hand", "left hand"}) })
 short:::
@@ -1961,9 +2053,9 @@ ac:::
 
 (wood-bracer):
 id:::
-({ "wood bracer", "bracer"  })
+({ "wood bracer", "woodbracer"  })
 type:::
-"metal arm"
+"wood arm"
 limbs:::
 ({ ({ "right arm", "left arm" }) })
 short:::
@@ -2007,7 +2099,7 @@ ac:::
 id:::
 ({  "wood leg guards", "leg guards", "guards" })
 type:::
-"metal legs"
+"wood legs"
 limbs:::
 ({ "right leg", "left leg" })
 short:::
@@ -2181,6 +2273,52 @@ ac:::
 ac:::
 1;"aether"
 
+(wood-wing-guards):
+id:::
+({"wood wing guards", "wing guards", "wingguards", })
+type:::
+"wood wings"
+limbs:::
+({"left wing","right wing"})
+short:::
+"A pair of wing guards"
+long:::
+"These are wooden wing guards they drape over your wings and help protect them"
+weight:::
+70
+value:::
+90
+ac:::
+55
+ac:::
+18;"fire"
+ac:::
+18;"cold"
+ac:::
+5;"plasma"
+ac:::
+45;"strike"
+ac:::
+45;"impact"
+ac:::
+45;"crushing"
+ac:::
+1;"vacuum"
+ac:::
+1;"electricity"
+ac:::
+1;"depression"
+ac:::
+1;"disruption"
+ac:::
+1;"stress"
+ac:::
+1;"holy"
+ac:::
+1;"time"
+ac:::
+1;"aether"
+
 (wooden-wing-guards):
 id:::
 ({"wooden wing guards", "wing guards", "wingguards"})
@@ -2226,6 +2364,7 @@ ac:::
 1;"time"
 ac:::
 1;"aether"
+
 
 (cloth-wing-guards):
 id:::

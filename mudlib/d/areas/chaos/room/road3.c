@@ -2,6 +2,7 @@
 #include "../chaos.h"
 
 inherit ROOM;
+int i;
 
 void create() {
 	::create();
@@ -17,9 +18,15 @@ void create() {
 	({"east", "west"}));
 }
 void reset() {
-	::reset();
-	if(!present("peasant")) {
+    ::reset();
+    if(!present("beastman"))
+    {
+	i = random(2)+1;
+	while(i--)
+	{
+	new(MON+"beastman.c")->move(this_object());
 	new(MON+"beastman.c")->move(this_object());
 	new(MON+"peasant.c")->move(this_object());
-    }
+	}
+  }
 }

@@ -11,7 +11,8 @@
 #LEVEL 30+
 #
 16_26:/d/mines/underzone/dmc:cave:A mining cave (level 25-30+)
-8_22:/d/areas/dwarf_mine/rooms/entry:quarry:A Dwarven Quarry Mine (level 25-30+)
+8_22:/d/areas/dwarf_mine/rooms/entry:mine:Another Dwarven Mine (level 25-30+)
+8_22:/d/areas/quarry/rooms/entry:quarry:A Dwarven Quarry Mine (level 25-30+)
 #LEVEL 25+
 #
 25_15:/d/zortek/canyon/room/entry:canyon:The entrance to Devil's Canyon (level 15-20+)
@@ -48,3 +49,4 @@
 11_83:/d/damned/virtual/singe_room_1.castle:castle:Singe's Castle
 25_60:/d/damned/virtual/okkita_room_1.castle:castle:Okkita's Castle
 4_9:/d/damned/virtual/outer:trueenchanters_7.clan:clan:The Stronghold of Clan Trueenchanters
+4_11:/d/damned/virtual/loralis_room_1.castle:castle:Loralis's Castle

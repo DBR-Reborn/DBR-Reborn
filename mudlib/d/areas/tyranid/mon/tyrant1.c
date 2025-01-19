@@ -86,7 +86,7 @@ switch(random(8)){
     }
 
 //controls monsters level
-    zlevel = (35+random(5));
+    zlevel = (35+random(8));
 //Controls Loot level and other fucntions do to raise to high multpies loot
     lvl = 3;
 //Controls critical hit reduction and other such

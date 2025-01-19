@@ -1,3 +1,5 @@
+#include "/adm/include/clock.h"
+
 inherit "/std/skills/skill.c";
 
 void create() {
@@ -33,9 +35,9 @@ void do_vanish() {
 void skill_func(object from, object at, string arg) {
   object ob;
 
-  if((time() - (int)from->query_last_use("vanish")) < (350 - props["skill level"])) {
-    message("info", "You are too tired to use this skill again yet.", from);
-    remove();
+  if((time() - (int)from->query_last_use("vanish")) / MINUTE  < 2) {
+    message("info", "You must wait a little longer before using this skill again.",
+            from);
     return;
   }
 
@@ -59,3 +61,4 @@ void skill_func(object from, object at, string arg) {
   remove();
   return;
 }
+

@@ -70,8 +70,12 @@ void skill_func(object from, object at, string arg) {
     key_id = environment(from)->query_key(arg);
     name = arg;
   }
+  //time = lock_lev*3 - (props["skill level"] / 10 * 60);
+  //if(time < 1) time = 1;
+//ADD TLNY2025
   time = lock_lev*23 - (props["skill level"] * 2);
   if(time < 60) time = 60;
+//END
   blanks = filter_array(all_inventory(from), "is_key_blank", this_object());
   i = 0;
   if(!sizeof(blanks)) {

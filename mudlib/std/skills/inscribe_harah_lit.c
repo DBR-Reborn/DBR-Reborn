@@ -1,4 +1,5 @@
 inherit "/std/skills/long_term.c";
+inherit "/std/check_brittle";
 
 int skill;
 
@@ -70,11 +71,26 @@ void finish_work(object from, object at) {
   int i, hit_bonus;
   mixed auto_crit, tmp;
   string *runes;
-  
+string* auto_criticals;
+
   message("info", "%^CYAN%^%^BOLD%^You finish inscribing the rune.",
     from);
+//ADD
+if (props["skill level"] >= 150) {
+		if (!check_brittle(at, from, 16)) {
+        remove();
+        return;
+    }
+} else {
+    if (!check_brittle(at, from, 8)) {
+        remove();
+        return;
+    }
+}
+//END
 from->add_exp2(15 * props["skill level"]+(this_player()->query_level()*100));
   message("info", "A %^GREEN%^%^BOLD%^Harah Lit%^RESET%^ rune appears on the weapon.", from);
+/*
   auto_crit = from->prop("auto critical");
   if(mapp(auto_crit)) {
     if(auto_crit["speed B"]) {
@@ -94,6 +110,7 @@ from->add_exp2(15 * props["skill level"]+(this_player()->query_level()*100));
   }
   else auto_crit = ([ "speed B" : (skill/4+2) ]);
   at->set_property("auto critical", auto_crit);
+*/
   if(!(runes=(string *)at->query_property("runes")))
     runes = ({});
   runes += ({ "harah lit" });
@@ -102,6 +119,27 @@ from->add_exp2(15 * props["skill level"]+(this_player()->query_level()*100));
   if(pointerp(tmp)) tmp += ({ "A %^MAGENTA%^%^BOLD%^Harah Lit%^RESET%^ rune is inscribed on the weapon." });
   else if(stringp(tmp)) tmp = ({ tmp, "A %^MAGENTA%^%^BOLD%^Harah Lit%^RESET%^ rune is inscribed on the weapon." });
   else tmp = ({ "A %^MAGENTA%^%^BOLD%^Harah Lit%^RESET%^ rune is inscribed on the weapon." });
+//ADD TLNY2025
+auto_criticals = at->query_auto_critical();
+
+if (props["skill level"] >= 150) {
+    auto_criticals += ({"speed C"});
+    }
+else {
+  auto_criticals += ({"speed B"});
+at->set_auto_critical(auto_criticals);     
+}
+if (props["skill level"] >= 150) {
+at->set_auto_critical(auto_criticals);
+
+message("info", "%^BOLD%^%^YELLOW%^It glows with the brilliance of a Masterpiece!%^RESET%^", from);
+
+ tmp = at->query_property("extra long");
+    if(pointerp(tmp)) tmp += ({ "A Masterpiece %^MAGENTA%^%^BOLD%^Harah Lit%^RESET%^ rune is inscribed on the weapon." });
+    else if(stringp(tmp)) tmp = ({ tmp, "A Masterpiece %^MAGENTA%^%^BOLD%^Harah Lit%^RESET%^ rune is inscribed on the weapon." });
+  else tmp = ({ "A Masterpiece %^MAGENTA%^%^BOLD%^Harah Lit%^RESET%^ rune is inscribed on the weapon." });
+}
+//END
   at->set_property("extra long", tmp);
   remove();
   return;

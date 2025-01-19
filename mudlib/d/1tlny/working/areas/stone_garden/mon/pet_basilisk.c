@@ -9,6 +9,7 @@ void create() {
   set_attack(0);
   set_carry(1);
   set_save(0);
+set_property("no save", 1);
   set_level(5);
   set_short("Baby basilisk");
  set_long("This baby basilisk has a harsh black plate like shell. Its claws "+

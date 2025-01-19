@@ -23,6 +23,7 @@ void create() {
   flag = 0;
   this_object()->set_up(random(3));
   set_attack(1);
+  set_property("no save", 1);
   set_can_change_aggr(1);
   return;
 }
@@ -68,12 +69,12 @@ void set_up(int x) {
   }
   return;
 }
-
+/*
 void restore_locker(string file) {
   ::restore_locker(file);
   if(type) this_object()->set_up(type);
   return;
-}
+}*/
 
 int ill_guard() { return 1; }
 

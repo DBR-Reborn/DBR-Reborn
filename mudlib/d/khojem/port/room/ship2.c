@@ -87,3 +87,9 @@ int do_close() {
   return 1;
 }
 
+void init() {
+  ::init();
+  call_out("reset",10,!present("pirate"));
+  return;
+}
+

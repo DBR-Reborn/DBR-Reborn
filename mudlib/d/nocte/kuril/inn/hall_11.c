@@ -12,9 +12,7 @@ create() {
   set_property("indoors", 1);
   set_property("light", 2);
   set("short", "A short hallway");
-  set("long",
-      "This is a short hallway with the entrances to ten rooms along "+
-      "the walls.  Each door is numbered 'door #'.\n");
+  set("long", "This is a short hallway with the entrances to ten rooms along the walls.  Each door is numbered 'door #'.\n");
   if(!sscanf(fn, "hall_%d", rn)) {
     set("long", "Inn hall bug!!!!!\n");
     return;

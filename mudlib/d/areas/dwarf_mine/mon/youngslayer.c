@@ -118,7 +118,7 @@ ob -> set("short", "%^BOLD%^Dwarven%^RESET%^ hand-axe");
       break;
 }
     money=new("std/obj/coins");
-    money->set_money("gold",(random(10)+10));
+    money->set_money("gold",(random(zlevel)+10));
     money->move(this_object());
 }
 

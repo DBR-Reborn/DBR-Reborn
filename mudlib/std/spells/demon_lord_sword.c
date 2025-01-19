@@ -6,7 +6,7 @@ void create() {
     set_property("name","demon lord sword");
     set_property("skill","chaos magic");
     set_property("stack key", "demon sword");
-    set_property("stack num", 2);
+    set_property("stack num", 3);
     set_property("casting time",12);
     set_property("base mp cost",66);
     set_property("dev cost",144);
@@ -93,7 +93,7 @@ lvl = (caster->query_level()/2);
     return;
   }
   ob->set_extra_wc(([ "impact" : 13*power+lvl, "disruption" : 10*power+lvl ]));
-  ob->set_auto_crits(([ "disruption C" : 2*power+lvl ]));
+  ob->set_auto_crits(([ "disruption B" : 2*power+lvl ]));
   ob->start_shadow(weap, props["duration"], "%^CYAN%^A demon sword spell wears off.");
   remove();
   at->remove();

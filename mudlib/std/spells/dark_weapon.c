@@ -45,6 +45,14 @@ remove();
 return;
 }
 */
+
+  if(flag) {
+    message("info", "The spell fizzles, costing double mp.", caster);
+    caster->add_mp(-1* props["mp cost"]);
+    remove();
+    return;
+  }
+/*
 if(flag) {
     message("info", "You misdirect the enchanting energies and shatter "+
 	    "the weapon!", caster);
@@ -55,6 +63,7 @@ if(flag) {
     remove();
     return;
 }
+*/
 
 if((int)at->query_property("dark weapon") >= (caster->query_skill("empowerment") / 5)) {
 message("info", "This weapon cannot recieve any more dark weapon from this spell at your current skill level.", caster);
@@ -96,21 +105,26 @@ return;
 message("info", "You have finished your imbuement of Dark Weapon!", caster);
 message("info","Uttering one final incantation, "+(string)caster->query_cap_name()+" finishes imbuing a weapon with darkness.", environment(caster), ({ caster }) );
 
-if(!check_brittle(at, caster, power)) {
+if(caster->query_skill("empowerment") >=150) {
+if(!check_brittle(at, caster, power*2)) {
 remove();
 return;
-}
+} else { if(!check_brittle(at, caster, power)) {
+remove();
+return;
+} } }
 
 ench = (int)at->query_property("dark weapon");
 
 //ADD
+if(caster->query_skill("empowerment") >=150) {
 if((int)at->query_property("dark weapon") <= 1 ) {
 auto_criticals = at->query_auto_critical();
 
 auto_criticals += ({"unholy A"});
 
 at->set_auto_critical(auto_criticals);
-}
+}}
 //END
 
 if(!ench) {
@@ -121,18 +135,10 @@ at->set_property("dark weapon", ench);
     ench = (int)at->query_wc("unholy");
     if(!ench) ench = power;
     else ench += power;
-    at->set_wc(((9*power)+ench)+(caster->query_level()/2), "unholy");
+    at->set_wc(((8*power)+ench)+(caster->query_level()/2), "unholy");
     caster->add_exp2(500*power);
 
-//ADD
-if((int)at->query_property("dark weapon") >= 60 ) {
-auto_criticals = at->query_auto_critical();
 
-auto_criticals += ({"unholy A"});
-
-at->set_auto_critical(auto_criticals);
-}
-//END
 /*
 if(!ench) {
 ench = 0;

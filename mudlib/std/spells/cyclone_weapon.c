@@ -44,6 +44,14 @@ if(!at->is_weapon()) {
     remove();
     return;
 }
+
+  if(flag) {
+    message("info", "The spell fizzles, costing double mp.", caster);
+    caster->add_mp(-1* props["mp cost"]);
+    remove();
+    return;
+  }
+/*
 if(flag) {
     message("info", "You misdirect the enchanting energies and shatter "+
 	    "the weapon!", caster);
@@ -54,6 +62,7 @@ if(flag) {
     remove();
     return;
 }
+*/
 if((int)at->query_property("cyclone weapon") >= (caster->query_skill("enchantment") / 5)) {
     message("info", "Your skill is not high enough to add more cyclone weapon spells on this weapon.", caster);
     caster->add_mp(props["mp cost"]);
@@ -75,7 +84,8 @@ if((int)at->query_property("cyclone weapon") >= 60 ) {
 }
 
 set_work_message("%^CYAN%^You enchant the weapon.%^RESET%^");
-time = 730 + 90*power;
+time = 1000 + 80*power;
+//time = 3600 *((power>4)?(power-2):power);
 mod = 30+2*props["spell level"];
 ctime = (time*mod)/caster->query_skill("enchantment");
 if(archp(caster)) {
@@ -90,6 +100,7 @@ int ench;
 int i;
 int idx;
 mixed tmp;
+string* auto_criticals;
 
 if(power <= 0) {
 message("info", "BUG in Enchanter spell....unable to complete.", environment(caster));
@@ -101,26 +112,44 @@ message("info", "Uttering some magical incantations, "+(string)caster->query_cap
 environment(caster), ({ caster }));
 ench = (int)at->query_property("cyclone weapon");
 
-if(!check_brittle(at, caster, power)) {
+if(caster->query_skill("enchantment") >=150) {
+if(!check_brittle(at, caster, power*2)) {
 remove();
 return;
-}
+} else { if(!check_brittle(at, caster, power)) {
+remove();
+return;
+} } }
 
 
 if(!ench) {
 ench = 0;
 }
+
+//ADD
+if(caster->query_skill("enchantment") >=150) {
+if((int)at->query_property("cyclone weapon") <= 1 ) {
+auto_criticals = at->query_auto_critical();
+
+auto_criticals += ({"vacuum A", "cutting A"});
+
+at->set_auto_critical(auto_criticals);
+}}
+//END
+
 ench += power;
 at->set_property("cyclone weapon", ench);
+
+    ench = 0;
     ench = (int)at->query_wc("vacuum");
     if(!ench) ench = power+ench;
     else ench += power;
-    at->set_wc(((11*power)+ench)+(caster->query_level()/2), "vacuum");
+    at->set_wc(((8*power)+ench)+(caster->query_level()/2), "vacuum");
     ench = 0;
     ench = (int)at->query_wc("cutting");
     if(!ench) ench = power+ench;
     else ench += power;
-    at->set_wc(((11*power)+ench)+(caster->query_level()/2), "cutting");
+    at->set_wc(((8*power)+ench)+(caster->query_level()/2), "cutting");
     caster->add_exp2(3600*power);
 /*
 at->set_property("cyclone weapon", ench);

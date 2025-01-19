@@ -23,17 +23,17 @@ void skill_func(object from, object at, string arg) {
 
   if(ob = (object)from->query("hide shad")) {
     message("my_action", "You emerge from the shadows.", from);
-    /* Used to be emergers from the shadows.
-      Fixed - Misery 030696
-    */
-    message("other_action", (string)from->query_cap_name()+
-      " emerges from the shadows.",
-      environment(from), ({ from }));
-    ob->external_destruct(ob);
-    from->set("hide shad", 0);
-    remove();
-    return;
-  }
+/* Used to be emergers from the shadows.
+   Fixed - Misery 030696
+ */
+message("other_action", (string)from->query_cap_name()+
+  " emerges from the shadows.",
+  environment(from), ({ from }));
+ob->external_destruct(ob);
+from->set("hide shad", 0);
+remove();
+return;
+}
 message("my_action", "You quietly slip into the shadows.", 
   from);
 seteuid(getuid());

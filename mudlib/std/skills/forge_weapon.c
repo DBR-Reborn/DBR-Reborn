@@ -283,6 +283,21 @@ if(ob->query_material() == "/metal/inniculmoid" ) {
 if(ob->query_material() == "/metal/raysorite" ) {
   ob->set_wc(base_wc + bonus_wc + 5+(qz*2), "stress");
 }
+if(ob->query_material() == "/metal/laen" ) {
+  ob->set_wc(base_wc + bonus_wc + 5+(qz*2), "reflection");
+}
+if(ob->query_material() == "/metal/davistone" ) {
+  ob->set_wc(base_wc + bonus_wc + 5+(qz*2), "time");
+}
+if(ob->query_material() == "/metal/neorolite" ) {
+  ob->set_wc(base_wc + bonus_wc + 5+(qz*2), "acid");
+}
+if(ob->query_material() == "/metal/mcgrail" ) {
+  ob->set_wc(base_wc + bonus_wc + 5+(qz*2), "unholy");
+}
+if(ob->query_material() == "/metal/boernerine" ) {
+  ob->set_wc(base_wc + bonus_wc + 5+(qz*2), "holy");
+}
 
 //END
 
@@ -326,8 +341,8 @@ if(ob->query_material() == "/metal/raysorite" ) {
   ob->set_wc(base_wc + bonus_wc + 4+(qz*2), "impaling");
     }
     if(name2 == "two-handed-sword") {
-  ob->set_wc(base_wc + bonus_wc + 18+(qz*2), "cutting");
-  ob->set_wc(base_wc + bonus_wc + 9+(qz*2), "impaling");
+  ob->set_wc(base_wc + bonus_wc + 18+(qz*6), "cutting");
+  ob->set_wc(base_wc + bonus_wc + 9+(qz*6), "impaling");
     }
     if(name2 == "footman's-mace") {
   ob->set_wc(base_wc + bonus_wc + 10+(qz*2), "crushing");
@@ -337,20 +352,20 @@ if(ob->query_material() == "/metal/raysorite" ) {
   ob->set_wc(base_wc + bonus_wc + 10+(qz*2), "cutting");
     }
     if(name2 == "footman's-flail") {
-  ob->set_wc(base_wc + bonus_wc + 11+(qz*2), "crushing");
+  ob->set_wc(base_wc + bonus_wc + 11+(qz*8), "crushing");
     }
     if(name2 == "glaive") {
-  ob->set_wc(base_wc + bonus_wc + 15+(qz*2), "cutting");
+  ob->set_wc(base_wc + bonus_wc + 15+(qz*6), "cutting");
     }
     if(name2 == "trident") {
   ob->set_wc(base_wc + bonus_wc + 16+(qz*2), "impaling");
     }
     if(name2 == "war-hammer") {
-  ob->set_wc(base_wc + bonus_wc + 20+(qz*2), "crushing");
+  ob->set_wc(base_wc + bonus_wc + 20+(qz*6), "crushing");
     }
     if(name2 == "halberd") {
-  ob->set_wc(base_wc + bonus_wc + 15+(qz*2), "cutting");
-  ob->set_wc(base_wc + bonus_wc + 8+(qz*2), "impaling");
+  ob->set_wc(base_wc + bonus_wc + 15+(qz*6), "cutting");
+  ob->set_wc(base_wc + bonus_wc + 8+(qz*6), "impaling");
     }
     if(name2 == "hammer") {
   ob->set_wc(base_wc + bonus_wc + 12+(qz*2), "crushing");
@@ -359,16 +374,16 @@ if(ob->query_material() == "/metal/raysorite" ) {
   ob->set_wc(base_wc + bonus_wc + 6+(qz*2), "cuitting");
     }
     if(name2 == "military-pick") {
-  ob->set_wc(base_wc + bonus_wc + 16+(qz*2), "impaling");
+  ob->set_wc(base_wc + bonus_wc + 16+(qz*6), "impaling");
     }
     if(name2 == "morning-star") {
   ob->set_wc(base_wc + bonus_wc + 13+(qz*2), "crushing");
     }
     if(name2 == "shod-staff") {
-  ob->set_wc(base_wc + bonus_wc + 15+(qz*2), "crushing");
+  ob->set_wc(base_wc + bonus_wc + 15+(qz*6), "crushing");
     }
     if(name2 == "spear") {
-  ob->set_wc(base_wc + bonus_wc + 15+(qz*2), "impaling");
+  ob->set_wc(base_wc + bonus_wc + 15+(qz*6), "impaling");
     }
   //END
   if(intp(ob->prop("hardness")))

@@ -98,6 +98,7 @@ void skill_func(object from, object at, string arg) {
     skill = props["skill level"];
     time = 300 + (skill * 15);
     if(time > 1800) time = 1800;
+    if (archp(this_player())) time = 1;
     message("info", "%^CYAN%^%^BOLD%^You begin installing the lock.", from);
     set_work_message("%^CYAN%^You tinker with the lock.");
     start_work(at, from, time);

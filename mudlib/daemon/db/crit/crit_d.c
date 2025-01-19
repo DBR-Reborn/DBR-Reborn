@@ -1277,6 +1277,81 @@ void corpse_check(object who,object from) {
 	ob->remove();
 }
 
+//TIME CRITS TLNY2025
+
+void haste_fun(object from, object you) {
+    object ob;
+    ob = new("/std/spells/shadows/haste_shadow");
+    ob->start_shadow(from, 8, "%^RED%^A time acceleration field wears off.");
+    ob = new("/std/spells/shadows/haste_shadow");
+    ob->start_shadow(from, 8, "%^RED%^A time acceleration field wears off.");
+    return;
+}
+
+void slow_fun(object from, object to)  {
+    object ob;
+    ob = new("std/spells/shadows/slow_shadow");
+    ob->start_shadow(to,20, "%^RED%^You break free of a time damping field.%^RESET%^");
+    return;
+}
+
+void hold_fun(object from, object to)  {
+    message("info","%^RED%^You are captured in a time stasis field!%^RESET%^",to,({environment(to)}) );
+    message("info","%^RED%^"+(string)to->query_cap_name()+" is held in time stasis!%^RESET%^",environment(to),({to}));
+    to->set_paralyzed(6,"%^GREEN%^You are in time stasis and cannot move to attack!.%^RESET%^");
+    return;
+}
+
+void hold_fun2(object from, object to)  {
+    message("info","%^RED%^You are captured in a time stasis field!%^RESET%^",to,({environment(to)}));
+    message("info","%^RED%^"+(string)to->query_cap_name()+" is held in time stasis!%^RESET%^",environment(to),({to}));
+    to->set_paralyzed(12,"%^GREEN%^You are in time stasis and cannot move to attack!.%^RESET%^");
+    return;
+}
+
+void hold_fun3(object from, object to)  {
+    message("info","%^RED%^You are captured in a time stasis field!%^RESET%^",to,({environment(to)}));
+    message("info","%^RED%^"+(string)to->query_cap_name()+" is held in time stasis!%^RESET%^",environment(to),({to}));
+    to->set_paralyzed(21,"%^GREEN%^You are in time stasis and cannot move to attack!.%^RESET%^ ");
+    return;
+}
+
+void poison_fun(object from,object to) {
+    message("info","%^GREEN%^You feel the effects of gangrene. You are poisoned.%^RESET%^",to);	
+    to->add_poisoning(300,"%^GREEN%^You feel ill from gangrene.%^RESET%^");
+}
+
+/*
+#define PAST_START "daemon/db/crit_funs/time/past/start"
+#define FUT_START "daemon/db/crit_funs/time/future/start"
+#define OBJ_PATH "daemon/db/crit_funs/time"
+void trans_past(object from, object to){
+    object *victims;
+    int i;
+    victims = all_inventory(environment(to));
+    i = sizeof(victims);
+    while(i--) victims[i]->move(PAST_START);
+    message("info","%^GREEN%^You are sucked along a long swirling timestream!%^RESET%^\n",environment(to));
+    call_out("message_delay",2,from,to);
+    return;
+}
+
+void trans_future(object from, object to){
+    object *victims;
+    int i;
+    victims = all_inventory(environment(to));
+    i = sizeof(victims);
+    while(i--) victims[i]->move(FUT_START);
+    message("info","%^GREEN%^You are sucked along a long swirling timestream!%^RESET%^\n",environment(to));
+    call_out("message_delay",2,from,to);
+    return;
+}
+
+void message_delay(object from, object to){
+    message("info""%^GREEN%^Suddenly, you find yourelf in a strange new place!%^RESET%^\n",environment(to));
+}
+*/
+
 /*
 void remove_corpse(object who) {
   object corpse;

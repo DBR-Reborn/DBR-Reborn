@@ -6,7 +6,7 @@ inherit ROOM;
 
 void reset() {
     ::reset();
-  if(!present("sailor")) {
+  if(!present("pirate")) {
     new("/d/khojem/port/mon/pirate1")->move(this_object());
     new("/d/khojem/port/mon/pirate1")->move(this_object());
     new("/d/khojem/port/mon/pirate1")->move(this_object());
@@ -28,6 +28,8 @@ void create() {
       "A wooden ladder leads up to the craft's deck."
     );
     add_exit("/d/khojem/port/room/ship2","up");
+    add_invis_exit("east");
+    add_exit("/d/khojem/port/room/ship3a","east");
     set_items(([
      ({ "deck" }) :
         "The underside of the teakwood deck is used to hang hammocks.",
@@ -43,4 +45,10 @@ void create() {
     set_smell("default", "Huh!  It smells like something died down here.");
     set_listen("default", "You hear the small waves lap against the side of "+
       "the hull.");
+}
+
+void init() {
+  ::init();
+  call_out("reset",10,!present("pirate"));
+  return;
 }

@@ -50,44 +50,46 @@ void create() {
   //	flag		(optional)  If a non-zero number is supplied,
   //			the skill will be considered "secondary" to
   //			the guild and cost double to develop.
-  add_skill("attack",1);
-  add_skill("blade", 1);
-  add_skill("consider", 1);
-  add_skill("dodge", 1);
   add_skill("knife", 1);
-  add_skill("parry", 1);
-  add_skill("perception", 1);
-  add_skill("pick pocket", 1);
-  add_skill("prospecting", 1, 1);
-  add_skill("swimming", 1);
-  add_skill("thrown", 1);
-  add_skill("trade lore",1);
-  add_skill("appraisal", 3);
-  add_skill("compare", 3);
-  add_skill("hide in shadows", 3);
-  add_skill("melee", 3, 1);
-  add_skill("consider lock", 4);
-  add_skill("steal", 4);
-  add_skill("stealth", 4);
-  add_skill("dance of daggers", 5);
+  add_skill("consider", 1);
   add_skill("detect trap", 6);
-  add_skill("pick locks", 6);
-  // add_skill("whirlwind attack", 7, 1)
-  add_skill("back stab", 8);
-  add_skill("disguise", 8);
-  add_skill("focused attack", 9, 1);
-  add_skill("peek",10);
-  add_skill("poison lore", 10);
-  add_skill("stalk", 10);
-  add_skill("invisibility art", 12);
-  add_skill("jugular slash", 12);
-  add_skill("offhand training", 14, 1);
-  add_skill("tumble", 14);
   add_skill("detect magic", 15);
-  add_skill("shadow", 15);
+add_skill("peek",10);
+  add_skill("thrown", 1);
+  add_skill("disguise", 8);
+  add_skill("blade", 1);
+  add_skill("swimming", 1);
+  add_skill("attack",1);
+  add_skill("perception", 1);
+  add_skill("dance of daggers", 5);
+  add_skill("poison lore", 10);
   add_skill("reverse stroke", 16);
+  add_skill("consider lock", 4);
+  add_skill("parry", 1);
+  add_skill("melee", 1, 1);
+  add_skill("appraisal", 3);
+  add_skill("dodge", 1);
+  add_skill("pick pocket", 1);
   add_skill("dual attack", 17);
+  add_skill("prospecting", 1, 1);
+  add_skill("steal", 4);
+  add_skill("hide in shadows", 3);
+  add_skill("stealth", 4);
+  add_skill("invisibility art", 12);
+  add_skill("shadow", 15);
+  add_skill("stalk", 10);
+  add_skill("pick locks", 6);
   add_skill("lock smithing", 19);
+  add_skill("back stab", 8);
+  add_skill("offhand training", 14, 1);
+  add_skill("compare", 3);
+  add_skill("trade lore",1);
+  add_skill("martial arts", 18, 1);
+
+
+//NEW
+  add_skill("jugular slash", 12);
+  add_skill("tumble", 14);
   add_skill("vanish", 25);
 
   return;

@@ -91,17 +91,17 @@ ob = new("/d/1tlny/loot/crystal/scroll_tp");
     ob->move(this_object());
 //END
     ob->move(this_object());
-    ob = new("/std/diewarzau/obj/misc/bag_of_holding");
+    ob = new("/std/obj/bag_of_holding");
     ob->set_value(5800);
     ob->move(this_object());
-    ob = new("/std/diewarzau/obj/misc/bag_of_holding_m");
+    /*ob = new("/std/diewarzau/obj/misc/bag_of_holding_m");
     ob->set_value(22000);
     ob->move(this_object());
     ob = new("/std/diewarzau/obj/misc/bag_of_holding_l");
     ob->set_value(46400);
     ob->move(this_object());
     ob = new("/std/diewarzau/obj/misc/bag_of_holding_h");
-    ob->move(this_object());
+    ob->move(this_object());*/
     ob = new("/std/diewarzau/obj/misc/small_vial");
     ob->fill_vial("a purple potion", "herb_action",
       "/std/diewarzau/obj/misc/herb_func",
@@ -114,10 +114,14 @@ ob = new("/d/1tlny/loot/crystal/scroll_tp");
       70);
     ob->set_value(50);
     ob->move(this_object());
-    new("/std/diewarzau/obj/misc/clay_figurine")->move(this_object());
-    new("/std/diewarzau/obj/misc/golden_figurine")->move(this_object());
-    new("/std/diewarzau/obj/misc/platinum_figurine")->move(this_object());
-    new("/std/diewarzau/obj/misc/jeweled_figurine")->move(this_object());
+//ADD TLNY2025
+    new("/std/spells/summon/obj/clay_figurine")->move(this_object());
+    new("/std/spells/summon/obj/golden_figurine")->move(this_object());
+    new("/std/spells/summon/obj/jeweled_figurine")->move(this_object());
+    new("/std/spells/summon/obj/platinum_figurine")->move(this_object());
+
+    new("/std/spells/summon/obj/mythical_figurine")->move(this_object());
+//END
     new("/std/diewarzau/obj/misc/skill_ring")->move(this_object());
     new("/std/diewarzau/obj/misc/power_stone")->move(this_object());
     ob = new("/std/diewarzau/obj/misc/power_stone");

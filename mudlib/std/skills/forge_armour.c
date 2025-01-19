@@ -25,6 +25,7 @@
 "metal-visor", \
 "taces", \
 "wing-guards", \
+"chain-boots", \
  })
 
 inherit "/std/skills/long_term.c";
@@ -207,7 +208,11 @@ if(ob->query_material() == "/metal/eog" ) {
   ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "strike");
   ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "impaling");
   ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "cutting");
-  ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "crushing");       
+  ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "crushing");
+
+  ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "acid");
+  ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "time");
+  ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "reflection");       
 }
 if(ob->query_material() == "/metal/eonmite" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );
@@ -227,7 +232,11 @@ if(ob->query_material() == "/metal/eonmite" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "strike");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cutting");
-  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing"); 
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing");
+
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "acid");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "time");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "reflection");  
 }
 if(ob->query_material() == "/metal/iysaughton" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );  
@@ -247,7 +256,11 @@ if(ob->query_material() == "/metal/iysaughton" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "strike");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cutting");
-  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing"); 
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing");
+
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "acid");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "time");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "reflection");   
 }
 //+3 ac bonus
 if(ob->query_material() == "/metal/laen" ) {
@@ -267,7 +280,11 @@ if(ob->query_material() == "/metal/laen" ) {
   ob->set_ac(base_ac + bonus_ac + (65+random(skill)/2), "strike");
   ob->set_ac(base_ac + bonus_ac + (65+random(skill)/2), "impaling");
   ob->set_ac(base_ac + bonus_ac + (65+random(skill)/2), "cutting");
-  ob->set_ac(base_ac + bonus_ac + (65+random(skill)/2), "crushing"); 
+  ob->set_ac(base_ac + bonus_ac + (65+random(skill)/2), "crushing");
+
+  ob->set_ac(base_ac + bonus_ac + (65+random(skill)/2), "acid");
+  ob->set_ac(base_ac + bonus_ac + (65+random(skill)/2), "time");
+  ob->set_ac(base_ac + bonus_ac + (65+random(skill)/2), "reflection");  
 }
 if(ob->query_material() == "/metal/platnite" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );
@@ -288,6 +305,10 @@ if(ob->query_material() == "/metal/platnite" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cutting");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing"); 
+
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "acid");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "time");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "reflection");
 }
 //+2 AC monus
 if(ob->query_material() == "/metal/mithril" ) {
@@ -309,6 +330,10 @@ if(ob->query_material() == "/metal/mithril" ) {
   ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "impaling");
   ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "cutting");
   ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "crushing"); 
+
+  ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "acid");
+  ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "time");
+  ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "reflection"); 
 }
 if(ob->query_material() == "/metal/elrodnite" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );
@@ -329,6 +354,10 @@ if(ob->query_material() == "/metal/elrodnite" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cutting");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing"); 
+
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "acid");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "time");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "reflection");
 }
 //+2 ac bonus
 if(ob->query_material() == "/metal/inniculmoid" ) {
@@ -350,6 +379,10 @@ if(ob->query_material() == "/metal/inniculmoid" ) {
   ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "impaling");
   ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "cutting");
   ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "crushing"); 
+
+  ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "acid");
+  ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "time");
+  ob->set_ac(base_ac + bonus_ac + (40+random(skill)/2), "reflection"); 
 }
 if(ob->query_material() == "/metal/raysorite" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );
@@ -370,6 +403,10 @@ if(ob->query_material() == "/metal/raysorite" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cutting");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing"); 
+
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "acid");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "time");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "reflection"); 
 }
 //+2 ac bonus
 if(ob->query_material() == "/metal/catoetine" ) {
@@ -390,6 +427,10 @@ if(ob->query_material() == "/metal/catoetine" ) {
   ob->set_ac(base_ac + bonus_ac + (50+random(skill)/2), "impaling");
   ob->set_ac(base_ac + bonus_ac + (50+random(skill)/2), "cutting");
   ob->set_ac(base_ac + bonus_ac + (50+random(skill)/2), "crushing"); 
+
+  ob->set_ac(base_ac + bonus_ac + (50+random(skill)/2), "acid");
+  ob->set_ac(base_ac + bonus_ac + (50+random(skill)/2), "time");
+  ob->set_ac(base_ac + bonus_ac + (50+random(skill)/2), "reflection"); 
 }
 //END
 

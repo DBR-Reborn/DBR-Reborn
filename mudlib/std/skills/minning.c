@@ -145,7 +145,6 @@ ob = new("/std/diewarzau/obj/misc/ingot");
   //ob->set_metal(props["skill level"]/10);
   ob->set_value((props["skill level"]/10)*10);
   ob->set_weight((props["skill level"]/10)*4);
-  ob->move(from);
   if(random(100) < (props["skill level"]/11 + 1)) {
     message("info", "Upon inspection, you see that this mineral is cut from a rare "+type+" vein.", from);
 
@@ -154,7 +153,8 @@ ob = new("/std/diewarzau/obj/misc/ingot");
   ob->set_weight((props["skill level"]/5)*4);
 }
     ob->set_material("metal/"+type);
-
+    ob->move(from);
+//TLNY2025 Move above here for Weight bug
 if(!present(ob,from)) {
         message("info","%^CYAN%^You cannot carry anymore so the ingot falls to the ground.",
                 from);

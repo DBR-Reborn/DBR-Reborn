@@ -112,7 +112,7 @@ set_property("no teleport", 1);
     add_skill("dual attack", 13);
     add_skill("reverse stroke", 13);
 
-    add_skill("rune lore", 14);
+    //add_skill("rune lore", 14);
 
 //NEW TLNY2020 See train_room2
 /* 

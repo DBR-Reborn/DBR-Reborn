@@ -58,7 +58,7 @@ new("d/damned/guilds/join_rooms/tcan")->move(this_object());
   //  Keep in mind that this increases with level.
 
   set_property("hp advance", 40);
-  set_property("mp advance", 8);
+  set_property("mp advance", 10);
   //  Base advance per level im max mp/hp.  Default is 10.
 
   set_property("guild mods",

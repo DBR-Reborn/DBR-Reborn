@@ -42,7 +42,7 @@ void create() {
   add_spell("alter visage");
   add_spell("improved invisibility");
   add_spell("poison weapon");
-  add_spell("suggestion");
+  add_spell("suggestion");  // They probably should not have this TLNY2025
 add_spell("stun blade");
   add_spell("gaseous form");
   add_spell("animal transformation");

@@ -1,0 +1,29 @@
+Current Avaialble Wood types:
+
+abachi, aspen, birch, buckeye, 
+coachwood, dogwood, elm, gum, ironwood, 
+limba, mahogany, maple, oak, walnut, willow,
+
+pine (Common wood)
+
+   Wood        Hardness   Type           WC Bonus  AC Bonus
+   =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+   Pine            1      none
+   Ironwood        8      Crushing          ?           XX 
+   Gum             ?      Reflection        ?           ?
+   Aspen           ?      Infernal          ?           ?
+   Birch           ?      Holy              ?           ?
+   Buckeye         ?      Unholy            ?           ?    
+   Elm             ?      Vacuum            ?           ?   
+   Limba           ?      TIme              ?           ?
+   Mahogany        ?      Acid              ?           ?
+   Maple           ?      Cold              ?           ?
+   Oak             ?      Fire              X           X
+   Dogwood         ?      Disruption        ?           ?
+   Abachi          ?      Aether            ?           ?  
+   Walnut          ?      Impact            ?           ?
+   Willow          ?      Electricity       ?           ?
+   Coachwood       ?      Plasma            ?           ?                      
+   =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+++Tlny2024 - Waiting for someone in game to identify and build a similiar table to minerals and provide it to me if so I will add it to help file

@@ -4,7 +4,7 @@ inherit "/std/spells/spell";
 void create() {
 	::create();
 	set_property("name", "summon vacuum weapon");
-	set_property("skill", "void lore");
+	set_property("skill", "darkweaving");
 	set_property("casting time", 10);
 	set_property("base mp cost", 40);
 	set_property("dev cost", 20);

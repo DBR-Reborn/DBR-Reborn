@@ -5,6 +5,7 @@ void create() {
     set_stat("dexterity");
     set_dev_cost(8);
     set_fast_dev_cost(22);
+    set_property("prereq", "attack");
 }
 
 void info() {

@@ -1,8 +1,3 @@
-//    Skill training room for guilds.
-//
-//    DarkeLIB 0.1
-//    -Diewarzau 8/8/95
-
 #include "/adm/include/std.h"
 
 inherit ROOM;
@@ -239,58 +234,119 @@ int dev_cost(object who, string skill) {
   string file;
   int times, mult, cost;
   int subt = (int)who->query_property("dev cost");
+  int skill_level;
 
   if(!who || !who->is_player()) return 0;
   if(!skill) return 0;
-  if(!skill_list[skill] || !skill_list[skill]["secondary"])
-    mult = 1;
-  else mult = 2;
-//add TLNY2020 add new code
+//HONSPRON NEW SKILL TRAINING
 
-  if((string)who->query_class() != (string)join_room->query_class_name()) {	  
-	if(member_array((string)who->query_class(), (string *)join_room->
-			query_no_guilds()) >= 0) {
-      mult *= 100; }
+//ADD
+skill_level = (int)who->query_base_skill(skill);
 
-    if(member_array((string)who->query_class(), (string *)join_room->
-		    query_hated_guilds()) >= 0) {
-      mult *= 16; }
-	if(member_array((string)who->query_class(), (string *)join_room->
-		    query_odd_guilds()) >= 0) {
-      mult *= 8; }
-	if(member_array((string)who->query_class(), (string *)join_room-> 
-			query_other_guilds()) >= 0) {
-      mult *= 5; }
-	if(member_array((string)who->query_class(), (string *)join_room-> 
-		    query_related_guilds()) >= 0) {
-      mult *= 2; }
-//TLNY2024 change
-     //else {mult *= 5;}
-     else {mult *= 1;}
-  }
-	 
- 
-
-    if((string)who->query_class() != (string)join_room->query_class_name()) {
-    if(member_array((string)who->query_class(), (string *)join_room->
-		    query_related_guilds()) >= 0)
-      mult *= 3;
-    else mult *= 4;
-  }
-
-  if((int)who->query_base_skill(skill) >= 80) mult *= 2;
-  if((int)who->query_base_skill(skill) >= 100) mult *= 2;
-  if((int)who->query_base_skill(skill) >= 150) mult *= 2;
+if (skill_level >= 1250) {mult = 7500;} 
+else if (skill_level >= 1200) {mult = 6500;} 
+else if (skill_level >= 1150) {mult = 5500;} 
+else if (skill_level >= 1100) {mult = 4500;} 
+else if (skill_level >= 1050) {mult = 4000;} 
+else if (skill_level >= 1000) {mult = 3500;} 
+else if (skill_level >= 950) {mult = 3250;} 
+else if (skill_level >= 900) {mult = 3000;} 
+else if (skill_level >= 850) {mult = 2800;} 
+else if (skill_level >= 800) {mult = 2750;} 
+else if (skill_level >= 750) {mult = 2500;} 
+else if (skill_level >= 700) {mult = 2250;} 
+else if (skill_level >= 650) {mult = 2100;} 
+else if (skill_level >= 600) {mult = 2000;} 
+else if (skill_level >= 550) {mult = 1900;} 
+else if (skill_level >= 500) {mult = 1850;} 
+else if (skill_level >= 475) {mult = 1780;} 
+else if (skill_level >= 450) {mult = 1670;} 
+else if (skill_level >= 425) {mult = 1560;} 
+else if (skill_level >= 400) {mult = 1450;} 
+else if (skill_level >= 375) {mult = 1400;} 
+else if (skill_level >= 350) {mult = 1350;} 
+else if (skill_level >= 325) {mult = 1300;} 
+else if (skill_level >= 300) {mult = 1250;} 
+else if (skill_level >= 275) {mult = 1225;} 
+else if (skill_level >= 250) {mult = 1205;} 
+else if (skill_level >= 225) {mult = 1195;} 
+else if (skill_level >= 200) {mult = 1185;} 
+else if (skill_level >= 175) {mult = 1000;} 
+else if (skill_level >= 150) {mult = 900;} 
+else if (skill_level >= 125) {mult = 35;} 
+else if (skill_level >= 100) {mult = 25;} 
+else if (skill_level >= 90) {mult = 20;} 
+else if (skill_level >= 80) {mult = 15;} 
+else if (skill_level >= 70) {mult = 12;} 
+else if (skill_level >= 60) {mult = 9;} 
+else if (skill_level >= 50) {mult = 7;} 
+else if (skill_level >= 40) {mult = 5;} 
+else if (skill_level >= 30) {mult = 4;} 
+else if (skill_level >= 20) {mult = 3;} 
+else if (skill_level >= 10) {mult = 2;}
+//END
+/*
+  if((int)who->query_base_skill(skill) >= 10) mult = 2;
+  if((int)who->query_base_skill(skill) >= 20) mult = 3;
+  if((int)who->query_base_skill(skill) >= 30) mult = 4;
+  if((int)who->query_base_skill(skill) >= 40) mult = 5;
+  if((int)who->query_base_skill(skill) >= 50) mult = 7;
+  if((int)who->query_base_skill(skill) >= 60) mult = 9;
+  if((int)who->query_base_skill(skill) >= 70) mult = 12;
+  if((int)who->query_base_skill(skill) >= 80) mult = 15;
+  if((int)who->query_base_skill(skill) >= 90) mult = 20;
+  if((int)who->query_base_skill(skill) >= 100) mult = 25;
+  if((int)who->query_base_skill(skill) >= 125) mult = 35;
+//TLNY2025 ADD
+if((int)who->query_base_skill(skill) >= 150) mult = 655;
+if((int)who->query_base_skill(skill) >= 175) mult = 675;
+if((int)who->query_base_skill(skill) >= 200) mult = 685;
+if((int)who->query_base_skill(skill) >= 225) mult = 695;
+if((int)who->query_base_skill(skill) >= 250) mult = 705;
+if((int)who->query_base_skill(skill) >= 275) mult = 725;
+if((int)who->query_base_skill(skill) >= 300) mult = 750;
+if((int)who->query_base_skill(skill) >= 325) mult = 800;
+if((int)who->query_base_skill(skill) >= 350) mult = 850;
+if((int)who->query_base_skill(skill) >= 375) mult = 900;
+if((int)who->query_base_skill(skill) >= 400) mult = 950;
+if((int)who->query_base_skill(skill) >= 425) mult = 1060;
+if((int)who->query_base_skill(skill) >= 450) mult = 1170;
+if((int)who->query_base_skill(skill) >= 475) mult = 1280;
+if((int)who->query_base_skill(skill) >= 500) mult = 1350;
+if((int)who->query_base_skill(skill) >= 550) mult = 1400;
+if((int)who->query_base_skill(skill) >= 600) mult = 1500;
+if((int)who->query_base_skill(skill) >= 650) mult = 1600;
+if((int)who->query_base_skill(skill) >= 700) mult = 1850;
+if((int)who->query_base_skill(skill) >= 750) mult = 2000;
+if((int)who->query_base_skill(skill) >= 800) mult = 2250;
+if((int)who->query_base_skill(skill) >= 850) mult = 2400;
+if((int)who->query_base_skill(skill) >= 900) mult = 2550;
+if((int)who->query_base_skill(skill) >= 950) mult = 2700;
+if((int)who->query_base_skill(skill) >= 1000) mult = 3150;
+if((int)who->query_base_skill(skill) >= 1050) mult = 3600;
+if((int)who->query_base_skill(skill) >= 1100) mult = 4150;
+if((int)who->query_base_skill(skill) >= 1150) mult = 5100;
+if((int)who->query_base_skill(skill) >= 1200) mult = 6150;
+if((int)who->query_base_skill(skill) >= 1250) mult = 7100;
+*/
+  if(((string)join_room->query_member_status((string)who->query_name()) == "member"))
+    times = 2;
+  if(((string)join_room->query_member_status((string)who->query_name()) == "allow train"))
+    times = 3;
   if(member_array("bad standing", (string *)join_room->query_member_privs((string)this_player()->query_name())) >= 0)
-    mult *= 3;
+    mult *= 4; 
+  //need to add training bonus for races .75 for memebers, 1.75 for dual
   file = "/std/skills/"+replace_string(skill, " ", "_")+".c";
   if(!file_exists(file)) return 0;
   file = replace_string(file, ".c", "");
-  times = (int)who->query_dev_times(skill, (int)who->query_level());
-  if(!times) cost = (mult * (int)file->query_dev());
-  else cost = (mult * times * (int)file->query_fast_dev());
-  if(subt < 0) cost += subt;
-  if(cost < 1) cost = 1;
+  mult = ((int)who->query_base_skill(skill)) + mult;
+  if (mult <= 0) mult = 1;
+//TLNY2025 change
+  cost = (mult * times + (int)file->query_dev());
+//TLNY2025 training bonus formula
+  if(subt < 0) cost += (cost/(subt-1));
+  if(cost < 1) cost = 1;  
+//cost = mult*times;
   return cost;
 }
 
@@ -353,11 +409,13 @@ int calc_skill_inc(object who, string skill) {
   switch(base) {
   case 0..25:
     return 5;
-  case 26..40:
+  //case 26..40: //TLNY2025 change to fit new skill system
+  case 26..50:
     return 3;
-  case 41..59:
+  //case 41..59: //TLNY2025 change to fit new skill system
+    case 51..80:
     return 2;
-  case 60..10000:
+  case 81..10000:
     return 1;
   }
   return 1;

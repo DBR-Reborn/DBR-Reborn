@@ -27,8 +27,13 @@ void end_skill(object me) {
 int query_focused_attack() {
    int foc_att;
      if((int)this_object()->query_skill("focused attack") > 100){
-             foc_att = random(this_object()->query_skill("focused attack")/75)+1;
+             foc_att = random(2)+1;
       }  else
              foc_att = 1;
    return;
 }
+
+
+
+
+

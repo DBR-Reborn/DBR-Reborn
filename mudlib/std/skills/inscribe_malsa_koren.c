@@ -74,7 +74,7 @@ void finish_work(object from, object at) {
   
   message("info", "%^CYAN%^%^BOLD%^You finish inscribing the rune.",
 	  from);
-  if(!check_brittle(at, from, 4)) {
+  if(!check_brittle(at, from, 8)) {
     remove();
     return;
   }

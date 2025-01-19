@@ -95,7 +95,7 @@ void directed_message(object who, string str) {
     if(member_array((string)who->query_name(), 
 		    (string *)environment()->query_all_owners()) > -1) {
       environment()->new_owner((string)who->query_name(),
-				sprintf("/d/nocte/kuril/virtual/inn_%d.inn",
+				sprintf("/d/damned/virtual/inn_%d.inn",
 					(int)environment()->
 					query_room_num((string)who->
 						       query_name())),

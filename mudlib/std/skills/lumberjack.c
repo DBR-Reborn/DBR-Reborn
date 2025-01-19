@@ -137,7 +137,7 @@ from->add_exp2(5 * props["skill level"]);
   //ob->set_wood(props["skill level"]/10);
   ob->set_value((props["skill level"]/10)*10);
   ob->set_weight((props["skill level"]/10)*4);
-  ob->move(from);
+
 //TLNY2022 Add
 
   if(random(100) < (props["skill level"]/11)+1) {
@@ -148,6 +148,9 @@ from->add_exp2(5 * props["skill level"]);
   ob->set_weight((props["skill level"]/5)*4);
 }
   ob->set_material("wood/"+type);
+  ob->move(from);
+//TLNY2025 Move above here for Weight bug
+
 if(!present(ob,from)) {
         message("info","%^CYAN%^You cannot carry anymore so it falls to the ground.",
                 from);

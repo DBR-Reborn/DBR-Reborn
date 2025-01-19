@@ -53,7 +53,7 @@ void reset() {
 void init() {
     exits::initiate_exits();
     senses::initiate();
-    call_out("clean_up",900);
+    call_out("clean_up",60*60);
 }
 
 /*
@@ -72,7 +72,7 @@ int clean_up() {
   if(query_property("storage room")) return 0;
   foreach(ob in inv) {
  if(ob->is_player() && interactive(ob)) return 1;
-//TLNY2020 change
+//TLNY2020 change removed broken code
     //if(ob->is_player() && interactive(ob) &&
     //   query_idle(ob) < 99600) return 1;
     if(ob->is_pet() && stringp(ob->query_owner()) &&

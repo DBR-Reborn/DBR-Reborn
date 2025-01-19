@@ -70,7 +70,7 @@ switch(random(8)){
     }
 
 //controls monsters level
-    zlevel = (22+random(5));
+    zlevel = (23+random(7));
 //Controls Loot level and other fucntions do to raise to high multpies loot
     lvl = 2;
 //Controls critical hit reduction and other such
@@ -91,6 +91,8 @@ switch(random(8)){
    set_property("enhance criticals",-llvl);
 
    set_melee_damage(([ "cutting" : zlevel ]));
+
+    set_skill("power slam", zskill*zlevel);
    //set_melee_damage(([ "cutting" : zlevel,damage1 : zlevel, damage2 : zlevel ]));
 
     //set_melee_damage("cutting");
@@ -566,4 +568,12 @@ message("info","%^B_YELLOW%^Somthing drops on the corpse you should probably LOO
 	break;
     }
    ::die();
+}
+
+varargs void heart_beat(int flag) {
+  if(query_current_attacker()) {
+    force_me("use power slam at "+(string)(query_current_attacker()->query_name()));
+  }
+  ::heart_beat(flag);
+  return;
 }

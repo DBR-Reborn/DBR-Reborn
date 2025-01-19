@@ -39,6 +39,7 @@ void spell_func(object caster, object at, int power, string args, int flag) {
     remove();
     return;
   }
+    caster->add_exp2(5 * caster->query_skill("prayer") + (this_player()->query_level()*100));
   at->add_poisoning(-30*power*power);
   remove();
   return;

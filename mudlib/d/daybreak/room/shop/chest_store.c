@@ -51,9 +51,9 @@ void reset() {
   }
   i = 5;
   while(i--) {
-    new("/std/diewarzau/obj/misc/safe")->move(this_object());
-    new("/std/diewarzau/obj/misc/small_chest")->move(this_object());
-    new("/std/diewarzau/obj/misc/large_chest")->move(this_object());
+    new("/std/obj/safe")->move(this_object());
+   // new("/std/diewarzau/obj/misc/small_chest")->move(this_object());
+    new("/std/obj/large_chest")->move(this_object());
     new("/std/diewarzau/obj/misc/storage_locker")->move(this_object());
   }
 }

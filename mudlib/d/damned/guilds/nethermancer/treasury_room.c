@@ -13,9 +13,7 @@ void create() {
 if (!present("rune")) {
 	new ("/std/diewarzau/obj/misc/h_rune") ->move(this_object());
 	 }
-if (!present("locker")) {
-	new("/std/diewarzau/obj/misc/storage_locker")->move(this_object());
-	}
+
 	    return;
 
 }

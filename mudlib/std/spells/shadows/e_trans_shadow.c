@@ -30,7 +30,7 @@ int start_shadow(object ob, int dur, string msg) {
     return 1;
 }
 
-int query_d_trans() { return 1; }
+int query_etrans() { return 1; }
 
 mixed query_property(string what) {
   mapping tmp, tmp2;

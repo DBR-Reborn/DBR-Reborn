@@ -13,7 +13,7 @@ inherit DAEMON;
 
 int cmd_end(string str) {
     object ob;
-    int mins;
+    int mins, current_time;
 
     if(str == "abort") {
 	seteuid(UID_SHUTDOWN);
@@ -23,6 +23,8 @@ write("Ok.");
 // write("Temporarily Disabled, Please do not delay or abort ends. -Traer");
 	return 1;
     }
+
+
 if(str)
 if(sscanf(str,"add %d",mins) == 1) {
 //if(mins > 0)
@@ -32,9 +34,12 @@ if(sscanf(str,"add %d",mins) == 1) {
 	seteuid(UID_SHUTDOWN);
 	SHUT_D->add_time(mins);
 	seteuid(getuid());
-   	write("Ok.");
+    write("Ok. Time left is " + (SHUT_D->query_time_remaining()) + " secounds.");
 	return 1;
     }
+
+
+
     if(!archp(previous_object())) return 0;
      if(this_player()->query_forced()) return 0;
     ob = new(OB_SHUT);

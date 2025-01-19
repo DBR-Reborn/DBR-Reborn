@@ -5,6 +5,6 @@
 
 int high_mortalp(object ob) {
     if(!ob) ob = previous_object();
-    if(!wizardp(ob) && (int)ob->query_level() > 35) return 1;
+    if(!wizardp(ob) && (int)ob->query_level() > 150) return 1;
     return 0;
 }

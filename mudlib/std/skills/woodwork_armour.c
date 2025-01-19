@@ -1,6 +1,6 @@
-#define WARMOUR ({ "wood-helm", "wood-plate", "wooden-armour", "wood-hand-guard",\
+#define WARMOUR ({ "wood-helm", "wood-plate", "wood-armour", "wood-hand-guard",\
 "wood-bracer", "wood-leg-guards", "stumps", \
-"tower-shield","wall-shield", "large-shield", "small-shield", "buckler-shield", "wooden-wing-guards" \
+"tower-shield","wall-shield", "large-shield", "small-shield", "buckler-shield", "wood-wing-guards" \
 })
 
 inherit "/std/skills/long_term.c";
@@ -134,6 +134,10 @@ from->add_exp2(25 * props["skill level"]+(this_player()->query_level()*100));
   ob->set_ac(base_ac + bonus_ac + (random(skill)/5), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/5), "cutting");
 
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/5), "reflection");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/5), "acid");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/5), "time");
+
 //TLNY2021 ADD
 if(ob->query_material() == "/wood/abachi" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/2) );
@@ -152,7 +156,11 @@ if(ob->query_material() == "/wood/abachi" ) {
   ob->set_ac(base_ac + bonus_ac + (65+random(skill)/2), "strike");
   ob->set_ac(base_ac + bonus_ac + (65+random(skill)/2), "impaling");
   ob->set_ac(base_ac + bonus_ac + (65+random(skill)/2), "cutting");
-  ob->set_ac(base_ac + bonus_ac + (65+random(skill)/2), "crushing");      
+  ob->set_ac(base_ac + bonus_ac + (65+random(skill)/2), "crushing");    
+
+  ob->set_ac(base_ac + bonus_ac + (65+random(skill)/2), "reflection");
+  ob->set_ac(base_ac + bonus_ac + (65+random(skill)/2), "acid");
+  ob->set_ac(base_ac + bonus_ac + (65+random(skill)/2), "time");   
 }
 if(ob->query_material() == "/wood/aspen" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );
@@ -173,6 +181,10 @@ if(ob->query_material() == "/wood/aspen" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cutting");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing"); 
+
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "reflection");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "acid");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "time"); 
 }
 if(ob->query_material() == "/wood/buckeye" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );
@@ -193,6 +205,10 @@ if(ob->query_material() == "/wood/buckeye" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cutting");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing"); 
+
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "reflection");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "acid");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "time"); 
 }
 if(ob->query_material() == "/wood/birch" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );
@@ -213,6 +229,10 @@ if(ob->query_material() == "/wood/birch" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cutting");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing"); 
+
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "reflection");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "acid");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "time"); 
 }
 if(ob->query_material() == "/wood/coachwood" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );
@@ -233,6 +253,10 @@ if(ob->query_material() == "/wood/coachwood" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cutting");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing"); 
+
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "reflection");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "acid");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "time");
 }
 if(ob->query_material() == "/wood/dogwood" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );  
@@ -253,6 +277,10 @@ if(ob->query_material() == "/wood/dogwood" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cutting");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing");
+
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "reflection");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "acid");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "time");
 }
 if(ob->query_material() == "/wood/willow" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );  
@@ -273,6 +301,10 @@ if(ob->query_material() == "/wood/willow" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cutting");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing");
+
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "reflection");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "acid");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "time");
 }
 if(ob->query_material() == "/wood/elm" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );  
@@ -293,10 +325,14 @@ if(ob->query_material() == "/wood/elm" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cutting");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing");
+
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "reflection");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "acid");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "time");
 }
 if(ob->query_material() == "/wood/gum" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );  
-  ob->set_ac(base_ac + bonus_ac + (random(skill)/2), "cold");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/2), "reflection");
 
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "aether");  
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "infernal");
@@ -313,10 +349,14 @@ if(ob->query_material() == "/wood/gum" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cutting");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing");
+
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cold");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "acid");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "time");
 }
 if(ob->query_material() == "/wood/limba" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );  
-  ob->set_ac(base_ac + bonus_ac + (random(skill)/2), "fire");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/2), "time");
 
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "aether");  
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "infernal");
@@ -333,10 +373,14 @@ if(ob->query_material() == "/wood/limba" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cutting");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing");
+
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "reflection");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "acid");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "fire");
 }
 if(ob->query_material() == "/wood/mahogany" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );  
-  ob->set_ac(base_ac + bonus_ac + (random(skill)/2), "stress");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/2), "acid");
 
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "aether");  
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "infernal");
@@ -353,6 +397,10 @@ if(ob->query_material() == "/wood/mahogany" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cutting");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing");
+
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "reflection");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "stress");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "time");
 }
 if(ob->query_material() == "/wood/walnut" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );  
@@ -376,7 +424,7 @@ if(ob->query_material() == "/wood/walnut" ) {
 }
 if(ob->query_material() == "/wood/oak" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );  
-  ob->set_ac(base_ac + bonus_ac + (random(skill)/2), "impaling");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/2), "fire");
 
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "aether");  
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "infernal");
@@ -387,16 +435,20 @@ if(ob->query_material() == "/wood/oak" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "electricity");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "vacuum");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cold");
-  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "fire");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "stress");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impact");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "strike");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cutting");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing");
+
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "reflection");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "acid");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "time");
 }
 if(ob->query_material() == "/wood/maple" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );  
-  ob->set_ac(base_ac + bonus_ac + (random(skill)/2), "cutting");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/2), "cold");
 
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "aether");  
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "infernal");
@@ -406,13 +458,17 @@ if(ob->query_material() == "/wood/maple" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "disruption");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "electricity");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "vacuum");
-  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cold");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cutting");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "fire");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "stress");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impact");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "strike");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "crushing");
+
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "reflection");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "acid");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "time");
 }
 if(ob->query_material() == "/wood/ironwood" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3) );  
@@ -433,6 +489,10 @@ if(ob->query_material() == "/wood/ironwood" ) {
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "strike");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "impaling");
   ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "cutting");
+
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "reflection");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "acid");
+  ob->set_ac(base_ac + bonus_ac + (random(skill)/3), "time");
 }
 
 //END

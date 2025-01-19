@@ -18,9 +18,9 @@ void create() {
     set_property("observer message","$C bind’s a demon to a weapon.");
     set_property("spell type",({}));
     //set_property("duration", "permanent");
-    set_property("duration", 2020);
-    set_property("stack key", "demon prince sword");
-    set_property("stack num", 1);
+    set_property("duration", 1200);
+    set_property("stack key", "demon sword");
+    set_property("stack num", 3);
     set_property("must be present", 1);
     set_property("target type", "living");
     set_property("prereq", "summon demon prince");
@@ -89,8 +89,8 @@ lvl = (caster->query_level()/2);
     remove();
     return;
   }
-  ob->set_extra_wc(([ "impact" : 15*power+lvl, "disruption" : 12*power+lvl, "fire" : 8*power+lvl, ]));
-  ob->set_auto_crits(([ "disruption D" : 2*power+lvl ]));
+  ob->set_extra_wc(([ "impact" : 15*power+lvl, "disruption" : 12*power+lvl ]));
+  ob->set_auto_crits(([ "disruption B" : 2*power+lvl ]));
   ob->start_shadow(weap, props["duration"], "%^CYAN%^A demon prince sword spell wears off.");
   remove();
   at->remove();

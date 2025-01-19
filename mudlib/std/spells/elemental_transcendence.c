@@ -8,7 +8,7 @@ void create() {
     set_property("skill","elementalism");
     set_property("elemental spell", 1);
     set_property("casting time",15);
-    set_property("base mp cost",400);
+    set_property("base mp cost",300);
     set_property("dev cost", 300);
     set_property("fast dev cost", 615);
     set_property("spell level", 50);
@@ -70,6 +70,8 @@ void spell_func(object caster, object at, int power, string args, int flag) {
   //ob->set_melee_skill(20+power*3);
     ob->set_melee((power*8)+caster->query_level());
     ob->set_melee_skill((power*8)+caster->query_level());
+  //ob->set_shadow_name("elemental transcendence");
+    //ob->set_auto_critical(implode(props["element types"], " C"));
    //no work //ob->set_auto_critical(caster, caster, map_array(props["element types"], (: $1 + $2 :), " C"));
   ob->set_elements(props["element types"]);
   ob->start_shadow(caster, props["duration"],

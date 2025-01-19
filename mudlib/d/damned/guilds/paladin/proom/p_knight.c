@@ -44,7 +44,7 @@ create() {
 new("/d/damned/guilds/paladin/proom/p_holy_badge")->
 		move(this_object());
 	force_me("wear badge");
-add_money("mithril", 100 + random(100));
+add_money("mithril", 30 + random(100));
 }
 
 void init() {

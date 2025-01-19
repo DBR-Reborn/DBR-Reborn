@@ -49,12 +49,12 @@ int cmd_equip(string arg) {
 	   }
 	    }
         if(tmp[i]->is_armour())
-	  if((string)tmp[i]->query_type() == "bracer") {
+	  if((string)tmp[i]->query_type() == "wood arm") {
       TP->force_me("wear " + ((string *)tmp[i]->query_id())[0] + " on right arm");
       TP->force_me("wear " + ((string *)tmp[i]->query_id())[0] + " 2 on left arm");
 	    } 
         if(tmp[i]->is_armour())
-	    if((string)tmp[i]->query_type() == "glove") {
+	    if((string)tmp[i]->query_type() == "wood hand") {
       TP->force_me("wear " + ((string *)tmp[i]->query_id())[0] + " on right hand");
       TP->force_me("wear " + ((string *)tmp[i]->query_id())[0] + " 2 on left hand");
 	    }  
@@ -79,6 +79,11 @@ int cmd_equip(string arg) {
         //TP->force_me("wear " + ((string *)tmp[i]->query_id())[0] + " 2");
 	    }
     if(tmp[i]->is_armour())
+	  if((string)tmp[i]->query_type() == "wood head") {
+        TP->force_me("wear " + ((string *)tmp[i]->query_id())[0]);
+        //TP->force_me("wear " + ((string *)tmp[i]->query_id())[0] + " 2");
+	    }
+    if(tmp[i]->is_armour())
 	  if((string)tmp[i]->query_type() == "metal head") {
         TP->force_me("wear " + ((string *)tmp[i]->query_id())[0]);
         //TP->force_me("wear " + ((string *)tmp[i]->query_id())[0] + " 2");
@@ -89,18 +94,30 @@ int cmd_equip(string arg) {
         //TP->force_me("wear " + ((string *)tmp[i]->query_id())[0] + " 2");
 	    } 
     if(tmp[i]->is_armour())
+	  if((string)tmp[i]->query_type() == "wood torso") {
+        TP->force_me("wear " + ((string *)tmp[i]->query_id())[0]);
+        //TP->force_me("wear " + ((string *)tmp[i]->query_id())[0] + " 2");
+	    } 
+    if(tmp[i]->is_armour())
 	  if((string)tmp[i]->query_type() == "metal torso") {
         TP->force_me("wear " + ((string *)tmp[i]->query_id())[0]);
         //TP->force_me("wear " + ((string *)tmp[i]->query_id())[0] + " 2");
 	    } 
     if(tmp[i]->is_armour())
 	  if((string)tmp[i]->query_type() == "leather foots") {
-        TP->force_me("wear " + ((string *)tmp[i]->query_id())[0]);
-        TP->force_me("wear " + ((string *)tmp[i]->query_id())[0] + " 2");
+        TP->force_me("wear leather boots");
+        //TP->force_me("wear " + ((string *)tmp[i]->query_id())[0]);
+        //TP->force_me("wear " + ((string *)tmp[i]->query_id())[0] + " 2");
+	    } 
+    if(tmp[i]->is_armour())
+	  if((string)tmp[i]->query_type() == "wood foots") {
+         TP->force_me("wear stumps");
+        //TP->force_me("wear " + ((string *)tmp[i]->query_id())[0]);
+        //TP->force_me("wear " + ((string *)tmp[i]->query_id())[0] + " 2");
 	    } 
     if(tmp[i]->is_armour())
 	  if((string)tmp[i]->query_type() == "metal foots") {
-        TP->force_me("wear " + ((string *)tmp[i]->query_id())[0]);
+        TP->force_me("wear metal boots");
         //TP->force_me("wear " + ((string *)tmp[i]->query_id())[0] + " 2");
 	    } 
         if(tmp[i]->is_armour())

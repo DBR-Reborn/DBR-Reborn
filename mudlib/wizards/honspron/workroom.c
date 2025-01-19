@@ -1,4 +1,4 @@
-inherit "/std/locker_room.c";
+inherit "/std/save_room.c";
 
 void create()
 {

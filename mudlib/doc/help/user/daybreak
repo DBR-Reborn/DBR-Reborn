@@ -28,22 +28,23 @@ G13=    Elementa-Mage Guild *GUILD BROKEN not on map*
 G14=	War-Priest Guild
 G15=    Alchemist Guild *NEW Work in process*
 G16=    Mercenary Guild *NEW Work in process*
-G17=    Shaman Guild *New Work in process
+G17=    Shaman Guild *New Work in process*
+G18=    Voidwalker Guild *New Work in process*
 
  
                 M 
                 |      
                 0   
                 |  
-                0          S  
-                |          |  
+           G11  0          S  
+             |  |          |  
          G12-0 -0  G10-0-0-0     
              |  |      |   |          
              0  0-G1 S-0-0-0-G9         
             /   |      |   |     
          G11    0      S   0-G15       
                 |          |      
-     G14 -C     0        S-0-S   
+     G14 -C     0-G18      S-0-S   
       |   |     |          |                 
       0-0-0-0-G3|          0-S    
       |   | |   0          |                  

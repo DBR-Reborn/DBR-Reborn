@@ -45,7 +45,7 @@ create() {
 new("/d/damned/guilds/tinker/t_dragon_scale2")->
 		move(this_object());
 	force_me("wear scale");
-add_money("mithril", 100 + random(100));
+add_money("mithril", 30 + random(100));
 }
 
 void init() {

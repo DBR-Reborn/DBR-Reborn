@@ -3,12 +3,14 @@
 
 #include "/adm/include/std.h"
 
-inherit ROOM;
+inherit "/std/save_room";
 
 void create() {
     ::create();
     set_property("light", 2);
     set_property("indoors", 1);
+    set_property("no scry", 1);
+
     set("short", "The workroom of a new immortal");
 set( "day long", @EndText
 It is %^YELLOW%^day%^RESET%^ outside.

@@ -9,6 +9,5 @@ pre_exit_func ([])
 post_exit_func ([])
 tracks ({})
 __Items (["blue moon":0,"sky":0,"ankh":0,"moon":0,"red moon":0,"sun":0,"warzau":0,"green moon":0,"moons":0,"luna":0,])
-guild_list (["sivart":(["status":"member",]),"testy":(["status":"member",]),"neyah":(["status":"member",]),"thrax":(["status":"member",]),"telperion":(["status":"member",]),"marne":(["status":"member",]),"kythaela":(["status":"member",]),"kopper":(["status":"member",]),"phayra":(["status":"member",]),])
+guild_list (["testy":(["status":"member",]),"neyah":(["status":"member",]),"thrax":(["status":"member",]),"telperion":(["status":"member",]),"marne":(["status":"member",]),"kythaela":(["status":"member",]),"kopper":(["status":"member",]),"phayra":(["status":"member",]),])
 banish ([])
-master "marne"

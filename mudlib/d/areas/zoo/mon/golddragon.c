@@ -32,8 +32,8 @@ set_spell_level("violent blaze", 6);
 set_property("enhance criticals", -50);
 force_me("use concentrate");
 set_overall_ac(1500);
-set_money("gold", 1000);
-set_money("mithril", 500); 
+set_money("gold", 1000)
+set_money("mithril", 100+random(100)); 
 set_property("gang bang", 1);
 //set("aggressive",1);
 return;

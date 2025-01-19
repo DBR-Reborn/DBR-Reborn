@@ -9,6 +9,7 @@ int power;
 void create() {
   ::create();
   set_save(0);
+set_property("no save", 1);
   set_attack(1);
   set_carry(0);
   set_can_change_aggr(0);
@@ -19,13 +20,20 @@ void create() {
   return;
 }
 
+void restore_stuff() {
+    ::restore_stuff();
+    if(elems && power && element)
+	this_object()->set_up(power, elems, element);
+    return;
+}
+/*
 void restore_locker(string file) {
   ::restore_locker(file);
   if(elems && power && element)
     this_object()->set_up(power, elems, element);
   return;
 }
-
+*/
 int id(string str) {
   if(::id(str)) return 1;
   if(!element) return 0;

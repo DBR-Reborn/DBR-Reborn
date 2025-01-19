@@ -566,14 +566,14 @@ void set_stats(string str, int x) {
 
 void set_invis() {
     if(invis) {
-        invis = 0;
-        write("You step out of the shadows.");
-        say(query_mvis());
+	invis = 0;
+	write("You step out of the shadows.");
+	say(query_mvis());
     }
     else {
-        write("You fade into the shadows.");
-        say(query_minvis()+"");
-        invis = 1;
+	write("You fade into the shadows.");
+	say(query_minvis()+"");
+	invis = 1;
     }
 }
 

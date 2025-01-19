@@ -15,6 +15,14 @@ void create() {
   return;
 }
 
+void init(){
+ int lvl;
+ lvl = this_object()->query_property("level");
+ if (lvl >= 1)
+ set_short("a level "+lvl+" embalmed corpse");
+}
+
+
 void set_level(int x) {
   if(x <= 0) return;
   level = x;

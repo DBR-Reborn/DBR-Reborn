@@ -36,6 +36,25 @@ void skill_func(object from, object at, string arg) {
   object *inv, what;
   int res, *tmp, bonus;
 
+  if(from->query("stealing")) {
+    message("info", "You can only do that once at a time!",
+      from);
+    remove();
+    return;
+}
+//ADD
+/*
+  if((time() - (int)from->query_last_use("steal")) < 2)
+    {
+    message("info", "You are too tired to use this skill yet.", from);
+    remove();
+    return;
+  }
+
+  from->set_last_use("steal");
+*/
+//END
+
   inv = filter_array(all_inventory(at), "steal_filter", this_object());
   if(!sizeof(inv)) {
     message("info", capitalize(nominative(at)) +" has nothing you can steal.",
@@ -45,11 +64,6 @@ void skill_func(object from, object at, string arg) {
   }
   if(environment(from) && environment(from)->query_property("no steal")) {
     message("my_action", "Divine forces prevent your action.", from);
-    remove();
-    return;
-  }
-  if(from->query("stealing")) {
-    message("info", "You can only do that once at a time!", from);
     remove();
     return;
   }
@@ -78,10 +92,10 @@ void skill_func(object from, object at, string arg) {
 		      1);
   at->set("per bonus:"+(string)from->query_name(),
 	  ({ bonus + 7+random(7), time() }));
-  from->add_exp2(5 * props["skill level"]+(this_player()->query_level()*100));
+from->add_exp2(5 * props["skill level"]+(this_player()->query_level()*100));
   message("my_action", "%^CYAN%^You carefully reach into "+
 	  (string)at->query_cap_name()+"'s pockets...", from);
-  from->set("stealing", 1);
+    from->set("stealing", 1);
   call_out("do_steal", 5, res, ({ from, at, what }) );
   return;
 }
@@ -89,7 +103,6 @@ void skill_func(object from, object at, string arg) {
 void do_steal(int res, object *obs) {
   object from, at, what;
 
-  from->set("stealing", 0);
   if(sizeof(obs) != 3) {
     message("shout", "BUG IN STEAL SKILL....", users());
     remove();
@@ -98,6 +111,7 @@ void do_steal(int res, object *obs) {
   from = obs[0];
   at = obs[1];
   what = obs[2];
+ from->set("stealing", 0);
 //TLNY2024 ADD
  if (at == 0) {
       remove();

@@ -555,10 +555,11 @@ message("info","%^BLACK%^%^B_YELLOW%^Somthing drops on the corpse you should pro
 
 switch(random(100)){
     case 44:
-message("info","%^COLOR222%^A extra ingot drops on the corpse you should probably LOOK at corpse and get it%^RESET%^", environment(this_object()), this_object());
+message("info","%^COLOR222%^A ingot drops on the corpse you should probably LOOK at corpse and get it%^RESET%^", environment(this_object()), this_object());
  ob = new("/std/diewarzau/obj/misc/ingot");
     ob->set_material("metal/"+mtlname);
-    ob->set_weight(20+random(zlevel));
+    ob->set_value((2*zlevel)+random(zlevel));
+    ob->set_weight((2*zlevel)+random(zlevel));
    ob->move(this_object());
 }
 switch(random(100)){

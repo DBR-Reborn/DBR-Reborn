@@ -113,7 +113,7 @@ void finish_work(object caster, object at, int power) {
     ench = (int)at->query_wc("electricity");
     if(!ench) ench = power;
     else ench += power;
-    at->set_wc(((20*power)+ench)/2+(caster->query_level()/2), "electricity");
+    at->set_wc(((7*power)+ench)+(caster->query_level()/2), "electricity");
     caster->add_exp2(700*power);
 /*
     at->set_property("electric blade", ench + 1);

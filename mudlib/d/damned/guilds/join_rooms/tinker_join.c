@@ -140,7 +140,7 @@ TEXT
   set_property("base hp regen", 10);
   set_property("base mp regen", 4);
   set_property("hp advance", 40);
-  set_property("mp advance", 18);  
+  set_property("mp advance", 12);  
 
   set_property("guild mods", ([ "strength" :  15, "constitution" : 5 ]) );
   //  Stat mods received upon joining.

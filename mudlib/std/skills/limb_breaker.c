@@ -3,8 +3,8 @@ inherit "/std/skills/skill";
 void create() {
     ::create();
     set_stat("strength");
-    set_dev_cost(20);
-    set_fast_dev_cost(63);
+    set_dev_cost(15);
+    set_fast_dev_cost(56);
     set_property("target type", "living");
     set_property("must be present",1);
 }

@@ -23,10 +23,38 @@ int cmd_unequip(string arg) {
 	   call_out("forces", 0, "remove " + ((string *)tmp[i]->query_id())[0], TP);
       
         if((int)tmp[i]->is_armour() && (object)tmp[i]->query_worn()){
-	  if((string)tmp[i]->query_type() == "bracer" || "gauntlet") {
+	  if((string)tmp[i]->query_type() == "metal hand") {
       call_out("forces", 0, "remove " + ((string *)tmp[i]->query_id())[0]+" 2", TP);
 	  }
 	}
+       if((int)tmp[i]->is_armour() && (object)tmp[i]->query_worn()){
+	  if((string)tmp[i]->query_type() == "wood hand") {
+      call_out("forces", 0, "remove handguard 2", TP);
+	  }
+	}
+        if((int)tmp[i]->is_armour() && (object)tmp[i]->query_worn()){
+	  if((string)tmp[i]->query_type() == "leather hand") {
+      call_out("forces", 0, "remove leatherhand 2", TP);
+	  }
+	}
+
+        if((int)tmp[i]->is_armour() && (object)tmp[i]->query_worn()){
+	  if((string)tmp[i]->query_type() =="metal arm") {
+      call_out("forces", 0, "remove " + ((string *)tmp[i]->query_id())[0]+" 2", TP);
+	  }
+	}
+
+        if((int)tmp[i]->is_armour() && (object)tmp[i]->query_worn()){
+	  if((string)tmp[i]->query_type() == "wood arm") {
+      call_out("forces", 0, "remove woodbracer 2", TP);
+	  }
+	}
+        if((int)tmp[i]->is_armour() && (object)tmp[i]->query_worn()){
+	  if((string)tmp[i]->query_type() == "leather arm") {
+      call_out("forces", 0, "remove " + ((string *)tmp[i]->query_id())[0]+" 2", TP);
+	  }
+	}
+
 	if((int)tmp[i]->is_weapon() && (object)tmp[i]->query_wielded())
 	  call_out("forces", 0, "unwield " + ((string *)tmp[i]->query_id())[0], TP);
      }

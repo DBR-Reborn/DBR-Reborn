@@ -10,6 +10,7 @@ void create() {
   set_can_change_aggr(1);
   set_carry(0);
   set_save(0);
+set_property("no save", 1);
   set_level(11);
   set_overall_ac(9);
   set_short("Joey, the pet rock");

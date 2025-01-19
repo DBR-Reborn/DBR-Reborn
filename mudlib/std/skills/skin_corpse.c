@@ -73,11 +73,6 @@ void skill_func(object from, object at, string arg) {
     }
   }
 
-  if(from->query("skinning corpse")) {
-    message("info", "You can only do that once at a time!", from);
-    remove();
-    return;
-  }
 
 
   i = sizeof(weap = (object *)from->query_wielded());
@@ -91,28 +86,72 @@ while(i--) if((string)weap[i]->query_type() == "knife") flag = 1;
   }
 */
   message("info", "%^CYAN%^%^BOLD%^You start skinning the corpse.", from);
-  message("info", "%^CYAN%^"+(string)from->query_cap_name() + " starts skinning a corpse.", environment(from), ({ from }));
-  from->set("skinning corpse", 1);
-  call_out("skin_corpse", 10, from, at);
-  type=at->query_name();
-  lvl=(int)at->query_level();
+  message("info", "%^CYAN%^"+(string)from->query_cap_name() +
+      " starts skinning a corpse.", environment(from),
+      ({ from }));
+  call_out("chop_down", 10, from, at);
+    type=at->query_name();
+    lvl=(int)at->query_level();
   return;
 }
 
-void skin_corpse(object from, object corpse) {
-  object ob, at;
+//void chop_down(object from, object corpse) {
+//  object ob, at;
 
-  from->set("skinning corpse", 0);
+/*
+  if(env != environment(from)) {
+    message("info", "You have moved while attempting to skin the corpse.  "+
+          "Your skill fails.", from);
+    remove_call_out("chop_down");
+    remove();
+    return;
+  }
+*/
+/*
   if(!present(corpse, from) && !present(corpse, environment(from))) {
     message("info", "You have lost the corpse.  "+
           "Your skill fails.", from);
-    remove_call_out("skin_corpse");
+    remove_call_out("chop_down");
     remove();
     return;
   }
 
   message("info", "%^CYAN%^"+(string)from->query_cap_name() +
       " finishes skinning a corpse.", from);
+*/
+//ADD
+void chop_down(object from, object corpse) {
+  object ob;
+
+//ADD
+ // Check if the 'from' object is valid
+  if (!objectp(from)) {
+    message("info", "You cannot proceed because the reference object is invalid.", from);
+    remove_call_out("chop_down");
+    remove();
+    return;
+  }
+
+//END
+  // Check if the corpse object is valid
+  if (!objectp(corpse)) {
+    message("info", "The corpse you were skinning is no longer here.", from);
+    remove_call_out("chop_down");
+    remove();
+    return;
+  }
+
+  // Ensure the corpse is still present
+  if (!present(corpse, from) && !present(corpse, environment(from))) {
+    message("info", "You have lost the corpse. Your skill fails.", from);
+    remove_call_out("chop_down");
+    remove();
+    return;
+  }
+
+  message("info", "%^CYAN%^" + (string)from->query_cap_name() +
+      " finishes skinning a corpse.", from);
+//END
 
     if(corpse->query_level() >= 28) {
     if(random(100)+35 >= props["skill level"]) {

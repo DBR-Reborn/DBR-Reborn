@@ -4,7 +4,7 @@ inherit "/std/spells/spell";
 void create() {
 	::create();
 	set_property("name", "summon voidmaker");
-	set_property("skill", "void lore");
+	set_property("skill", "darkweaving");
 	set_property("casting time", 100);
 	set_property("base mp cost", 150);
 	set_property("dev cost", 120);
@@ -21,7 +21,7 @@ void create() {
 }
 
 void info() {
-message("help", "This spells calls forth what is quite possibly THE most powerful weapon in all of Daybreak Ridge, the Voidmaker, into the hands of a Voidwalker. When summoned, the weapon lasts till reboot and carries multiple elemental properties with intensities determined by the level of the void lore skill when cast. The Voidmaker requires the skill 'oberon's weapon' to wield, an expensive skill available to train at level 25, and is non enchantable due to its power. When casting the spell, no target need be supplied.", this_player());
+message("help", "This spells calls forth what is quite possibly THE most powerful weapon in all of Daybreak Ridge, the Voidmaker, into the hands of a Voidwalker. When summoned, the weapon lasts till reboot and carries multiple elemental properties with intensities determined by the level of the darkweaving skill when cast. The Voidmaker requires the skill 'oberon's weapon' to wield, an expensive skill available to train at level 25, and is non enchantable due to its power. When casting the spell, no target need be supplied.", this_player());
 }
 
 void spell_func(object caster, object at, int power, string args, int flag)

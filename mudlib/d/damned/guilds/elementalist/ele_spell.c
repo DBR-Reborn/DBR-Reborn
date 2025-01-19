@@ -65,9 +65,10 @@ void create() {
 
   add_spell("summon lesser elemental");
   add_spell("summon elemental");
-  add_spell("lesser essential blade");
-  add_spell("essential blade");
-  add_spell("greater essential blade");
+//TLNY2025 removed part of revamp
+  //add_spell("lesser essential blade");
+  //add_spell("essential blade");
+  //add_spell("greater essential blade");
   add_spell("elemental presence");
   add_spell("elemental curse");
   add_spell("elemental bane");
@@ -90,6 +91,24 @@ void create() {
   add_spell("elemental shield");
   add_spell("elemental barrier");
   add_spell("elemental aegis");
+
+//ADD TLNY2025
+//level40
+add_spell("create elemental fighter");
+add_spell("extreme elemental storm");
+add_spell("extreme elemental strike");
+add_spell("extreme elemental bolt");
+//level50
+add_spell("create elemental warrior");
+  add_spell("elemental transcendence");
+//level60
+add_spell("create elemental fury");
+add_spell("ultimate elemental storm");
+add_spell("ultimate elemental strike");
+add_spell("ultimate elemental bolt");
+//level61
+add_spell("summon elemental titan");
+//END
   return;
 }
 

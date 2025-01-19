@@ -25,7 +25,7 @@ void create() {
     ob->start_shadow(this_object(), 2000000000, "");
     set_skill("concentrate", 200);
     force_me("use concentrate");
-    set_money("mithril", random(200)*6); 
+    set_money("mithril", random(200)+77); 
     set_combat_chance(120);
 	set_property("gang bang", 1);
 	set_max_hp(17000 + 1700*6);

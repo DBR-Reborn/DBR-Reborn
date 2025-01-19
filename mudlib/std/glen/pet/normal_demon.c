@@ -38,6 +38,7 @@ void create() {
     demon_type = 2;
     ::create();
     set_save(0);
+set_property("no save", 1);
     set_attack(1);
     set_carry(0);
     set_can_change_aggr(0);

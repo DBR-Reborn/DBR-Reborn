@@ -241,6 +241,29 @@ int dev_cost(object who, string skill) {
   return cost;
 }
 
+//ADD
+int prereq_check(object who, string str)
+{
+    object skill;
+    string prereq;
+
+    skill = find_object("/std/skills/" + replace_string(str, " ", "_"));
+
+    // Check if the skill object was found
+    if (!skill) return 1; // Or handle this case as needed
+
+    prereq = skill->query_property("prereq");
+    
+    // Check if prereq is valid before proceeding
+    if (!prereq) return 1;
+
+    if (who->query_base_skill(str) >= who->query_base_skill(prereq)) 
+        return 0;
+    else 
+        return 1;
+}
+//END
+/*
 int prereq_check(object who, string str)
 {
 object skill;
@@ -251,6 +274,7 @@ if(!prereq = skill->query_property("prereq")) return 1;
 if(who->query_base_skill(str) >= who->query_base_skill(prereq)) return 0;
 else return 1;
 }
+*/
 
 
 string *query_all_skills() {

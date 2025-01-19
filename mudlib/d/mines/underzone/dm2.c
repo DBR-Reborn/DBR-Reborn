@@ -43,6 +43,10 @@ void reset() {
      mon->move(this_object());
      mon->armour_total_midlevel("head,pants");
      mon->weapon_code_midlevel();
+     mon = new( UNMON+"miner1");
+     mon->move(this_object());
+     mon->armour_total_midlevel("head,pants");
+     mon->weapon_code_midlevel();
    }
    if(!present("donkey")) {    
      donk = new(UNMON+"donkey");

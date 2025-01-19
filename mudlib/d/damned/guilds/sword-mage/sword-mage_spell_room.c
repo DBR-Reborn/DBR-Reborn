@@ -42,38 +42,76 @@ void create() {
 
 	set_items((["pot":"You don't really want to know what its for. In it is some kind of potion. Perhaps this warrants further investigation.",
 		"potion":"The more you stare at this the more you think you could 'enter' it!" ]));
-  add_spell("fireball", 7);
-  add_spell("magic missile", 3);
-  add_spell("explosive fireball", 15, 1);
-  add_spell("lightning bolt", 10);
-  add_spell("killing cloud", 8, 1);
-  add_spell("ice dagger", 7, 1);
-  add_spell("power word, stun", 5);
-  add_spell("power word, blind", 9);
-  add_spell("light", 3);
-  add_spell("scry",12);
-  add_spell("haste");
-  add_spell("enlarge", 13);
-  add_spell("clone");
-  add_spell("darkness", 3);
-  add_spell("clairvoyance", 5);
-  add_spell("faerie fire", 3);
-  add_spell("dark vision", 5);
-  add_spell("blur", 12);
-  add_spell("living weapon", 4);
-  add_spell("mirror image", 16);
-  add_spell("lesser plasma blade");
-  add_spell("greater plasma blade");
-  add_spell("mad rage",13);
+
+//level3	
+	add_spell("faerie fire", 3);
+    add_spell("darkness", 3);
+    add_spell("magic missile", 3);  
+    add_spell("light", 3);
+//level4
+	add_spell("living weapon", 4);
+//level5
+	add_spell("dark vision", 5);
+	add_spell("power word, stun", 5);	//New addition
+//level6
+	add_spell("lesser plasma blade"); 
+//level7
+
+//level8
+    add_spell("killing cloud", 8, 1);
+	add_spell("power word, blind", 8);  //new
+//level10
+
+//level1
+	add_spell("haste", 11);
+
+//level12
+
+	  add_spell("blur", 12);
+//level13
+	add_spell("enlarge", 13);
+	add_spell("mad rage",13);
+	//add_spell("clone");			//Broken
+  //add_spell("mirror image", 16);	//Broken
+ //level14
+   //add_spell("fire shield", 14);  //replaced with plasma shield
+ //level15
+   add_spell("seeking blade", 15);  //new
   add_spell("invisibility", 15);
-  add_spell("summon", 15);
-  add_spell("transport", 17);
-  add_spell("teleport", 17, 1);
-  add_spell("create teleport beacon", 17, 1);
-  add_spell("fire shield", 14);
-  add_spell("banshee blade", 20);
-  add_spell("blizzard", 21);
-  add_spell("meteor storm", 28);
+
+//level16
+  add_spell("greater plasma blade", 16);
+//level17
+  add_spell("teleport", 17);
+  add_spell("create teleport beacon", 17);
+
+//level18
+	add_spell("power word, hurt", 8);
+//level20
+  add_spell("banshee blade", 45);
+
+//level21
+
+//level26
+add_spell("greater seeking blade", 26); //new
+
+//NEW
+    add_spell("lesser arcane blade", 3);
+    add_spell("greater arcane blade", 15);
+    add_spell("pure arcane blade", 25);
+
+    add_spell("plasma bolt", 4);
+    add_spell("plasma ball", 14);
+    add_spell("plasma hail", 16);
+    add_spell("plasma shield", 14);
+    add_spell("plasma burst", 32);
+
+    add_spell("sword shield", 8);
+    add_spell("bludgeon shield", 12);
+    add_spell("invulnerable shell", 35);
+    add_spell("combat twin", 40);
+    add_spell("ultimate plasma blade", 38);
+
   return;
 }
 

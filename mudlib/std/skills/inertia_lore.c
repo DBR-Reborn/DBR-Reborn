@@ -5,4 +5,5 @@ void create() {
     set_property("element", "inertia");
     set_dev_cost(15);
     set_fast_dev_cost(45);
+    set_property("prereq", "earth lore");
 }

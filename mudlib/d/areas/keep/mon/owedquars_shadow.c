@@ -22,7 +22,7 @@ g = 0;
 d = c;
 set_name("owedquar's shadow");
 set_level(100);
-add_money("mithril", 2500);
+add_money("mithril", 1500);
 add_money("gold", 10000);
 set_hp(65535);
 set_max_hp(65535);

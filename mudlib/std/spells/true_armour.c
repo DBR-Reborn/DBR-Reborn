@@ -19,7 +19,7 @@ void create() {
     set_property("spell type",({ }));
     set_property("target type", "any");
     set_property("must be present", 1);
-    //set_property("prereq", "major fortification");
+    set_property("prereq", "major fortification");
     return;
 }
 
@@ -38,6 +38,7 @@ this_player());
 void spell_func(object caster, object at, int power, string args, int flag) {
   int mult, time, mod;
   int ctime;
+  mixed val;
   
   if(!at->is_armour()) {
     message("info", "You must cast this spell at a piece of armour.",
@@ -46,13 +47,19 @@ void spell_func(object caster, object at, int power, string args, int flag) {
     remove();
     return;
   }
+//TLNY2025 removed shatter add lose HP and MP
   if(flag) {
-    message("info", "You misdirect the summoning energies and shatter "+
-	    "the armour!", caster);
-    message("info", (string)caster->query_cap_name() +
-	    " inadvertently shatters the armour.",
-	    environment(caster), ({ caster }) );
-    at->remove();
+message("info", "A surge of energy crackles around you... but suddenly, something goes horribly wrong! You feel a wave of weakness wash over you as you lose half your HP and MP and fill the item with useless energy!", caster);
+    caster->add_mp(-1*(int)caster->query_mp() / 2);
+    caster->add_hp(-1*(int)caster->query_hp() / 2);
+
+  val = (mixed)at->query_property("extra long");
+  if(!val) val = ({});
+  else if(stringp(val)) val = ({ val });
+  val += ({ ({ "This armour has %^ORANGE%^Fumbled! %^BLUE%^%^BOLD%^True Armour%^RESET%^." ,
+      "detect magic" }) });
+    at->set_property("extra long", val);
+    at->set_property("true armour", 1);
     remove();
     return;
   }

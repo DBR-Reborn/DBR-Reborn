@@ -2,7 +2,7 @@
 //	DarkeLIB 0.1
 //	-Diewarzau 8/8/95
 
-inherit "/std/locker_room.c";
+inherit "/std/save_room.c";
 
 void create() {
 
@@ -24,9 +24,9 @@ void create() {
 
     set_exits( ({ "/wizards/honspron/workroom.c"}), ({"west"}) );
     
-    if(!present("forge")) {
+    /*if(!present("forge")) {
 	 new("/wizards/diewarzau/obj/misc/greater_forge") ->move(this_object());
-	}
+	}*/
 
   
   return;

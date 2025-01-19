@@ -289,3 +289,4 @@ string *query_edit_ok() {
 }
 
 void clean_up() { return; }
+

@@ -103,7 +103,7 @@ ob = new(OBJ+"dwarven_boots.c")->move(this_object());
     break;
     }
     money=new("std/obj/coins");
-    money->set_money("gold",(random(50)+20));
+    money->set_money("gold",(random(zlevel)+20));
     money->move(this_object());
 }
 

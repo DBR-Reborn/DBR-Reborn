@@ -121,7 +121,7 @@ void create() {
     set_skill("dodge", 11*zlevel);
     set_skill("block", 11*zlevel);
 
-    set_skill("whirlwind attack", 11*zlevel);
+    set_skill("combo", 11*zlevel);
     set_skill("reverse stroke", 11*zlevel);
     set_skill("perception", 11*zlevel);
 

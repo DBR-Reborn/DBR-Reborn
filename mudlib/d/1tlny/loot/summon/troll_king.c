@@ -15,6 +15,7 @@ zlevel=(50+random(10));
   set_attack(1);
   set_carry(1);
   set_save(0);
+set_property("no save", 1);
   set_short("["+zlevel+"]Troll King");
   set_long("This is the embodyment of the Troll King Himself.");
   set_aggr_status(0);

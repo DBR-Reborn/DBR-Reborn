@@ -98,7 +98,7 @@ set_name("dragon");
   set_attack(1);
   set_can_change_aggr(1);
   set_carry(1);
-  set_save(0);
+  set_property("no save", 1);
   set_aggr_status(0);
 
    set("gang bang", 1);
@@ -135,7 +135,7 @@ set_name("dragon");
     set_skill("dodge", zskillx*zlevel+random(zlevel));
     set_skill("block", zskillx*zlevel+random(zlevel));
 
-    set_skill("whirlwind attack", zskillx*zlevel+random(zlevel));
+    set_skill("combo", zskillx*zlevel+random(zlevel));
     set_skill("reverse stroke", zskillx*zlevel+random(zlevel));
     set_skill("perception", zskillx*zlevel+random(zlevel));
 
@@ -448,10 +448,11 @@ break;
 
 switch(random(100)){
     case 77:
-message("info","%^COLOR222%^A extra ingot drops on the corpse you should probably LOOK at corpse and get it%^RESET%^", environment(this_object()), this_object());
+message("info","%^COLOR222%^A ingot drops on the corpse you should probably LOOK at corpse and get it%^RESET%^", environment(this_object()), this_object());
  ob = new("/std/diewarzau/obj/misc/ingot");
     ob->set_material("metal/"+mtlname);
-    ob->set_weight(20+random(zlevel));
+    ob->set_value((2*zlevel)+random(zlevel));
+    ob->set_weight((2*zlevel)+random(zlevel));
    ob->move(this_object());
 }
 

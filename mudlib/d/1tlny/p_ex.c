@@ -26,6 +26,7 @@ int zlevel;
   set_can_change_aggr(0);
   set_carry(0);
   set_save(0);
+set_property("no save", 1);
   set_aggr_status(0);
 
 

@@ -16,7 +16,7 @@ void init() {
 void reset() {
     ::reset();
     if(check_peasant()<7) {
-      new("/wizards/khojem/nomad/mon/peasant")->move(this_object());
+      new("/d/khojem/nomad/mon/peasant")->move(this_object());
     }      
 }
 
@@ -41,7 +41,7 @@ void create() {
       "floor of this huge tent.  Children and dogs run wild through the large "+
       "space.\n"
     );
-    add_exit("/wizards/khojem/nomad/camp/tent1","southeast");
+    add_exit("/d/khojem/nomad/camp/tent1","southeast");
     set_items(([
      ({ "tent" }) :  
         "The tent has a low-pitch roof and is trussed with some timber bracing along "+
@@ -66,8 +66,8 @@ void create() {
     set_search("sheets",   (: call_other, this_object(),"do_search" :));
     set_smell("default", "A musty smell fills the tent.");
     set_listen("default", "It is quieter here than out in the camp's center.");
-    obj2=new("/wizards/khojem/nomad/obj/dirty_laundry");
-    obj=new("/wizards/khojem/nomad/obj/basket");
+    obj2=new("/d/khojem/nomad/obj/dirty_laundry");
+    obj=new("/d/khojem/nomad/obj/basket");
     obj->move(this_object());
     obj2->move(obj);
     obj->toggle_closed();
@@ -82,7 +82,7 @@ int check_peasant() {
 }
 
 int my_peasant_filter(object mob) {
-  if(base_name(mob) == "/wizards/khojem/nomad/mon/peasant")  
+  if(base_name(mob) == "/d/khojem/nomad/mon/peasant")  
     return 1;                                        
   return 0;
 }                                      

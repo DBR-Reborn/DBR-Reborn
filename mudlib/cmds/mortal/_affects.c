@@ -6,6 +6,8 @@
 int cmd_affects(string str) {
     string *list, temp;
     int i;
+
+
     if(temp = this_player()->query_shadows()) {
         list = explode(temp, ",");
     }
@@ -17,8 +19,11 @@ int cmd_affects(string str) {
     message("info", "%^WHITE%^%^BOLD%^Currently Affecting you:\n%^RED%^"+repeat_string("-", 65),this_player());
     this_player()->more(explode(format_page(list, 2),"\n"));
     message("info", "%^RED%^%^BOLD%^"+repeat_string("-", 65),this_player());
+
+write("Shadows: " + temp + "\n");
     return 1;
 }
+
 
 void help() {
     message("help","This command allows you to see what spells are currently affecting you.\nSyntax: affects.", this_player());

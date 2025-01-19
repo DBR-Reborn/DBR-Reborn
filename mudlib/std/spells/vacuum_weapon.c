@@ -58,7 +58,7 @@ void spell_func(object caster, object at, int power, string args, int flag) {
     remove();
     return;
   }
-  if((int)at->query_property("vacuum weapon") >= 25 ) {
+  if((int)at->query_property("vacuum weapon") >= 60 ) {
     message("info", "This weapon can receive no more vacuum weapon spells.", caster);
     caster->add_mp(props["mp cost"]);
     remove();
@@ -105,7 +105,7 @@ at->set_property("vacuum weapon", ench +1);
     ench = (int)at->query_wc("vacuum");
     if(!ench) ench = power;
     else ench += power;
-    at->set_wc(((20*power)+ench)/2+(caster->query_level()/2), "vacuum");
+    at->set_wc(((7*power)+ench)+(caster->query_level()/2), "vacuum");
     caster->add_exp2(1200*power);
 /*
     at->set_property("vacuum weapon", ench + 1);

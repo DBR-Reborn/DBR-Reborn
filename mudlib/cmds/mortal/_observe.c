@@ -19,13 +19,7 @@ mixed cmd_observe(string str){
   room = environment(this_player());
   path = file_name(room);
   grid = allocate(100);
-  room_path = "";
-  if (sscanf(path,"/d/damned/virtual/room_%d_%d.world",Bx,By)) {
-    room_path = "/d/damned/virtual/room_"+xline+"_"+yline+".world";
-  } else if (sscanf(path,"/d/nocte/kuril/virtual/room_%d_%d.world",Bx,By)) {
-    room_path = "/d/nocte/kuril/virtual/room_"+xline+"_"+yline+".world";
-  }
-  if(room_path != ""){                 
+  if(sscanf(path,"/d/damned/virtual/room_%d_%d.world",Bx,By)){                 
     yline = (By-10);
     if(yline < 0)
        yline = 100 + yline;
@@ -44,7 +38,8 @@ mixed cmd_observe(string str){
            if(xline == 100)
             xline = 0;
               if( (xline >=0 && xline <=100 )&&(yline >= 0 && yline <= 100)){
-                room = find_object_or_load(room_path);
+                room = find_object_or_load("/d/damned/virtual/room_"+
+                       xline+"_"+yline+".world");
                 inv = all_inventory(room);
                 targets = filter_array(inv,"query_boat");
                 landtype = (room->query_water());

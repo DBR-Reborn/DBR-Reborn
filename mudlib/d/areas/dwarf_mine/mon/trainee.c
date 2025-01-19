@@ -38,6 +38,6 @@ case 2:new("/d/damned/virtual/hand-axe_5.weapon")->move(this_object());
       break;
 }
     money=new("std/obj/coins");
-    money->set_money("gold",(random(10)+10));
+    money->set_money("gold",(random(zlevel)+10));
     money->move(this_object());
 }

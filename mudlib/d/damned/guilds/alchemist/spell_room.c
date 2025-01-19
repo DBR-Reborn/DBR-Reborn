@@ -47,6 +47,7 @@ powerful spells.");
 //Missing spell    //add_spell("etheral form", 10);  
     add_spell("activate stone", 11);
     add_spell("speed", 11);
+    add_spell("mana drain");
     add_spell("magic leach", 12);
     add_spell("destroy pattern", 13);
     add_spell("major life", 14);

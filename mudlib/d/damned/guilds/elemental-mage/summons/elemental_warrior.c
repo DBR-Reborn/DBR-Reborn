@@ -9,6 +9,7 @@ void create() {
     set_attack(1);
     set_carry(0);
     set_save(0);
+set_property("no save", 1);
     set_level(30);
     set_short("A swift elemental warrior");
     set_long("This average sized elemental appears to be extremely nimble, standing only five feet tall but motioning its glowing body with the speed and fluency of a master martial artist. It forever serves its summoner and will give its very life for his or her cause."); 

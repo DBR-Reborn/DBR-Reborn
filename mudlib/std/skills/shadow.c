@@ -7,7 +7,7 @@ void create() {
     set_fast_dev_cost(77);
     set_property("target type", "living");
     set_property("must be present" , 1);
-    set_property("prereq", "invisibility art");
+    set_property("prereq", "stalk");
 }
 
 void info() {

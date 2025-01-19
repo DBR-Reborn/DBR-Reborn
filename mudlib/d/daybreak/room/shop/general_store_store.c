@@ -105,6 +105,8 @@ void clone_once() {
       ob->move(this_object());
       ob = new("/std/obj/lantern");
       ob->move(this_object());
+      ob = new("/std/obj/bag_of_holding");
+      ob->move(this_object());
     }
   }
   return;

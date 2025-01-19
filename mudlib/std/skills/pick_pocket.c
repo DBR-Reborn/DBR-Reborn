@@ -24,6 +24,19 @@ this_player());
 void skill_func(object from, object at, string arg) {
   int res, *tmp, bonus;
 
+//ADD
+/*
+  if((time() - (int)from->query_last_use("pickpocket")) < 2)
+    {
+    message("info", "You are too tired to use this skill yet.", from);
+    remove();
+    return;
+  }
+
+  from->set_last_use("pickpocket");
+*/
+//END
+
   if(environment(from) && environment(from)->query_property("no steal")) {
     message("my_action", "Divine forces prevent your action.", from);
     remove();
@@ -64,12 +77,18 @@ void do_steal(int res, object *obs) {
   }
   from = obs[0];
   at = obs[1];
+//ADD TLNY2024 string or object for 0 fix
   from->set("pick pocket", 0);
+  if (at == 0) {
+      remove();
+      return;
+  }
   if(!present(at, environment(from))) {
     remove_call_out("do_steal");
     remove();
     return;
   }
+//END
   if(res == 2 || res == 0) {
     message("my_action", "%^RED%^You're BUSTED!!!%^RESET%^\n"+
 	    (string)at->query_cap_name()+ " angrily attacks you!",

@@ -10,7 +10,7 @@ void reset() {
     ::reset();
     if(!present("cursed"))
     {
-	i = random(2)+1;
+	i = random(4)+2;
 	while(i--)
 	{
 	    new(MON+"cursed_dragon")->move(this_object());
@@ -98,3 +98,10 @@ set_exits( ([
 #endif
   ]) );
 }
+
+void init() {
+  ::init();
+  call_out("reset",10,!present("cursed"));
+  return;
+}
+

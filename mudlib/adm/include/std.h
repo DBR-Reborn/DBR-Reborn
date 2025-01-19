@@ -23,6 +23,6 @@
 
 #define QUARRY "/d/areas/quarry/"
 
-#define DAMAGE_TYPES ({ "crushing", "cutting", "impaling", "strike", "impact", "stress", "fire", "cold",  "vacuum", "electricity",  "disruption", "plasma", "holy", "unholy",    "infernal", "aether",})
+#define DAMAGE_TYPES ({ "crushing", "cutting", "impaling", "strike", "impact", "stress", "fire", "cold",  "vacuum", "electricity",  "disruption", "reflection", "time", "acid", "plasma", "holy", "unholy", "infernal", "aether" })
 
-//"depression", "time", "acid",
+//"depression",

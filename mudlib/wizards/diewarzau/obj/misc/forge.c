@@ -7,7 +7,7 @@ inherit "/std/locker_logic";
 
 void create() {
   ::create();
-  set_property("no save", 1);
+  //set_property("no save", 1);
   set_id( ({ "forge" }) );
   set_name("forge");
   set_short("A forge");

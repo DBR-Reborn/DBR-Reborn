@@ -39,6 +39,7 @@ int cmd_reinc(string str) {
   who->remove_property("dev cost");
   who->remove_property("xp mod");
   who->remove_property("magic resistance");
+  who->remove_property("stat_points");
 //END
   
   who->reset_quests();
@@ -74,14 +75,16 @@ int cmd_reinc(string str) {
   lev = (int)who->query_level();
   if(lev < 1) lev = 1;
 
-  who->set_property("old exp", (int)ADVANCE_D->get_exp(lev) + 150);
+    //who->set_property("old exp", (int)ADVANCE_D->get_exp(lev) + 150);
+//ADD //TLNY2025 Keep original EXP for the level
+who->set_property("old exp", (int)ADVANCE_D->get_exp(lev) + (who->query_exp() - (int)ADVANCE_D->get_exp(who->query_level())));
+//END
   who->set_level(1);
   who->add_exp(-1 * (int)who->query_exp());
   who->reset_max_exp();
   who->move_player("/d/standard/setterreinc", 0);
   seteuid(UID_LOG);
-  log_file("reinc", sprintf("FREE reinc: %s to %s on %s.\n",
-(string)previous_object()->query_name(), (string)who->query_name(), ctime(time())));
+  //log_file("reinc", sprintf("FREE reinc: %s to %s on %s.\n", (string)previous_object()->query_name(), (string)who->query_name(), ctime(time())));
   message("info", "%^CYAN%^%^BOLD%^You have been reincarnated!",who);
   message("info",
   "\n     You may re-create your character now.  Afterward, you may "
@@ -114,11 +117,13 @@ set("short", "Reincarnate Room");
 set("long", @EndText
 Welcome to the Reincarnate Room!
 
-You are here because TLNY put you here. You've been found to possess skills, spells, or other abilities that are considered illegal under our current MUD rules and regulations. Your only option is to type %^YELLOW%^'reincarnate'%^RESET%^. If you attempt to leave this room without completing the reincarnation process, TLNY will be informed, and the consequences will be severe.
+You’ve been invited here by TLNY to explore the opportunity for growth and balance in your character's development. It seems you've acquired skills, spells, or abilities that are not in alignment with our updated MUD rules and regulations.
 
-If you believe your presence here is unjust, you may appeal your case directly to TLNY. However, be warned: if your appeal fails, you will waste my time—and I will waste yours. You will lose levels and be forced to reincarnate based on the duration of your appeal process.
+To embrace a fresh start and optimize your journey, simply type '%^YELLOW%^reincarnate%^RESET%^'. This process will help you refine your character and enhance your gameplay experience.
 
-Consider this your final warning.
+If you believe there has been a misunderstanding regarding your skills, you’re welcome to appeal your case directly to TLNY. However, please keep in mind that if your appeal is not successful, you may find yourself needing to reincarnate, along with a temporary adjustment to your levels.
+
+This is a chance for you to evolve and create a more balanced character. We appreciate your understanding and cooperation as we strive to maintain a fair and enjoyable environment for all players!
 EndText
 );
 }

@@ -43,6 +43,7 @@ else set_short("[12]pirate");
     add_money("silver", (900+random(99)));
 	set_class("fighter");
 	set_wielding_limbs(({"right hand"}));
+    //set("aggressive",1);
     set("aggressive", (: call_other, this_object(), "no_other_monsters" :));
 	zlevel = random(10);
 	if(zlevel==0){

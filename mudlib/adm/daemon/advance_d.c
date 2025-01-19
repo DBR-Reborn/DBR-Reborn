@@ -19,17 +19,34 @@ int get_exp(int lev) {
     int val;
     float fl_exp, fl_lev;
     
-    fl_lev = (lev > 50)?50.0:to_float(lev);
+    fl_lev = (lev > 500)?500.0:to_float(lev);
     fl_exp = 7.79548 * pow(fl_lev,5.0) - 82.9248 * pow(fl_lev,4.0) +
       186.513 * pow(fl_lev,3.0) + 5660.54 * pow(fl_lev,2.0) -
 	23101.2 * fl_lev + 28145.4;
     val = to_int(fl_exp);
-    if(lev > 50) val += (lev - 50) * (val - get_exp(49));
+
+//ADD //TLNY 2024 Test calculations
+    //if(lev > 400)
+//158349824434022 //LV500
+//86743884302529 //LV 400
+//val = 86743884302529;
+//86743884302529
+//971788318527
+    //val = 6342302224571;
+        //236065498055088
+	//val = 2110000000;
+    //if(lev==1) val = 0;
+    //return val;
+//END
+
+    if(lev > 500) val += (lev - 500) * (val - get_exp(499));
 //TLNY2021 ADD with Exash to make exp more for leveling after level 50
-if (lev > 50) val = val*pow(1.0095, lev-50);
+if (lev > 500) val = val*pow(1.0095, lev-500);
 //if (lev > 150) val = val*pow(0.032, lev-150);
     return val;
 }
+
+
 
 
 int get_stat_cost(int x, int lev) {
@@ -139,9 +156,11 @@ if(tp->query_level() < 35) {
 
 int advance(object who) {
     int dev_pts, spec_pts, new_lev, lev, exp;
-    int adv,s_con,s_str,s_int,s_wis;
+    int adv,s_con,s_str,s_int,s_wis,s_cha;
     int i;
 int no_add_dev;
+int current_stat_points;
+
 no_add_dev = who->query("no add dev");
 if(no_add_dev >= 1) who->set("no add dev", 0);
 
@@ -152,7 +171,9 @@ if(no_add_dev >= 1) who->set("no add dev", 0);
     exp = (int)who->query_exp();
     dev_pts = 0;
     spec_pts = 0;
-    while(get_exp(new_lev) < exp) {
+//TLNY2024 change
+    //while(get_exp(new_lev) < exp) {
+    if(get_exp(new_lev) < exp) {
       dev_pts += (int)who->query_property("dev point base") * new_lev * 2;
       if(new_lev > 10)
         spec_pts += new_lev/4;
@@ -178,12 +199,16 @@ if(who->query_level() < 35) {
 	adv = (int)who->query_property("hp advance");
       else adv = 10;
       s_con = (int)who->query_base_stats("constitution");
-      message("info","Your unmodified constitution:%^CYAN%^  "+s_con+"%^RESET%^", who);
+      //message("info","Your unmodified constitution:%^CYAN%^  "+s_con+"%^RESET%^", who);
       s_str = (int)who->query_base_stats("strength");
-      message("info","Your unmodified strength:%^CYAN%^  "+s_str+"%^RESET%^", who);
-      adv += adv * (s_con - 50) / 100;
+      //message("info","Your unmodified strength:%^CYAN%^  "+s_str+"%^RESET%^", who);
+      s_cha = (int)who->query_base_stats("charisma");
+      //adv += adv * ( s_con - 50) / 100;      
+    adv += (adv * (s_con - 50) / 100) + (adv * (s_str - 60) / 100) + (adv * (s_cha - 60) / 100);
       if(adv < 0) adv = 0;
       who->set_max_hp((int)who->query_max_hp() + adv);
+//TLNY2025 ADD
+    message("info", "You've gained HP: %^BOLD%^%^RED%^" + adv + "%^RESET%^ this level, based on your STR, CON, CHA, and guild.", who);
       adv = (s_con + s_str) / 6;
       for(i = 1; i <= 3; i++) {
 	if(random(100) < adv) {
@@ -196,12 +221,25 @@ if(who->query_level() < 35) {
         adv = (int)who->query_property("mp advance");
       else adv = 10;
       s_int = (int)who->query_base_stats("intelligence");
-      message("info","Your unmodified intelligence:%^CYAN%^  "+s_int+"%^RESET%^", who);
+      //message("info","Your unmodified intelligence:%^CYAN%^  "+s_int+"%^RESET%^", who);
       s_wis = (int)who->query_base_stats("wisdom");
-      message("info","Your unmodified wisdom:%^CYAN%^  "+s_wis+"%^RESET%^", who);
-      adv += adv * ( s_int - 50) / 100;
+      //message("info","Your unmodified wisdom:%^CYAN%^  "+s_wis+"%^RESET%^", who);
+      s_cha = (int)who->query_base_stats("charisma");
+      //adv += adv * ( s_int - 50) / 100;
+      adv += (adv * (s_int - 50) / 100) + (adv * (s_wis - 60) / 100) + (adv * (s_cha - 60) / 100);
       if(adv < 0) adv = 0;
       who->set_max_mp((int)who->query_max_mp() + adv);
+//TLNY2025 ADD
+message("info", "You've gained MP: %^BOLD%^%^BLUE%^" + adv + "%^RESET%^ this level, based on your INT, WIS, CHA, and guild.", who);
+
+//ADD
+// Increment stat points upon leveling up
+current_stat_points = (int)who->query_property("stat_points");
+current_stat_points += 1; // Give 1 stat point per level
+who->set_property("stat_points", current_stat_points); // Update the property
+
+message("info", "You now have %^YELLOW%^" + current_stat_points + "%^RESET%^ stat points to spend. See 'help levelup' for more details", who);
+//END
       adv = (s_wis + s_int) / 6;
       for(i = 1; i <= 3; i++) {
         if(random(100) < adv) {

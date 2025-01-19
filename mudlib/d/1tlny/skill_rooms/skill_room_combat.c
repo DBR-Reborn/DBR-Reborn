@@ -34,6 +34,7 @@ add_skill("block", 1);
 add_skill("blunt", 1);
 add_skill("body block", 1);
 add_skill("combat awareness", 1);
+add_skill("combo", 1);  //Whirlwind
 add_skill("dodge", 1);
 add_skill("dual attack", 1);
 add_skill("flail", 1);

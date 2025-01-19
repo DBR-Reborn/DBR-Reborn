@@ -174,8 +174,8 @@ ext);
     set_spell_level("disruption bolt", 6);
     add_spell("chaos ball", "$A");
     set_spell_level("chaos ball", 6);
-    add_spell("chaos storm", "$A");
-    set_spell_level("chaos storm", 6);
+    //add_spell("chaos storm", "$A");
+    //set_spell_level("chaos storm", 6);
 
 /*
    set_skill("body alteration", zspell*zlevel);
@@ -555,10 +555,11 @@ message("info","%^BLACK%^%^B_YELLOW%^Somthing drops on the corpse you should pro
 
 switch(random(100)){
     case 44:
-message("info","%^COLOR222%^A extra ingot drops on the corpse you should probably LOOK at corpse and get it%^RESET%^", environment(this_object()), this_object());
+message("info","%^COLOR222%^A ingot drops on the corpse you should probably LOOK at corpse and get it%^RESET%^", environment(this_object()), this_object());
  ob = new("/std/diewarzau/obj/misc/ingot");
     ob->set_material("metal/"+mtlname);
-    ob->set_weight(20+random(zlevel));
+    ob->set_value((2*zlevel)+random(zlevel));
+    ob->set_weight((2*zlevel)+random(zlevel));
    ob->move(this_object());
 }
 switch(random(100)){

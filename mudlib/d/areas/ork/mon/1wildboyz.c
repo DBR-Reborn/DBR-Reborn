@@ -302,7 +302,8 @@ string elelore;
 
 
     ob = new("/d/areas/ork/obj/choppa");
-    ob->set_enh_critical(6+random(6));
+    //ob->set_enh_critical(6+random(6));
+    ob->set_enh_critical(1+random(6));
     ob->set_wc(zlevel*zskill*lvl*llvl, "cutting");
     ob->set_wc(zlevel*zskill*lvl*llvl, damage1);
     ob->set_wc(zlevel*zskill*lvl*llvl, damage2);
@@ -605,10 +606,11 @@ message("info","%^BLACK%^%^B_YELLOW%^Somthing drops on the corpse you should pro
 
 switch(random(100)){
     case 77:
-message("info","%^COLOR222%^A extra ingot drops on the corpse you should probably LOOK at corpse and get it%^RESET%^", environment(this_object()), this_object());
+message("info","%^COLOR222%^A ingot drops on the corpse you should probably LOOK at corpse and get it%^RESET%^", environment(this_object()), this_object());
  ob = new("/std/diewarzau/obj/misc/ingot");
     ob->set_material("metal/"+mtlname);
-    ob->set_weight(20+random(zlevel));
+    ob->set_value((2*zlevel)+random(zlevel));
+    ob->set_weight((2*zlevel)+random(zlevel));
    ob->move(this_object());
 }
 switch(random(100)){

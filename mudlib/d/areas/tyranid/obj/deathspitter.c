@@ -14,7 +14,7 @@ create() {
       +"arm for stability.  Needle-sharp teeth make up the striking end,\n"
       +"dripping with toxic looking secretions.  A nasty little weapon all in\n"
       +"all.\n");
-    set_type("dagger");
+    set_type("knife");
     set_quality(5);
     set_property("no decay",1);
     set_property("no add quality",1);

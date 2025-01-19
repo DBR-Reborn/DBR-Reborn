@@ -35,7 +35,7 @@ void spell_func(object caster, object at, int power, string args, int flag) {
   if(flag) {
     message("info", "Despite the fumble, you seem okay.", caster);
     caster->set("teleport beacon",
-      ([ "room" : "/wizards/diewarzau/room/warp",
+      ([ "room" : "/std/room/warp",
           "power" : power, "time" : time() ]) );
     remove();
     return;

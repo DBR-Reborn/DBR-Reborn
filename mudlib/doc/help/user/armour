@@ -18,7 +18,7 @@ hooded-cloak (L)            leather-belt (L)
 leather-jacket (L)          leather-vest (L)
 robe (L)                    scale-mail (M)
 studded-leather-jacket (L)  studded-leather-vest (L)
-tabard (L)                  wooden-armour (W)
+tabard (L)                  wood-armour (W)
 wood-plate (W)      
 
 ARM
@@ -42,7 +42,7 @@ taces (M)                   wood-leg-guards (W)
 FEET
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 leather-boots (L)           metal-boots (M)
-stumps (W)
+stumps (W)                  chain-boots (M)
 
 SHIELD - (M)etal or (W)ood
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -53,6 +53,6 @@ wall-shield
 WINGS
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 cloth-wing-guards (L)           leather-wing-guards (L)
-wooden-wing-guards (W)		    wing-guards (M)
+wood-wing-guards (W)		    wing-guards (M)
 
 **Other types may come up soon, so keep watching. Some hidden arts are not even listed.

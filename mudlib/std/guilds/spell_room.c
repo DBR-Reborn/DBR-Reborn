@@ -293,14 +293,41 @@ int dev_cost(object who, string skill) {
   if(!file_exists(file)) return 0;
   file = replace_string(file, ".c", "");
   times = who->query_spell_dev_times(skill, (int)who->query_level());
-  if(!times) cost = (mult * spell_lev * (int)file->query_property("dev cost"));
-  else cost = (spell_lev * mult * times * (int)file->query_property(
-	       "fast dev cost"));
-  if(subt < 0) cost += subt;
+  //if(!times) cost = (mult * spell_lev * (int)file->query_property("dev cost"));
+if(times == 0) times = 1;
+cost = (mult * (spell_lev) * times * (int)file->query_property("dev cost"));
+  //else cost = (spell_lev * mult * times * (int)file->query_property("fast dev cost"));
+  //if(subt < 0) cost += subt;
+  if(subt < 0) cost += (cost/(subt-1));
   if(cost < 1) cost = 1;
+if(spell_lev >= 7) cost = 0;
   return cost;
 }
+//ADD
+int prereq_check(object who, string str)
+{
+    object spell;
+    string prereq;
 
+    // Attempt to find the spell object
+    spell = find_object("/std/spells/" + replace_string(str, " ", "_"));
+
+    // Check if the spell object was found
+    if (!spell) return 1; // Handle the case where the spell doesn't exist
+
+    // Now check for the "prereq" property
+    prereq = spell->query_property("prereq");
+
+    // Check if prereq is valid before proceeding
+    if (!prereq) return 1;
+
+    if (who->query_spell_level(str) >= who->query_spell_level(prereq)) 
+        return 0;
+    else 
+        return 1;
+}
+//END
+/*
 int prereq_check(object who, string str)
 {
 object spell;
@@ -311,6 +338,7 @@ if(!prereq = spell->query_property("prereq")) return 1;
 if(who->query_spell_level(str) >= who->query_spell_level(prereq)) return 0;
 else return 1;
 }
+*/
 
 string *query_all_spells() {
   if(!skill_list) return ({});

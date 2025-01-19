@@ -5,7 +5,7 @@ void create() {
     ::create();
     set_property("name","banshee blade");
     set_property("skill","magery");
-    set_property("casting time",12);
+    set_property("casting time",8);
     set_property("base mp cost",75);
     set_property("dev cost",94);
     set_property("fast dev cost",195);

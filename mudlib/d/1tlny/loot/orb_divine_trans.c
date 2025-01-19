@@ -14,10 +14,11 @@ void create() {
     ::create();
     set_name("glass orb");
     set_id(({ "orb", "glowing orb" }));
-    set_short("A %^BOLD%^%^BLACK%^glowing%^RESET%^ orb");
+    set_short("A %^BOLD%^%^COLOR230%^glowing%^RESET%^ orb");
     set_long("This is a perfectly spherical glowing orb approximately nine inches in diameter. it appears like nothing but maybe if you did the commad %^YELLOW%^'orb divine'%^RESET%^ somthing might happen\n");
     set_weight(10);
     set_value(1);
+    set_property("no steal", 1);
     return;
 }
 

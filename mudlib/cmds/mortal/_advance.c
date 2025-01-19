@@ -1,7 +1,3 @@
-//    Advance command to be used with reincarnation.
-//
-//    DarkeLIB 1.0
-//    -Diewarzau 1/15/96
 #include <daemons.h>
 #include <security.h>
 
@@ -23,11 +19,14 @@ int cmd_advance(string null) {
   }
   bank -= exp;
   tmp = (int)this_player()->query_property("xp mod");
-  this_player()->set("no add dev", 1);
-  seteuid(UID_ROOT);
+//add TLNY2025
+  this_player()->set_property("xp mod", 0);
+//end
+  //this_player()->set("no add dev", 1);
+  //seteuid(UID_ROOT);
   this_player()->override_add_exp(exp);
-  seteuid(getuid());
-  this_player()->set("no add dev", 0);
+  //seteuid(getuid());
+  //this_player()->set("no add dev", 0);
   this_player()->add_dev(exp / 4000);
 
 //Added by drizzt to cover intra lvl dev
@@ -50,8 +49,13 @@ int cmd_advance(string null) {
          (int)this_player()->query_exp() + 10;
   bank = (int)this_player()->query_property("old exp"); 
   if(!bank || bank < exp) {
+//ADD TLNY2025
+ this_player()->add_dev(bank / 4000);
+  //this_player()->set_level((int)this_player()->query_level());
+//END
     this_player()->override_add_exp(bank);
     this_player()->set_property("old exp", 0);
+this_player()->set_level((int)this_player()->query_level());
   }
 //Added by Drizzt to fix the dev pt thingy bug
   this_player()->reset_max_exp();

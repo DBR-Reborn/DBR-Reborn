@@ -21,6 +21,8 @@ void reset() {
 	if(!present("warrior")) {
 	new(MON+"twarrior.c")->move(this_object());
 	new(MON+"phorror.c")->move(this_object());
+	new(MON+"phorror.c")->move(this_object());
+	new(MON+"phorror.c")->move(this_object());
 	new(MON+"twarrior.c")->move(this_object());
 	new(MON+"twarrior.c")->move(this_object());
 	new(OBJ+"body.c")->move(this_object());
