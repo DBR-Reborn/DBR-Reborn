@@ -65,7 +65,7 @@ void skill_func(object from, object at) {
     }
   }
 */
-  if(at->query_wield()) {
+  if(at->query_wielded()) {
   	message("info","You must unwield that weapon to work on it.",from);
   	remove();
   	return;
